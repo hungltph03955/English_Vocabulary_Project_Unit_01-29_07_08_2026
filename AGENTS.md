@@ -1,0 +1,202 @@
+# English Vocabulary Project - Agent Operating Manual
+
+Date created: 2026-08-07
+Current scope: Unit 01-29
+
+This file is the mandatory entry point for every Codex session in this project.
+
+Conversation history is not the source of truth. Project files are the source of
+truth. The agent must load the project files before generating, grading, or
+updating any quiz.
+
+## 1. Mandatory Startup Checklist
+
+Before generating any quiz, the agent must complete this checklist:
+
+- Read `AGENTS.md`.
+- Read `HANDOFF.md`.
+- Read `ROTATION_STATE.md`.
+- Read the latest `RECOVERY_PRIORITIES_*.md`.
+- Read the latest `WORD_FORMATION_ADDENDUM_*.md`.
+- Read `VOCABULARY_STATE.csv`.
+- Read recent quiz history files.
+- Detect today's local date.
+- Determine weekday and whether today is the last Friday of the month.
+- Select the quiz type from the schedule below.
+
+If any required file is missing, stop and report the missing file. Do not
+generate a quiz from memory.
+
+## 2. Required Reading Order
+
+Use this order at the start of every quiz session:
+
+1. `AGENTS.md`
+2. `HANDOFF.md`
+3. `ROTATION_STATE.md`
+4. latest `RECOVERY_PRIORITIES_*.md`
+5. latest `WORD_FORMATION_ADDENDUM_*.md`
+6. `VOCABULARY_STATE.csv`
+7. latest `QUIZ_HISTORY_*.md`
+8. monthly reports if the task touches cumulative performance
+
+Only after this sequence may the agent generate a quiz.
+
+## 3. Quiz Schedule Rules
+
+Monday through Thursday:
+
+- Daily Quick
+- 12 questions
+- Recovery-heavy, with some due words and current unit coverage
+
+Every Friday:
+
+- Weekly Quick
+- 30 questions
+- Broad weekly rotation, not only the newest unit
+
+Last Friday of each month:
+
+- Monthly Quick / Cumulative Test
+- 50 questions
+- Replaces the normal Weekly Quick
+- Covers the whole active vocabulary bank
+
+Important date rule:
+
+- Never generate a Daily Quick on Friday.
+- Never generate a Weekly Quick on the last Friday of the month.
+- Always state the exact date used for the decision.
+
+## 4. Quiz Generation Priority
+
+Never choose questions randomly. Select questions in this order:
+
+1. Recovery
+2. Due words
+3. Current unit coverage
+4. Unit Tour
+5. Topic Tour
+6. Cooldown and long-unseen terms
+
+Avoid repeating the exact same sentence from recent quizzes unless it is an
+intentional Recovery check.
+
+## 5. Daily Quick Structure
+
+Default Daily Quick structure:
+
+- 4-6 Recovery questions
+- 3-4 current unit questions
+- 1-2 due or older unit questions
+- 1-2 Unit Tour / Topic Tour / cooldown checks
+
+Adjust within 12 questions based on `ROTATION_STATE.md`.
+
+## 6. Weekly Quick Structure
+
+Default Weekly Quick structure:
+
+- 7-9 Recovery questions
+- 5-6 due or cooldown checks
+- 6-8 current/new unit questions
+- 4-5 recent unit review questions
+- 2-4 Unit Tour / Topic Tour / word-family questions
+
+For Friday 2026-08-07 specifically, generate a Weekly Quick with 30 questions.
+It is not the last Friday of August 2026.
+
+## 7. Monthly Quick Structure
+
+Default Monthly Quick structure:
+
+- 50 questions
+- Whole active vocabulary bank
+- Recovery plus rotation plus word families
+- Include prefix traps, collocations, context selection, and older unseen words
+
+After grading a Monthly Quick, create or update the monthly report and reset the
+next month rotation priorities.
+
+## 8. Scoring Rules
+
+The learner may answer with uncertainty:
+
+Examples:
+
+- `2?`
+- `2? because ...`
+- `1B 2? 3C`
+
+Grade these separately:
+
+- final answer
+- reasoning
+- confidence
+
+Report:
+
+- score
+- correct answers
+- correct but uncertain answers
+- wrong answers
+- recovery additions
+- cooldown changes
+
+Correct answers marked with `?` stay on light watch until demonstrated again.
+
+## 9. Recovery Rules
+
+Recovery has the highest priority.
+
+Words remain in Recovery until the learner demonstrates stable understanding in
+context. Do not remove a word from Recovery after only one correct answer if the
+answer was uncertain or the term has repeated confusion.
+
+Recovery priority should decrease gradually:
+
+- P1: must appear early and repeatedly
+- P2: include soon, but not every quiz
+- P3 / cooldown: occasional checks only
+
+## 10. Update Workflow
+
+When the user says `update` or uploads a new vocabulary file:
+
+1. Read `AGENTS.md`.
+2. Read current state files.
+3. Read the newly uploaded source/addendum.
+4. Merge vocabulary by lemma/unit/context.
+5. Add the new unit or terms.
+6. Update `VOCABULARY_STATE.csv`.
+7. Update `WORD_FORMATION_ADDENDUM_*.md`.
+8. Update `ROTATION_STATE.md`.
+9. Update the latest recovery file if needed.
+10. Do not overwrite the whole vocabulary bank with a patch.
+
+## 11. End-of-Session Checklist
+
+After every graded quiz:
+
+- Update score and quiz history.
+- Update Recovery.
+- Update Cooldown.
+- Update Rotation.
+- Update current unit state.
+- Record uncertain answers.
+- Save the updated project state.
+
+## 12. Things Never To Do
+
+- Never generate a quiz before completing Startup.
+- Never rely on chat history as the source of truth.
+- Never skip `AGENTS.md`.
+- Never ignore Recovery.
+- Never randomly choose vocabulary.
+- Never overwrite the vocabulary database with a small patch.
+- Never forget to detect today's date before choosing quiz type.
+- Never generate Daily Quick on Friday.
+- Never generate Weekly Quick on the last Friday of the month.
+- Never repeat yesterday's sentences unless intentionally testing Recovery.
+
