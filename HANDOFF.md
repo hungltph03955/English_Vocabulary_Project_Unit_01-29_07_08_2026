@@ -13,7 +13,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 
 1. `HANDOFF.md`
 2. `ROTATION_STATE.md`
-3. `RECOVERY_PRIORITIES_2026-08-07.md`
+3. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-08-10.md` after the Friday quiz)
 4. `WORD_FORMATION_ADDENDUM_Units_22-29.md`
 5. `VOCABULARY_STATE.csv`
 6. `QUIZ_HISTORY_WEEK_2026-08-03_to_2026-08-07.md`
@@ -28,10 +28,18 @@ Today is Friday 2026-08-07.
 It is not the last Friday of August 2026. The last Friday of August 2026 is
 2026-08-28.
 
-Therefore the correct quiz type for today is:
+Therefore the correct quiz type for today was:
 
 - Weekly Quick
 - 30 questions
+
+This valid Weekly Quick was completed on 2026-08-07 with a score of 23/30.
+
+The next expected quiz is:
+
+- Monday 2026-08-10
+- Daily Quick
+- 12 questions
 
 The 12-question Daily Quick generated earlier on 2026-08-07 was a schedule
 mistake and must not be counted as a valid completed quiz.
@@ -69,6 +77,14 @@ Additional reading vocabulary recently added from Outwork:
 
 Last valid completed quiz:
 
+- Date: Friday 2026-08-07
+- Type: Weekly Quick
+- Recorded result: 23/30
+- Correct but uncertain: none
+- Unanswered/uncertain without final answer: Q5
+
+Previous valid quiz:
+
 - Date: Thursday 2026-08-06
 - Type: Daily Quick
 - Recorded result: 8/12
@@ -87,45 +103,44 @@ Available results for the current week:
 | 2026-08-04 | Daily Quick | 12/12 | `objective` correct but uncertain |
 | 2026-08-05 | Daily Quick | 10/12 | Errors on `objective` and `observant` |
 | 2026-08-06 | Daily Quick | 8/12 recorded | Recovery evidence shows `observant`, `oversleep`, `outburst` issues |
-| 2026-08-07 | Weekly Quick | pending | Must be 30 questions |
+| 2026-08-07 | Weekly Quick | 23/30 | Valid Friday Weekly Quick completed |
 
 ## Current recovery priorities
 
 P1:
 
-- `objective` vs `observant` vs `observable`
-- `outbreak` vs `outburst`
+- `outbreak` vs `outburst`, especially `outburst`
+- `illegible` vs `illiterate`
 
 P2:
 
-- `oversleep`
-- `outspoken`
-- `microaggression`
-- Unit 29 contrast families: `perceive` / `perception` / `perceptive`, `persist` vs `persevere`, `persuade` / `persuasive`
+- `objective` vs `observant` vs `observable`
+- Unit 29 contrast families: `perception` vs `perspective` / `permission`, `perceptive` vs `persuasive`, `persuasive` vs `permanent`, `permanent` vs `perfect`
+- `non-essential` vs `non-urgent`
 
 Cooldown / light watch:
 
-- `illegible` vs `illiterate`
 - `misuse` vs `mislead` vs `mismatch`
 - `illogical` vs `irrelevant` vs `irrational`
 - `intersect`
 - `midstream`
 - `multipurpose`
+- `oversleep`
+- `outspoken`
+- `microaggression`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Weekly Quick for 2026-08-07
+## Recommended Daily Quick for 2026-08-10
 
-Use 30 questions:
+Use 12 questions:
 
-- 8 Recovery
-- 5 Due / cooldown checks
-- 7 Unit 29 questions
-- 5 Unit 27-28 review questions
-- 3 older Unit Tour questions
-- 2 Topic Tour / word-family questions
+- 5 Recovery
+- 3 Unit 29 current-unit checks
+- 2 Unit 27-28 due / cooldown checks
+- 2 Unit Tour / Topic Tour checks
 
-Recovery must appear early. Unit 29 should be introduced, but it must not crowd
-out Recovery.
+Recovery must appear early. Unit 29 should continue, but it must not crowd out
+the new recovery issues from the Friday Weekly Quick.
 
 ## Operational priority
 
@@ -148,4 +163,3 @@ workspace. This package includes all source files found locally from the
 2026-07-31 handoff plus all known updates recorded in the referenced
 conversation through Unit 29. Do not fabricate missing Unit 01-21 rows; if the
 original full vocabulary source is later available, merge this package into it.
-

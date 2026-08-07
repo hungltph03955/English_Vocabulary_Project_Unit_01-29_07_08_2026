@@ -127,7 +127,40 @@ New update on 2026-08-07:
 - Unit 29 `per-` was added.
 - Extra Outwork vocabulary was added: `symptoms`, `boredom tolerance`, `monotonous`, `tap out`, `stimulation`.
 
+Valid Weekly Quick completed:
+
+- Score: 23/30
+- Percentage: 76.7%
+- Correct but uncertain: none
+- Unanswered/uncertain without final answer: Q5
+
+Wrong / unresolved:
+
+- Q5: no final option provided; correct answer was `outburst`
+- Q9: selected `illiterate`; correct answer was `illegible`
+- Q15: selected `permission`; correct answer was `perception`
+- Q16: selected `persuasive`; correct answer was `perceptive`
+- Q19: selected `permanent`; correct answer was `persuasive`
+- Q20: selected `perfect`; correct answer was `permanent`
+- Q27: selected `non-urgent`; correct answer was `non-essential`
+
+Recovery after quiz:
+
+- Keep P1: `outbreak` vs `outburst`, especially `outburst`
+- Add/restore P1: `illegible` vs `illiterate`
+- Reduce from P1 to P2: `objective` vs `observant` vs `observable`
+- Add P2: `perception` vs `perspective` / `permission`
+- Add P2: `perceptive` vs `persuasive`
+- Add P2: `persuasive` vs `permanent`
+- Add P2: `permanent` vs `perfect`
+- Add P2: `non-essential` vs `non-urgent`
+
+Cooldown / light watch:
+
+- `oversleep`, `outspoken`, and `microaggression` improved after correct answers.
+- Correct Unit 29 first-practice items: `perceive`, `persevere`, `persist`, `perspective`, `perfectionism`.
+- Correct review items: `outsource`, `outweigh`, `outdated`, `overload`, `overhear` / `overheard`, `obstacle`, `mishandle`.
+
 Next action:
 
-- Generate the valid Friday Weekly Quick with 30 questions.
-
+- Monday 2026-08-10 should be a Daily Quick with 12 questions unless a new update changes the schedule.

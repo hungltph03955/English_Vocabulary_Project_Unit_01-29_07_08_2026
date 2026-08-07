@@ -146,7 +146,26 @@ Report:
 
 Correct answers marked with `?` stay on light watch until demonstrated again.
 
-## 9. Recovery Rules
+## 9. Grading Feedback Format
+
+When showing quiz results, do not only list wrong question numbers. For every
+wrong, unanswered, or unresolved item, include a focused review block:
+
+- Question number.
+- The original question sentence, including the blank.
+- The learner's answer.
+- The correct answer.
+- Why the learner's answer is wrong in that context.
+- The word or contrast to remember, with a corrected example sentence.
+
+Keep the explanation concise, but make the context distinction explicit. This
+is especially important for close traps such as word families, adjective roles,
+and terms with similar Vietnamese translations.
+
+If the learner answers only `?` with no final option, mark the item as
+unanswered/unresolved and show the correct answer with the same review format.
+
+## 10. Recovery Rules
 
 Recovery has the highest priority.
 
@@ -160,7 +179,7 @@ Recovery priority should decrease gradually:
 - P2: include soon, but not every quiz
 - P3 / cooldown: occasional checks only
 
-## 10. Update Workflow
+## 11. Update Workflow
 
 When the user says `update` or uploads a new vocabulary file:
 
@@ -175,7 +194,7 @@ When the user says `update` or uploads a new vocabulary file:
 9. Update the latest recovery file if needed.
 10. Do not overwrite the whole vocabulary bank with a patch.
 
-## 11. End-of-Session Checklist
+## 12. End-of-Session Checklist
 
 After every graded quiz:
 
@@ -187,7 +206,7 @@ After every graded quiz:
 - Record uncertain answers.
 - Save the updated project state.
 
-## 12. Things Never To Do
+## 13. Things Never To Do
 
 - Never generate a quiz before completing Startup.
 - Never rely on chat history as the source of truth.
@@ -199,4 +218,3 @@ After every graded quiz:
 - Never generate Daily Quick on Friday.
 - Never generate Weekly Quick on the last Friday of the month.
 - Never repeat yesterday's sentences unless intentionally testing Recovery.
-
