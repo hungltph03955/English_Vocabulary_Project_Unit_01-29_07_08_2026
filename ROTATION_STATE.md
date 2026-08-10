@@ -1,9 +1,9 @@
 # Rotation State - Snapshot
 
-Date: Friday 2026-08-07
+Date: Monday 2026-08-10
 Scope: Unit 01-29
-Last valid quiz: Weekly Quick on Friday 2026-08-07, 23/30
-Next expected quiz: Daily Quick, 12 questions, Monday 2026-08-10
+Last valid quiz: Daily Quick on Monday 2026-08-10, 11/12
+Next expected quiz: Daily Quick, 12 questions, Tuesday 2026-08-11
 
 ## Selection order
 
@@ -18,28 +18,29 @@ Use this order when generating quizzes:
 
 ## Schedule guardrail
 
-Friday 2026-08-07 was correctly completed as a Weekly Quick with 30 questions.
+Monday 2026-08-10 was correctly completed as a Daily Quick with 12 questions.
 
-The next expected quiz day is Monday 2026-08-10, so use Daily Quick unless a new
-update changes the schedule.
+The next expected quiz day is Tuesday 2026-08-11, so use Daily Quick unless a
+new update changes the schedule.
 
 ## Recovery queue
 
 | Priority | Group | Reason | Last seen | Next action |
 |---|---|---|---|---|
-| P1 | `outbreak` vs `outburst` | `outburst` unanswered on 2026-08-07 after 2026-08-06 miss | 2026-08-07 | Ask disease spread vs emotional explosion |
-| P1 | `illegible` vs `illiterate` | Selected `illiterate` for unreadable handwriting on 2026-08-07 | 2026-08-07 | Test unreadable writing vs person unable to read/write |
-| P2 | `objective` vs `observant` vs `observable` | All three correct on 2026-08-07, but repeated confusion earlier in week | 2026-08-07 | Keep reduced watch before cooldown |
-| P2 | Unit 29 word families | First valid practice exposed multiple traps | 2026-08-07 | Test `perception`, `perceptive`, `persuasive`, `permanent` |
-| P2 | `non-essential` vs `non-urgent` | Selected `non-urgent` where meaning was not necessary | 2026-08-07 | Test necessary vs immediate-action contrast |
-| P3 | `oversleep` | Correct on 2026-08-07 after prior miss | 2026-08-07 | Light watch only |
-| P3 | `outspoken` | Correct on 2026-08-07 after prior uncertainty | 2026-08-07 | Light watch only |
-| P3 | `microaggression` | Correct on 2026-08-07 after earlier miss | 2026-08-07 | Light watch only |
+| P1 | `monotonous` vs `perceptive` / `stimulating` | Selected `perceptive` for repetitive report work on 2026-08-10 | 2026-08-10 | Test repetitive/dull task vs person noticing details vs mentally exciting |
+| P2 | `outbreak` vs `outburst` | `outburst` correct but uncertain on 2026-08-10 | 2026-08-10 | Ask emotional explosion directly; keep disease/event contrast |
+| P2 | `illegible` vs `illiterate` | Correct with explanation on 2026-08-10 after prior miss | 2026-08-10 | One more light check before cooldown |
+| P2 | Unit 29 word families | First valid practice exposed multiple traps; `perceptive` was over-applied on 2026-08-10 | 2026-08-10 | Test `perception`, `perceptive`, `persuasive`, `permanent` |
+| P2 | `non-essential` vs `non-urgent` | Correct on 2026-08-10 after Friday miss | 2026-08-10 | One more light check before cooldown |
+| P3 | `objective` vs `observant` vs `observable` | `objective` correct on 2026-08-10 after earlier improvement | 2026-08-10 | Light watch only |
+| P3 | `oversleep` | Correct on 2026-08-10 | 2026-08-10 | Light watch only |
+| P3 | `overload` / `mishandle` | Correct on 2026-08-10 | 2026-08-10 | Cooldown only |
 
 ## Unit 29 current-unit targets
 
 Prioritize these in the next Daily Quick:
 
+- `monotonous`, `stimulation`, `boredom tolerance`
 - `perception`, `perceptive`
 - `perfect`, `perfectly`, `perfection`, `perfectionism`, `imperfect`
 - `persevere`, `perseverance`, `persevering`
@@ -53,6 +54,7 @@ Contrast traps:
 - `perception` vs `perspective`
 - `perceptive` vs `persuasive`
 - `perfect` vs `permanent`
+- `monotonous` vs `stimulating`
 
 ## Cooldown / light watch
 
@@ -83,6 +85,7 @@ These groups should not dominate the next quiz, but can appear when due:
 - `microaggression`
 - `oversleep`
 - `outspoken`
+- `objective`
 
 ## Recent unit coverage
 
@@ -92,17 +95,17 @@ These groups should not dominate the next quiz, but can appear when due:
 | 23 | `mis-` | July recovery and 2026-08-03/04 checks | Improved; keep light watch |
 | 24 | `multi-` | July and 2026-08-03/04 checks | Stable |
 | 25 | `non-` | July and 2026-08-06 check | Mostly stable; watch `non-urgent` lightly |
-| 26 | `ob-` family | July cumulative and August recovery | Improved; reduced watch for `objective`/`observant`/`observable` |
-| 27 | `out-` | Added 2026-08-03; practiced 2026-08-04 to 2026-08-07 | Mostly good; active watch for `outburst` |
-| 28 | `over-` | Added 2026-08-04; practiced 2026-08-05 to 2026-08-07 | Mostly good; `oversleep` moved to light watch |
-| 29 | `per-` | Added and first practiced 2026-08-07 | Active recovery for family/contrast traps |
+| 26 | `ob-` family | July cumulative and August recovery | Mostly improved; light watch for `observant`/`observable` |
+| 27 | `out-` | Added 2026-08-03; practiced 2026-08-04 to 2026-08-10 | Mostly good; `outburst` correct but uncertain |
+| 28 | `over-` | Added 2026-08-04; practiced 2026-08-05 to 2026-08-10 | Mostly good; cooldown |
+| 29 | `per-` / Outwork | Added and first practiced 2026-08-07 to 2026-08-10 | Active recovery for family/contrast traps and `monotonous` |
 
-## Daily Quick recipe for Monday 2026-08-10
+## Daily Quick recipe for Tuesday 2026-08-11
 
 Use 12 questions:
 
 - Q1-Q5: Recovery
-- Q6-Q8: Unit 29 current-unit checks
+- Q6-Q8: Unit 29 / Outwork current-unit checks
 - Q9-Q10: Due / cooldown checks from Units 27-28
 - Q11-Q12: Unit Tour / Topic Tour
 

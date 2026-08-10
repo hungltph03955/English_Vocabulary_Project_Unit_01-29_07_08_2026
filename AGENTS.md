@@ -15,6 +15,7 @@ Before generating any quiz, the agent must complete this checklist:
 
 - Read `AGENTS.md`.
 - Read `PROJECT_SKILLS.md`.
+- Read `NEW_WORD_CANDIDATES.md`.
 - Read `HANDOFF.md`.
 - Read `ROTATION_STATE.md`.
 - Read the latest `RECOVERY_PRIORITIES_*.md`.
@@ -34,13 +35,14 @@ Use this order at the start of every quiz session:
 
 1. `AGENTS.md`
 2. `PROJECT_SKILLS.md`
-3. `HANDOFF.md`
-4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md`
-6. latest `WORD_FORMATION_ADDENDUM_*.md`
-7. `VOCABULARY_STATE.csv`
-8. latest `QUIZ_HISTORY_*.md`
-9. monthly reports if the task touches cumulative performance
+3. `NEW_WORD_CANDIDATES.md`
+4. `HANDOFF.md`
+5. `ROTATION_STATE.md`
+6. latest `RECOVERY_PRIORITIES_*.md`
+7. latest `WORD_FORMATION_ADDENDUM_*.md`
+8. `VOCABULARY_STATE.csv`
+9. latest `QUIZ_HISTORY_*.md`
+10. monthly reports if the task touches cumulative performance
 
 Only after this sequence may the agent generate a quiz.
 
@@ -149,6 +151,7 @@ Report:
 - wrong answers
 - recovery additions
 - cooldown changes
+- incidental new-word candidates mentioned by the learner
 
 Correct answers marked with `?` stay on light watch until demonstrated again.
 
@@ -170,6 +173,12 @@ and terms with similar Vietnamese translations.
 
 If the learner answers only `?` with no final option, mark the item as
 unanswered/unresolved and show the correct answer with the same review format.
+
+If the learner says they do not know a non-target word used in a prompt,
+sentence, option, or explanation, check whether it exists in
+`VOCABULARY_STATE.csv`. If it does not, record it in `NEW_WORD_CANDIDATES.md`
+with the context sentence and a short note. Do not automatically add it to the
+active vocabulary bank.
 
 ## 10. Recovery Rules
 
@@ -198,7 +207,8 @@ When the user says `update` or uploads a new vocabulary file:
 7. Update `WORD_FORMATION_ADDENDUM_*.md`.
 8. Update `ROTATION_STATE.md`.
 9. Update the latest recovery file if needed.
-10. Do not overwrite the whole vocabulary bank with a patch.
+10. Review `NEW_WORD_CANDIDATES.md` and promote only user-approved candidates.
+11. Do not overwrite the whole vocabulary bank with a patch.
 
 ## 12. End-of-Session Checklist
 
@@ -210,6 +220,7 @@ After every graded quiz:
 - Update Rotation.
 - Update current unit state.
 - Record uncertain answers.
+- Record incidental unknown non-bank words in `NEW_WORD_CANDIDATES.md`.
 - Save the updated project state.
 
 ## 13. Things Never To Do
@@ -218,9 +229,12 @@ After every graded quiz:
 - Never rely on chat history as the source of truth.
 - Never skip `AGENTS.md`.
 - Never skip `PROJECT_SKILLS.md` when generating or grading a quiz.
+- Never skip `NEW_WORD_CANDIDATES.md` when generating or grading a quiz.
 - Never ignore Recovery.
 - Never randomly choose vocabulary.
 - Never overwrite the vocabulary database with a small patch.
+- Never promote incidental candidate words into the active vocabulary bank
+  without user approval.
 - Never forget to detect today's date before choosing quiz type.
 - Never generate Daily Quick on Friday.
 - Never generate Weekly Quick on the last Friday of the month.

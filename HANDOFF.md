@@ -1,6 +1,6 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Friday 2026-08-07
+Date: Monday 2026-08-10
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
 Current scope: Unit 01-29
 
@@ -12,33 +12,26 @@ This handoff supersedes the 2026-07-31 package while preserving it under
 Read `AGENTS.md` first. Then read the current state files in this order:
 
 1. `PROJECT_SKILLS.md`
-2. `HANDOFF.md`
-3. `ROTATION_STATE.md`
-4. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-08-10.md` after the Friday quiz)
-5. `WORD_FORMATION_ADDENDUM_Units_22-29.md`
-6. `VOCABULARY_STATE.csv`
-7. `QUIZ_HISTORY_WEEK_2026-08-03_to_2026-08-07.md`
-8. `MONTHLY_REPORT_2026_07.md`
+2. `NEW_WORD_CANDIDATES.md`
+3. `HANDOFF.md`
+4. `ROTATION_STATE.md`
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-08-11.md` after the Monday quiz)
+6. `WORD_FORMATION_ADDENDUM_Units_22-29.md`
+7. `VOCABULARY_STATE.csv`
+8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-08-10_to_2026-08-14.md`)
+9. `MONTHLY_REPORT_2026_07.md`
 
 Do not generate any quiz until this startup sequence is complete.
 
 ## Current date decision
 
-Today is Friday 2026-08-07.
+Monday 2026-08-10 was a Daily Quick day.
 
-It is not the last Friday of August 2026. The last Friday of August 2026 is
-2026-08-28.
-
-Therefore the correct quiz type for today was:
-
-- Weekly Quick
-- 30 questions
-
-This valid Weekly Quick was completed on 2026-08-07 with a score of 23/30.
+The valid Daily Quick was completed on 2026-08-10 with a score of 11/12.
 
 The next expected quiz is:
 
-- Monday 2026-08-10
+- Tuesday 2026-08-11
 - Daily Quick
 - 12 questions
 
@@ -78,23 +71,19 @@ Additional reading vocabulary recently added from Outwork:
 
 Last valid completed quiz:
 
-- Date: Friday 2026-08-07
-- Type: Weekly Quick
-- Recorded result: 23/30
-- Correct but uncertain: none
-- Unanswered/uncertain without final answer: Q5
+- Date: Monday 2026-08-10
+- Type: Daily Quick
+- Recorded result: 11/12
+- Correct but uncertain: Q1 `outburst`
+- Wrong: Q12 `monotonous`; selected `perceptive`
 
 Previous valid quiz:
 
-- Date: Thursday 2026-08-06
-- Type: Daily Quick
-- Recorded result: 8/12
-- Note: the item table from the source conversation contains an internal
-  inconsistency. It lists Q2, Q5, and Q12 as wrong, plus Q3 and Q8 as correct
-  but uncertain. Preserve the recorded score as 8/12, but use item-level
-  recovery evidence for future rotation.
+- Date: Friday 2026-08-07
+- Type: Weekly Quick
+- Recorded result: 23/30
 
-## Week progress
+## Previous week progress
 
 Available results for the current week:
 
@@ -106,15 +95,22 @@ Available results for the current week:
 | 2026-08-06 | Daily Quick | 8/12 recorded | Recovery evidence shows `observant`, `oversleep`, `outburst` issues |
 | 2026-08-07 | Weekly Quick | 23/30 | Valid Friday Weekly Quick completed |
 
+## Current week progress
+
+| Date | Type | Result | Notes |
+|---|---|---:|---|
+| 2026-08-10 | Daily Quick | 11/12 | Q1 `outburst` correct but uncertain; Q12 `monotonous` wrong |
+
 ## Current recovery priorities
 
 P1:
 
-- `outbreak` vs `outburst`, especially `outburst`
-- `illegible` vs `illiterate`
+- `monotonous` vs `perceptive` / `stimulating`
 
 P2:
 
+- `outbreak` vs `outburst`, especially `outburst`
+- `illegible` vs `illiterate`
 - `objective` vs `observant` vs `observable`
 - Unit 29 contrast families: `perception` vs `perspective` / `permission`, `perceptive` vs `persuasive`, `persuasive` vs `permanent`, `permanent` vs `perfect`
 - `non-essential` vs `non-urgent`
@@ -129,19 +125,20 @@ Cooldown / light watch:
 - `oversleep`
 - `outspoken`
 - `microaggression`
+- `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Daily Quick for 2026-08-10
+## Recommended Daily Quick for 2026-08-11
 
 Use 12 questions:
 
 - 5 Recovery
-- 3 Unit 29 current-unit checks
+- 3 Unit 29 / Outwork current-unit checks
 - 2 Unit 27-28 due / cooldown checks
 - 2 Unit Tour / Topic Tour checks
 
-Recovery must appear early. Unit 29 should continue, but it must not crowd out
-the new recovery issues from the Friday Weekly Quick.
+Recovery must appear early. Unit 29 and Outwork vocabulary should continue, but
+they must not crowd out `monotonous` and the remaining contrast traps.
 
 ## Operational priority
 
@@ -159,6 +156,10 @@ quizzes unless intentionally checking Recovery.
 
 Use `PROJECT_SKILLS.md` to keep questions close to work, product, reading, and
 daily-life contexts, and to explain mistakes as contrast-based memory.
+
+Use `NEW_WORD_CANDIDATES.md` to record incidental non-bank words that the
+learner explicitly says they do not know. Do not promote those candidates into
+`VOCABULARY_STATE.csv` without user approval.
 
 ## Source limitation note
 

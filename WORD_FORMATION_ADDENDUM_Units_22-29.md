@@ -310,4 +310,9 @@ Watch:
 - `perception` is how something is understood; `perspective` is point of view.
 - `persuasive` describes something/someone that convinces.
 - `perceptive` describes someone who notices or understands quickly.
+- `monotonous` describes repetitive and dull work; `perceptive` describes a person, not a repetitive task.
 
+
+
+endurance : sức bền 
+tolerating : chịu đựng 

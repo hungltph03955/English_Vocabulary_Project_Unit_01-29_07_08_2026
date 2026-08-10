@@ -83,6 +83,13 @@ Generation rules:
 - Use close distractors from the learner's real mistake history.
 - Use current-unit words in realistic work/life contexts.
 - Include some cooldown words, but do not let them dominate Recovery.
+- It is acceptable to include a small number of useful incidental words outside
+  the active unit to make prompts more realistic.
+- Increase incidental word exposure gradually. Do not overload a Quick quiz with
+  too many unknown context words.
+- Incidental non-bank words may appear in prompts or distractors, but the main
+  tested answer should normally come from the active vocabulary bank unless the
+  user explicitly approves a new-word exploration.
 - Do not overuse one context lane in the same quiz.
 - Avoid obscure trivia, overly formal scenarios, and trick questions where more
   than one option could reasonably fit.
@@ -102,7 +109,30 @@ For each wrong, unanswered, or unresolved item, show:
 Do not only list wrong answers. The explanation should teach the contrast that
 caused the mistake.
 
-## 5. Recovery Design Skill
+## 5. Incidental New Word Capture Skill
+
+Goal: use Quick quizzes to gradually discover useful extra words without
+turning every unknown word into active vocabulary immediately.
+
+The learner will not look up words during Quick quizzes. They may use
+elimination, context guessing, and reasoning. When the learner says a word is
+unknown, do this during grading:
+
+- If the word is already in `VOCABULARY_STATE.csv`, handle it through Recovery,
+  cooldown, or light watch.
+- If the word is not in `VOCABULARY_STATE.csv` but appeared in a prompt,
+  sentence, option, or explanation, record it in `NEW_WORD_CANDIDATES.md`.
+- Record the sentence or option where the word appeared, the learner's note,
+  and why the word may be useful.
+- Do not automatically add incidental words to `VOCABULARY_STATE.csv`.
+- Promote candidate words into the active vocabulary bank only when the user
+  asks for an update or approves adding them.
+
+Candidate words should be useful for work, product/tech, reading, or daily
+life. Do not record every rare or decorative word unless it affects
+understanding.
+
+## 6. Recovery Design Skill
 
 Goal: make Recovery targeted instead of repetitive.
 
@@ -118,7 +148,7 @@ When creating the next quiz, convert each failure type into one clean context
 question. If the learner gets it correct with confidence, lower priority
 gradually. If the learner gets it wrong or uncertain, keep it in Recovery.
 
-## 6. Source-of-Truth Boundary
+## 7. Source-of-Truth Boundary
 
 This skill file controls learning style and quiz design. It does not define the
 active vocabulary bank.
@@ -126,6 +156,7 @@ active vocabulary bank.
 For vocabulary content, always use:
 
 - `VOCABULARY_STATE.csv`
+- `NEW_WORD_CANDIDATES.md` for incidental non-bank words that may be promoted later
 - latest `WORD_FORMATION_ADDENDUM_*.md`
 - latest `RECOVERY_PRIORITIES_*.md`
 - `ROTATION_STATE.md`
@@ -133,3 +164,6 @@ For vocabulary content, always use:
 
 If a word appears only in `PROJECT_SKILLS.md` and not in the vocabulary state,
 do not treat it as active vocabulary unless the user explicitly asks to add it.
+
+If a word appears only in `NEW_WORD_CANDIDATES.md`, treat it as a candidate for
+future update, not as required quiz vocabulary.
