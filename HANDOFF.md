@@ -11,13 +11,14 @@ This handoff supersedes the 2026-07-31 package while preserving it under
 
 Read `AGENTS.md` first. Then read the current state files in this order:
 
-1. `HANDOFF.md`
-2. `ROTATION_STATE.md`
-3. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-08-10.md` after the Friday quiz)
-4. `WORD_FORMATION_ADDENDUM_Units_22-29.md`
-5. `VOCABULARY_STATE.csv`
-6. `QUIZ_HISTORY_WEEK_2026-08-03_to_2026-08-07.md`
-7. `MONTHLY_REPORT_2026_07.md`
+1. `PROJECT_SKILLS.md`
+2. `HANDOFF.md`
+3. `ROTATION_STATE.md`
+4. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-08-10.md` after the Friday quiz)
+5. `WORD_FORMATION_ADDENDUM_Units_22-29.md`
+6. `VOCABULARY_STATE.csv`
+7. `QUIZ_HISTORY_WEEK_2026-08-03_to_2026-08-07.md`
+8. `MONTHLY_REPORT_2026_07.md`
 
 Do not generate any quiz until this startup sequence is complete.
 
@@ -155,6 +156,9 @@ For every quiz, use:
 
 Avoid pure random selection. Avoid repeating exact sentence text from recent
 quizzes unless intentionally checking Recovery.
+
+Use `PROJECT_SKILLS.md` to keep questions close to work, product, reading, and
+daily-life contexts, and to explain mistakes as contrast-based memory.
 
 ## Source limitation note
 

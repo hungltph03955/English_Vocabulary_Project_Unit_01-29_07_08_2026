@@ -14,6 +14,7 @@ updating any quiz.
 Before generating any quiz, the agent must complete this checklist:
 
 - Read `AGENTS.md`.
+- Read `PROJECT_SKILLS.md`.
 - Read `HANDOFF.md`.
 - Read `ROTATION_STATE.md`.
 - Read the latest `RECOVERY_PRIORITIES_*.md`.
@@ -32,13 +33,14 @@ generate a quiz from memory.
 Use this order at the start of every quiz session:
 
 1. `AGENTS.md`
-2. `HANDOFF.md`
-3. `ROTATION_STATE.md`
-4. latest `RECOVERY_PRIORITIES_*.md`
-5. latest `WORD_FORMATION_ADDENDUM_*.md`
-6. `VOCABULARY_STATE.csv`
-7. latest `QUIZ_HISTORY_*.md`
-8. monthly reports if the task touches cumulative performance
+2. `PROJECT_SKILLS.md`
+3. `HANDOFF.md`
+4. `ROTATION_STATE.md`
+5. latest `RECOVERY_PRIORITIES_*.md`
+6. latest `WORD_FORMATION_ADDENDUM_*.md`
+7. `VOCABULARY_STATE.csv`
+8. latest `QUIZ_HISTORY_*.md`
+9. monthly reports if the task touches cumulative performance
 
 Only after this sequence may the agent generate a quiz.
 
@@ -82,6 +84,10 @@ Never choose questions randomly. Select questions in this order:
 
 Avoid repeating the exact same sentence from recent quizzes unless it is an
 intentional Recovery check.
+
+Use `PROJECT_SKILLS.md` to shape question style: realistic work, product,
+reading, and daily-life contexts; contrast-based distractors; and memory-focused
+feedback.
 
 ## 5. Daily Quick Structure
 
@@ -211,6 +217,7 @@ After every graded quiz:
 - Never generate a quiz before completing Startup.
 - Never rely on chat history as the source of truth.
 - Never skip `AGENTS.md`.
+- Never skip `PROJECT_SKILLS.md` when generating or grading a quiz.
 - Never ignore Recovery.
 - Never randomly choose vocabulary.
 - Never overwrite the vocabulary database with a small patch.
