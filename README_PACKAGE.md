@@ -10,7 +10,13 @@ Created on Friday 2026-08-07.
 
 This is a Codex-ready handoff package for the English Vocabulary Project. It
 adds the new `AGENTS.md` operating manual, updates project state through
-2026-08-07, and records vocabulary progress through Unit 29.
+2026-08-07, and originally recorded vocabulary progress through Unit 29.
+
+Current workspace state after local updates:
+
+- Progress through Unit 30
+- Unit 30 `post-` added on 2026-08-10
+- Outwork additions: `endurance`, `tolerating`
 
 ## How to import
 
@@ -18,8 +24,7 @@ adds the new `AGENTS.md` operating manual, updates project state through
 2. Read `AGENTS.md` first.
 3. Read `HANDOFF.md`.
 4. Continue through the required reading order listed in `AGENTS.md`.
-5. If the user asks for `quick` on 2026-08-07, generate Weekly Quick with 30
-   questions.
+5. Follow the date-based schedule in `AGENTS.md` and `ROTATION_STATE.md`.
 
 ## Top-level files
 
@@ -27,10 +32,10 @@ adds the new `AGENTS.md` operating manual, updates project state through
 - `HANDOFF.md` - current project handoff
 - `PROJECT_STATUS_2026-08-07.md` - short project status
 - `ROTATION_STATE.md` - current rotation and next quiz recipe
-- `RECOVERY_PRIORITIES_2026-08-07.md` - current recovery queue
-- `WORD_FORMATION_ADDENDUM_Units_22-29.md` - known addendum through Unit 29
+- latest `RECOVERY_PRIORITIES_*.md` - current recovery queue
+- `WORD_FORMATION_ADDENDUM_Units_22-30.md` - known addendum through Unit 30
 - `VOCABULARY_STATE.csv` - structured current known vocabulary/state rows
-- `QUIZ_HISTORY_WEEK_2026-08-03_to_2026-08-07.md` - current week history
+- latest `QUIZ_HISTORY_*.md` - current week history
 - `MONTHLY_REPORT_2026_07.md` - July report copied from source package
 - `QUIZ_HISTORY_WEEK_2026-07-27_to_2026-07-31.md` - prior week history copied from source package
 - `SOURCE_MANIFEST.md` - source/limitation notes
@@ -44,7 +49,7 @@ snapshot that was found locally and used as source material.
 
 The original full Unit 01-21 vocabulary source was not present in this
 workspace. This package preserves all available source files and adds all known
-updates from the referenced conversation through Unit 29. If the full original
+updates from the referenced conversation through Unit 29, plus later local
+updates through Unit 30. If the full original
 `VOCABULARY_STATE.csv` or `word-formation.txt` later becomes available, merge
 this package into that full source rather than overwriting it.
-

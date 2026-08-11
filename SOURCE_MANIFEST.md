@@ -3,6 +3,8 @@
 Generated package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
 Generated date: 2026-08-07
 
+Current workspace scope after local updates: Unit 01-30.
+
 ## Sources used
 
 1. Local 2026-07-31 handoff package found at:
@@ -24,6 +26,9 @@ Generated date: 2026-08-07
    - 2026-08-07 Unit 29 update
    - 2026-08-07 schedule correction: Friday must use Weekly Quick, not Daily Quick
    - 2026-08-07 proposed `AGENTS.md` operating manual
+   - 2026-08-10 Daily Quick and grading
+   - 2026-08-10 Unit 30 `post-` update
+   - 2026-08-10 Outwork vocabulary update: `endurance`, `tolerating`
 
 ## Preserved files from 2026-07-31 package
 
@@ -44,6 +49,6 @@ Files:
 
 The full original Unit 01-21 source files were not available in the current
 workspace. The package therefore does not fabricate missing Unit 01-21 rows.
-It records the current project scope as Unit 01-29 and includes all known
+It originally recorded the project scope as Unit 01-29 and included all known
 structured updates available locally and in the referenced conversation.
-
+The current workspace has since advanced to Unit 01-30.

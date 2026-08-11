@@ -2,7 +2,7 @@
 
 Date: Monday 2026-08-10
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-29
+Current scope: Unit 01-30
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -16,7 +16,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
 5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-08-11.md` after the Monday quiz)
-6. `WORD_FORMATION_ADDENDUM_Units_22-29.md`
+6. `WORD_FORMATION_ADDENDUM_Units_22-30.md`
 7. `VOCABULARY_STATE.csv`
 8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-08-10_to_2026-08-14.md`)
 9. `MONTHLY_REPORT_2026_07.md`
@@ -46,7 +46,7 @@ mistake and must not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 29.
+The project has advanced through Unit 30.
 
 Recent unit coverage:
 
@@ -58,6 +58,7 @@ Recent unit coverage:
 - Unit 27: `out-`
 - Unit 28: `over-`
 - Unit 29: `per-`
+- Unit 30: `post-`
 
 Additional reading vocabulary recently added from Outwork:
 
@@ -66,6 +67,24 @@ Additional reading vocabulary recently added from Outwork:
 - `monotonous`
 - `tap out`
 - `stimulation`
+- `endurance`
+- `tolerating`
+
+Unit 30 `post-` vocabulary added on 2026-08-10:
+
+- `postgraduate`
+- `postpone`
+- `postscript`
+- `post-traumatic`
+- `postwar`
+- `postponement`
+- `post-paid`
+- `post-crisis`
+- `post-match`
+- `post-accident`
+- `post-flight`
+- `post-holiday`
+- `post-concert`
 
 ## Last valid completed quiz
 
@@ -113,6 +132,7 @@ P2:
 - `illegible` vs `illiterate`
 - `objective` vs `observant` vs `observable`
 - Unit 29 contrast families: `perception` vs `perspective` / `permission`, `perceptive` vs `persuasive`, `persuasive` vs `permanent`, `permanent` vs `perfect`
+- Unit 30 `post-` first-practice words: `postpone` / `postponement`, `postgraduate`, `postscript`, `post-traumatic`, `postwar`
 - `non-essential` vs `non-urgent`
 
 Cooldown / light watch:
@@ -133,12 +153,13 @@ Cooldown / light watch:
 Use 12 questions:
 
 - 5 Recovery
-- 3 Unit 29 / Outwork current-unit checks
+- 3 Unit 29 / Unit 30 / Outwork current-unit checks
 - 2 Unit 27-28 due / cooldown checks
 - 2 Unit Tour / Topic Tour checks
 
-Recovery must appear early. Unit 29 and Outwork vocabulary should continue, but
-they must not crowd out `monotonous` and the remaining contrast traps.
+Recovery must appear early. Unit 30 should be introduced, and Unit 29 / Outwork
+vocabulary should continue, but new words must not crowd out `monotonous` and
+the remaining contrast traps.
 
 ## Operational priority
 

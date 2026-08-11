@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-29
+# Word Formation Addendum - Units 22-30
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -302,6 +302,8 @@ Additional Outwork vocabulary:
 - `monotonous` = repetitive and dull
 - `tap out` = quit; give up
 - `stimulation` = mental/physical excitement or activation
+- `endurance` = ability to keep going despite difficulty or tiredness
+- `tolerating` = enduring or accepting something unpleasant
 
 Watch:
 
@@ -312,7 +314,40 @@ Watch:
 - `perceptive` describes someone who notices or understands quickly.
 - `monotonous` describes repetitive and dull work; `perceptive` describes a person, not a repetitive task.
 
+## Unit 30 - `post-`
+
+Meaning: after, later than, following an event/time/process.
+
+Book words:
+
+- `postgraduate` = a student or course after a first university degree
+- `postpone` = delay; arrange for a later time
+- `postscript` = an extra note added at the end of a letter/message
+- `post-traumatic` = happening after trauma
+- `postwar` = after a war
+
+Word family:
+
+- `postpone`
+- `postponement`
+
+Extended words:
+
+- `post-paid` = paid after use
+- `post-crisis` = after a crisis
+- `post-match` = after a match/game
+- `post-accident` = after an accident
+- `post-flight` = after a flight
+- `post-holiday` = after a holiday/vacation
+- `post-concert` = after a concert
+
+Watch:
+
+- `postpone` is a verb; `postponement` is the noun.
+- `postgraduate` relates to study after a first university degree.
+- `postscript` is usually an added note at the end of writing.
+- `post-traumatic` is about the period or condition after trauma.
+- `post-paid` means payment happens after use, not before.
 
 
-endurance : sức bền 
-tolerating : chịu đựng 
+

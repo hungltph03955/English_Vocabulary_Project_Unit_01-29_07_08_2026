@@ -64,6 +64,47 @@ Reason:
 - Unit 29 still has recent word-family traps.
 - `perceptive` was correct in one context on 2026-08-10 but selected wrongly for `monotonous` later.
 
+### Unit 30 `post-` first-practice words
+
+Newly added on 2026-08-10:
+
+- `postgraduate`
+- `postpone` / `postponement`
+- `postscript`
+- `post-traumatic`
+- `postwar`
+- `post-paid`
+- `post-crisis`
+- `post-match`
+- `post-accident`
+- `post-flight`
+- `post-holiday`
+- `post-concert`
+
+Reason:
+
+- New current unit. Introduce with realistic work, school, health, travel, and
+  daily-life contexts.
+
+Prompt patterns:
+
+- The team had to ______ the release until next week.
+- A ______ student joined the research group after finishing university.
+- The email included a short ______ after the signature.
+- The airline sent a ______ survey after landing.
+
+### Outwork additions
+
+Newly added on 2026-08-10:
+
+- `endurance`
+- `tolerating`
+
+Reason:
+
+- Add to Outwork/current-unit coverage. Useful for boredom tolerance, habits,
+  training, and difficult work contexts.
+
 ### `non-essential` vs `non-urgent`
 
 - `non-essential`: not necessary for the main/core function.
@@ -92,6 +133,6 @@ Reason:
 Use 12 questions:
 
 - 5 Recovery questions
-- 3 Unit 29 or Outwork current-unit checks
+- 3 Unit 29 / Unit 30 / Outwork current-unit checks
 - 2 due / cooldown checks from Units 27-28
 - 2 Unit Tour / Topic Tour checks

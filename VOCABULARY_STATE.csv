@@ -149,3 +149,18 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 0,outwork,monotonous,adjective,repetitive and dull,don dieu,recovery,P1,2026-08-10,quiz history,Wrong on Daily Quick; selected perceptive for repetitive task
 0,outwork,tap out,phrasal verb,quit; give up,bo cuoc,new_unit,P2,2026-08-07,conversation update,Outwork vocabulary
 0,outwork,stimulation,noun,mental/physical activation,kich thich,new_unit,P2,2026-08-07,conversation update,Outwork vocabulary
+0,outwork,endurance,noun,ability to keep going despite difficulty or tiredness,suc ben,new_unit,P2,2026-08-10,addendum update,Outwork vocabulary added by user
+0,outwork,tolerating,verb/gerund,enduring or accepting something unpleasant,chiu dung,new_unit,P2,2026-08-10,addendum update,Outwork vocabulary added by user; base verb tolerate
+30,post,postgraduate,noun/adjective,student or course after a first university degree,sau dai hoc; hoc vien sau dai hoc,new_unit,P2,2026-08-10,addendum update,Book word
+30,post,postpone,verb,delay; arrange for a later time,tri hoan,new_unit,P2,2026-08-10,addendum update,Book word; contrast with postponement
+30,post,postscript,noun,extra note added at the end of a letter or message,tai but,new_unit,P2,2026-08-10,addendum update,Book word
+30,post,post-traumatic,adjective,happening after trauma,hau chan thuong,new_unit,P2,2026-08-10,addendum update,Book word
+30,post,postwar,adjective,after a war,hau chien,new_unit,P2,2026-08-10,addendum update,Book word
+30,post,postponement,noun,delay; act of postponing,su tri hoan,new_unit,P2,2026-08-10,addendum update,Word family of postpone
+30,post,post-paid,adjective,paid after use,tra sau,new_unit,P2,2026-08-10,addendum update,Extended word
+30,post,post-crisis,adjective,after a crisis,sau khung hoang,new_unit,P2,2026-08-10,addendum update,Extended word
+30,post,post-match,adjective,after a match or game,sau tran dau,new_unit,P2,2026-08-10,addendum update,Extended word
+30,post,post-accident,adjective,after an accident,sau tai nan,new_unit,P2,2026-08-10,addendum update,Extended word
+30,post,post-flight,adjective,after a flight,sau chuyen bay,new_unit,P2,2026-08-10,addendum update,Extended word
+30,post,post-holiday,adjective,after a holiday or vacation,sau ky nghi,new_unit,P2,2026-08-10,addendum update,Extended word
+30,post,post-concert,adjective,after a concert,sau buoi hoa nhac,new_unit,P2,2026-08-10,addendum update,Extended word

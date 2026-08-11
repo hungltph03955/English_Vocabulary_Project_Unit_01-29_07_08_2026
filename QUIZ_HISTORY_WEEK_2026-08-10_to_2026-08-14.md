@@ -60,3 +60,18 @@ Cooldown / light watch:
 Next action:
 
 - Tuesday 2026-08-11 should be a Daily Quick with 12 questions.
+
+## Monday 2026-08-10 - Vocabulary Update
+
+New vocabulary added after the Daily Quick:
+
+- Outwork: `endurance`, `tolerating`
+- Unit 30 `post-`: `postgraduate`, `postpone`, `postscript`,
+  `post-traumatic`, `postwar`, `postponement`, `post-paid`, `post-crisis`,
+  `post-match`, `post-accident`, `post-flight`, `post-holiday`,
+  `post-concert`
+
+Rotation update:
+
+- Unit 30 should receive first valid practice from the next Daily Quick onward.
+- Do not let Unit 30 crowd out active Recovery, especially `monotonous`.

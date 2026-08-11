@@ -1,9 +1,9 @@
 # Project Status - 2026-08-07
 
-Current scope: Unit 01-29
-Current date: Friday 2026-08-07
-Last valid quiz: Weekly Quick, 30 questions, 23/30
-Next expected quiz: Daily Quick, 12 questions, Monday 2026-08-10
+Current scope: Unit 01-30
+Current date: Monday 2026-08-10
+Last valid quiz: Daily Quick, 12 questions, 11/12
+Next expected quiz: Daily Quick, 12 questions, Tuesday 2026-08-11
 
 ## Summary
 
@@ -17,13 +17,16 @@ The project now includes:
 - Unit 27 `out-`
 - Unit 28 `over-`
 - Unit 29 `per-`
+- Unit 30 `post-`
 - Recovery and rotation updates through Thursday 2026-08-06
 - Friday 2026-08-07 schedule correction
 - Friday 2026-08-07 valid Weekly Quick result: 23/30
+- Monday 2026-08-10 Daily Quick result: 11/12
+- 2026-08-10 addendum update: Outwork `endurance`, `tolerating`, and Unit 30 `post-`
 
 ## Current highest-priority issue
 
-The next quiz must start with Recovery from the Friday Weekly Quick.
+The next quiz must start with Recovery from the Monday Daily Quick.
 
 The earlier 12-question Friday Daily Quick is invalid and must not be used as a
 completed assessment.
@@ -34,14 +37,15 @@ Recovery:
 
 - `outbreak` vs `outburst`
 - `illegible` vs `illiterate`
-- `objective` vs `observant` vs `observable`
+- `monotonous` vs `perceptive` / `stimulating`
 - Unit 29 contrast traps from the Friday Weekly Quick
 - `non-essential` vs `non-urgent`
 
 New unit:
 
-- Unit 29 word families, especially `perceive`, `persevere`, `persist`,
-  `persuade`, and `perfect`.
+- Unit 30 `post-`, especially `postgraduate`, `postpone`, `postscript`,
+  `post-traumatic`, `postwar`, and `postponement`.
+- Continue Unit 29 word families while introducing Unit 30 gradually.
 
 Cooldown:
 
