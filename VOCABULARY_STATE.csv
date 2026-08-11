@@ -26,7 +26,8 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 23,mis,miscount,verb,count incorrectly,dem sai,cooldown,P3,2026-07-31,2026-07-31 package,
 23,mis,mistrust,verb/noun,distrust,khong tin,cooldown,P3,2026-07-31,2026-07-31 package,
 23,mis,mishear,verb,hear incorrectly,nghe nham,cooldown,P3,2026-07-31,2026-07-31 package,
-23,mis,mishandle,verb,handle/manage badly,xu ly kem,cooldown,P3,2026-08-10,quiz history,Correct on Daily Quick
+23,mis,mishandle,verb,handle/manage badly,xu ly kem,cooldown,P3,2026-08-11,quiz history,Correct on Daily Quick two days in a row
+23,mis,drug,noun,substance used as medicine or illegal substance,thuoc; chat gay nghien,new_unit,P2,2026-08-11,addendum reconciliation,Unit 23 supplement from addendum
 24,multi,multicultural,adjective,involving many cultures,da van hoa,cooldown,P3,2026-07-31,2026-07-31 package,
 24,multi,multiple,adjective,many; more than one,nhieu,cooldown,P3,2026-07-31,2026-07-31 package,
 24,multi,multiply,verb,increase many times; do multiplication,nhan len,cooldown,P3,2026-07-31,2026-07-31 package,
@@ -52,10 +53,10 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 25,non,non-human,adjective,not human,khong phai con nguoi,cooldown,P3,2026-07-31,2026-07-31 package,
 25,non,non-violent,adjective,not violent,phi bao luc,cooldown,P3,2026-07-31,2026-07-31 package,
 25,non,non-native,adjective,not native,khong ban xu,cooldown,P3,2026-07-31,2026-07-31 package,
-25,non,non-essential,adjective,not necessary,khong thiet yeu,recovery,P2,2026-08-10,quiz history,Correct after prior miss; keep one more light check
+25,non,non-essential,adjective,not necessary,khong thiet yeu,cooldown,P3,2026-08-11,quiz history,Stable after non-essential and non-urgent contrast checks
 25,non,non-plastic,adjective,not made of plastic,khong bang nhua,cooldown,P3,2026-07-31,2026-07-31 package,
 25,non,non-swimmer,noun,person who cannot swim,nguoi khong biet boi,cooldown,P3,2026-07-31,2026-07-31 package,
-25,non,non-urgent,adjective,not needing immediate action,khong khan cap,recovery,P2,2026-08-10,quiz history,Correctly contrasted with non-essential; keep one more light check
+25,non,non-urgent,adjective,not needing immediate action,khong khan cap,cooldown,P3,2026-08-11,quiz history,Correctly contrasted with non-essential on Daily Quick
 25,non,non-scented,adjective,without scent,khong mui,cooldown,P3,2026-07-31,2026-07-31 package,
 26,ob,object,verb,disagree; oppose,phan doi,cooldown,P3,2026-07-31,2026-07-31 package,
 26,ob,obliged,adjective,required; forced by duty,bat buoc,cooldown,P3,2026-07-31,2026-07-31 package,
@@ -83,7 +84,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 27,out,outbreak,noun,sudden spread/start of disease or violence,su bung phat,cooldown,P3,2026-08-10,quiz history,Meaning explained correctly; contrast improved
 27,out,output,noun,production amount/result,dau ra,cooldown,P3,2026-08-04,conversation update,
 27,out,outside,noun/adjective/adverb,not inside,ben ngoai,cooldown,P3,2026-08-03,conversation update,
-27,out,outsource,verb,hire outside provider,thue ngoai,cooldown,P3,2026-08-07,quiz history,Correct on Weekly Quick
+27,out,outsource,verb,hire outside provider,thue ngoai,cooldown,P3,2026-08-11,quiz history,Correct on Daily Quick
 27,out,outweigh,verb,be more important/greater than,lon hon; vuot troi,cooldown,P3,2026-08-07,quiz history,Correct on Weekly Quick
 27,out,outdated,adjective,no longer modern,loi thoi,cooldown,P3,2026-08-07,quiz history,Correct on Weekly Quick
 27,out,outdoor,adjective,outside; open air,ngoai troi,cooldown,P3,2026-08-03,conversation update,
@@ -93,16 +94,16 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 27,out,outskirts,noun,outer area of a city,vung ngoai o,cooldown,P3,2026-08-06,conversation update,
 27,out,outgrow,verb,become too big/mature for,lon vuot khoi,cooldown,P3,2026-08-06,conversation update,
 27,out,outward,adjective/adverb,toward outside; external,huong ra ngoai,cooldown,P3,2026-08-03,conversation update,
-27,out,outburst,noun,sudden strong emotion,su boc phat,recovery,P2,2026-08-10,quiz history,Correct but uncertain on Daily Quick; keep light recovery
+27,out,outburst,noun,sudden strong emotion,su boc phat,cooldown,P3,2026-08-11,quiz history,Correct confidently after prior uncertain correct answer
 27,out,outspoken,adjective,direct and honest in speech,thang than,cooldown,P3,2026-08-07,quiz history,Correct on Weekly Quick after prior uncertainty
 0,general,boredom,noun,state of being bored,su nham chan,cooldown,P3,2026-08-03,conversation update,Added with Unit 27
 0,general,assume,verb,suppose without full proof,gia dinh,cooldown,P3,2026-08-03,conversation update,Correct on 2026-08-03
 0,general,microaggression,noun,subtle insulting remark/action about identity or background,loi noi hoac hanh dong xuc pham ngam ve ban sac,cooldown,P3,2026-08-07,quiz history,Correct on Weekly Quick after earlier miss
-0,general,illegible,adjective,impossible or very hard to read because writing/printing is unclear,khong doc duoc,recovery,P2,2026-08-10,quiz history,Correct with explanation after prior miss
-0,general,illiterate,adjective,unable to read or write,khong biet doc viet,recovery,P2,2026-08-10,quiz history,Correctly contrasted with illegible
+0,general,illegible,adjective,impossible or very hard to read because writing/printing is unclear,khong doc duoc,cooldown,P3,2026-08-11,quiz history,Correctly avoided in illiterate contrast check
+0,general,illiterate,adjective,unable to read or write,khong biet doc viet,cooldown,P3,2026-08-11,quiz history,Correctly contrasted with illegible on Daily Quick
 28,over,overestimate,verb,estimate too high,danh gia qua cao,cooldown,P3,2026-08-06,conversation update,
 28,over,overload,verb/noun,put too much load on; too much load,qua tai,cooldown,P3,2026-08-10,quiz history,Correct on Daily Quick
-28,over,overreact,verb,react too strongly,phan ung thai qua,cooldown,P3,2026-08-05,conversation update,
+28,over,overreact,verb,react too strongly,phan ung thai qua,cooldown,P3,2026-08-11,quiz history,Correct on Daily Quick
 28,over,overhead,noun/adjective,above head; operating costs,tren dau; chi phi chung,cooldown,P3,2026-08-04,conversation update,
 28,over,overweight,adjective,too heavy,thua can,cooldown,P3,2026-08-04,conversation update,
 28,over,oversize,adjective,too large,qua co,cooldown,P3,2026-08-04,conversation update,
@@ -121,8 +122,8 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 28,over,overeat,verb,eat too much,an qua nhieu,cooldown,P3,2026-08-04,conversation update,
 28,over,overpay,verb,pay too much,tra qua nhieu tien,cooldown,P3,2026-08-04,conversation update,
 29,per,perceive,verb,become aware of; understand,nhan thuc,cooldown,P3,2026-08-07,quiz history,Correct on first valid Weekly Quick
-29,per,perception,noun,way of seeing/understanding,nhan thuc; cam nhan,recovery,P2,2026-08-07,quiz history,Wrong on Weekly Quick; selected permission
-29,per,perceptive,adjective,quick to notice/understand,tinh y; sau sac,recovery,P2,2026-08-10,quiz history,Correct in person-noticing context but wrongly selected for monotonous task
+29,per,perception,noun,way of seeing/understanding,nhan thuc; cam nhan,recovery,P1,2026-08-11,quiz history,Wrong on Daily Quick; selected perspective for customer view context
+29,per,perceptive,adjective,quick to notice/understand,tinh y; sau sac,recovery,P2,2026-08-11,quiz history,Correctly avoided in monotonous task context; still watch contrast
 29,per,perfect,adjective/verb,without mistakes; make perfect,hoan hao,recovery,P2,2026-08-07,quiz history,Selected instead of permanent on Weekly Quick
 29,per,perfectly,adverb,completely; without error,mot cach hoan hao,new_unit,P2,2026-08-07,conversation update,
 29,per,perfection,noun,state of being perfect,su hoan hao,new_unit,P2,2026-08-07,conversation update,
@@ -141,26 +142,43 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 29,per,permanent,adjective,lasting; not temporary,lau dai; vinh vien,recovery,P2,2026-08-07,quiz history,Wrong on Weekly Quick; selected perfect
 29,per,perform,verb,carry out; act,thuc hien; bieu dien,new_unit,P2,2026-08-07,conversation update,
 29,per,permit,verb/noun,allow; official permission,cho phep; giay phep,cooldown,P3,2026-08-10,quiz history,Permission form correct on Daily Quick
-29,per,perspective,noun,point of view,goc nhin,cooldown,P3,2026-08-07,quiz history,Correct on Weekly Quick; contrast with perception
+29,per,perspective,noun,point of view,goc nhin,recovery,P2,2026-08-11,quiz history,Selected instead of perception; contrast with customer perception
 29,per,perfume,noun,pleasant smell/scented liquid,nuoc hoa; mui thom,new_unit,P2,2026-08-07,conversation update,
 29,per,pervade,verb,spread through everywhere,lan toa; tham vao,new_unit,P2,2026-08-07,conversation update,
 0,outwork,symptoms,noun,signs of illness/problem,trieu chung,new_unit,P2,2026-08-07,conversation update,Outwork vocabulary
 0,outwork,boredom tolerance,noun phrase,ability to endure boredom,kha nang chiu su nham chan,new_unit,P2,2026-08-07,conversation update,Outwork vocabulary
-0,outwork,monotonous,adjective,repetitive and dull,don dieu,recovery,P1,2026-08-10,quiz history,Wrong on Daily Quick; selected perceptive for repetitive task
+0,outwork,monotonous,adjective,repetitive and dull,don dieu,recovery,P2,2026-08-11,quiz history,Correct after prior miss; keep one more stable check before cooldown
 0,outwork,tap out,phrasal verb,quit; give up,bo cuoc,new_unit,P2,2026-08-07,conversation update,Outwork vocabulary
 0,outwork,stimulation,noun,mental/physical activation,kich thich,new_unit,P2,2026-08-07,conversation update,Outwork vocabulary
-0,outwork,endurance,noun,ability to keep going despite difficulty or tiredness,suc ben,new_unit,P2,2026-08-10,addendum update,Outwork vocabulary added by user
-0,outwork,tolerating,verb/gerund,enduring or accepting something unpleasant,chiu dung,new_unit,P2,2026-08-10,addendum update,Outwork vocabulary added by user; base verb tolerate
-30,post,postgraduate,noun/adjective,student or course after a first university degree,sau dai hoc; hoc vien sau dai hoc,new_unit,P2,2026-08-10,addendum update,Book word
-30,post,postpone,verb,delay; arrange for a later time,tri hoan,new_unit,P2,2026-08-10,addendum update,Book word; contrast with postponement
+0,outwork,endurance,noun,ability to keep going despite difficulty or tiredness,suc ben,recovery,P1,2026-08-11,quiz history,Wrong on Daily Quick; selected tolerating for physical ability noun context
+0,outwork,tolerating,verb/gerund,enduring or accepting something unpleasant,chiu dung,recovery,P2,2026-08-11,quiz history,Selected instead of endurance; watch gerund versus noun phrase
+0,outwork,compounding,noun/adjective,cumulative increase or effect that builds over time,su gia tang tich tu,new_unit,P2,2026-08-11,addendum update,Outwork vocabulary added by user
+0,outwork,sustained,adjective,maintained or continued over time,duy tri lien tuc,new_unit,P2,2026-08-11,addendum update,Outwork vocabulary added by user
+30,post,postgraduate,noun/adjective,student or course after a first university degree,sau dai hoc; hoc vien sau dai hoc,new_unit,P2,2026-08-11,quiz history,Correct on first Unit 30 Daily Quick
+30,post,postpone,verb,delay; arrange for a later time,tri hoan,new_unit,P2,2026-08-11,quiz history,Correct verb use on first Unit 30 Daily Quick
 30,post,postscript,noun,extra note added at the end of a letter or message,tai but,new_unit,P2,2026-08-10,addendum update,Book word
 30,post,post-traumatic,adjective,happening after trauma,hau chan thuong,new_unit,P2,2026-08-10,addendum update,Book word
 30,post,postwar,adjective,after a war,hau chien,new_unit,P2,2026-08-10,addendum update,Book word
 30,post,postponement,noun,delay; act of postponing,su tri hoan,new_unit,P2,2026-08-10,addendum update,Word family of postpone
-30,post,post-paid,adjective,paid after use,tra sau,new_unit,P2,2026-08-10,addendum update,Extended word
+30,post,post-paid,adjective,paid after use,tra sau,new_unit,P2,2026-08-11,quiz history,Correct on first Unit 30 Daily Quick
 30,post,post-crisis,adjective,after a crisis,sau khung hoang,new_unit,P2,2026-08-10,addendum update,Extended word
 30,post,post-match,adjective,after a match or game,sau tran dau,new_unit,P2,2026-08-10,addendum update,Extended word
 30,post,post-accident,adjective,after an accident,sau tai nan,new_unit,P2,2026-08-10,addendum update,Extended word
 30,post,post-flight,adjective,after a flight,sau chuyen bay,new_unit,P2,2026-08-10,addendum update,Extended word
 30,post,post-holiday,adjective,after a holiday or vacation,sau ky nghi,new_unit,P2,2026-08-10,addendum update,Extended word
 30,post,post-concert,adjective,after a concert,sau buoi hoa nhac,new_unit,P2,2026-08-10,addendum update,Extended word
+31,pre,prearranged,adjective,arranged in advance,duoc sap dat truoc,new_unit,P2,2026-08-11,addendum update,Book word
+31,pre,preorder,verb/noun,order before release or availability,dat hang truoc,new_unit,P2,2026-08-11,addendum update,Book word
+31,pre,prepare,verb,get ready in advance,chuan bi truoc,new_unit,P2,2026-08-11,addendum update,Book word
+31,pre,preschool,noun/adjective,school or education before primary school,mau giao; truoc tieu hoc,new_unit,P2,2026-08-11,addendum update,Book word
+31,pre,preview,verb/noun,see or show before the full version or release,xem truoc; ban xem truoc,new_unit,P2,2026-08-11,addendum update,Book word
+31,pre,prepaid,adjective,paid before use,tra truoc,new_unit,P2,2026-08-11,addendum update,Extended word; contrast with post-paid
+31,pre,pretest,noun/verb,test before the main test or learning period,bai kiem tra truoc,new_unit,P2,2026-08-11,addendum update,Extended word
+31,pre,predict,verb,say what will happen in the future,du doan,new_unit,P2,2026-08-11,addendum update,Extended word
+31,pre,preheat,verb,heat before cooking or use,lam nong truoc,new_unit,P2,2026-08-11,addendum update,Extended word
+31,pre,pre-exist,verb,exist before something else,ton tai tu truoc,new_unit,P2,2026-08-11,addendum update,Extended word
+31,pre,pre-book,verb,book or reserve in advance,dat cho truoc,new_unit,P2,2026-08-11,addendum update,Extended word
+31,pre,precooked,adjective,cooked before sale or use,da nau chin truoc,new_unit,P2,2026-08-11,addendum update,Extended word
+31,pre,pre-sale,noun,sale before official or general release,dot mo ban truoc,new_unit,P2,2026-08-11,addendum update,Extended word
+31,pre,prevent,verb,stop something from happening,ngan chan,new_unit,P2,2026-08-11,addendum update,Extended word
+31,pre,precaution,noun,action taken in advance to avoid risk or harm,su phong ngua,new_unit,P2,2026-08-11,addendum update,Extended word

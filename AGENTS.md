@@ -1,7 +1,7 @@
 # English Vocabulary Project - Agent Operating Manual
 
 Date created: 2026-08-07
-Current scope: Unit 01-30
+Current scope: Unit 01-31
 
 This file is the mandatory entry point for every Codex session in this project.
 

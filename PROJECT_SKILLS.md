@@ -1,7 +1,7 @@
 # Project Skills - English Vocabulary Project
 
 Date created: 2026-08-07
-Scope: Unit 01-29
+Scope: Unit 01-31
 
 This file defines project-specific learning and quiz-design skills. It is not a
 replacement for `VOCABULARY_STATE.csv`, `ROTATION_STATE.md`, or Recovery files.
@@ -32,6 +32,9 @@ Useful context cues:
 - Convincing someone: `persuade`, `persuasive`
 - Point of view: `perspective`
 - Public understanding or impression: `perception`
+- Before use/release/action: `prepaid`, `preorder`, `preview`, `preheat`,
+  `precaution`
+- After use/event/action: `post-paid`, `post-flight`, `post-match`
 
 ## 2. Memory Skill
 
@@ -55,6 +58,10 @@ Memory chunk examples:
 - `flu outbreak`: sudden spread of illness.
 - `public perception`: how people understand or view something.
 - `customer perspective`: the customer's point of view.
+- `prepaid plan`: paid before use.
+- `post-paid plan`: paid after use.
+- `preorder a device`: order it before official release.
+- `take precautions`: act in advance to avoid risk.
 - `perceptive teacher`: a teacher who notices details.
 - `persuasive presentation`: a presentation that convinces people.
 - `permanent mark`: a mark that does not wash off.

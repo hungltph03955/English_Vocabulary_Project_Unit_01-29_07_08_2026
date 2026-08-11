@@ -23,4 +23,10 @@ When grading a quiz:
 
 ## Candidates
 
-No incidental non-bank candidates recorded yet.
+### 2026-08-11 - `rotated`
+
+- Source: Daily Quick Q1 prompt.
+- Sentence: "Reviewing the same support tickets for six hours felt ______, so the manager rotated tasks."
+- Learner note: said `rotated` was unknown.
+- Meaning in context: changed or alternated tasks among people or over time.
+- Status: candidate only; not active vocabulary.

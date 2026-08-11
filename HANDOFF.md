@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Monday 2026-08-10
+Date: Tuesday 2026-08-11
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-30
+Current scope: Unit 01-31
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -15,8 +15,8 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-08-11.md` after the Monday quiz)
-6. `WORD_FORMATION_ADDENDUM_Units_22-30.md`
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-08-12.md` after the Tuesday quiz)
+6. `WORD_FORMATION_ADDENDUM_Units_22-31.md`
 7. `VOCABULARY_STATE.csv`
 8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-08-10_to_2026-08-14.md`)
 9. `MONTHLY_REPORT_2026_07.md`
@@ -25,13 +25,13 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current date decision
 
-Monday 2026-08-10 was a Daily Quick day.
+Tuesday 2026-08-11 was a Daily Quick day.
 
-The valid Daily Quick was completed on 2026-08-10 with a score of 11/12.
+The valid Daily Quick was completed on 2026-08-11 with a score of 10/12.
 
 The next expected quiz is:
 
-- Tuesday 2026-08-11
+- Wednesday 2026-08-12
 - Daily Quick
 - 12 questions
 
@@ -46,7 +46,7 @@ mistake and must not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 30.
+The project has advanced through Unit 31.
 
 Recent unit coverage:
 
@@ -59,6 +59,7 @@ Recent unit coverage:
 - Unit 28: `over-`
 - Unit 29: `per-`
 - Unit 30: `post-`
+- Unit 31: `pre-`
 
 Additional reading vocabulary recently added from Outwork:
 
@@ -69,6 +70,8 @@ Additional reading vocabulary recently added from Outwork:
 - `stimulation`
 - `endurance`
 - `tolerating`
+- `compounding`
+- `sustained`
 
 Unit 30 `post-` vocabulary added on 2026-08-10:
 
@@ -86,21 +89,34 @@ Unit 30 `post-` vocabulary added on 2026-08-10:
 - `post-holiday`
 - `post-concert`
 
+Unit 31 `pre-` vocabulary added on 2026-08-11:
+
+- Book words: `prearranged`, `preorder`, `prepare`, `preschool`, `preview`
+- Extended words: `prepaid`, `pretest`, `predict`, `preheat`,
+  `pre-exist`, `pre-book`, `precooked`, `pre-sale`, `prevent`,
+  `precaution`
+
+Additional update on 2026-08-11:
+
+- Outwork: `compounding`, `sustained`
+- Unit 23 supplement reconciled from addendum: `drug`
+
 ## Last valid completed quiz
 
 Last valid completed quiz:
 
-- Date: Monday 2026-08-10
+- Date: Tuesday 2026-08-11
 - Type: Daily Quick
-- Recorded result: 11/12
-- Correct but uncertain: Q1 `outburst`
-- Wrong: Q12 `monotonous`; selected `perceptive`
+- Recorded result: 10/12
+- Wrong: Q4 `perception`; selected `perspective`
+- Wrong and uncertain: Q8 `endurance`; selected `tolerating?`
+- Incidental unknown word recorded: `rotated`
 
 Previous valid quiz:
 
-- Date: Friday 2026-08-07
-- Type: Weekly Quick
-- Recorded result: 23/30
+- Date: Monday 2026-08-10
+- Type: Daily Quick
+- Recorded result: 11/12
 
 ## Previous week progress
 
@@ -119,24 +135,30 @@ Available results for the current week:
 | Date | Type | Result | Notes |
 |---|---|---:|---|
 | 2026-08-10 | Daily Quick | 11/12 | Q1 `outburst` correct but uncertain; Q12 `monotonous` wrong |
+| 2026-08-11 | Daily Quick | 10/12 | Q4 `perception` wrong; Q8 `endurance` wrong and uncertain; `rotated` recorded as candidate |
 
 ## Current recovery priorities
 
 P1:
 
-- `monotonous` vs `perceptive` / `stimulating`
+- `perception` vs `perspective`
+- `endurance` vs `tolerating`
 
 P2:
 
-- `outbreak` vs `outburst`, especially `outburst`
-- `illegible` vs `illiterate`
+- `monotonous` vs `perceptive` / `stimulating`
 - `objective` vs `observant` vs `observable`
-- Unit 29 contrast families: `perception` vs `perspective` / `permission`, `perceptive` vs `persuasive`, `persuasive` vs `permanent`, `permanent` vs `perfect`
-- Unit 30 `post-` first-practice words: `postpone` / `postponement`, `postgraduate`, `postscript`, `post-traumatic`, `postwar`
-- `non-essential` vs `non-urgent`
+- Unit 29 contrast families: `perceptive` vs `persuasive`, `persuasive` vs `permanent`, `permanent` vs `perfect`, `persist` vs `persevere`
+- Unit 30 `post-` first-practice words: `postscript`, `post-traumatic`, `postwar`, `postponement`, and extended `post-` phrases
+- Unit 31 `pre-` first-practice words, especially `preorder`, `preview`,
+  `prepaid`, `preheat`, `prevent`, and `precaution`
+- Additional update words: `compounding`, `sustained`, `drug`
 
 Cooldown / light watch:
 
+- `outburst` vs `outbreak`
+- `illegible` vs `illiterate`
+- `non-essential` vs `non-urgent`
 - `misuse` vs `mislead` vs `mismatch`
 - `illogical` vs `irrelevant` vs `irrational`
 - `intersect`
@@ -148,18 +170,19 @@ Cooldown / light watch:
 - `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Daily Quick for 2026-08-11
+## Recommended Daily Quick for 2026-08-12
 
 Use 12 questions:
 
 - 5 Recovery
-- 3 Unit 29 / Unit 30 / Outwork current-unit checks
-- 2 Unit 27-28 due / cooldown checks
-- 2 Unit Tour / Topic Tour checks
+- 3 Unit 31 first-practice checks
+- 2 Unit 30 / Outwork current-unit checks
+- 1 Unit 27-28 due / cooldown check
+- 1 Unit Tour / Topic Tour check
 
-Recovery must appear early. Unit 30 should be introduced, and Unit 29 / Outwork
-vocabulary should continue, but new words must not crowd out `monotonous` and
-the remaining contrast traps.
+Recovery must appear early. Unit 31 should receive first-practice coverage, and
+Unit 30 / Outwork vocabulary should continue, but new words must not crowd out
+`perception` vs `perspective` or `endurance` vs `tolerating`.
 
 ## Operational priority
 

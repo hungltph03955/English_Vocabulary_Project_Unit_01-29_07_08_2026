@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-30
+# Word Formation Addendum - Units 22-31
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -54,7 +54,7 @@ Extended words:
 
 Supplement:
 
-- `drug`
+- `drug` = a substance used as medicine or an illegal/addictive substance
 
 Watch:
 
@@ -350,4 +350,44 @@ Watch:
 - `post-paid` means payment happens after use, not before.
 
 
+## Additional Outwork Vocabulary - 2026-08-11
 
+- `compounding` = cumulative increase; an effect that builds up over time
+- `sustained` = maintained or continued over time
+
+Watch:
+
+- `compounding effect` = an effect that grows because each round adds to the next.
+- `sustained effort` = effort maintained over time, not a short burst.
+
+## Unit 31 - `pre-`
+
+Meaning: before, in advance, earlier than the main event/time/process.
+
+Book words:
+
+- `prearranged` = arranged in advance
+- `preorder` = order before release or availability
+- `prepare` = get ready in advance
+- `preschool` = school or education before primary school
+- `preview` = see or show something before the full version/release
+
+Extended words:
+
+- `prepaid` = paid before use
+- `pretest` = a test before the main test or learning period
+- `predict` = say what will happen in the future
+- `preheat` = heat before cooking or use
+- `pre-exist` = exist before something else
+- `pre-book` = book in advance
+- `precooked` = cooked before sale/use
+- `pre-sale` = sale before official/general release
+- `prevent` = stop something from happening
+- `precaution` = action taken in advance to avoid risk or harm
+
+Watch:
+
+- `prepaid` vs `post-paid`: pay before use vs pay after use.
+- `preorder` is for ordering before release; `pre-book` is for reserving a service or seat before the date.
+- `preview` means seeing before full release; `pretest` means testing before the main learning/test period.
+- `prevent` is the action; `precaution` is the preventive measure.
