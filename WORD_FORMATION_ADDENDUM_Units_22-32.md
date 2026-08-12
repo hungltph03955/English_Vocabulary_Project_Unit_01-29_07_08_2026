@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-31
+# Word Formation Addendum - Units 22-32
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -391,3 +391,85 @@ Watch:
 - `preorder` is for ordering before release; `pre-book` is for reserving a service or seat before the date.
 - `preview` means seeing before full release; `pretest` means testing before the main learning/test period.
 - `prevent` is the action; `precaution` is the preventive measure.
+
+## Unit 32 - `pro-`
+
+Meaning: forward, forth, before, or supporting/in favor of something. Some
+words in this unit are better learned through root families than through a
+single prefix translation.
+
+Book words:
+
+- `proceed` = continue; go forward with an action or process
+- `profound` = deep, serious, or having deep meaning
+- `promote` = support, encourage, or raise to a higher position
+- `protect` = keep safe from harm
+- `provide` = give or supply what is needed
+
+Word families:
+
+`profound`:
+
+- `profound`
+- `profoundly`
+- `profundity`
+
+`promote`:
+
+- `promote`
+- `promoter`
+- `promotion`
+- `promotional`
+
+`protect`:
+
+- `protect`
+- `protection`
+- `protective`
+- `protector`
+
+`provide`:
+
+- `provide`
+- `provision`
+
+Extended words:
+
+- `proactive` = taking action before problems happen; self-starting
+- `produce` = make or create something
+- `progress` = improvement or movement forward
+- `project` = estimate or forecast; show an image on a surface
+- `promise` = say that you will do something; a commitment
+- `propose` = suggest a plan or idea
+- `program` = a planned set of activities; software; arrange instructions
+- `prospect` = possibility or chance of future success
+- `profit` = money gained after costs; benefit
+- `prohibit` = officially forbid something
+
+Root hints:
+
+- `ceed` = go/step
+- `found` = deep/bottom
+- `mot` = move
+- `tect` = cover/protect
+- `vid` = see
+- `active` = energetic/action-oriented
+- `duc` = lead/bring
+- `gress` = step/go
+- `ject` = throw
+- `mis` = send
+- `pos` = put/place
+- `gram` = write
+- `spect` = look/see
+- `fit` = make/do
+- `hibit` = hold
+
+Watch:
+
+- `proceed` is a verb meaning continue: `proceed with the plan`.
+- `profound` describes deep meaning or impact; `profoundly` is the adverb; `profundity` is the noun.
+- `promote` can mean encourage/support or raise someone to a higher job.
+- `promotion` can mean job advancement or marketing activity.
+- `protective` describes something that protects; `protector` is the person or thing that protects.
+- `provide` is the verb; `provision` is the noun for supply or arrangement.
+- `project` as a verb can mean estimate future numbers or display an image.

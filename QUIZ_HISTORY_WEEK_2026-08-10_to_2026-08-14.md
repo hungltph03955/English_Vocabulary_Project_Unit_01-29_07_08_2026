@@ -158,3 +158,109 @@ Rotation update:
   `tolerating`.
 - Do not promote `rotated`; it remains only a candidate in
   `NEW_WORD_CANDIDATES.md`.
+
+## Wednesday 2026-08-12 - Daily Quick
+
+Score: 9/12
+
+Percentage: 75.0%
+
+Structure:
+
+- Q1-Q5: Recovery
+- Q6-Q8: Unit 31 first-practice checks
+- Q9-Q10: Unit 30 / Outwork current-unit checks
+- Q11: Due / cooldown check from Units 27-28
+- Q12: Unit Tour / Topic Tour
+
+Item-level results:
+
+- Correct: Q1 `perception`
+- Correct but uncertain: Q2 `perspective`; selected `B?` with reasoning
+- Correct: Q3 `endurance`
+- Wrong: Q4 `tolerating`; selected `compounding`
+- Correct: Q5 `monotonous`
+- Correct: Q6 `preorder`
+- Correct: Q7 `preheat`
+- Correct: Q8 `prepaid`
+- Correct: Q9 `postscript`
+- Wrong and uncertain: Q10 `sustained`; selected `compounding?`
+- Correct but uncertain: Q11 `overlooked`; selected `A?`
+- Wrong: Q12 `precaution`; selected `preview`
+
+Wrong item review:
+
+- Q4 sentence: "______ loud construction noise all day made it hard to focus."
+- Learner answer: `C. Compounding`
+- Correct answer: `B. Tolerating`
+- Reason: `Tolerating` is the gerund form that can act like a noun phrase here: the act of putting up with noise. `Compounding` means building up or increasing over time, so it does not name the act of enduring the noise.
+- Memory chunk: `tolerating loud noise` = putting up with loud noise.
+
+- Q10 sentence: "The team needed ______ focus to finish the migration without mistakes."
+- Learner answer: `A. compounding?`
+- Correct answer: `B. sustained`
+- Reason: `sustained` describes something maintained continuously over time. `Compounding` describes an effect or increase that builds on itself, not steady focus.
+- Memory chunk: `sustained focus` = focus maintained for a long period.
+
+- Q12 sentence: "Installing extra backups was a useful safety ______ before the data migration."
+- Learner answer: `B. preview`
+- Correct answer: `C. precaution`
+- Reason: A `precaution` is an action taken in advance to avoid risk or harm. A `preview` is seeing or showing something before the full version; backups are not a preview.
+- Memory chunk: `safety precaution` = an advance action to reduce risk.
+
+Uncertain item review:
+
+- Q2 sentence: "From the manager's ______, delaying the launch was the right decision."
+- Learner answer: `B. perspective?`
+- Correct answer: `B. perspective`
+- Reason: Correct, but marked uncertain. `Perspective` fits because the sentence means "from the manager's point of view."
+- Memory chunk: `from someone's perspective` = from someone's point of view.
+
+- Q11 sentence: "We ______ a small bug during review, so it reached production."
+- Learner answer: `A. overlooked?`
+- Correct answer: `A. overlooked`
+- Reason: Correct, but marked uncertain. `Overlooked` means failed to notice; the bug reached production because the team missed it during review.
+- Memory chunk: `overlook a bug` = fail to notice a bug.
+
+Recovery after quiz:
+
+- Add P1: `tolerating` vs `compounding`, especially gerund-as-subject contexts.
+- Add P1: `sustained` vs `compounding`, especially `sustained focus/effort`.
+- Add P1: `precaution` vs `preview`, especially `safety precaution`.
+- Keep P2: `perception` vs `perspective`; Q1 correct, Q2 correct but uncertain.
+- Reduce P1 to P2: `endurance`; correct today, but keep contrast with `tolerating`.
+- Reduce P2 to cooldown: `monotonous`; stable after another correct answer.
+
+Cooldown / light watch:
+
+- `preorder`, `preheat`, `prepaid`, and `postscript` were correct on first practice.
+- `overlook` was correct but uncertain; keep light watch.
+
+Next action:
+
+- Thursday 2026-08-13 should be a Daily Quick with 12 questions.
+
+## Wednesday 2026-08-12 - Vocabulary Update
+
+New vocabulary added after the Daily Quick:
+
+- Unit 32 `pro-` book words: `proceed`, `profound`, `promote`, `protect`,
+  `provide`
+- Unit 32 word families: `profoundly`, `profundity`, `promoter`,
+  `promotion`, `promotional`, `protection`, `protective`, `protector`,
+  `provision`
+- Unit 32 extended words: `proactive`, `produce`, `progress`, `project`,
+  `promise`, `propose`, `program`, `prospect`, `profit`, `prohibit`
+
+Normalization:
+
+- User note `profoundity` was normalized to the correct spelling `profundity`.
+- User note `protecttive` was normalized to the correct spelling `protective`.
+
+Rotation update:
+
+- Unit 32 should receive first valid practice from the next Daily Quick onward.
+- Keep P1 Recovery first: `tolerating` vs `compounding`, `sustained` vs
+  `compounding`, and `precaution` vs `preview`.
+- Root hints such as `ceed`, `mot`, `tect`, and `vid` are kept as learning
+  hints in the addendum, not active vocabulary rows.

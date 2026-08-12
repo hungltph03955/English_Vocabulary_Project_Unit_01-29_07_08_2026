@@ -1,7 +1,7 @@
 # Project Skills - English Vocabulary Project
 
 Date created: 2026-08-07
-Scope: Unit 01-31
+Scope: Unit 01-32
 
 This file defines project-specific learning and quiz-design skills. It is not a
 replacement for `VOCABULARY_STATE.csv`, `ROTATION_STATE.md`, or Recovery files.
@@ -35,6 +35,11 @@ Useful context cues:
 - Before use/release/action: `prepaid`, `preorder`, `preview`, `preheat`,
   `precaution`
 - After use/event/action: `post-paid`, `post-flight`, `post-match`
+- Continuing or moving forward: `proceed`, `progress`
+- Deep impact or meaning: `profound`, `profoundly`, `profundity`
+- Support, marketing, or job advancement: `promote`, `promotion`,
+  `promotional`
+- Safety and supply: `protect`, `protection`, `provide`, `provision`
 
 ## 2. Memory Skill
 
@@ -62,6 +67,11 @@ Memory chunk examples:
 - `post-paid plan`: paid after use.
 - `preorder a device`: order it before official release.
 - `take precautions`: act in advance to avoid risk.
+- `proceed with the plan`: continue with the plan.
+- `profound impact`: a deep, serious effect.
+- `promotion campaign`: marketing activity.
+- `protective gear`: gear that keeps someone safe.
+- `provide resources`: supply what is needed.
 - `perceptive teacher`: a teacher who notices details.
 - `persuasive presentation`: a presentation that convinces people.
 - `permanent mark`: a mark that does not wash off.
