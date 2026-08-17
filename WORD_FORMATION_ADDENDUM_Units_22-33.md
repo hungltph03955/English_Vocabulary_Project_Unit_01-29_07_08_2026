@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-32
+# Word Formation Addendum - Units 22-33
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -473,3 +473,71 @@ Watch:
 - `protective` describes something that protects; `protector` is the person or thing that protects.
 - `provide` is the verb; `provision` is the noun for supply or arrangement.
 - `project` as a verb can mean estimate future numbers or display an image.
+
+## Unit 33 - `re-`
+
+Meaning: again, back, or returning to a previous state. Some words are best
+learned as practical action verbs rather than by translating the prefix only.
+
+Book words:
+
+- `rearrange` = arrange again or in a new order
+- `recycle` = process used materials so they can be used again
+- `renew` = make new again; extend a contract, license, or subscription
+- `return` = come/go back; give something back
+- `rewrite` = write again or revise
+
+Word families and base/support words:
+
+`rearrange`:
+
+- `arrange`
+- `rearrange`
+
+`recycle`:
+
+- `cycle`
+- `recycle`
+- `recyclable`
+- `recycling`
+
+`renew`:
+
+- `renew`
+- `renewable`
+- `renewal`
+
+`return`:
+
+- `return`
+- `returnable`
+
+`rewrite`:
+
+- `rewrite`
+- `rewritable`
+
+Extended words:
+
+- `reorganize` = organize again or differently
+- `rebuild` = build again after damage or change
+- `recover` = return to health or regain something
+- `replace` = take the place of; put something new instead
+- `replay` = play again
+- `reconsider` = think about again before deciding
+- `remind` = make someone remember
+- `recreate` = create again or copy a past state
+- `reuse` = use again
+- `reunite` = bring or come together again
+- `refund` = give money back
+- `reconnect` = connect again
+- `refill` = fill again
+- `resell` = sell again
+
+Watch:
+
+- `rearrange` means change the order or plan; `arrange` is the first-time action.
+- `recycle` is the action; `recyclable` describes material that can be recycled; `recycling` is the process.
+- `renew` can mean refresh something or extend a license/subscription; `renewal` is the noun.
+- `return` can mean go back or give back; `refund` specifically means give money back.
+- `rewrite` is the action; `rewritable` describes something that can be written again or overwritten.

@@ -108,7 +108,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 28,over,overweight,adjective,too heavy,thua can,cooldown,P3,2026-08-04,conversation update,
 28,over,oversize,adjective,too large,qua co,cooldown,P3,2026-08-04,conversation update,
 28,over,overcharge,verb,charge too much,tinh gia qua cao,cooldown,P3,2026-08-04,conversation update,
-28,over,overlook,verb,fail to notice; look over,bo sot; nhin ra,cooldown,P3,2026-08-12,quiz history,Correct but uncertain on Daily Quick; keep light watch
+28,over,overlook,verb,fail to notice; look over,bo sot; nhin ra,cooldown,P3,2026-08-17,quiz history,Correct confidently after prior uncertainty; keep light watch
 28,over,overwork,verb,work too much,lam viec qua suc,cooldown,P3,2026-08-04,conversation update,
 28,over,oversleep,verb,sleep too long; wake late,ngu quen,cooldown,P3,2026-08-10,quiz history,Correct on Daily Quick
 28,over,overwhelmed,adjective,unable to cope; flooded with feeling,choang ngop,cooldown,P3,2026-08-05,conversation update,
@@ -142,7 +142,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 29,per,permanent,adjective,lasting; not temporary,lau dai; vinh vien,recovery,P2,2026-08-07,quiz history,Wrong on Weekly Quick; selected perfect
 29,per,perform,verb,carry out; act,thuc hien; bieu dien,new_unit,P2,2026-08-07,conversation update,
 29,per,permit,verb/noun,allow; official permission,cho phep; giay phep,cooldown,P3,2026-08-10,quiz history,Permission form correct on Daily Quick
-29,per,perspective,noun,point of view,goc nhin,recovery,P2,2026-08-12,quiz history,Correct but uncertain in manager viewpoint context; keep light watch
+29,per,perspective,noun,point of view,goc nhin,cooldown,P3,2026-08-17,quiz history,Correct confidently in customer viewpoint context; contrast improved
 29,per,perfume,noun,pleasant smell/scented liquid,nuoc hoa; mui thom,new_unit,P2,2026-08-07,conversation update,
 29,per,pervade,verb,spread through everywhere,lan toa; tham vao,new_unit,P2,2026-08-07,conversation update,
 0,outwork,symptoms,noun,signs of illness/problem,trieu chung,new_unit,P2,2026-08-07,conversation update,Outwork vocabulary
@@ -151,9 +151,9 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 0,outwork,tap out,phrasal verb,quit; give up,bo cuoc,new_unit,P2,2026-08-07,conversation update,Outwork vocabulary
 0,outwork,stimulation,noun,mental/physical activation,kich thich,new_unit,P2,2026-08-07,conversation update,Outwork vocabulary
 0,outwork,endurance,noun,ability to keep going despite difficulty or tiredness,suc ben,recovery,P2,2026-08-12,quiz history,Correct in physical endurance context; keep contrast with tolerating
-0,outwork,tolerating,verb/gerund,enduring or accepting something unpleasant,chiu dung,recovery,P1,2026-08-12,quiz history,Wrong on Daily Quick; selected compounding for tolerating noise gerund context
-0,outwork,compounding,noun/adjective,cumulative increase or effect that builds over time,su gia tang tich tu,recovery,P2,2026-08-12,quiz history,Selected instead of tolerating and sustained; watch meaning as cumulative build-up
-0,outwork,sustained,adjective,maintained or continued over time,duy tri lien tuc,recovery,P1,2026-08-12,quiz history,Wrong on Daily Quick; selected compounding for sustained focus
+0,outwork,tolerating,verb/gerund,enduring or accepting something unpleasant,chiu dung,recovery,P1,2026-08-17,quiz history,Wrong again on Daily Quick; selected compounding for tolerating interruptions gerund context
+0,outwork,compounding,noun/adjective,cumulative increase or effect that builds over time,su gia tang tich tu,recovery,P2,2026-08-17,quiz history,Correct in compounding effect context but still over-selected for tolerating; keep contrast
+0,outwork,sustained,adjective,maintained or continued over time,duy tri lien tuc,recovery,P2,2026-08-17,quiz history,Correct in sustained focus context after prior miss; keep one light contrast check against compounding
 30,post,postgraduate,noun/adjective,student or course after a first university degree,sau dai hoc; hoc vien sau dai hoc,new_unit,P2,2026-08-11,quiz history,Correct on first Unit 30 Daily Quick
 30,post,postpone,verb,delay; arrange for a later time,tri hoan,new_unit,P2,2026-08-11,quiz history,Correct verb use on first Unit 30 Daily Quick
 30,post,postscript,noun,extra note added at the end of a letter or message,tai but,new_unit,P2,2026-08-12,quiz history,Correct on Daily Quick first-practice check
@@ -164,34 +164,34 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 30,post,post-crisis,adjective,after a crisis,sau khung hoang,new_unit,P2,2026-08-10,addendum update,Extended word
 30,post,post-match,adjective,after a match or game,sau tran dau,new_unit,P2,2026-08-10,addendum update,Extended word
 30,post,post-accident,adjective,after an accident,sau tai nan,new_unit,P2,2026-08-10,addendum update,Extended word
-30,post,post-flight,adjective,after a flight,sau chuyen bay,new_unit,P2,2026-08-10,addendum update,Extended word
+30,post,post-flight,adjective,after a flight,sau chuyen bay,recovery,P1,2026-08-17,quiz history,Unanswered on Daily Quick; correct answer for after-landing survey context
 30,post,post-holiday,adjective,after a holiday or vacation,sau ky nghi,new_unit,P2,2026-08-10,addendum update,Extended word
 30,post,post-concert,adjective,after a concert,sau buoi hoa nhac,new_unit,P2,2026-08-10,addendum update,Extended word
 31,pre,prearranged,adjective,arranged in advance,duoc sap dat truoc,new_unit,P2,2026-08-11,addendum update,Book word
 31,pre,preorder,verb/noun,order before release or availability,dat hang truoc,new_unit,P2,2026-08-12,quiz history,Correct on Daily Quick first-practice check
 31,pre,prepare,verb,get ready in advance,chuan bi truoc,new_unit,P2,2026-08-11,addendum update,Book word
 31,pre,preschool,noun/adjective,school or education before primary school,mau giao; truoc tieu hoc,new_unit,P2,2026-08-11,addendum update,Book word
-31,pre,preview,verb/noun,see or show before the full version or release,xem truoc; ban xem truoc,recovery,P2,2026-08-12,quiz history,Selected instead of precaution in safety context; contrast with safety precaution
+31,pre,preview,verb/noun,see or show before the full version or release,xem truoc; ban xem truoc,recovery,P2,2026-08-17,quiz history,Correctly avoided in safety precaution context; keep contrast with precaution
 31,pre,prepaid,adjective,paid before use,tra truoc,new_unit,P2,2026-08-12,quiz history,Correctly contrasted with post-paid on Daily Quick
 31,pre,pretest,noun/verb,test before the main test or learning period,bai kiem tra truoc,new_unit,P2,2026-08-11,addendum update,Extended word
 31,pre,predict,verb,say what will happen in the future,du doan,new_unit,P2,2026-08-11,addendum update,Extended word
 31,pre,preheat,verb,heat before cooking or use,lam nong truoc,new_unit,P2,2026-08-12,quiz history,Correct on Daily Quick first-practice check
 31,pre,pre-exist,verb,exist before something else,ton tai tu truoc,new_unit,P2,2026-08-11,addendum update,Extended word
-31,pre,pre-book,verb,book or reserve in advance,dat cho truoc,new_unit,P2,2026-08-11,addendum update,Extended word
+31,pre,pre-book,verb,book or reserve in advance,dat cho truoc,new_unit,P2,2026-08-17,quiz history,Correct on Daily Quick; reserve before workshop context
 31,pre,precooked,adjective,cooked before sale or use,da nau chin truoc,new_unit,P2,2026-08-11,addendum update,Extended word
 31,pre,pre-sale,noun,sale before official or general release,dot mo ban truoc,new_unit,P2,2026-08-11,addendum update,Extended word
 31,pre,prevent,verb,stop something from happening,ngan chan,new_unit,P2,2026-08-11,addendum update,Extended word
-31,pre,precaution,noun,action taken in advance to avoid risk or harm,su phong ngua,recovery,P1,2026-08-12,quiz history,Wrong on Daily Quick; selected preview for safety precaution context
-32,pro,proceed,verb,continue; go forward with an action or process,tiep tuc; tien hanh,new_unit,P2,2026-08-12,addendum update,Book word
-32,pro,profound,adjective,deep; serious; having deep meaning,sau sac,new_unit,P2,2026-08-12,addendum update,Book word
+31,pre,precaution,noun,action taken in advance to avoid risk or harm,su phong ngua,recovery,P2,2026-08-17,quiz history,Correct in safety precaution context after prior miss; keep light watch
+32,pro,proceed,verb,continue; go forward with an action or process,tiep tuc; tien hanh,new_unit,P2,2026-08-17,quiz history,Correct first-practice check after approval context
+32,pro,profound,adjective,deep; serious; having deep meaning,sau sac,new_unit,P2,2026-08-17,quiz history,Correct first-practice adjective check in profound effect context
 32,pro,promote,verb,support or encourage; raise to a higher position,thuc day; thang chuc,new_unit,P2,2026-08-12,addendum update,Book word
 32,pro,protect,verb,keep safe from harm,bao ve,new_unit,P2,2026-08-12,addendum update,Book word
-32,pro,provide,verb,give or supply what is needed,cung cap,new_unit,P2,2026-08-12,addendum update,Book word
+32,pro,provide,verb,give or supply what is needed,cung cap,new_unit,P2,2026-08-17,quiz history,Correct first-practice check; contrast with provision noun
 32,pro,profoundly,adverb,in a deep or serious way,mot cach sau sac,new_unit,P2,2026-08-12,addendum update,Word family of profound
 32,pro,profundity,noun,deep meaning or deep understanding,su sau sac,new_unit,P2,2026-08-12,addendum update,Word family of profound; normalized from user note profoundity
 32,pro,promoter,noun,person or organization that promotes something,nguoi thuc day; nguoi khoi xuong,new_unit,P2,2026-08-12,addendum update,Word family of promote
 32,pro,promotion,noun,act of promoting; job advancement; marketing activity,su thuc day; thang chuc; khuyen mai,new_unit,P2,2026-08-12,addendum update,Word family of promote
-32,pro,promotional,adjective,related to advertising or promotion,mang tinh quang ba,new_unit,P2,2026-08-12,addendum update,Word family of promote
+32,pro,promotional,adjective,related to advertising or promotion,mang tinh quang ba,new_unit,P2,2026-08-17,quiz history,Correct word-family adjective check before campaign
 32,pro,protection,noun,act/state of keeping safe,su bao ve,new_unit,P2,2026-08-12,addendum update,Word family of protect
 32,pro,protective,adjective,giving protection; wanting to protect,co tinh bao ve,new_unit,P2,2026-08-12,addendum update,Word family of protect; normalized from user note protecttive
 32,pro,protector,noun,person or thing that protects,nguoi bao ve; vat bao ve,new_unit,P2,2026-08-12,addendum update,Word family of protect
@@ -206,3 +206,30 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 32,pro,prospect,noun,possibility or chance of future success,trien vong; kha nang,new_unit,P2,2026-08-12,addendum update,Extended word
 32,pro,profit,noun,money gained after costs; benefit,loi nhuan; loi ich,new_unit,P2,2026-08-12,addendum update,Extended word
 32,pro,prohibit,verb,officially forbid something,nghiem cam,new_unit,P2,2026-08-12,addendum update,Extended word
+33,re,rearrange,verb,arrange again or in a new order,sap xep lai,new_unit,P2,2026-08-17,addendum update,Book word
+33,re,arrange,verb,put things in order or plan something,sap xep,new_unit,P2,2026-08-17,addendum update,Base word for rearrange
+33,re,recycle,verb,process used materials so they can be used again,tai che,new_unit,P2,2026-08-17,addendum update,Book word
+33,re,recyclable,adjective,able to be recycled,co the tai che,new_unit,P2,2026-08-17,addendum update,Word family of recycle
+33,re,recycling,noun,act or process of recycling,viec tai che,new_unit,P2,2026-08-17,addendum update,Word family of recycle
+33,re,cycle,noun,series that repeats; round or period,vong lap; chu ky,new_unit,P2,2026-08-17,addendum update,Base word for recycle
+33,re,renew,verb,make new again; extend a contract license or subscription,lam moi; gia han,new_unit,P2,2026-08-17,addendum update,Book word
+33,re,renewable,adjective,able to be renewed; naturally replaceable,tai tao duoc; co the lam moi,new_unit,P2,2026-08-17,addendum update,Word family of renew
+33,re,renewal,noun,act of renewing or extending,su lam moi; su gia han,new_unit,P2,2026-08-17,addendum update,Word family of renew
+33,re,return,verb/noun,come or go back; give something back,tro lai; tra lai,new_unit,P2,2026-08-17,addendum update,Book word
+33,re,returnable,adjective,able to be returned,co the hoan tra,new_unit,P2,2026-08-17,addendum update,Word family of return
+33,re,rewrite,verb/noun,write again or revise,viet lai; ban viet lai,new_unit,P2,2026-08-17,addendum update,Book word
+33,re,rewritable,adjective,able to be written again or overwritten,co the viet lai,new_unit,P2,2026-08-17,addendum update,Word family of rewrite; normalized from user note reweitable
+33,re,reorganize,verb,organize again or differently,to chuc lai,new_unit,P2,2026-08-17,addendum update,Extended word
+33,re,rebuild,verb,build again after damage or change,xay dung lai,new_unit,P2,2026-08-17,addendum update,Extended word
+33,re,recover,verb,return to health or regain something,hoi phuc; lay lai,new_unit,P2,2026-08-17,addendum update,Extended word
+33,re,replace,verb,take the place of; put something new instead,thay the,new_unit,P2,2026-08-17,addendum update,Extended word
+33,re,replay,verb/noun,play again; recording played again,phat lai; ban phat lai,new_unit,P2,2026-08-17,addendum update,Extended word
+33,re,reconsider,verb,think about again before deciding,can nhac lai,new_unit,P2,2026-08-17,addendum update,Extended word
+33,re,remind,verb,make someone remember,nhac nho,new_unit,P2,2026-08-17,addendum update,Extended word
+33,re,recreate,verb,create again; copy a past state,tai tao,new_unit,P2,2026-08-17,addendum update,Extended word
+33,re,reuse,verb,use again,tai su dung,new_unit,P2,2026-08-17,addendum update,Extended word
+33,re,reunite,verb,bring or come together again,doan tu; hop lai,new_unit,P2,2026-08-17,addendum update,Extended word
+33,re,refund,verb/noun,give money back; returned money,hoan tien,new_unit,P2,2026-08-17,addendum update,Extended word
+33,re,reconnect,verb,connect again,ket noi lai,new_unit,P2,2026-08-17,addendum update,Extended word
+33,re,refill,verb/noun,fill again; amount added,lam day lai; phan nap them,new_unit,P2,2026-08-17,addendum update,Extended word
+33,re,resell,verb,sell again,ban lai,new_unit,P2,2026-08-17,addendum update,Extended word

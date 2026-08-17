@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Wednesday 2026-08-12
+Date: Monday 2026-08-17
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-32
+Current scope: Unit 01-33
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -15,25 +15,27 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-08-13.md` after the Wednesday quiz)
-6. `WORD_FORMATION_ADDENDUM_Units_22-32.md`
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-08-18.md` after the Monday quiz)
+6. `WORD_FORMATION_ADDENDUM_Units_22-33.md`
 7. `VOCABULARY_STATE.csv`
-8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-08-10_to_2026-08-14.md`)
+8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-08-17_to_2026-08-21.md`)
 9. `MONTHLY_REPORT_2026_07.md`
 
 Do not generate any quiz until this startup sequence is complete.
 
 ## Current date decision
 
-Wednesday 2026-08-12 was a Daily Quick day.
+Monday 2026-08-17 was a Daily Quick day.
 
-The valid Daily Quick was completed on 2026-08-12 with a score of 9/12.
+The valid Daily Quick was completed on 2026-08-17 with a score of 10/12.
 
 The next expected quiz is:
 
-- Thursday 2026-08-13
+- Tuesday 2026-08-18
 - Daily Quick
 - 12 questions
+
+No completed quiz history was found between 2026-08-13 and 2026-08-16.
 
 The 12-question Daily Quick generated earlier on 2026-08-07 was a schedule
 mistake and must not be counted as a valid completed quiz.
@@ -46,7 +48,7 @@ mistake and must not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 32.
+The project has advanced through Unit 33.
 
 Recent unit coverage:
 
@@ -61,6 +63,7 @@ Recent unit coverage:
 - Unit 30: `post-`
 - Unit 31: `pre-`
 - Unit 32: `pro-`
+- Unit 33: `re-`
 
 Additional reading vocabulary recently added from Outwork:
 
@@ -110,27 +113,36 @@ Unit 32 `pro-` vocabulary added on 2026-08-12:
 - Extended words: `proactive`, `produce`, `progress`, `project`, `promise`,
   `propose`, `program`, `prospect`, `profit`, `prohibit`
 
+Unit 33 `re-` vocabulary added on 2026-08-17 after the Daily Quick:
+
+- Book words: `rearrange`, `recycle`, `renew`, `return`, `rewrite`
+- Word families and support words: `arrange`, `cycle`, `recyclable`,
+  `recycling`, `renewable`, `renewal`, `returnable`, `rewritable`
+- Extended words: `reorganize`, `rebuild`, `recover`, `replace`, `replay`,
+  `reconsider`, `remind`, `recreate`, `reuse`, `reunite`, `refund`,
+  `reconnect`, `refill`, `resell`
+- Normalization: user note `reweitable` was corrected to `rewritable`.
+
 ## Last valid completed quiz
 
 Last valid completed quiz:
 
-- Date: Wednesday 2026-08-12
+- Date: Monday 2026-08-17
 - Type: Daily Quick
-- Recorded result: 9/12
-- Correct but uncertain: Q2 `perspective`, Q11 `overlooked`
-- Wrong: Q4 `tolerating`; selected `compounding`
-- Wrong and uncertain: Q10 `sustained`; selected `compounding?`
-- Wrong: Q12 `precaution`; selected `preview`
+- Recorded result: 10/12
+- Correct but uncertain: none
+- Wrong: Q1 `tolerating`; selected `compounding`
+- Unanswered/unresolved: Q10 `post-flight`; answered `?` only
 
 Previous valid quiz:
 
-- Date: Tuesday 2026-08-11
+- Date: Wednesday 2026-08-12
 - Type: Daily Quick
-- Recorded result: 10/12
+- Recorded result: 9/12
 
-## Previous week progress
+## Earlier August progress
 
-Available results for the current week:
+Available results from the first August quiz week:
 
 | Date | Type | Result | Notes |
 |---|---|---:|---|
@@ -140,7 +152,7 @@ Available results for the current week:
 | 2026-08-06 | Daily Quick | 8/12 recorded | Recovery evidence shows `observant`, `oversleep`, `outburst` issues |
 | 2026-08-07 | Weekly Quick | 23/30 | Valid Friday Weekly Quick completed |
 
-## Current week progress
+## Week of 2026-08-10 progress
 
 | Date | Type | Result | Notes |
 |---|---|---:|---|
@@ -148,32 +160,41 @@ Available results for the current week:
 | 2026-08-11 | Daily Quick | 10/12 | Q4 `perception` wrong; Q8 `endurance` wrong and uncertain; `rotated` recorded as candidate |
 | 2026-08-12 | Daily Quick | 9/12 | Q4 `tolerating` wrong; Q10 `sustained` wrong and uncertain; Q12 `precaution` wrong; Q2/Q11 correct but uncertain |
 
+## Current week progress
+
+| Date | Type | Result | Notes |
+|---|---|---:|---|
+| 2026-08-17 | Daily Quick | 10/12 | Q1 `tolerating` wrong; Q10 `post-flight` unanswered; Unit 32 first-practice checks correct |
+
 ## Current recovery priorities
 
 P1:
 
 - `tolerating` vs `compounding`
-- `sustained` vs `compounding`
-- `precaution` vs `preview`
+- `post-flight`
 
 P2:
 
-- `perception` vs `perspective`
+- `sustained` vs `compounding`
+- `precaution` vs `preview`
 - `endurance` vs `tolerating`
 - `objective` vs `observant` vs `observable`
 - Unit 29 contrast families: `perceptive` vs `persuasive`, `persuasive` vs `permanent`, `permanent` vs `perfect`, `persist` vs `persevere`
-- Unit 30 `post-` continued first-practice words: `post-traumatic`, `postwar`, `postponement`, and extended `post-` phrases
-- Unit 31 `pre-` first-practice words, especially `preorder`, `preview`,
-  `prepaid`, `preheat`, `prevent`, and `precaution`
-- Unit 32 `pro-` first-practice words, especially `proceed`, `profound`,
-  `promote`, `protect`, and `provide`
+- Unit 30 `post-` continued first-practice words, especially `post-flight`,
+  `post-traumatic`, `postwar`, `postponement`, and extended `post-` phrases
+- Unit 31 `pre-` continued first-practice words, especially `preview`,
+  `pretest`, `prevent`, and `precaution`
+- Unit 32 `pro-` continued first-practice words, especially untested word-family contrasts around `promote`, `protect`, `provide`, `progress`, and `provision`
+- Unit 33 `re-` first-practice words, especially `rearrange`, `recycle`,
+  `renew`, `return`, `rewrite`, and their word-family contrasts
 - Additional update words: `compounding`, `sustained`, `drug`
 
 Cooldown / light watch:
 
 - `outburst` vs `outbreak`
 - `monotonous`
-- `overlook` (correct but uncertain on 2026-08-12)
+- `perspective` (correct confidently on 2026-08-17 after prior uncertainty)
+- `overlook` (correct confidently on 2026-08-17 after prior uncertainty)
 - `illegible` vs `illiterate`
 - `non-essential` vs `non-urgent`
 - `misuse` vs `mislead` vs `mismatch`
@@ -187,20 +208,20 @@ Cooldown / light watch:
 - `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Daily Quick for 2026-08-13
+## Recommended Daily Quick for 2026-08-18
 
 Use 12 questions:
 
 - 5 Recovery
-- 3 Unit 32 first-practice checks
+- 3 current-unit checks from Unit 33 first practice and Unit 32 continued practice
 - 2 Unit 31 / Unit 30 / Outwork current-unit checks
-- 1 Unit 27-28 due / cooldown check
+- 1 Unit 27-29 due / cooldown check
 - 1 Unit Tour / Topic Tour check
 
-Recovery must appear early. Unit 32 should receive first-practice coverage, and
-Unit 31 / Unit 30 / Outwork vocabulary should continue, but new words must not crowd out
-`tolerating` vs `compounding`, `sustained` vs `compounding`, or
-`precaution` vs `preview`.
+Recovery must appear early. Unit 33 should receive first-practice coverage,
+Unit 32 should continue, and Unit 31 / Unit 30 / Outwork vocabulary should
+continue, but new words must not crowd out `tolerating` vs `compounding` or
+`post-flight`.
 
 ## Operational priority
 

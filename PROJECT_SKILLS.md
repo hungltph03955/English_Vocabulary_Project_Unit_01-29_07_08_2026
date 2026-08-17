@@ -1,7 +1,7 @@
 # Project Skills - English Vocabulary Project
 
 Date created: 2026-08-07
-Scope: Unit 01-32
+Scope: Unit 01-33
 
 This file defines project-specific learning and quiz-design skills. It is not a
 replacement for `VOCABULARY_STATE.csv`, `ROTATION_STATE.md`, or Recovery files.
@@ -40,6 +40,11 @@ Useful context cues:
 - Support, marketing, or job advancement: `promote`, `promotion`,
   `promotional`
 - Safety and supply: `protect`, `protection`, `provide`, `provision`
+- Doing again or changing order: `rearrange`, `reorganize`, `rebuild`,
+  `rewrite`
+- Using again or returning value: `recycle`, `reuse`, `refill`, `resell`,
+  `return`, `refund`
+- Extending or restoring: `renew`, `renewal`, `recover`, `reconnect`
 
 ## 2. Memory Skill
 
@@ -72,6 +77,12 @@ Memory chunk examples:
 - `promotion campaign`: marketing activity.
 - `protective gear`: gear that keeps someone safe.
 - `provide resources`: supply what is needed.
+- `rearrange the schedule`: change the order or plan.
+- `recycle plastic`: process used material again.
+- `renew a subscription`: extend it for another period.
+- `refund a payment`: give money back.
+- `rewrite a report`: write or revise it again.
+- `reconnect the device`: connect it again.
 - `perceptive teacher`: a teacher who notices details.
 - `persuasive presentation`: a presentation that convinces people.
 - `permanent mark`: a mark that does not wash off.
