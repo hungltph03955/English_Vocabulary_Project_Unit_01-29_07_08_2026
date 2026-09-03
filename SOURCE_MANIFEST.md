@@ -3,7 +3,7 @@
 Generated package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
 Generated date: 2026-08-07
 
-Current workspace scope after local updates: Unit 01-33.
+Current workspace scope after local updates: Unit 01-34.
 
 ## Sources used
 
@@ -37,6 +37,10 @@ Current workspace scope after local updates: Unit 01-33.
    - 2026-08-12 Unit 32 `pro-` update
    - 2026-08-17 Daily Quick and grading
    - 2026-08-17 Unit 33 `re-` update
+   - 2026-08-18 Daily Quick and grading
+   - 2026-08-18 Unit 34 `semi-` update
+   - 2026-08-20 Daily Quick and grading
+   - 2026-08-24 Daily Quick and grading
 
 ## Preserved files from 2026-07-31 package
 
@@ -59,4 +63,4 @@ The full original Unit 01-21 source files were not available in the current
 workspace. The package therefore does not fabricate missing Unit 01-21 rows.
 It originally recorded the project scope as Unit 01-29 and included all known
 structured updates available locally and in the referenced conversation.
-The current workspace has since advanced to Unit 01-33.
+The current workspace has since advanced to Unit 01-34.

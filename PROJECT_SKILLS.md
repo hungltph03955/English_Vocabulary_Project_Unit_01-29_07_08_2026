@@ -1,7 +1,7 @@
 # Project Skills - English Vocabulary Project
 
 Date created: 2026-08-07
-Scope: Unit 01-33
+Scope: Unit 01-34
 
 This file defines project-specific learning and quiz-design skills. It is not a
 replacement for `VOCABULARY_STATE.csv`, `ROTATION_STATE.md`, or Recovery files.
@@ -45,6 +45,8 @@ Useful context cues:
 - Using again or returning value: `recycle`, `reuse`, `refill`, `resell`,
   `return`, `refund`
 - Extending or restoring: `renew`, `renewal`, `recover`, `reconnect`
+- Half or partly: `semicircle`, `semicircular`, `semi-detached`,
+  `semifinal`, `semisweet`, `semiconscious`, `semiannual`, `semi-permanent`
 
 ## 2. Memory Skill
 
@@ -83,6 +85,11 @@ Memory chunk examples:
 - `refund a payment`: give money back.
 - `rewrite a report`: write or revise it again.
 - `reconnect the device`: connect it again.
+- `semicircular table`: a table shaped like a half-circle.
+- `semifinal match`: the round before the final.
+- `semi-detached house`: a house joined to one other house.
+- `semiannual review`: a review every six months.
+- `semi-permanent color`: long-lasting but not permanent.
 - `perceptive teacher`: a teacher who notices details.
 - `persuasive presentation`: a presentation that convinces people.
 - `permanent mark`: a mark that does not wash off.

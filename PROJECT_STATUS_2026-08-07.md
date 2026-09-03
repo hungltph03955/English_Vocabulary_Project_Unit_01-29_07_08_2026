@@ -1,9 +1,9 @@
 # Project Status - 2026-08-07
 
-Current scope: Unit 01-33
-Current date: Monday 2026-08-17
-Last valid quiz: Daily Quick, 12 questions, 10/12
-Next expected quiz: Daily Quick, 12 questions, Tuesday 2026-08-18
+Current scope: Unit 01-34
+Current date: Monday 2026-08-24
+Last valid quiz: Daily Quick, 12 questions, 9/12
+Next expected quiz: Daily Quick, 12 questions, Tuesday 2026-08-25
 
 ## Summary
 
@@ -21,7 +21,8 @@ The project now includes:
 - Unit 31 `pre-`
 - Unit 32 `pro-`
 - Unit 33 `re-`
-- Recovery and rotation updates through Monday 2026-08-17
+- Unit 34 `semi-`
+- Recovery and rotation updates through Monday 2026-08-24
 - Friday 2026-08-07 schedule correction
 - Friday 2026-08-07 valid Weekly Quick result: 23/30
 - Monday 2026-08-10 Daily Quick result: 11/12
@@ -33,10 +34,15 @@ The project now includes:
 - 2026-08-12 addendum update: Unit 32 `pro-`
 - Monday 2026-08-17 Daily Quick result: 10/12
 - 2026-08-17 addendum update: Unit 33 `re-`
+- Tuesday 2026-08-18 Daily Quick result: 9/12
+- 2026-08-18 addendum update: Unit 34 `semi-`
+- Thursday 2026-08-20 Daily Quick result: 11/12
+- Monday 2026-08-24 Daily Quick result: 9/12
 
 ## Current highest-priority issue
 
-The next quiz must start with Recovery from the Monday Daily Quick.
+The next quiz must be a Tuesday Daily Quick with 12 questions. It must start
+with Recovery from the Monday Daily Quick.
 
 The earlier 12-question Friday Daily Quick is invalid and must not be used as a
 completed assessment.
@@ -45,24 +51,32 @@ completed assessment.
 
 Recovery:
 
-- `tolerating` vs `compounding`
-- `post-flight`
-- `sustained` vs `compounding` on light Recovery
-- `precaution` vs `preview` on light Recovery
+- `semicircle` vs `semicircular` remains P1 after another noun/adjective error on 2026-08-24.
+- `provision` vs `protective` / `protection` is P1 after the contract-clause miss.
+- `protective` vs `protection` is P1 after selecting the noun before `case`.
+- `tolerating` vs `sustained` / `compounding` remains P2 because Q5 was ambiguous and `sustained noisy calls` was accepted.
+- `post-flight` vs `postwar`, `precaution` vs `preview`, and `perceptive` vs `persuasive` moved to cooldown after correct checks.
 - `perception` vs `perspective` on cooldown
-- `endurance` vs `tolerating` on light Recovery
+- `endurance` vs `tolerating` on cooldown
 - remaining Unit 29 contrast traps from the Friday Weekly Quick
 
 New unit:
 
 - Unit 32 `pro-`; `proceed`, `profound`, `provide`, and `promotional` were
-  correct on 2026-08-17, so continue untested word-family contrasts.
+  correct earlier, but `provision`, `protective`, and `protection` are now P1
+  after the 2026-08-24 word-family errors.
 - Unit 33 `re-`, especially `rearrange`, `recycle`, `renew`, `return`,
-  `rewrite`, and their word-family contrasts.
+  `rewrite`, and their word-family contrasts. `rearrange`, `renew`, and
+  `refund` were correct on 2026-08-18, and `rewrite` was correct on 2026-08-24.
+- Unit 34 `semi-`, especially `semicircle` vs `semicircular`,
+  `semi-detached`, `semifinal`, `semisweet`, and partial-state adjectives.
+  `semicolon` and `semiannual` were correct on 2026-08-20; `semi-detached` and
+  `semifinal` were correct on 2026-08-24; `semi-permanent` was correct but
+  uncertain on 2026-08-24.
 - Unit 31 `pre-`, especially `preorder`, `preview`, `prepaid`, `preheat`,
   `prevent`, and `precaution`.
-- Continue Unit 30 `post-` first-practice words; `post-flight` is now P1 after
-  an unresolved answer.
+- Continue Unit 30 `post-` first-practice words; `post-flight` moved to
+  cooldown after correct checks on 2026-08-20 and 2026-08-24.
 - Continue Unit 29 word families while Unit 30-32 remain in active rotation.
 
 Cooldown:

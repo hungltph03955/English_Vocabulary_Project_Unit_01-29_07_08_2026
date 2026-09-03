@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-33
+# Word Formation Addendum - Units 22-34
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -541,3 +541,55 @@ Watch:
 - `renew` can mean refresh something or extend a license/subscription; `renewal` is the noun.
 - `return` can mean go back or give back; `refund` specifically means give money back.
 - `rewrite` is the action; `rewritable` describes something that can be written again or overwritten.
+
+## Unit 34 - `semi-`
+
+Meaning: half, partly, partially, or not fully.
+
+Book words:
+
+- `semicircle` = half of a circle
+- `semicolon` = punctuation mark between a comma and a colon
+- `semi-detached` = joined to one other house on one side
+- `semifinal` = round before the final match or stage
+- `semisweet` = partly sweet; not fully sweet
+
+Word families and base/support words:
+
+`semicircle`:
+
+- `circle`
+- `semicircle`
+- `semicircular`
+
+`semicolon`:
+
+- `colon`
+- `semicolon`
+
+`semi-detached`:
+
+- `detached`
+- `semi-detached`
+
+Extended words:
+
+- `semiconscious` = partly conscious; not fully awake
+- `semiannual` = happening twice a year or every six months
+- `semiformal` = partly formal; between casual and formal
+- `semi-solid` = partly solid and partly liquid
+- `semi-professional` = partly professional; paid or trained but not fully professional
+- `semiautomatic` = partly automatic; requiring some human action
+- `semidarkness` = partial darkness; dim light
+- `semiofficial` = partly official; not fully official
+- `semi-permanent` = lasting for a long time but not permanently
+- `semi-domesticated` = partly domesticated; not fully tame
+
+Watch:
+
+- `semicircle` is a noun; `semicircular` is the adjective.
+- `semicolon` is punctuation; `colon` is a different punctuation mark.
+- `detached` means separate; `semi-detached` means attached to one other house.
+- `semifinal` happens before the final; it is not the final match.
+- `semiannual` usually means twice a year / every six months.
+- `semi-permanent` is long-lasting but still temporary.

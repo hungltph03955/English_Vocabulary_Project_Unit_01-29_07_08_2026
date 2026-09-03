@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Monday 2026-08-17
+Date: Monday 2026-08-24
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-33
+Current scope: Unit 01-34
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -15,27 +15,27 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-08-18.md` after the Monday quiz)
-6. `WORD_FORMATION_ADDENDUM_Units_22-33.md`
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-08-25.md` after the Monday quiz)
+6. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 7. `VOCABULARY_STATE.csv`
-8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-08-17_to_2026-08-21.md`)
+8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-08-24_to_2026-08-28.md`)
 9. `MONTHLY_REPORT_2026_07.md`
 
 Do not generate any quiz until this startup sequence is complete.
 
 ## Current date decision
 
-Monday 2026-08-17 was a Daily Quick day.
+Monday 2026-08-24 was a Daily Quick day.
 
-The valid Daily Quick was completed on 2026-08-17 with a score of 10/12.
+The valid Daily Quick was completed on 2026-08-24 with a score of 9/12.
 
 The next expected quiz is:
 
-- Tuesday 2026-08-18
+- Tuesday 2026-08-25
 - Daily Quick
 - 12 questions
 
-No completed quiz history was found between 2026-08-13 and 2026-08-16.
+No completed quiz history was found for Friday 2026-08-21.
 
 The 12-question Daily Quick generated earlier on 2026-08-07 was a schedule
 mistake and must not be counted as a valid completed quiz.
@@ -48,7 +48,7 @@ mistake and must not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 33.
+The project has advanced through Unit 34.
 
 Recent unit coverage:
 
@@ -64,6 +64,7 @@ Recent unit coverage:
 - Unit 31: `pre-`
 - Unit 32: `pro-`
 - Unit 33: `re-`
+- Unit 34: `semi-`
 
 Additional reading vocabulary recently added from Outwork:
 
@@ -123,22 +124,34 @@ Unit 33 `re-` vocabulary added on 2026-08-17 after the Daily Quick:
   `reconnect`, `refill`, `resell`
 - Normalization: user note `reweitable` was corrected to `rewritable`.
 
+Unit 34 `semi-` vocabulary added on 2026-08-18 after the Daily Quick:
+
+- Book words: `semicircle`, `semicolon`, `semi-detached`, `semifinal`, `semisweet`
+- Word families and support words: `circle`, `semicircular`, `colon`, `detached`
+- Extended words: `semiconscious`, `semiannual`, `semiformal`,
+  `semi-solid`, `semi-professional`, `semiautomatic`, `semidarkness`,
+  `semiofficial`, `semi-permanent`, `semi-domesticated`
+
 ## Last valid completed quiz
 
 Last valid completed quiz:
 
-- Date: Monday 2026-08-17
+- Date: Monday 2026-08-24
 - Type: Daily Quick
-- Recorded result: 10/12
-- Correct but uncertain: none
-- Wrong: Q1 `tolerating`; selected `compounding`
-- Unanswered/unresolved: Q10 `post-flight`; answered `?` only
+- Recorded result: 9/12
+- Correct but uncertain: Q2 `semicircle`, Q12 `semi-permanent`
+- Wrong: Q1 `semicircular`; selected `semicircle`
+- Accepted due ambiguous prompt: Q5 `sustained`
+- Wrong and uncertain: Q10 `provision`; selected `protective?`
+- Wrong: Q11 `protective`; selected `protection`
+- Incidental candidate recorded: `emergency`
+- No unanswered/unresolved items
 
 Previous valid quiz:
 
-- Date: Wednesday 2026-08-12
+- Date: Thursday 2026-08-20
 - Type: Daily Quick
-- Recorded result: 9/12
+- Recorded result: 11/12
 
 ## Earlier August progress
 
@@ -165,34 +178,51 @@ Available results from the first August quiz week:
 | Date | Type | Result | Notes |
 |---|---|---:|---|
 | 2026-08-17 | Daily Quick | 10/12 | Q1 `tolerating` wrong; Q10 `post-flight` unanswered; Unit 32 first-practice checks correct |
+| 2026-08-18 | Daily Quick | 9/12 | Q3 `post-flight` wrong and uncertain; Q5 `precaution` wrong; Q11 `perceptive` wrong and uncertain; `landing` recorded as candidate |
+| 2026-08-20 | Daily Quick | 11/12 | Q8 `semicircular` wrong; selected noun `semicircle`; no uncertain answers |
+
+## Week of 2026-08-24 progress
+
+| Date | Type | Result | Notes |
+|---|---|---:|---|
+| 2026-08-24 | Daily Quick | 9/12 | Q1 `semicircular` wrong; Q5 `sustained` accepted due ambiguous prompt; Q10 `provision` wrong and uncertain; Q11 `protective` wrong; Q2/Q12 correct but uncertain; `emergency` recorded as candidate |
 
 ## Current recovery priorities
 
 P1:
 
-- `tolerating` vs `compounding`
-- `post-flight`
+- `semicircle` vs `semicircular`
+- `provision` vs `protective` / `protection`
+- `protective` vs `protection`
 
 P2:
 
-- `sustained` vs `compounding`
-- `precaution` vs `preview`
-- `endurance` vs `tolerating`
+- `tolerating` vs `sustained` / `compounding` after ambiguous accepted item
+- `semi-permanent` after correct but uncertain answer
+- `semicircle` noun use after correct but uncertain answer, still tied to P1 contrast
 - `objective` vs `observant` vs `observable`
-- Unit 29 contrast families: `perceptive` vs `persuasive`, `persuasive` vs `permanent`, `permanent` vs `perfect`, `persist` vs `persevere`
-- Unit 30 `post-` continued first-practice words, especially `post-flight`,
-  `post-traumatic`, `postwar`, `postponement`, and extended `post-` phrases
-- Unit 31 `pre-` continued first-practice words, especially `preview`,
-  `pretest`, `prevent`, and `precaution`
+- Unit 29 contrast families: `persuasive` vs `permanent`, `permanent` vs `perfect`, `persist` vs `persevere`
+- Unit 30 `post-` continued first-practice words, especially
+  `post-traumatic`, `postgraduate`, `postscript`, and extended `post-` phrases
+- Unit 31 `pre-` continued first-practice words, especially `pretest`,
+  `prevent`, and other before/in-advance contexts
 - Unit 32 `pro-` continued first-practice words, especially untested word-family contrasts around `promote`, `protect`, `provide`, `progress`, and `provision`
-- Unit 33 `re-` first-practice words, especially `rearrange`, `recycle`,
-  `renew`, `return`, `rewrite`, and their word-family contrasts
+- Unit 33 `re-` first-practice words, especially `return`, `rewrite`, and
+  word-family contrasts after `rearrange`, `renew`, `refund`, and `recycle`
+  were correct
+- Unit 34 `semi-` continued first-practice words, especially
+  `semi-detached`, `semifinal`, `semisweet`, and partial-state adjectives
 - Additional update words: `compounding`, `sustained`, `drug`
 
 Cooldown / light watch:
 
+- `post-flight` vs `postwar`
+- `precaution` vs `preview`
+- `perceptive` vs `persuasive`
 - `outburst` vs `outbreak`
 - `monotonous`
+- `sustained` (correct on 2026-08-17 and 2026-08-18 after prior miss)
+- `endurance` (correct on 2026-08-12 and 2026-08-18 after prior confusion)
 - `perspective` (correct confidently on 2026-08-17 after prior uncertainty)
 - `overlook` (correct confidently on 2026-08-17 after prior uncertainty)
 - `illegible` vs `illiterate`
@@ -208,20 +238,20 @@ Cooldown / light watch:
 - `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Daily Quick for 2026-08-18
+## Recommended Daily Quick for 2026-08-25
 
 Use 12 questions:
 
-- 5 Recovery
-- 3 current-unit checks from Unit 33 first practice and Unit 32 continued practice
-- 2 Unit 31 / Unit 30 / Outwork current-unit checks
-- 1 Unit 27-29 due / cooldown check
-- 1 Unit Tour / Topic Tour check
+- 5-6 Recovery questions
+- 2-3 current Unit 34 checks
+- 1-2 Unit 32 word-family checks
+- 1 Unit 33 continued check
+- 1 Unit 30/31 or Outwork due check
+- 1 Unit Tour / Topic Tour / cooldown check
 
-Recovery must appear early. Unit 33 should receive first-practice coverage,
-Unit 32 should continue, and Unit 31 / Unit 30 / Outwork vocabulary should
-continue, but new words must not crowd out `tolerating` vs `compounding` or
-`post-flight`.
+Recovery must appear early. Include `semicircle` vs `semicircular`,
+`provision` vs `protective`, and `protective` vs `protection`. Retest
+`tolerating` with a cleaner sentence if space allows.
 
 ## Operational priority
 

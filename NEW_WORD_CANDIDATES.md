@@ -30,3 +30,19 @@ When grading a quiz:
 - Learner note: said `rotated` was unknown.
 - Meaning in context: changed or alternated tasks among people or over time.
 - Status: candidate only; not active vocabulary.
+
+### 2026-08-18 - `landing`
+
+- Source: Daily Quick Q3 prompt.
+- Sentence: "The crew found a small scratch during the ______ inspection after landing."
+- Learner note: associated `landing` with war context and selected `postwar`.
+- Meaning in context: the moment/process when a plane comes down to the ground after a flight.
+- Status: candidate only; not active vocabulary.
+
+### 2026-08-24 - `emergency`
+
+- Source: Daily Quick Q10 prompt.
+- Sentence: "The contract includes a ______ for emergency support during the migration."
+- Learner note: said `emergency` was not remembered.
+- Meaning in context: an urgent or serious situation that needs immediate help or action.
+- Status: candidate only; not active vocabulary.
