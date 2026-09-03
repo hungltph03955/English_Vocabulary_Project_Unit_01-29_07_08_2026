@@ -1,9 +1,9 @@
 # Rotation State - Snapshot
 
-Date: Monday 2026-08-24
+Date: Thursday 2026-09-03
 Scope: Unit 01-34
-Last valid quiz: Daily Quick on Monday 2026-08-24, 9/12
-Next expected quiz: Daily Quick, 12 questions, Tuesday 2026-08-25
+Last valid quiz: Daily Quick on Thursday 2026-09-03, 9/12
+Next expected quiz: Weekly Quick, 30 questions, Friday 2026-09-04
 
 ## Selection order
 
@@ -15,6 +15,15 @@ Use this order when generating quizzes:
 4. Unit Tour
 5. Topic Tour
 6. Long-unseen words and cooldown checks
+
+## 2026-09-03 update
+
+- Keep P1 `semicircle` vs `semicircular`: Q1 selected noun `semicircle` where adjective `semicircular` described `stage`; Q4 noun use was correct.
+- Keep P1 `provision` / `protective` / `protection`: `provision` and `protective` were correct this time, but need another stable retrieval after the 2026-08-24 errors.
+- Add P2 `tolerating` vs `endurance`: Q5 selected noun `endurance` where the gerund `tolerating` was required.
+- Add P2 `returnable` vs `renewable`: Q9 selected `renewable` for bottles customers could bring back.
+- Keep `proactive` on light watch: correct but uncertain in an early-action context.
+- `semi-permanent` was correct confidently; retain as active Unit 34 coverage rather than Recovery.
 
 ## Schedule guardrail
 

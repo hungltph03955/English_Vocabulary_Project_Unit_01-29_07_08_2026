@@ -123,3 +123,43 @@ Recovery updates:
 
 Next expected quiz:
 - Tuesday 2026-08-25 - Daily Quick, 12 questions.
+
+## Thursday 2026-09-03 - Daily Quick
+
+Quiz type: Daily Quick
+Score: 9/12 = 75.0%
+
+Answer summary:
+- Correct: Q2, Q3, Q4, Q6, Q7, Q10, Q11, Q12
+- Correct but uncertain: Q8 `proactive`
+- Wrong: Q1, Q5, Q9
+- Unanswered/unresolved: none
+- Incidental candidate recorded: `praised`
+
+Item-level results:
+
+| Q | Target | Learner | Result | Note |
+|---|---|---|---|---|
+| 1 | semicircular | A. semicircle | Wrong | `stage` needs adjective `semicircular`, not noun `semicircle`. |
+| 2 | provision | B. provision | Correct | Correct contract-clause context. |
+| 3 | protective | A. protective | Correct | Correct adjective before `glasses`. |
+| 4 | semicircle | B. semicircle | Correct | Correct noun for a half-circle logo element. |
+| 5 | tolerating | D. endurance | Wrong | The gerund subject needed `tolerating`, not the noun `endurance`. |
+| 6 | semi-permanent | C. semi-permanent | Correct | Correct long-lasting but not permanent color context. |
+| 7 | semisweet | B. semisweet | Correct | Correct partly-sweet chocolate context. |
+| 8 | proactive | B. proactive? | Correct but uncertain | Correct acting-before-a-problem context. |
+| 9 | returnable | B. renewable | Wrong | Bottles customers can bring back are `returnable`; `renewable` can be naturally replaced. |
+| 10 | postscript | A. postscript | Correct | Correct added note at the end of an email. |
+| 11 | prevent | C. prevent | Correct | Correct stop-something-from-happening context. |
+| 12 | objective | A. objective | Correct | Correct fair, unbiased review context. |
+
+Recovery updates:
+- Keep P1: `semicircle` vs `semicircular` after another adjective-role error.
+- Keep P1: `provision` and `protective` after one confident correction each; require another successful retrieval before lowering priority.
+- Add P2: `tolerating` vs `endurance` after the gerund/noun role error.
+- Add P2: `returnable` vs `renewable` after the returned-item/naturally-replaced contrast error.
+- Keep `proactive` on light watch after a correct but uncertain answer.
+- Keep `semi-permanent` active after a confident correct answer; it had previously been uncertain.
+
+Next expected quiz:
+- Friday 2026-09-04 - Weekly Quick, 30 questions.

@@ -593,3 +593,29 @@ Watch:
 - `semifinal` happens before the final; it is not the final match.
 - `semiannual` usually means twice a year / every six months.
 - `semi-permanent` is long-lasting but still temporary.
+
+
+threshold : ngưỡng 
+ratio : tỷ lệ 
+
+subconscious : tiềm thức
+conscious: nhận thức
+subconscious : tiềm thức
+substandard : dưới tiêu chuẩn 
+standard: tiêu chuẩn 
+substitute: thay thế
+substitution: sự thay thế   
+suburb: ngoại ô 
+suburban : thuộc ngoại ô 
+subway : đường hầm , tàu điện ngầm 
+
+ subtitle (n) /ˈsʌbtaɪtl/: tiêu đề phụ 
+• substance (n) /ˈsʌbstəns/: chất, vật chất 
+• submarine (n) /ˌsʌbməˈriːn/: tàu ngầm 
+• subheading (n) /ˈsʌbhedɪŋ/: tiêu đề phụ 
+• submit (v) /səbˈmɪt/: nộp 
+• subtotal (n) /ˈsʌbˌtəʊtl/: tổng từng phần 
+• subject (n) /ˈsʌbdʒɪkt/: môn học, chủ đề 
+• subdivide (v) /ˌsʌbdɪˈvaɪd/: chia nhỏ 
+• subordinate (n/adj) /səˈbɔːdɪnət/: cấp dưới 
+• submerge (v) /səbˈmɜːdʒ/: dìm xuống, chìm dưới nước 

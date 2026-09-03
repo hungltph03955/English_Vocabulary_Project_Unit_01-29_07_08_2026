@@ -46,3 +46,11 @@ When grading a quiz:
 - Learner note: said `emergency` was not remembered.
 - Meaning in context: an urgent or serious situation that needs immediate help or action.
 - Status: candidate only; not active vocabulary.
+
+### 2026-09-03 - `praised`
+
+- Source: Daily Quick Q8 prompt.
+- Sentence: "The support lead was praised for being ______ and fixing the billing bug before customers reported it."
+- Learner note: said `praised` was unknown.
+- Meaning in context: received approval or positive comments for doing something well.
+- Status: candidate only; not active vocabulary.
