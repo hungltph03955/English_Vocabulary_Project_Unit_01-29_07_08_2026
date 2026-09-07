@@ -2,7 +2,7 @@
 
 Date: Monday 2026-08-24
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-34
+Current scope: Unit 01-35
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -23,22 +23,19 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 
 Do not generate any quiz until this startup sequence is complete.
 
-## Current date decision
+## Current operating state
 
-Monday 2026-08-24 was a Daily Quick day.
-
-The valid Daily Quick was completed on 2026-08-24 with a score of 9/12.
+Monday 2026-09-07 was a Daily Quick day.
+The valid Daily Quick was completed with a score of 8/12.
 
 The next expected quiz is:
 
-- Tuesday 2026-08-25
+- Tuesday 2026-09-08
 - Daily Quick
 - 12 questions
 
-No completed quiz history was found for Friday 2026-08-21.
-
-The 12-question Daily Quick generated earlier on 2026-08-07 was a schedule
-mistake and must not be counted as a valid completed quiz.
+The 12-question Friday 2026-08-07 Daily Quick was a schedule mistake and must
+not be counted as a valid completed quiz.
 
 ## Quiz schedule
 
@@ -65,6 +62,18 @@ Recent unit coverage:
 - Unit 32: `pro-`
 - Unit 33: `re-`
 - Unit 34: `semi-`
+- Unit 35: `sub-`
+
+## Update 2026-09-03
+
+Unit 35 `sub-` and supporting general vocabulary were added from the current
+word-formation addendum. The active bank now includes `subconscious`,
+`substandard`, `substitute`, `substitution`, `suburb`, `suburban`, `subway`,
+`subtitle`, `substance`, `submarine`, `subheading`, `submit`, `subtotal`,
+`subject`, `subdivide`, `subordinate`, `submerge`, `threshold`, and `ratio`.
+Base/support words `conscious` and `standard` were added for word-family
+contrast practice. Start all new terms at `new_unit/P2` and prioritize the
+contrast pairs listed in the latest recovery priorities.
 
 Additional reading vocabulary recently added from Outwork:
 
@@ -136,22 +145,19 @@ Unit 34 `semi-` vocabulary added on 2026-08-18 after the Daily Quick:
 
 Last valid completed quiz:
 
-- Date: Monday 2026-08-24
+- Date: Monday 2026-09-07
 - Type: Daily Quick
-- Recorded result: 9/12
-- Correct but uncertain: Q2 `semicircle`, Q12 `semi-permanent`
-- Wrong: Q1 `semicircular`; selected `semicircle`
-- Accepted due ambiguous prompt: Q5 `sustained`
-- Wrong and uncertain: Q10 `provision`; selected `protective?`
-- Wrong: Q11 `protective`; selected `protection`
-- Incidental candidate recorded: `emergency`
-- No unanswered/unresolved items
+- Recorded result: 8/12
+- Correct but uncertain: Q7 `substitution`
+- Wrong: Q1 `provision`, Q6 `profound`, Q10 `semiconscious`, Q12 `threshold`
+- Unanswered/unresolved: none
+- Incidental candidate recorded: none
 
 Previous valid quiz:
 
-- Date: Thursday 2026-08-20
-- Type: Daily Quick
-- Recorded result: 11/12
+- Date: Friday 2026-09-04
+- Type: Weekly Quick
+- Recorded result: 23/30
 
 ## Earlier August progress
 
@@ -191,12 +197,16 @@ Available results from the first August quiz week:
 
 P1:
 
-- `semicircle` vs `semicircular`
 - `provision` vs `protective` / `protection`
-- `protective` vs `protection`
+- `profound` vs `profoundly`
 
 P2:
 
+- `semiconscious` vs `subconscious`
+- `threshold` vs `ratio`
+- `substitution` after correct but uncertain answer
+- `protection` within the protect family after correct answer, because `provision` remains unstable
+- `semicircle` vs `semicircular`
 - `tolerating` vs `sustained` / `compounding` after ambiguous accepted item
 - `semi-permanent` after correct but uncertain answer
 - `semicircle` noun use after correct but uncertain answer, still tied to P1 contrast

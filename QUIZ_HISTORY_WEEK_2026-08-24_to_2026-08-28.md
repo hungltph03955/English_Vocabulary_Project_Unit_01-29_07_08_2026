@@ -163,3 +163,190 @@ Recovery updates:
 
 Next expected quiz:
 - Friday 2026-09-04 - Weekly Quick, 30 questions.
+
+## Friday 2026-09-04 - Weekly Quick
+
+Quiz type: Weekly Quick
+Score: 23/30 = 76.7%
+
+Answer summary:
+- Correct: Q1, Q2, Q4, Q6-Q11, Q13-Q18, Q21, Q23, Q25-Q30
+- Correct but uncertain: none
+- Wrong: Q3, Q5, Q12, Q20, Q22, Q24
+- Wrong and uncertain: Q22
+- Unanswered/unresolved: Q19
+- Incidental candidate recorded: none
+
+Item-level results:
+
+| Q | Target | Learner | Result | Note |
+|---|---|---|---|---|
+| 1 | semicircular | B. semicircular | Correct | Correct adjective for seating layout. |
+| 2 | semicircle | B. semicircle | Correct | Correct noun for a half-circle shape. |
+| 3 | provision | C. protection | Wrong | A contract clause or arrangement is a `provision`. |
+| 4 | protective | C. protective | Correct | Correct adjective before `gloves`. |
+| 5 | protection | B. protective | Wrong | The phrase `a layer of` needs noun `protection`. |
+| 6 | tolerating | B. tolerating | Correct | Correct gerund for putting up with interruptions. |
+| 7 | returnable | C. returnable | Correct | Correct items-customers-can-send-back context. |
+| 8 | proactive | C. proactive | Correct | Correct early-action context. |
+| 9 | subconscious | B. subconscious | Correct | Correct below-awareness context. |
+| 10 | substandard | C. substandard | Correct | Correct below-required-quality context. |
+| 11 | substitute / substitution | A. substitute / substitution | Correct | Correct action and formal noun contrast. |
+| 12 | suburban | A. suburb | Wrong | `neighborhood` needs adjective `suburban`, not noun `suburb`. |
+| 13 | subtitle / subheading | A. subtitle / subheading | Correct | Correct screen-text and document-structure contrast. |
+| 14 | submit | C. submit | Correct | Correct formally-send-a-report context. |
+| 15 | threshold | B. threshold | Correct | Correct trigger-level context. |
+| 16 | semisweet | B. semisweet | Correct | Correct partly-sweet chocolate context. |
+| 17 | post-traumatic | C. post-traumatic | Correct | Correct after-trauma context. |
+| 18 | preorder / pre-book | A. preorder / pre-book | Correct | Correct product-before-release and reservation-before-date contrast. |
+| 19 | proceed | ? | Unresolved | No final answer; `proceed` means continue after approval. |
+| 20 | rewritable | D. renewable | Wrong | A whiteboard that can be written on again is `rewritable`. |
+| 21 | promotional | C. promotional | Correct | Correct adjective before `campaign`. |
+| 22 | profound | A. profoundly? | Wrong and uncertain | `effect` needs adjective `profound`, not adverb `profoundly`. |
+| 23 | precaution | A. precaution | Correct | Correct action-taken-in-advance context. |
+| 24 | perceptive | D. observable | Wrong | An analyst who notices a pattern is `perceptive`; `observable` describes what can be seen or measured. |
+| 25 | post-flight | B. post-flight | Correct | Correct after-landing context. |
+| 26 | outbreak | B. outbreak | Correct | Correct disease-spread context. |
+| 27 | objective | C. objective | Correct | Correct evidence-based assessment context. |
+| 28 | non-urgent | B. non-urgent | Correct | Correct can-wait-but-still-needed context. |
+| 29 | midstream | B. midstream | Correct | Correct in-the-middle-of-a-process context. |
+| 30 | ratio | B. ratio | Correct | Correct relationship-between-two-amounts context. |
+
+Recovery updates:
+- Lower `semicircle` vs `semicircular` from P1 to P2 after confident correct answers for both noun and adjective uses; retain it as Recovery after the recent repeated errors.
+- Keep P1 `provision` vs `protective` / `protection`: Q3 and Q5 showed both noun-role errors again.
+- Add P2 `suburb` vs `suburban`, `proceed` vs `progress`, `rewritable` vs `renewable`, and `profound` vs `profoundly`.
+- Add P2 `perceptive` vs `observable` after Q24 selected `observable` for a person who notices details.
+- Move `proactive` to cooldown after a second correct answer, now with confidence.
+- Unit 35 first practice was strong: 7/8 correct, with only the `suburb` / `suburban` role contrast missed.
+
+Next expected quiz:
+- Monday 2026-09-07 - Daily Quick, 12 questions.
+
+## Monday 2026-09-07 - Daily Quick
+
+Quiz type: Daily Quick
+Score: 8/12 = 66.7%
+
+Context:
+- Monday 2026-09-07 is a Daily Quick day.
+- This quiz followed the 2026-09-04 Weekly Quick and prioritized P1/P2 Recovery plus Unit 35 continued coverage.
+
+Answer summary:
+- Correct: Q2, Q3, Q4, Q5, Q8, Q9, Q11
+- Correct but uncertain: Q7 `substitution`
+- Wrong: Q1, Q6, Q10, Q12
+- Unanswered/unresolved: none
+- Incidental candidate recorded: none
+
+Item-level results:
+
+| Q | Target | Learner | Result | Note |
+|---|---|---|---|---|
+| 1 | provision | A. protection | Wrong | A service agreement has a `provision`; `protection` is keeping something safe. |
+| 2 | protection | C. protection | Correct | Correct noun after `a layer of`. |
+| 3 | suburban | B. suburban | Correct | Correct adjective before `area`. |
+| 4 | proceed | C. proceed | Correct | Correct continue-after-approval context. |
+| 5 | rewritable | C. rewritable | Correct | Correct erase-and-write-again context. |
+| 6 | profound | A. profoundly | Wrong | `effect` needs adjective `profound`, not adverb `profoundly`. |
+| 7 | substitution | B. substitution | Correct but uncertain | Correct noun for replacing an injured player; learner understood it as a late change. |
+| 8 | subheading | B. subheading | Correct | Correct secondary heading under a main title. |
+| 9 | subconscious | B. subconscious | Correct | Correct below-awareness fear context. |
+| 10 | semiconscious | B. subconscious | Wrong | After fainting and partly awake needs `semiconscious`, not `subconscious`. |
+| 11 | illegible | B. illegible | Correct | Correct handwriting-cannot-be-read context. |
+| 12 | threshold | A. ratio | Wrong | `pass the 5% threshold` means cross a trigger level; `ratio` is the relationship between amounts. |
+
+Focused review:
+
+### Q1 - `provision` vs `protection`
+
+Original sentence:
+- `The service agreement has a ______ for after-hours support if the migration fails.`
+
+Learner answer:
+- A. `protection`
+
+Correct answer:
+- B. `provision`
+
+Why:
+- `provision` is a clause, arrangement, or prepared support in an agreement.
+- `protection` is the act/state of keeping something safe.
+- An agreement has a `provision`; a sleeve gives `protection`.
+
+Memory sentence:
+- `The service agreement has a provision for after-hours support.`
+- `The sleeve provides protection for the laptop.`
+
+### Q6 - `profound` vs `profoundly`
+
+Original sentence:
+- `The mentor's advice had a ______ effect on how she handled failure.`
+
+Learner answer:
+- A. `profoundly`
+
+Correct answer:
+- C. `profound`
+
+Why:
+- `profound` is an adjective before a noun: `a profound effect`.
+- `profoundly` is an adverb and usually modifies a verb/adjective: `profoundly changed`.
+
+Memory sentence:
+- `The advice had a profound effect.`
+- `The advice profoundly changed her thinking.`
+
+### Q10 - `subconscious` vs `semiconscious`
+
+Original sentence:
+- `After fainting, she was ______ for a few minutes, able to hear voices but not fully awake.`
+
+Learner answer:
+- B. `subconscious`
+
+Correct answer:
+- C. `semiconscious`
+
+Why:
+- `semiconscious` means partly conscious or not fully awake.
+- `subconscious` means below conscious awareness, often a hidden fear, habit, or mental process.
+
+Memory sentence:
+- `After fainting, she was semiconscious.`
+- `He had a subconscious fear of missing the deadline.`
+
+### Q12 - `threshold` vs `ratio`
+
+Original sentence:
+- `When refund requests pass the 5% ______, the support manager investigates the product issue.`
+
+Learner answer:
+- A. `ratio`
+
+Correct answer:
+- C. `threshold`
+
+Why:
+- `threshold` is the trigger point or level where action begins.
+- `ratio` is the relationship between two amounts, such as `refunds to orders`.
+
+Memory sentence:
+- `Refund requests passed the 5% threshold.`
+- `The refund-to-order ratio was 5%.`
+
+Correct but uncertain:
+- Q7 `substitution`: correct. Your idea of a late change is close; the key meaning is a replacement, especially one player replacing another.
+
+Recovery updates:
+- Keep P1: `provision` vs `protection` / `protective` after another agreement-clause miss.
+- Keep P1: `profound` vs `profoundly` after a repeated adjective/adverb role miss.
+- Add P2: `semiconscious` vs `subconscious`.
+- Add P2: `threshold` vs `ratio`.
+- Lower to cooldown: `proceed` after a confident correct answer.
+- Lower to cooldown: `rewritable` after a confident correct answer.
+- Lower to cooldown: `suburban` after a confident correct adjective answer.
+- Keep light watch: `substitution` because the answer was correct but uncertain.
+
+Next expected quiz:
+- Tuesday 2026-09-08 - Daily Quick, 12 questions.

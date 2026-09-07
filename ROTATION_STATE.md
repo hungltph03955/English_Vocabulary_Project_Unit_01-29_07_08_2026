@@ -1,9 +1,9 @@
 # Rotation State - Snapshot
 
-Date: Thursday 2026-09-03
-Scope: Unit 01-34
-Last valid quiz: Daily Quick on Thursday 2026-09-03, 9/12
-Next expected quiz: Weekly Quick, 30 questions, Friday 2026-09-04
+Date: Monday 2026-09-07
+Scope: Unit 01-35
+Last valid quiz: Daily Quick on Monday 2026-09-07, 8/12
+Next expected quiz: Daily Quick, 12 questions, Tuesday 2026-09-08
 
 ## Selection order
 
@@ -24,12 +24,36 @@ Use this order when generating quizzes:
 - Add P2 `returnable` vs `renewable`: Q9 selected `renewable` for bottles customers could bring back.
 - Keep `proactive` on light watch: correct but uncertain in an early-action context.
 - `semi-permanent` was correct confidently; retain as active Unit 34 coverage rather than Recovery.
+- Add Unit 35 `sub-` as new coverage. Start with word-family and role contrasts:
+  `subconscious` vs `conscious`, `substandard` vs `standard`, `substitute` vs
+  `substitution`, `suburb` vs `suburban`, and `subtitle` vs `subheading`.
+- Add `threshold` and `ratio` as general new vocabulary; use them in work, data, and product contexts.
+
+## 2026-09-04 update
+
+- Lower `semicircle` vs `semicircular` from P1 to P2 after confident correct noun and adjective uses; retain Recovery because the previous three adjective checks were missed.
+- Keep P1 `provision` / `protective` / `protection`: Q3 and Q5 again confused the noun roles.
+- Add P2 `suburb` vs `suburban`, `proceed` vs `progress`, `rewritable` vs `renewable`, `profound` vs `profoundly`, and `perceptive` vs `observable`.
+- Keep P2 `tolerating` vs `endurance` and `returnable` vs `renewable` after confident correct checks; recheck in new contexts later.
+- Move `proactive` to cooldown after a confident correct answer.
+- Unit 35 first practice: 7/8 correct. Continue the new-unit rotation, with `suburb` / `suburban` as the only immediate recovery pair.
+
+## 2026-09-07 update
+
+- Keep P1 `provision` vs `protection` / `protective`: Q1 selected `protection` where a service agreement clause needed `provision`.
+- Raise `profound` vs `profoundly` to P1 after a repeated adjective/adverb role miss before noun `effect`.
+- Add P2 `semiconscious` vs `subconscious`: Q10 selected hidden-mind word `subconscious` where partly-awake `semiconscious` was needed.
+- Add P2 `threshold` vs `ratio`: Q12 selected `ratio` where `pass the 5% threshold` needed a trigger level.
+- Move `proceed`, `rewritable`, and `suburban` to cooldown after confident correct answers.
+- Keep `substitution` on light watch because the final answer was correct but uncertain; refine it as replacement, not just a late change.
 
 ## Schedule guardrail
 
-Monday 2026-08-24 was correctly completed as a Daily Quick with 12 questions.
+Friday 2026-09-04 was correctly completed as a Weekly Quick with 30 questions.
 
-The next expected quiz day is Tuesday 2026-08-25, so use Daily Quick with 12
+Monday 2026-09-07 was correctly completed as a Daily Quick with 12 questions.
+
+The next expected quiz day is Tuesday 2026-09-08, so use a Daily Quick with 12
 questions.
 
 No completed quiz history was found for Friday 2026-08-21.
@@ -64,7 +88,7 @@ No completed quiz history was found for Friday 2026-08-21.
 | P3 | `overreact` / `outsource` / `mishandle` | Correct on recent Daily Quicks | 2026-08-11 | Cooldown only |
 | P3 | `oversleep` / `overload` | Correct on recent Daily Quicks | 2026-08-10 | Light watch only |
 
-## Unit 29-34 current-unit targets
+## Unit 29-35 current-unit targets
 
 Prioritize these in the next Daily Quick:
 
@@ -81,6 +105,8 @@ Prioritize these in the next Daily Quick:
 - Unit 34 `semi-`: `semicircle`, `semicolon`, `semi-detached`, `semifinal`, `semisweet`
 - Unit 34 word families and support words: `circle`, `semicircular`, `colon`, `detached`
 - Unit 34 extended `semi-`: `semiconscious`, `semiannual`, `semiformal`, `semi-solid`, `semi-professional`, `semiautomatic`, `semidarkness`, `semiofficial`, `semi-permanent`, `semi-domesticated`
+- Unit 35 `sub-`: `subconscious`, `substandard`, `substitute`, `substitution`, `suburb`, `suburban`, `subway`, `subtitle`, `substance`, `submarine`, `subheading`, `submit`, `subtotal`, `subject`, `subdivide`, `subordinate`, `submerge`
+- Unit 35 support words: `conscious`, `standard`; general vocabulary: `threshold`, `ratio`
 - Outwork additions: `endurance`, `tolerating`
 - Additional update words: `compounding`, `sustained`, `drug`
 - `monotonous`, `stimulation`, `boredom tolerance`
@@ -173,15 +199,16 @@ These groups should not dominate the next quiz, but can appear when due:
 | 32 | `pro-` | Added 2026-08-12; practiced 2026-08-17 to 2026-08-24 | `provision` / `protective` / `protection` P1; continue word-family contrasts |
 | 33 | `re-` | Added 2026-08-17; practiced 2026-08-18 to 2026-08-24 | Continue first-practice rotation; `rewrite`, `rearrange`, `renew`, `refund`, `recycle` correct |
 | 34 | `semi-` | Added 2026-08-18; practiced 2026-08-20 and 2026-08-24 | `semicircle` vs `semicircular` P1; `semi-permanent` correct but uncertain |
+| 35 | `sub-` | Added 2026-09-03; not yet practiced | Start word-family and role contrasts in the next Weekly Quick |
 
-## Daily Quick recipe for Tuesday 2026-08-25
+## Daily Quick recipe for Tuesday 2026-09-08
 
 Use 12 questions:
 
-- Q1-Q6: Recovery, including `semicircle` vs `semicircular` and protect/provision family; include a clean `tolerating` check if space allows
-- Q7-Q9: Current Unit 34 and Unit 32 checks
-- Q10: Unit 33 continued check
-- Q11: Unit 30/31 or Outwork due check
-- Q12: Unit Tour / Topic Tour / cooldown check
+- Q1-Q6: Recovery, including `provision` vs `protection` / `protective`, `profound` vs `profoundly`, `semiconscious` vs `subconscious`, and `threshold` vs `ratio`.
+- Q7-Q9: Continued Unit 35 checks, with one light `substitution` replacement check.
+- Q10: Unit 30-34 due-word check, preferably `perceptive` vs `observable` or a semi- form not recently stabilized.
+- Q11: Earlier-unit cooldown check.
+- Q12: Unit Tour or Topic Tour check.
 
 Do not use the invalid 12-question Friday 2026-08-07 Daily Quick as history.

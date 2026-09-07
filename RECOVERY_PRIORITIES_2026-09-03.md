@@ -12,6 +12,8 @@ Last valid quiz: Daily Quick, 9/12 (75.0%).
 - `tolerating` vs `endurance`: `tolerating loud construction noise` is an action of putting up with something unpleasant; `endurance` is the ability to keep going.
 - `returnable` vs `renewable`: a bottle customers can bring back is `returnable`; a resource that naturally replaces itself is `renewable`.
 - Continue Unit 30-34 first-practice rotation, especially less-seen `post-`, `pre-`, `pro-`, `re-`, and partial-state `semi-` forms.
+- Begin Unit 35 `sub-` coverage with `subconscious` vs `conscious`, `substandard` vs `standard`, `substitute` vs `substitution`, `suburb` vs `suburban`, and `subtitle` vs `subheading`.
+- Add general vocabulary `threshold` and `ratio` in work, data, and product contexts.
 
 ## Light Watch
 

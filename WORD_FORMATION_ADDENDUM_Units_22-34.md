@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-34
+# Word Formation Addendum - Units 22-35
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -595,27 +595,70 @@ Watch:
 - `semi-permanent` is long-lasting but still temporary.
 
 
-threshold : ngưỡng 
-ratio : tỷ lệ 
+## Unit 35 - `sub-`
 
-subconscious : tiềm thức
-conscious: nhận thức
-subconscious : tiềm thức
-substandard : dưới tiêu chuẩn 
-standard: tiêu chuẩn 
-substitute: thay thế
-substitution: sự thay thế   
-suburb: ngoại ô 
-suburban : thuộc ngoại ô 
-subway : đường hầm , tàu điện ngầm 
+Meaning: under, below, lower than, smaller, or secondary. Some words in this
+group are best learned as complete words rather than through a fixed prefix
+translation.
 
- subtitle (n) /ˈsʌbtaɪtl/: tiêu đề phụ 
-• substance (n) /ˈsʌbstəns/: chất, vật chất 
-• submarine (n) /ˌsʌbməˈriːn/: tàu ngầm 
-• subheading (n) /ˈsʌbhedɪŋ/: tiêu đề phụ 
-• submit (v) /səbˈmɪt/: nộp 
-• subtotal (n) /ˈsʌbˌtəʊtl/: tổng từng phần 
-• subject (n) /ˈsʌbdʒɪkt/: môn học, chủ đề 
-• subdivide (v) /ˌsʌbdɪˈvaɪd/: chia nhỏ 
-• subordinate (n/adj) /səˈbɔːdɪnət/: cấp dưới 
-• submerge (v) /səbˈmɜːdʒ/: dìm xuống, chìm dưới nước 
+Book words:
+
+- `subconscious` = existing below conscious awareness; the part of the mind outside immediate awareness
+- `substandard` = below an accepted level of quality
+- `substitute` = a person or thing used in place of another; replace something with another thing
+- `substitution` = the act of replacing one thing with another
+- `suburb` = an area outside the center of a city or town
+- `suburban` = relating to a suburb
+- `subway` = an underground railway; an underground pedestrian tunnel
+
+Word families and base/support words:
+
+`subconscious`:
+
+- `conscious` = awake and aware; aware of something
+- `subconscious`
+
+`substandard`:
+
+- `standard` = the usual or accepted level of quality
+- `substandard`
+
+`substitute`:
+
+- `substitute`
+- `substitution`
+
+`suburb`:
+
+- `suburb`
+- `suburban`
+
+Extended words:
+
+- `subtitle` = text that shows dialogue or a translation on screen
+- `substance` = material; a physical substance
+- `submarine` = a vessel that travels underwater
+- `subheading` = a secondary heading under a main heading
+- `submit` = give work or a document formally for consideration
+- `subtotal` = the total for one part of a bill or calculation before the final total
+- `subject` = a topic; a course studied at school
+- `subdivide` = divide something into smaller parts
+- `subordinate` = lower in rank; a person with a lower position
+- `submerge` = put or go below the surface of water
+
+Additional general vocabulary:
+
+- `threshold` = a point or level at which something begins or changes
+- `ratio` = the relationship between two amounts, usually shown by division
+
+Watch:
+
+- `subconscious` is below immediate awareness; `conscious` means awake or aware.
+- `substandard` is below the accepted `standard`.
+- `substitute` is a person/thing or an action; `substitution` is the noun for the replacement.
+- `suburb` is a place; `suburban` is its adjective.
+- `subtitle` appears on a screen; a `subheading` organizes sections in written text.
+
+
+cheering : cổ vũ 
+unbearable : không thể chịu đựng được 

@@ -68,7 +68,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 26,ob,oblige,verb,force or require; do a favor,bat buoc; giup do,cooldown,P3,2026-07-31,2026-07-31 package,
 26,ob,obligatory,adjective,required,bat buoc,cooldown,P3,2026-07-31,2026-07-31 package,
 26,ob,obligation,noun,duty; requirement,nghia vu,cooldown,P3,2026-07-31,2026-07-31 package,
-26,ob,observable,adjective,can be seen/measured/coi thay duoc,co the quan sat,recovery,P2,2026-08-07,quiz history,Correct on Weekly Quick; keep reduced watch
+26,ob,observable,adjective,can be seen/measured/coi thay duoc,co the quan sat,recovery,P2,2026-09-04,quiz history,Selected for analyst who notices details; contrast with perceptive person
 26,ob,observant,adjective,good at noticing details,tinh y,recovery,P2,2026-08-07,quiz history,Correct on Weekly Quick after multiple misses
 26,ob,observation,noun,act/result of observing,su quan sat,cooldown,P3,2026-07-31,2026-07-31 package,
 26,ob,observatory,noun,place for observing sky,dao quan sat,cooldown,P3,2026-07-31,2026-07-31 package,
@@ -99,7 +99,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 0,general,boredom,noun,state of being bored,su nham chan,cooldown,P3,2026-08-03,conversation update,Added with Unit 27
 0,general,assume,verb,suppose without full proof,gia dinh,cooldown,P3,2026-08-03,conversation update,Correct on 2026-08-03
 0,general,microaggression,noun,subtle insulting remark/action about identity or background,loi noi hoac hanh dong xuc pham ngam ve ban sac,cooldown,P3,2026-08-07,quiz history,Correct on Weekly Quick after earlier miss
-0,general,illegible,adjective,impossible or very hard to read because writing/printing is unclear,khong doc duoc,cooldown,P3,2026-08-11,quiz history,Correctly avoided in illiterate contrast check
+0,general,illegible,adjective,impossible or very hard to read because writing/printing is unclear,khong doc duoc,cooldown,P3,2026-09-07,quiz history,Correct handwriting-cannot-be-read context; contrast with illiterate remains stable
 0,general,illiterate,adjective,unable to read or write,khong biet doc viet,cooldown,P3,2026-08-11,quiz history,Correctly contrasted with illegible on Daily Quick
 28,over,overestimate,verb,estimate too high,danh gia qua cao,cooldown,P3,2026-08-06,conversation update,
 28,over,overload,verb/noun,put too much load on; too much load,qua tai,cooldown,P3,2026-08-10,quiz history,Correct on Daily Quick
@@ -123,7 +123,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 28,over,overpay,verb,pay too much,tra qua nhieu tien,cooldown,P3,2026-08-04,conversation update,
 29,per,perceive,verb,become aware of; understand,nhan thuc,cooldown,P3,2026-08-07,quiz history,Correct on first valid Weekly Quick
 29,per,perception,noun,way of seeing/understanding,nhan thuc; cam nhan,recovery,P2,2026-08-12,quiz history,Correct in user perception context after prior miss; keep light watch with perspective
-29,per,perceptive,adjective,quick to notice/understand,tinh y; sau sac,cooldown,P3,2026-08-24,quiz history,Correct support-lead noticed complaints context; move to cooldown after two stable checks
+29,per,perceptive,adjective,quick to notice/understand,tinh y; sau sac,recovery,P2,2026-09-04,quiz history,Missed in analyst-notices-pattern context; contrast with observable
 29,per,perfect,adjective/verb,without mistakes; make perfect,hoan hao,recovery,P2,2026-08-07,quiz history,Selected instead of permanent on Weekly Quick
 29,per,perfectly,adverb,completely; without error,mot cach hoan hao,new_unit,P2,2026-08-07,conversation update,
 29,per,perfection,noun,state of being perfect,su hoan hao,new_unit,P2,2026-08-07,conversation update,
@@ -182,21 +182,21 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 31,pre,pre-sale,noun,sale before official or general release,dot mo ban truoc,new_unit,P2,2026-08-11,addendum update,Extended word
 31,pre,prevent,verb,stop something from happening,ngan chan,new_unit,P2,2026-08-11,addendum update,Extended word
 31,pre,precaution,noun,action taken in advance to avoid risk or harm,su phong ngua,cooldown,P3,2026-08-24,quiz history,Correct database-backup risk-reduction context after repeated prior confusion; move to cooldown
-32,pro,proceed,verb,continue; go forward with an action or process,tiep tuc; tien hanh,new_unit,P2,2026-08-17,quiz history,Correct first-practice check after approval context
-32,pro,profound,adjective,deep; serious; having deep meaning,sau sac,new_unit,P2,2026-08-17,quiz history,Correct first-practice adjective check in profound effect context
+32,pro,proceed,verb,continue; go forward with an action or process,tiep tuc; tien hanh,cooldown,P3,2026-09-07,quiz history,Correct after-approval continue-with-action context after prior unresolved answer
+32,pro,profound,adjective,deep; serious; having deep meaning,sau sac,recovery,P1,2026-09-07,quiz history,Again selected adverb profoundly before noun effect; adjective role needs early recovery
 32,pro,promote,verb,support or encourage; raise to a higher position,thuc day; thang chuc,new_unit,P2,2026-08-18,quiz history,Correct campaign context
 32,pro,protect,verb,keep safe from harm,bao ve,new_unit,P2,2026-08-12,addendum update,Book word
 32,pro,provide,verb,give or supply what is needed,cung cap,new_unit,P2,2026-08-20,quiz history,Correct provide rollback plan; contrast with provision noun
-32,pro,profoundly,adverb,in a deep or serious way,mot cach sau sac,new_unit,P2,2026-08-12,addendum update,Word family of profound
+32,pro,profoundly,adverb,in a deep or serious way,mot cach sau sac,recovery,P1,2026-09-07,quiz history,Again selected before noun effect; contrast with profound adjective
 32,pro,profundity,noun,deep meaning or deep understanding,su sau sac,new_unit,P2,2026-08-12,addendum update,Word family of profound; normalized from user note profoundity
 32,pro,promoter,noun,person or organization that promotes something,nguoi thuc day; nguoi khoi xuong,new_unit,P2,2026-08-12,addendum update,Word family of promote
 32,pro,promotion,noun,act of promoting; job advancement; marketing activity,su thuc day; thang chuc; khuyen mai,new_unit,P2,2026-08-12,addendum update,Word family of promote
 32,pro,promotional,adjective,related to advertising or promotion,mang tinh quang ba,new_unit,P2,2026-08-17,quiz history,Correct word-family adjective check before campaign
-32,pro,protection,noun,act/state of keeping safe,su bao ve,recovery,P1,2026-08-24,quiz history,Selected noun instead of adjective protective before case; retain contrast recovery after related correct checks on 2026-09-03
-32,pro,protective,adjective,giving protection; wanting to protect,co tinh bao ve,recovery,P1,2026-09-03,quiz history,Correct before glasses on 2026-09-03 after prior word-family errors; retain P1 for another stable retrieval
+32,pro,protection,noun,act/state of keeping safe,su bao ve,recovery,P2,2026-09-07,quiz history,Correct after a layer of; keep watch within protect/provision family
+32,pro,protective,adjective,giving protection; wanting to protect,co tinh bao ve,recovery,P1,2026-09-04,quiz history,Correct before gloves but remains in P1 family contrast after provision/protection errors
 32,pro,protector,noun,person or thing that protects,nguoi bao ve; vat bao ve,new_unit,P2,2026-08-12,addendum update,Word family of protect
-32,pro,provision,noun,supply; arrangement made for future need,su cung cap; dieu khoan; su chuan bi,recovery,P1,2026-09-03,quiz history,Correct contract-clause context after prior error; retain P1 for another stable retrieval
-32,pro,proactive,adjective,taking action before problems happen,chu dong,cooldown,P3,2026-09-03,quiz history,Correct but uncertain before-customers-reported context; keep light watch
+32,pro,provision,noun,supply; arrangement made for future need,su cung cap; dieu khoan; su chuan bi,recovery,P1,2026-09-07,quiz history,Selected protection/protective-style distractor again for contract/service agreement clause; retain P1
+32,pro,proactive,adjective,taking action before problems happen,chu dong,cooldown,P3,2026-09-04,quiz history,Correct confidently after prior uncertain answer; cooldown
 32,pro,produce,verb,make or create something,san xuat; tao ra,new_unit,P2,2026-08-12,addendum update,Extended word
 32,pro,progress,noun/verb,improvement or movement forward,tien bo; tien trien,new_unit,P2,2026-08-12,addendum update,Extended word
 32,pro,project,verb,estimate or forecast; show an image on a surface,du kien; uoc tinh; chieu hinh,new_unit,P2,2026-08-12,addendum update,Extended word
@@ -213,12 +213,12 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 33,re,recycling,noun,act or process of recycling,viec tai che,new_unit,P2,2026-08-17,addendum update,Word family of recycle
 33,re,cycle,noun,series that repeats; round or period,vong lap; chu ky,new_unit,P2,2026-08-17,addendum update,Base word for recycle
 33,re,renew,verb,make new again; extend a contract license or subscription,lam moi; gia han,new_unit,P2,2026-08-18,quiz history,Correct first-practice license/subscription extension context
-33,re,renewable,adjective,able to be renewed; naturally replaceable,tai tao duoc; co the lam moi,new_unit,P2,2026-09-03,quiz history,Selected incorrectly for bottles that customers can bring back; contrast with returnable
+33,re,renewable,adjective,able to be renewed; naturally replaceable,tai tao duoc; co the lam moi,recovery,P2,2026-09-04,quiz history,Selected incorrectly for a rewritable whiteboard; contrast with rewritable and returnable
 33,re,renewal,noun,act of renewing or extending,su lam moi; su gia han,new_unit,P2,2026-08-17,addendum update,Word family of renew
 33,re,return,verb/noun,come or go back; give something back,tro lai; tra lai,new_unit,P2,2026-08-17,addendum update,Book word
 33,re,returnable,adjective,able to be returned,co the hoan tra,recovery,P2,2026-09-03,quiz history,Wrong on bottles customers can bring back; contrast with renewable
 33,re,rewrite,verb/noun,write again or revise,viet lai; ban viet lai,new_unit,P2,2026-08-24,quiz history,Correct revise confusing paragraph context
-33,re,rewritable,adjective,able to be written again or overwritten,co the viet lai,new_unit,P2,2026-08-17,addendum update,Word family of rewrite; normalized from user note reweitable
+33,re,rewritable,adjective,able to be written again or overwritten,co the viet lai,cooldown,P3,2026-09-07,quiz history,Correct name-tag erase/write-again context after renewable contrast miss
 33,re,reorganize,verb,organize again or differently,to chuc lai,new_unit,P2,2026-08-17,addendum update,Extended word
 33,re,rebuild,verb,build again after damage or change,xay dung lai,new_unit,P2,2026-08-17,addendum update,Extended word
 33,re,recover,verb,return to health or regain something,hoi phuc; lay lai,new_unit,P2,2026-08-17,addendum update,Extended word
@@ -233,16 +233,16 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 33,re,reconnect,verb,connect again,ket noi lai,new_unit,P2,2026-08-17,addendum update,Extended word
 33,re,refill,verb/noun,fill again; amount added,lam day lai; phan nap them,new_unit,P2,2026-08-17,addendum update,Extended word
 33,re,resell,verb,sell again,ban lai,new_unit,P2,2026-08-17,addendum update,Extended word
-34,semi,semicircle,noun,half of a circle,hinh ban nguyet,recovery,P1,2026-09-03,quiz history,Selected incorrectly for stage shape but correct for logo half-circle; keep P1 noun/adjective contrast
+34,semi,semicircle,noun,half of a circle,hinh ban nguyet,recovery,P2,2026-09-04,quiz history,Correct noun use after recent repeated adjective-form errors; retain recovery contrast
 34,semi,circle,noun,round closed shape,hinh tron,new_unit,P2,2026-08-18,addendum update,Base word for semicircle
-34,semi,semicircular,adjective,shaped like a semicircle,co hinh ban nguyet,recovery,P1,2026-09-03,quiz history,Missed adjective before stage again; keep P1 noun/adjective contrast
+34,semi,semicircular,adjective,shaped like a semicircle,co hinh ban nguyet,recovery,P2,2026-09-04,quiz history,Correct adjective use after recent repeated noun-form errors; retain recovery contrast
 34,semi,semicolon,noun,punctuation mark between a comma and a colon,dau cham phay,new_unit,P2,2026-08-20,quiz history,Correct punctuation first-practice context
 34,semi,colon,noun,punctuation mark with two dots,dau hai cham,new_unit,P2,2026-08-18,addendum update,Base word for semicolon
 34,semi,semi-detached,adjective,joined to one other house on one side,nha lien ke mot ben,new_unit,P2,2026-08-24,quiz history,Correct shared-one-wall house context
 34,semi,detached,adjective,separate; not joined,tach biet,new_unit,P2,2026-08-18,addendum update,Base word for semi-detached
 34,semi,semifinal,noun,round before the final match or stage,tran ban ket,new_unit,P2,2026-08-24,quiz history,Correct round before Sunday's final context
 34,semi,semisweet,adjective,partly sweet; not fully sweet,hoi ngot; nua ngot,new_unit,P2,2026-08-18,addendum update,Book word
-34,semi,semiconscious,adjective,partly conscious; not fully awake,nua tinh nua me,new_unit,P2,2026-08-18,addendum update,Extended word
+34,semi,semiconscious,adjective,partly conscious; not fully awake,nua tinh nua me,recovery,P2,2026-09-07,quiz history,Selected subconscious for partly awake after fainting; contrast with subconscious fear/mind
 34,semi,semiannual,adjective,happening twice a year or every six months,nua nam mot lan,new_unit,P2,2026-08-20,quiz history,Correct every-six-months first-practice context
 34,semi,semiformal,adjective,partly formal; between casual and formal,ban trang trong,new_unit,P2,2026-08-18,addendum update,Extended word
 34,semi,semi-solid,adjective,partly solid and partly liquid,nua ran nua long,new_unit,P2,2026-08-18,addendum update,Extended word
@@ -252,3 +252,24 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 34,semi,semiofficial,adjective,partly official; not fully official,ban chinh thuc,new_unit,P2,2026-08-18,addendum update,Extended word
 34,semi,semi-permanent,adjective,long-lasting but not permanent,ban vinh cuu; tam thoi,new_unit,P2,2026-08-24,quiz history,Correct but uncertain salon color lasts weeks then fades context
 34,semi,semi-domesticated,adjective,partly domesticated; not fully tame,ban hoang da; duoc thuan hoa mot phan,new_unit,P2,2026-08-18,addendum update,Extended word
+35,sub,subconscious,adjective/noun,below conscious awareness; part of the mind outside immediate awareness,tiem thuc,recovery,P2,2026-09-07,quiz history,Correct hidden-fear context but selected for semiconscious partly-awake context; contrast needed
+35,sub,conscious,adjective,awake and aware; aware of something,nhan thuc; tinh tao,new_unit,P2,2026-09-03,user addendum,Base support word for subconscious
+35,sub,substandard,adjective,below an accepted level of quality,duoi tieu chuan,new_unit,P2,2026-09-03,user addendum,Unit 35 book word
+35,sub,standard,noun/adjective,usual or accepted level of quality,tieu chuan,new_unit,P2,2026-09-03,user addendum,Base support word for substandard
+35,sub,substitute,noun/verb,person or thing used in place of another; replace something,thay the,new_unit,P2,2026-09-03,user addendum,Unit 35 book word
+35,sub,substitution,noun,act of replacing one thing with another,su thay the,new_unit,P2,2026-09-07,quiz history,Correct but uncertain; understood as late change, refine as replacement/substitution
+35,sub,suburb,noun,area outside the center of a city or town,ngoai o,recovery,P2,2026-09-04,quiz history,Selected before neighborhood where adjective suburban was required
+35,sub,suburban,adjective,relating to a suburb,thuoc ngoai o,cooldown,P3,2026-09-07,quiz history,Correct adjective before area after suburb/suburban contrast miss
+35,sub,subway,noun,underground railway; underground pedestrian tunnel,duong ham; tau dien ngam,new_unit,P2,2026-09-03,user addendum,Unit 35 book word
+35,sub,subtitle,noun,text that shows dialogue or a translation on screen,tieu de phu,new_unit,P2,2026-09-03,user addendum,Extended word
+35,sub,substance,noun,material; physical substance,chat; vat chat,new_unit,P2,2026-09-03,user addendum,Extended word
+35,sub,submarine,noun,vessel that travels underwater,tau ngam,new_unit,P2,2026-09-03,user addendum,Extended word
+35,sub,subheading,noun,secondary heading under a main heading,tieu de phu,new_unit,P2,2026-09-07,quiz history,Correct secondary heading under a main title
+35,sub,submit,verb,give work or a document formally for consideration,nop,new_unit,P2,2026-09-03,user addendum,Extended word
+35,sub,subtotal,noun,total for one part before the final total,tong tung phan,new_unit,P2,2026-09-03,user addendum,Extended word
+35,sub,subject,noun,topic; course studied at school,mon hoc; chu de,new_unit,P2,2026-09-03,user addendum,Extended word
+35,sub,subdivide,verb,divide something into smaller parts,chia nho,new_unit,P2,2026-09-03,user addendum,Extended word
+35,sub,subordinate,noun/adjective,lower in rank; person with a lower position,cap duoi,new_unit,P2,2026-09-03,user addendum,Extended word
+35,sub,submerge,verb,put or go below the surface of water,dim xuong; chim duoi nuoc,new_unit,P2,2026-09-03,user addendum,Extended word
+0,general,threshold,noun,point or level at which something begins or changes,nguong,recovery,P2,2026-09-07,quiz history,Selected ratio in pass-the-5-percent-threshold trigger context; contrast level vs relationship
+0,general,ratio,noun,relationship between two amounts,ty le,recovery,P2,2026-09-07,quiz history,Selected for threshold trigger context; keep contrast with threshold
