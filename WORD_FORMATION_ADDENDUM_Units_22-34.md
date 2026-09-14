@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-35
+# Word Formation Addendum - Units 22-39
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -659,6 +659,292 @@ Watch:
 - `suburb` is a place; `suburban` is its adjective.
 - `subtitle` appears on a screen; a `subheading` organizes sections in written text.
 
+## Unit 36 - `super-`
+
+Meaning: above, beyond, extremely, or exceptionally powerful.
+
+Additional general vocabulary:
+
+- `cheering` (noun/gerund) = co vu
+- `unbearable` (adjective) = khong the chiu dung duoc
+
+Book words:
+
+- `supercharge` (verb) = tang luc
+- `superficial` (adjective) = hoi hot; be ngoai
+- `supermarket` (noun) = sieu thi
+- `superpower` (noun) = cuong quoc; sieu nang luc
+- `supervise` (verb) = giam sat
+
+Word families:
+
+- `charge` (noun/verb) = nap; sac
+- `supercharger` (noun) = bo sieu nap
+- `superficiality` (noun) = su hoi hot
+- `superficially` (adverb) = mot cach hoi hot
+- `supervision` (noun) = su giam sat
+- `supervisor` (noun) = nguoi giam sat
+
+Extensions:
+
+- `superstar` = sieu sao; `star` = ngoi sao
+- `superhero` = sieu anh hung; `hero` = nguoi hung
+- `supernatural` = sieu nhien; `natural` = tu nhien
+- `supermodel` = sieu mau; `model` = mau; nguoi mau
+- `superglue` = keo sieu dinh; `glue` = keo dinh
+- `superhuman` = sieu pham; `human` = nguoi; con nguoi
+- `super-rich` = sieu giau; `rich` = giau
+- `supersonic` = sieu thanh
+- `superfan` = nguoi ham mo cuong nhiet; `fan` = nguoi ham mo
+- `supercomputer` = sieu may tinh; `computer` = may tinh
+
+Accuracy note:
+
+- `vise` is not added to the active vocabulary. It means a holding tool, not
+  "look", and it is not the base word needed to understand `supervise`.
+
 
 cheering : cổ vũ 
-unbearable : không thể chịu đựng được 
+unbearable : không thể chịu đựng được
+
+supercharge : tăng lực
+charge : nạp
+supercharger : bộ siêu nạp
+
+superficial : hời hợt, bề ngoài
+superficiality : (n) : sự hời hợt
+superficially (adv) : một cách hời hợt
+
+supermarket : siêu thị
+superpower : siêu năng lực, cường quốc
+
+supervise : giám sát
+vise : ê tô / kẹp giữ (không có nghĩa là "nhìn")
+
+supervision : sự giám sát
+supervisor : người giám sát
+
+
+
+- Từ trong sách: supercharge, superficial, supermarket, superpower, supervise
+- Từ mở rộng:
+• superstar (n) /ˈsuːpəstɑː(r)/: siêu sao
+star : ngôi sao
+• superhero (n) /ˈsuːpəhɪərəʊ/: siêu anh hùng
+hero : người hùng
+• supernatural (adj) /ˌsuːpəˈnætʃrəl/: siêu nhiên
+natural : tự nhiên
+• supermodel (n) /ˈsuːpəmɒdl/: siêu mẫu
+model : người mẫu; mô hình
+• superglue (n) /ˈsuːpəɡluː/: keo siêu dính
+glue : keo dính
+• superhuman (adj) /ˌsuːpəˈhjuːmən/: siêu phàm
+human : người (người phàm)
+• super-rich (adj) /ˌsuːpə ˈrɪtʃ/: siêu giàu
+rich : giàu
+• supersonic (adj) /ˌsuːpəˈsɒnɪk/: siêu thanh
+• superfan (n) /ˈsuːpəfæn/: người hâm mộ cuồng nhiệt
+fan : người hâm mộ
+• supercomputer (n) /ˈsuːpəkəm bjuːtə(r)/: siêu máy tính
+computer : máy tính
+
+## Unit 37 - `syn-` / `sym-`
+
+Meaning: together, same, or combined. The form often changes from `syn-` to
+`sym-` before `b`, `m`, and `p` sounds.
+
+Book words:
+
+- `synchronize` (verb) = dong bo
+- `syndrome` (noun) = hoi chung
+- `synonym` (noun) = tu dong nghia
+- `sympathy` (noun) = su dong cam; su cam thong
+- `symphony` (noun) = ban giao huong
+
+Word families:
+
+- `synchronization` (noun) = su dong bo hoa
+- `synonymous` (adjective) = dong nghia; commonly used as `synonymous with`
+- `sympathetic` (adjective) = co su dong cam; cam thong
+- `sympathize` (verb) = dong cam; cam thong
+- `symphonic` (adjective) = thuoc giao huong
+
+Extensions:
+
+- `symbiotic` (adjective) = cong sinh
+- `symptom` (noun) = trieu chung
+- `synthesis` (noun) = su tong hop
+- `symmetry` (noun) = su doi xung
+
+Watch:
+
+- `synchronize` is a verb; `synchronization` is the noun.
+- A `synonym` is a word; `synonymous` is an adjective and commonly takes
+  `with`.
+- `sympathy` is a noun; `sympathetic` is an adjective; `sympathize` is a verb.
+- A `syndrome` is a set of related signs or symptoms; a `symptom` is one sign
+  of an illness or problem.
+- `symphony` is a noun; `symphonic` is an adjective.
+
+## Unit 38 - `trans-`
+
+Meaning: across, through, beyond, or from one state/place/language to another.
+
+Book words:
+
+- `transfer` (verb/noun) = chuyen; doi
+- `transit` (verb/noun) = di qua; qua canh
+- `translate` (verb) = dich
+- `transplant` (verb/noun) = cay ghep; trong lai
+- `transparent` (adjective) = trong suot; minh bach; ro rang
+
+Word families:
+
+- `transferable`; `transference`
+- `transition`; `transitory`
+- `translation`; `translator`
+- `transplantation`
+- `transparency`; `transparently`
+
+Extensions:
+
+- `transcend`, `transnational`, `transport`, `transcribe`, `transmit`
+- `transgender`, `transcontinental`
+
+Root note:
+
+- `fer` is a bound root meaning carry or bring. It is not added as an active
+  standalone vocabulary word.
+
+Watch:
+
+- `translate` is a verb; `translation` is the noun; a `translator` is a person.
+- `transparent` is an adjective; `transparency` is the noun;
+  `transparently` is the adverb.
+- `transfer` moves something to a new place; `transit` means pass through.
+
+## Unit 39 - `un-`
+
+Meaning: not, opposite of, or reversal/removal.
+
+Book words:
+
+- `uncertain` (adjective) = khong chac chan
+- `unfair` (adjective) = bat cong
+- `unlock` (verb) = mo khoa
+- `unpleasant` (adjective) = kho chiu
+- `unpredictable` (adjective) = khong the doan truoc
+
+Word families and support words:
+
+- `certain`; `uncertainly`; `uncertainty`
+- `unfairly`; `unfairness`
+- `pleasant`; `unpleasantly`; `unpleasantness`
+- `predictable`; `unpredictability`; `unpredictably`
+
+Watch:
+
+- `uncertain` is an adjective; `uncertainty` is the noun.
+- `unfair` is an adjective; `unfairly` is the adverb; `unfairness` is the noun.
+- `unpredictable` is an adjective; `unpredictability` is the noun.
+
+Extensions and support words:
+
+- `unusual`; `usual`
+- `unable`
+- `unsafe`; `safe`
+- `untidy`; `tidy`
+- `unwell`
+- `uncover`; `cover`
+- `uncommon`; `common`
+- `unlimited`
+- `unreliable`; `reliable`
+- `unnoticed`; `noticed`
+- `unconscious`
+- `unbelievable`
+- `unprotected`
+- `unimpressed`; `impressed`
+- `unnecessary`
+
+
+transfer : chuyển, đổi
+fer : mang
+transferable : adj : có thể chuyển đổi
+transference : n : sự chuyển giao, sự chuyển đổi
+transit : v n : đi qua, quá cảnh, vận chuyển
+transition : n : sự chuyển đổi
+transitory : adj : tạm thời, thoáng qua
+
+translate : V : dịch
+translation : n : sự dịch, bản dịch
+translator : n : người dịch, phiên dịch viên
+
+transplant : V : cấy ghép , trồng lại (liên quan nhiều tới y tế )
+transplantation : sự cấy ghép
+
+transparent : adj : trong suốt, minh bạch, rõ ràng
+
+transparency : n : sự minh bạch
+transparently : adv : một cách rõ ràng
+
+- Từ trong sách: transfer, transit, translate, transplant, transparent
+- Từ mở rộng:
+transcend (v) /trænˈsend/: vượt lên trên
+transnational (adj) /trænzˈnæʃnəl/: xuyên quốc gia
+transport (v) /trænˈspɔːt/: vận chuyển
+transcribe (v) /trænˈskraɪb/: chép lại
+transmit (v) /trænˈsmɪt/: truyền tải
+transgender (adj) /trænzˈdʒendə(r)/: chuyển giới
+transcontinental (adj) /ˌtrænzˌkɒntɪˈnentl/: xuyên lục địa
+
+
+
+
+uncertain : adj : không chắc chắn
+certain : adj : chắc chắc
+uncertainly : một cách không chắc chắn
+uncertainty : (n): sự không chắc chắn
+
+unfair: bất công
+unfairly : một cách bất công
+unfairness : sự bất công.
+
+unlock : mở khóa
+unpleasant : khó chịu
+pleasant : dễ chịu
+unpleasantly : một cách khó chịu
+unpleasantness : sự khó chịu
+
+unpredictable : không thể đoán trước được
+predictable : có thể đoán được
+unpredictability : sự khôn lường
+unpredictably : một cách khôn lường
+
+
+- Từ trong sách: uncertain, unfair, unlock, unpleasant, unpredictable
+- Từ mở rộng:
+unusual (adj) /ʌnˈjuːʒuəl/: không bình thường
+usual: bình thường
+unable (adj) /ʌnˈeɪbl/: không thể
+unsafe (adj) /ʌnˈseɪf/: không an toàn
+safe: an toàn
+untidy (adj) /ʌnˈtaɪdi/: không gọn gàng
+tidy: gọn gàng
+unwell (adj) /ʌnˈwel/: không khỏe
+uncover (v) /ʌnˈkʌvə(r)/: khám phá
+cover : bao bọc, bảo vệ
+uncommon (adj) /ʌnˈkɒmən/: không phổ biến
+common: phổ biến
+unlimited (adj) /ʌnˈlɪmɪtɪd/: không giới hạn
+unreliable (adj) /ˌʌnrɪˈlaɪəbl/: không đáng tin cậy
+reliable: có thể tin được
+unnoticed (adj) /ʌnˈnəʊtɪst/: không được chú ý
+noticed: chú ý, để ý
+unconscious (adj) /ʌnˈkɒnʃəs/: bất tỉnh
+unbelievable (adj) /ˌʌnbɪˈliːvəbl/: khó tin
+unprotected (adj) /ˌʌnprəˈtektɪd/: không được bảo vệ
+unimpressed (adj) /ˌʌnɪmˈprest/: không ấn tượng
+impressed: ấn tượng
+unnecessary (adj) /ʌnˈnesəsəri/: không cần thiết
+
+Root hints: certain (chắc chắn), fair (công bằng), lock (khoá), pleasant (dễ chịu, thoải mái), predictable (có thể đoán trước), usual (bình thường), able (có khả năng), safe (an toàn), tidy (ngăn nắp), well (khỏe mạnh), cover (che phủ), common (phổ biến), limit (giới hạn), reliable (đáng tin cậy), notice (chú ý), conscious (có ý thức), believe (tin tưởng), protect (bảo vệ), impress (gây ấn tượng), necessary (cần thiết).

@@ -2,7 +2,7 @@
 
 Date: Monday 2026-08-24
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-35
+Current scope: Unit 01-39
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -25,12 +25,12 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Monday 2026-09-07 was a Daily Quick day.
-The valid Daily Quick was completed with a score of 8/12.
+Friday 2026-09-11 was a Weekly Quick day.
+The valid Weekly Quick was completed with a score of 23/30.
 
 The next expected quiz is:
 
-- Tuesday 2026-09-08
+- Monday 2026-09-14
 - Daily Quick
 - 12 questions
 
@@ -45,7 +45,7 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 34.
+The project has advanced through Unit 39.
 
 Recent unit coverage:
 
@@ -63,6 +63,60 @@ Recent unit coverage:
 - Unit 33: `re-`
 - Unit 34: `semi-`
 - Unit 35: `sub-`
+- Unit 36: `super-`
+- Unit 37: `syn-` / `sym-`
+- Unit 38: `trans-`
+- Unit 39: `un-`
+
+## Update 2026-09-14 - Unit 39 `un-`
+
+The addendum import added 16 active entries at `new_unit/P2`. Prioritize
+`uncertain` / `uncertainty`, `unfair` / `unfairly` / `unfairness`, and
+`unpredictable` / `unpredictability` word-family roles.
+
+## Update 2026-09-08 - Unit 36 `super-`
+
+The addendum import added 32 approved entries: two general words
+(`cheering`, `unbearable`) and Unit 36 `super-` book words, word families, and
+extensions. All new entries begin as `new_unit` at P2.
+
+`vise` was excluded: it means a holding tool, not "look", and is not a useful
+base form for `supervise`.
+
+## Update 2026-09-09 - Daily Quick
+
+The Daily Quick scored 10/12. Keep `provision` vs `protection` and `profound`
+vs `profoundly` at P1 after fresh role errors. Keep `semiconscious` and
+`substitution` at P1 for one more check after their first confident
+corrections. Move `protective` and `perceptive` vs `observable` to cooldown.
+
+Unit 35 `submit`, `submerge`, and `subway`, Unit 34 `semisweet`, and Unit 36
+`supervision` were correct confidently.
+
+## Update 2026-09-09 - Unit 37 `syn-` / `sym-`
+
+The addendum import added 13 new entries and normalized existing `symptoms` to
+the singular lemma `symptom`. Unit 37 now contains 14 active entries at
+`new_unit/P2`.
+
+Book words are `synchronize`, `syndrome`, `synonym`, `sympathy`, and
+`symphony`. Prioritize the word-family contrasts `synchronize` /
+`synchronization`, `synonym` / `synonymous`, `sympathy` / `sympathetic` /
+`sympathize`, `symphony` / `symphonic`, and `syndrome` / `symptom`.
+
+## Update 2026-09-10 - Daily Quick
+
+Score: 8/12. Raise `tolerating` to P1 after an unresolved gerund-subject
+question. Add P2 `synonym` vs `synonymous`, `superficial` vs
+`superficiality`, and `subordinate` vs `supervisor`. Lower
+`semiconscious`/`subconscious` and `substitution`/`subtitle` to P2 after
+second confident corrections.
+
+## Update 2026-09-10 - Unit 38 `trans-`
+
+The addendum import added 21 active entries at `new_unit/P2`. Prioritize the
+word-family contrasts `transfer` / `transference`, `translate` / `translation`
+/ `translator`, and `transparent` / `transparency` / `transparently`.
 
 ## Update 2026-09-03
 
@@ -77,7 +131,7 @@ contrast pairs listed in the latest recovery priorities.
 
 Additional reading vocabulary recently added from Outwork:
 
-- `symptoms`
+- `symptom`
 - `boredom tolerance`
 - `monotonous`
 - `tap out`
@@ -145,19 +199,19 @@ Unit 34 `semi-` vocabulary added on 2026-08-18 after the Daily Quick:
 
 Last valid completed quiz:
 
-- Date: Monday 2026-09-07
+- Date: Thursday 2026-09-10
 - Type: Daily Quick
 - Recorded result: 8/12
-- Correct but uncertain: Q7 `substitution`
-- Wrong: Q1 `provision`, Q6 `profound`, Q10 `semiconscious`, Q12 `threshold`
-- Unanswered/unresolved: none
+- Correct but uncertain: none
+- Wrong: Q7 `synonymous`, Q8 `superficiality`, Q9 `subordinate`
+- Unanswered/unresolved: Q5 `tolerating`
 - Incidental candidate recorded: none
 
 Previous valid quiz:
 
-- Date: Friday 2026-09-04
-- Type: Weekly Quick
-- Recorded result: 23/30
+- Date: Wednesday 2026-09-09
+- Type: Daily Quick
+- Recorded result: 10/12
 
 ## Earlier August progress
 
@@ -197,15 +251,15 @@ Available results from the first August quiz week:
 
 P1:
 
-- `provision` vs `protective` / `protection`
+- `provision` vs `protection`
 - `profound` vs `profoundly`
+- `semiconscious` vs `subconscious`
+- `substitution` vs `subtitle` / `substitute`
 
 P2:
 
-- `semiconscious` vs `subconscious`
-- `threshold` vs `ratio`
-- `substitution` after correct but uncertain answer
-- `protection` within the protect family after correct answer, because `provision` remains unstable
+- `protection` within the provision/protection noun-role contrast
+- `subtitle` after being selected for a replacement action
 - `semicircle` vs `semicircular`
 - `tolerating` vs `sustained` / `compounding` after ambiguous accepted item
 - `semi-permanent` after correct but uncertain answer
@@ -222,10 +276,16 @@ P2:
   were correct
 - Unit 34 `semi-` continued first-practice words, especially
   `semi-detached`, `semifinal`, `semisweet`, and partial-state adjectives
+- Unit 36 `super-` and Unit 37 `syn-` / `sym-` current-unit coverage, with
+  word-family role contrasts before transparent extensions
 - Additional update words: `compounding`, `sustained`, `drug`
 
 Cooldown / light watch:
 
+- `protective` after another confident adjective use
+- `perceptive` vs `observable` after both sides were correct in consecutive quizzes
+- `threshold` vs `ratio` after a confident trigger-level recovery answer
+- `semiannual`, `objective`, and `midstream` after confident correct checks
 - `post-flight` vs `postwar`
 - `precaution` vs `preview`
 - `perceptive` vs `persuasive`

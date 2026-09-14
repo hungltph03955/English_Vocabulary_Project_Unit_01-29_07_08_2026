@@ -1,9 +1,9 @@
 # Rotation State - Snapshot
 
-Date: Monday 2026-09-07
-Scope: Unit 01-35
-Last valid quiz: Daily Quick on Monday 2026-09-07, 8/12
-Next expected quiz: Daily Quick, 12 questions, Tuesday 2026-09-08
+Date: Friday 2026-09-11
+Scope: Unit 01-39
+Last valid quiz: Weekly Quick on Friday 2026-09-11, 23/30
+Next expected quiz: Daily Quick, 12 questions, Monday 2026-09-14
 
 ## Selection order
 
@@ -47,13 +47,91 @@ Use this order when generating quizzes:
 - Move `proceed`, `rewritable`, and `suburban` to cooldown after confident correct answers.
 - Keep `substitution` on light watch because the final answer was correct but uncertain; refine it as replacement, not just a late change.
 
+## 2026-09-08 update
+
+- Keep P1 `provision` vs `protection` / `protective`: Q1 was correct confidently, but the contract-clause noun role needs one more stable retrieval after repeated misses.
+- Keep P1 `profound` vs `profoundly`: Q3 was correct confidently before noun `influence`; retain one more early recovery check.
+- Raise `semiconscious` vs `subconscious` to P1: Q4 again selected the hidden-mind word for a partly-awake physical state, and the answer was uncertain.
+- Raise `substitution` vs `subtitle` / `substitute` to P1: Q7 selected screen text for an action that replaces one headline with another.
+- Lower `threshold` vs `ratio` to cooldown after a confident correct trigger-level answer.
+- Keep `perceptive` vs `observable` at P2 after a confident correct person-notices-patterns answer.
+- Keep `substandard` and `subtotal` in active Unit 35 coverage after confident correct first-practice checks.
+- Move `semiannual`, `objective`, and `midstream` to cooldown after confident correct checks.
+
+## 2026-09-08 Unit 36 import
+
+- Add Unit 36 `super-` as new coverage: `supercharge`, `superficial`,
+  `supermarket`, `superpower`, and `supervise`.
+- Add its word-family contrasts: `superficial` / `superficially` /
+  `superficiality`, and `supervise` / `supervision` / `supervisor`.
+- Add the approved extensions at P2, including `superstar`, `superhero`,
+  `supernatural`, `supermodel`, `superglue`, `superhuman`, `super-rich`,
+  `supersonic`, `superfan`, and `supercomputer`.
+- Exclude `vise`; it is a holding tool, not "look".
+
+## 2026-09-09 update
+
+- Keep P1 `provision` vs `protection`: Q1 selected the safety noun for a
+  contingency arrangement in a continuity plan.
+- Keep P1 `profound` vs `profoundly`: Q3 selected the adjective where the
+  adverb needed to modify `changed`.
+- Keep P1 `semiconscious` vs `subconscious` after the first confident
+  correction following repeated physical-state errors.
+- Keep P1 `substitution` vs `subtitle` / `substitute` after the first
+  confident correction following the latest replacement-action miss.
+- Move `protective` to cooldown after another confident adjective use.
+- Move `perceptive` vs `observable` to cooldown after correct answers for both
+  sides in consecutive quizzes.
+- Unit 35 `submit`, `submerge`, and `subway` were correct confidently.
+- Unit 34 `semisweet`, cooldown `outburst`, and Unit 36 `supervision` were
+  correct confidently.
+
+## 2026-09-09 Unit 37 import
+
+- Add Unit 37 `syn-` / `sym-` as new coverage with 14 active lemmas.
+- Add book words `synchronize`, `syndrome`, `synonym`, `sympathy`, and
+  `symphony`.
+- Add word-family contrasts `synchronize` / `synchronization`, `synonym` /
+  `synonymous`, `sympathy` / `sympathetic` / `sympathize`, and `symphony` /
+  `symphonic`.
+- Add extensions `symbiotic`, `symptom`, `synthesis`, and `symmetry`.
+- Normalize existing Outwork `symptoms` to singular lemma `symptom` instead
+  of creating a duplicate.
+
+## 2026-09-10 update
+
+- Keep P1 `provision` vs `protection` and `profound` vs `profoundly` after
+  confident corrections following recent errors.
+- Raise `tolerating` vs `endurance` / `sustained` to P1 after Q5 was
+  unanswered in a gerund-subject context.
+- Lower `semiconscious` vs `subconscious` and `substitution` vs `subtitle` /
+  `substitute` from P1 to P2 after second confident corrections.
+- Add P2 `synonym` vs `synonymous`, `superficial` vs `superficiality`, and
+  `subordinate` vs `supervisor` after word-family or reporting-direction errors.
+- Move `semi-permanent` and `perception` to cooldown after confident answers.
+
+## 2026-09-10 Unit 38 import
+
+- Add Unit 38 `trans-` with 21 active entries at P2.
+- Prioritize `transfer` / `transference`, `translate` / `translation` /
+  `translator`, and `transparent` / `transparency` / `transparently`.
+- Keep `fer` as a root note only; it is not standalone active vocabulary.
+
 ## Schedule guardrail
 
 Friday 2026-09-04 was correctly completed as a Weekly Quick with 30 questions.
 
 Monday 2026-09-07 was correctly completed as a Daily Quick with 12 questions.
 
-The next expected quiz day is Tuesday 2026-09-08, so use a Daily Quick with 12
+Tuesday 2026-09-08 was correctly completed as a Daily Quick with 12 questions.
+
+Wednesday 2026-09-09 was correctly completed as a Daily Quick with 12 questions.
+
+Thursday 2026-09-10 was correctly completed as a Daily Quick with 12 questions.
+
+Friday 2026-09-11 was correctly completed as a Weekly Quick with 30 questions.
+
+The next expected quiz day is Monday 2026-09-14, so use a Daily Quick with 12
 questions.
 
 No completed quiz history was found for Friday 2026-08-21.
@@ -62,9 +140,17 @@ No completed quiz history was found for Friday 2026-08-21.
 
 | Priority | Group | Reason | Last seen | Next action |
 |---|---|---|---|---|
-| P1 | `semicircle` vs `semicircular` | Selected noun `semicircle` before `seating layout`; adjective `semicircular` was needed | 2026-08-24 | Test noun vs adjective shape contexts early |
-| P1 | `provision` vs `protective` / `protection` | Selected `protective` for a contract clause; missed `provision` | 2026-08-24 | Test contract/support arrangements vs protective adjective |
-| P1 | `protective` vs `protection` | Selected noun `protection` before `case`; adjective `protective` was needed | 2026-08-24 | Test adjective before noun vs noun after verbs like provide |
+| P2 | `semicircle` vs `semicircular` | Recent Week 09-04 answers were correct after earlier noun/adjective errors | 2026-09-04 | Test later in new shape contexts |
+| P1 | `provision` vs `protection` | Selected `protection` for a contingency arrangement in a continuity plan | 2026-09-09 | Test arrangement/clause noun vs safety noun early |
+| P1 | `profound` vs `profoundly` | Selected adjective `profound` where an adverb modified `changed` | 2026-09-09 | Test adjective before noun vs adverb before verb early |
+| P1 | `tolerating` vs `endurance` / `sustained` | Unanswered where the gerund subject `tolerating` was required | 2026-09-10 | Test a clear accepting-interruptions context early |
+| P2 | `semiconscious` vs `subconscious` | Second confident physical-state correction after repeated misses | 2026-09-10 | Recheck later before cooldown |
+| P2 | `substitution` vs `subtitle` / `substitute` | Second confident replacement-action correction | 2026-09-10 | Recheck later before cooldown |
+| P2 | `synonym` vs `synonymous` | Selected noun `synonym` where adjective before `with` was required | 2026-09-10 | Test noun `for` vs adjective `with` |
+| P2 | `superficial` vs `superficiality` | Selected adjective where noun after `the` was required | 2026-09-10 | Test adjective/noun role contrast |
+| P2 | `subordinate` vs `supervisor` | Selected manager role for people who report to a manager | 2026-09-10 | Test reporting direction |
+| P3 | `protective` | Correct confidently before `foam` after several stable adjective uses | 2026-09-09 | Cooldown; use only as an occasional provision-family distractor |
+| P3 | `perceptive` vs `observable` | Both person-noticing and measurable-change sides were correct in consecutive quizzes | 2026-09-09 | Cooldown contrast only |
 | P2 | `tolerating` vs `sustained` / `compounding` | Q5 on 2026-08-24 was ambiguous and `sustained noisy calls` was accepted | 2026-08-24 | Retest `tolerating` later with a cleaner gerund-as-subject prompt |
 | P2 | `semi-permanent` | Correct but uncertain for salon color lasting weeks then fading | 2026-08-24 | Retest with temporary-but-long-lasting contexts |
 | P2 | `semicircle` noun use | Correct but uncertain for drawing a half-circle shape | 2026-08-24 | Keep near P1 because adjective contrast still failed |
@@ -88,7 +174,7 @@ No completed quiz history was found for Friday 2026-08-21.
 | P3 | `overreact` / `outsource` / `mishandle` | Correct on recent Daily Quicks | 2026-08-11 | Cooldown only |
 | P3 | `oversleep` / `overload` | Correct on recent Daily Quicks | 2026-08-10 | Light watch only |
 
-## Unit 29-35 current-unit targets
+## Unit 29-39 current-unit targets
 
 Prioritize these in the next Daily Quick:
 
@@ -107,6 +193,17 @@ Prioritize these in the next Daily Quick:
 - Unit 34 extended `semi-`: `semiconscious`, `semiannual`, `semiformal`, `semi-solid`, `semi-professional`, `semiautomatic`, `semidarkness`, `semiofficial`, `semi-permanent`, `semi-domesticated`
 - Unit 35 `sub-`: `subconscious`, `substandard`, `substitute`, `substitution`, `suburb`, `suburban`, `subway`, `subtitle`, `substance`, `submarine`, `subheading`, `submit`, `subtotal`, `subject`, `subdivide`, `subordinate`, `submerge`
 - Unit 35 support words: `conscious`, `standard`; general vocabulary: `threshold`, `ratio`
+- Unit 36 `super-`: `supercharge`, `superficial`, `supermarket`, `superpower`, `supervise`
+- Unit 36 word families: `charge`, `supercharger`, `superficiality`, `superficially`, `supervision`, `supervisor`
+- Unit 36 extensions: `superstar`, `star`, `superhero`, `hero`, `supernatural`, `natural`, `supermodel`, `model`, `superglue`, `glue`, `superhuman`, `human`, `super-rich`, `rich`, `supersonic`, `superfan`, `fan`, `supercomputer`, `computer`
+- Unit 37 `syn-` / `sym-`: `synchronize`, `syndrome`, `synonym`, `sympathy`, `symphony`
+- Unit 37 word families: `synchronization`, `synonymous`, `sympathetic`, `sympathize`, `symphonic`
+- Unit 37 extensions: `symbiotic`, `symptom`, `synthesis`, `symmetry`
+- Unit 38 `trans-`: `transfer`, `transit`, `translate`, `transplant`, `transparent`
+- Unit 38 word families: `transferable`, `transference`, `transition`, `transitory`, `translation`, `translator`, `transplantation`, `transparency`, `transparently`
+- Unit 38 extensions: `transcend`, `transnational`, `transport`, `transcribe`, `transmit`, `transgender`, `transcontinental`
+- Unit 39 `un-`: `uncertain`, `unfair`, `unlock`, `unpleasant`, `unpredictable`
+- Unit 39 word families: `certain`, `uncertainly`, `uncertainty`, `unfairly`, `unfairness`, `pleasant`, `unpleasantly`, `unpleasantness`, `predictable`, `unpredictability`, `unpredictably`
 - Outwork additions: `endurance`, `tolerating`
 - Additional update words: `compounding`, `sustained`, `drug`
 - `monotonous`, `stimulation`, `boredom tolerance`
@@ -150,6 +247,16 @@ Contrast traps:
 - `semifinal` vs final
 - `semiannual` vs annual
 - `semi-permanent` vs permanent
+- `superficial` vs `superficially` vs `superficiality`
+- `supervise` vs `supervision` vs `supervisor`
+- `synchronize` vs `synchronization`
+- `synonym` vs `synonymous`
+- `sympathy` vs `sympathetic` vs `sympathize`
+- `symphony` vs `symphonic`
+- `syndrome` vs `symptom`
+- `translate` vs `translation` vs `translator`
+- `transparent` vs `transparency` vs `transparently`
+- `transfer` vs `transit`
 
 ## Cooldown / light watch
 
@@ -198,17 +305,22 @@ These groups should not dominate the next quiz, but can appear when due:
 | 31 | `pre-` | Added 2026-08-11; practiced 2026-08-12 to 2026-08-24 | `precaution` vs `preview` cooldown; continue first-practice rotation |
 | 32 | `pro-` | Added 2026-08-12; practiced 2026-08-17 to 2026-08-24 | `provision` / `protective` / `protection` P1; continue word-family contrasts |
 | 33 | `re-` | Added 2026-08-17; practiced 2026-08-18 to 2026-08-24 | Continue first-practice rotation; `rewrite`, `rearrange`, `renew`, `refund`, `recycle` correct |
-| 34 | `semi-` | Added 2026-08-18; practiced 2026-08-20 and 2026-08-24 | `semicircle` vs `semicircular` P1; `semi-permanent` correct but uncertain |
-| 35 | `sub-` | Added 2026-09-03; not yet practiced | Start word-family and role contrasts in the next Weekly Quick |
+| 34 | `semi-` | Added 2026-08-18; practiced through 2026-09-09 | `semisweet` correct; retain `semicircle` vs `semicircular` Recovery |
+| 35 | `sub-` | Added 2026-09-03; practiced through 2026-09-09 | `submit`, `submerge`, and `subway` correct; continue untested words |
+| 36 | `super-` | Added 2026-09-08; first Daily Quick check 2026-09-09 | `supervision` correct; continue book words and family contrasts |
+| 37 | `syn-` / `sym-` | Added 2026-09-09 | Start book words and word-family role contrasts |
+| 38 | `trans-` | Added 2026-09-10 | Start book words and word-family role contrasts |
 
-## Daily Quick recipe for Tuesday 2026-09-08
+## Weekly Quick recipe for Friday 2026-09-11
 
-Use 12 questions:
+Use 30 questions:
 
-- Q1-Q6: Recovery, including `provision` vs `protection` / `protective`, `profound` vs `profoundly`, `semiconscious` vs `subconscious`, and `threshold` vs `ratio`.
-- Q7-Q9: Continued Unit 35 checks, with one light `substitution` replacement check.
-- Q10: Unit 30-34 due-word check, preferably `perceptive` vs `observable` or a semi- form not recently stabilized.
-- Q11: Earlier-unit cooldown check.
-- Q12: Unit Tour or Topic Tour check.
+- Q1-Q9: Recovery, including `provision` vs `protection`, `profound` vs
+  `profoundly`, `tolerating` vs `endurance`, and the new P2 contrasts.
+- Q10-Q15: Unit 36-38 coverage with word-family roles, including at least two
+  Unit 38 checks.
+- Q16-Q21: Unit 35 and Unit 30-34 continued coverage.
+- Q22-Q26: Due or cooldown checks from earlier units.
+- Q27-Q30: Unit Tour, Topic Tour, and broader word-family checks.
 
 Do not use the invalid 12-question Friday 2026-08-07 Daily Quick as history.

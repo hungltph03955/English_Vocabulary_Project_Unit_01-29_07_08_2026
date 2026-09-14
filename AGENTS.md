@@ -1,7 +1,7 @@
 # English Vocabulary Project - Agent Operating Manual
 
 Date created: 2026-08-07
-Current scope: Unit 01-35
+Current scope: Unit 01-39
 
 This file is the mandatory entry point for every Codex session in this project.
 
@@ -86,6 +86,14 @@ Never choose questions randomly. Select questions in this order:
 
 Avoid repeating the exact same sentence from recent quizzes unless it is an
 intentional Recovery check.
+
+Current-unit coverage rule:
+
+- When a covered unit has a Word families and support words section, include
+  at least one question whose correct answer comes from that section in the
+  current quiz cycle. Book words alone do not count as complete unit coverage.
+- Use word-family and support-word items to test part of speech, collocation,
+  or contrast with the related book word whenever possible.
 
 Use `PROJECT_SKILLS.md` to shape question style: realistic work, product,
 reading, and daily-life contexts; contrast-based distractors; and memory-focused
