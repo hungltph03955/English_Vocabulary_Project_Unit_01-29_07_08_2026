@@ -151,7 +151,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 0,outwork,tap out,phrasal verb,quit; give up,bo cuoc,new_unit,P2,2026-08-07,conversation update,Outwork vocabulary
 0,outwork,stimulation,noun,mental/physical activation,kich thich,new_unit,P2,2026-08-07,conversation update,Outwork vocabulary
 0,outwork,endurance,noun,ability to keep going despite difficulty or tiredness,suc ben,cooldown,P3,2026-08-18,quiz history,Correct in mental endurance context after prior recovery; move to light watch
-0,outwork,tolerating,verb/gerund,enduring or accepting something unpleasant,chiu dung,recovery,P1,2026-09-10,quiz history,Unanswered in a gerund-subject context; prioritize against endurance and sustained
+0,outwork,tolerating,verb/gerund,enduring or accepting something unpleasant,chiu dung,recovery,P1,2026-09-16,quiz history,Correct confidently in accepting-callers gerund context; retain P1 after repeated errors
 0,outwork,compounding,noun/adjective,cumulative increase or effect that builds over time,su gia tang tich tu,recovery,P2,2026-08-18,quiz history,Correct again in cumulative-effect context; keep contrast with tolerating for one more cycle
 0,outwork,sustained,adjective,maintained or continued over time,duy tri lien tuc,cooldown,P3,2026-08-24,quiz history,Accepted as plausible adjective in sustained noisy calls; do not treat Q5 as a miss
 30,post,postgraduate,noun/adjective,student or course after a first university degree,sau dai hoc; hoc vien sau dai hoc,new_unit,P2,2026-08-11,quiz history,Correct on first Unit 30 Daily Quick
@@ -187,7 +187,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 32,pro,promote,verb,support or encourage; raise to a higher position,thuc day; thang chuc,new_unit,P2,2026-08-18,quiz history,Correct campaign context
 32,pro,protect,verb,keep safe from harm,bao ve,new_unit,P2,2026-08-12,addendum update,Book word
 32,pro,provide,verb,give or supply what is needed,cung cap,new_unit,P2,2026-08-20,quiz history,Correct provide rollback plan; contrast with provision noun
-32,pro,profoundly,adverb,in a deep or serious way,mot cach sau sac,recovery,P1,2026-09-10,quiz history,Correct confidently before verb changed; retain P1 after yesterday's role error
+32,pro,profoundly,adverb,in a deep or serious way,mot cach sau sac,recovery,P1,2026-09-16,quiz history,Correct but uncertain before affected; retain P1
 32,pro,profundity,noun,deep meaning or deep understanding,su sau sac,new_unit,P2,2026-08-12,addendum update,Word family of profound; normalized from user note profoundity
 32,pro,promoter,noun,person or organization that promotes something,nguoi thuc day; nguoi khoi xuong,new_unit,P2,2026-08-12,addendum update,Word family of promote
 32,pro,promotion,noun,act of promoting; job advancement; marketing activity,su thuc day; thang chuc; khuyen mai,new_unit,P2,2026-08-12,addendum update,Word family of promote
@@ -195,7 +195,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 32,pro,protection,noun,act/state of keeping safe,su bao ve,recovery,P2,2026-09-10,quiz history,Correctly avoided for a contingency-plan clause; retain noun-role contrast
 32,pro,protective,adjective,giving protection; wanting to protect,co tinh bao ve,cooldown,P3,2026-09-09,quiz history,Correct confidently before foam after several stable adjective uses
 32,pro,protector,noun,person or thing that protects,nguoi bao ve; vat bao ve,new_unit,P2,2026-08-12,addendum update,Word family of protect
-32,pro,provision,noun,supply; arrangement made for future need,su cung cap; dieu khoan; su chuan bi,recovery,P1,2026-09-10,quiz history,Correct confidently for emergency server-capacity arrangement; retain P1 after recent misses
+32,pro,provision,noun,supply; arrangement made for future need,su cung cap; dieu khoan; su chuan bi,recovery,P1,2026-09-16,quiz history,Correct confidently for emergency-transport policy clause; retain P1
 32,pro,proactive,adjective,taking action before problems happen,chu dong,cooldown,P3,2026-09-04,quiz history,Correct confidently after prior uncertain answer; cooldown
 32,pro,produce,verb,make or create something,san xuat; tao ra,new_unit,P2,2026-08-12,addendum update,Extended word
 32,pro,progress,noun/verb,improvement or movement forward,tien bo; tien trien,new_unit,P2,2026-08-12,addendum update,Extended word
@@ -212,9 +212,9 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 33,re,recyclable,adjective,able to be recycled,co the tai che,new_unit,P2,2026-08-17,addendum update,Word family of recycle
 33,re,recycling,noun,act or process of recycling,viec tai che,new_unit,P2,2026-08-17,addendum update,Word family of recycle
 33,re,cycle,noun,series that repeats; round or period,vong lap; chu ky,new_unit,P2,2026-08-17,addendum update,Base word for recycle
-33,re,renew,verb,make new again; extend a contract license or subscription,lam moi; gia han,recovery,P1,2026-09-14,quiz history,Selected again where noun renewal was required; raise P1
+33,re,renew,verb,make new again; extend a contract license or subscription,lam moi; gia han,recovery,P2,2026-09-15,quiz history,Correctly avoided in membership-renewal noun context; retain role contrast
 33,re,renewable,adjective,able to be renewed; naturally replaceable,tai tao duoc; co the lam moi,recovery,P2,2026-09-04,quiz history,Selected incorrectly for a rewritable whiteboard; contrast with rewritable and returnable
-33,re,renewal,noun,act of renewing or extending,su lam moi; su gia han,recovery,P1,2026-09-14,quiz history,Missed again in license-renewal noun context; raise P1
+33,re,renewal,noun,act of renewing or extending,su lam moi; su gia han,recovery,P2,2026-09-16,quiz history,Correct confidently in membership-renewal noun context
 33,re,return,verb/noun,come or go back; give something back,tro lai; tra lai,new_unit,P2,2026-08-17,addendum update,Book word
 33,re,returnable,adjective,able to be returned,co the hoan tra,recovery,P2,2026-09-03,quiz history,Wrong on bottles customers can bring back; contrast with renewable
 33,re,rewrite,verb/noun,write again or revise,viet lai; ban viet lai,new_unit,P2,2026-08-24,quiz history,Correct revise confusing paragraph context
@@ -233,9 +233,9 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 33,re,reconnect,verb,connect again,ket noi lai,new_unit,P2,2026-08-17,addendum update,Extended word
 33,re,refill,verb/noun,fill again; amount added,lam day lai; phan nap them,new_unit,P2,2026-08-17,addendum update,Extended word
 33,re,resell,verb,sell again,ban lai,new_unit,P2,2026-08-17,addendum update,Extended word
-34,semi,semicircle,noun,half of a circle,hinh ban nguyet,recovery,P1,2026-09-11,quiz history,Selected for seating arrangement where adjective semicircular was required; raise P1
+34,semi,semicircle,noun,half of a circle,hinh ban nguyet,recovery,P2,2026-09-15,quiz history,Correctly avoided for a window-shape adjective context
 34,semi,circle,noun,round closed shape,hinh tron,new_unit,P2,2026-08-18,addendum update,Base word for semicircle
-34,semi,semicircular,adjective,shaped like a semicircle,co hinh ban nguyet,recovery,P1,2026-09-11,quiz history,Missed adjective before seating arrangement after prior repeated errors; raise P1
+34,semi,semicircular,adjective,shaped like a semicircle,co hinh ban nguyet,recovery,P2,2026-09-16,quiz history,Correct confidently for a stage adjective context
 34,semi,semicolon,noun,punctuation mark between a comma and a colon,dau cham phay,new_unit,P2,2026-08-20,quiz history,Correct punctuation first-practice context
 34,semi,colon,noun,punctuation mark with two dots,dau hai cham,new_unit,P2,2026-08-18,addendum update,Base word for semicolon
 34,semi,semi-detached,adjective,joined to one other house on one side,nha lien ke mot ben,new_unit,P2,2026-08-24,quiz history,Correct shared-one-wall house context
@@ -269,7 +269,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 35,sub,subtotal,noun,total for one part before the final total,tong tung phan,new_unit,P2,2026-09-08,quiz history,Correct confidently for cart total before tax and delivery
 35,sub,subject,noun,topic; course studied at school,mon hoc; chu de,new_unit,P2,2026-09-03,user addendum,Extended word
 35,sub,subdivide,verb,divide something into smaller parts,chia nho,recovery,P2,2026-09-11,quiz history,Missed city-lot-into-smaller-plots context; contrast with substitute
-35,sub,subordinate,noun/adjective,lower in rank; person with a lower position,cap duoi,recovery,P2,2026-09-10,quiz history,Selected supervisor for people who report to a manager; contrast reporting direction
+35,sub,subordinate,noun/adjective,lower in rank; person with a lower position,cap duoi,recovery,P2,2026-09-16,quiz history,Correct but uncertain for a person who reports to a manager
 35,sub,submerge,verb,put or go below the surface of water,dim xuong; chim duoi nuoc,new_unit,P2,2026-09-09,quiz history,Correct confidently for testing a sensor underwater
 0,general,threshold,noun,point or level at which something begins or changes,nguong,cooldown,P3,2026-09-08,quiz history,Correct confidently for a 2-percent trigger level after prior miss
 0,general,ratio,noun,relationship between two amounts,ty le,cooldown,P3,2026-09-08,quiz history,Correctly avoided in a trigger-level context; keep light contrast with threshold
@@ -311,18 +311,18 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 37,syn/sym,synonym,noun,word with the same or nearly the same meaning,tu dong nghia,recovery,P2,2026-09-10,quiz history,Selected where an adjective before with was required; contrast with synonymous
 37,syn/sym,synonymous,adjective,having the same or nearly the same meaning,dong nghia,recovery,P2,2026-09-10,quiz history,Missed in is synonymous with pattern; contrast with synonym noun
 37,syn/sym,sympathy,noun,feeling of understanding care or pity for someone,su dong cam; su cam thong,new_unit,P2,2026-09-09,2026-09-09 addendum,Unit 37 book word
-37,syn/sym,sympathetic,adjective,showing understanding care or compassion,co su dong cam; cam thong,recovery,P1,2026-09-14,quiz history,Selected again where orchestral adjective symphonic was required; raise P1
+37,syn/sym,sympathetic,adjective,showing understanding care or compassion,co su dong cam; cam thong,recovery,P2,2026-09-15,quiz history,Correctly avoided in an orchestral-music context
 37,syn/sym,sympathize,verb,feel or express sympathy,dong cam; cam thong,new_unit,P2,2026-09-09,2026-09-09 addendum,Unit 37 word family
 37,syn/sym,symphony,noun,long musical work written for an orchestra,ban giao huong,new_unit,P2,2026-09-09,2026-09-09 addendum,Unit 37 book word
-37,syn/sym,symphonic,adjective,relating to a symphony or orchestra,thuoc giao huong,recovery,P1,2026-09-14,quiz history,Missed again before a piece for full orchestra; raise P1
+37,syn/sym,symphonic,adjective,relating to a symphony or orchestra,thuoc giao huong,recovery,P2,2026-09-16,quiz history,Correct confidently before a full-orchestra piece
 37,syn/sym,symbiotic,adjective,involving a close relationship that benefits both sides,cong sinh,new_unit,P2,2026-09-09,2026-09-09 addendum,Unit 37 extension
 37,syn/sym,synthesis,noun,combination of ideas or parts into a whole,su tong hop,new_unit,P2,2026-09-09,2026-09-09 addendum,Unit 37 extension
 37,syn/sym,symmetry,noun,balanced similarity of shape or arrangement,su doi xung,new_unit,P2,2026-09-09,2026-09-09 addendum,Unit 37 extension
-38,trans,transfer,verb/noun,move something or someone to another place; movement between places,chuyen; doi,recovery,P1,2026-09-14,quiz history,Selected again where state-change noun transition was required; raise P1
+38,trans,transfer,verb/noun,move something or someone to another place; movement between places,chuyen; doi,recovery,P2,2026-09-15,quiz history,Correctly avoided for a school-to-working-life change context
 38,trans,transferable,adjective,able to be transferred,co the chuyen doi,new_unit,P2,2026-09-10,2026-09-10 addendum,Unit 38 word family
 38,trans,transference,noun,act or process of transferring,su chuyen giao; su chuyen doi,new_unit,P2,2026-09-10,2026-09-10 addendum,Unit 38 word family
 38,trans,transit,verb/noun,pass through a place; travel through or across,di qua; qua canh; van chuyen,new_unit,P2,2026-09-10,2026-09-10 addendum,Unit 38 book word
-38,trans,transition,noun,change from one state or stage to another,su chuyen doi,recovery,P1,2026-09-14,quiz history,Missed again in old-system-to-new-system context; raise P1
+38,trans,transition,noun,change from one state or stage to another,su chuyen doi,recovery,P2,2026-09-16,quiz history,Correct but uncertain for old-system-to-new-system change
 38,trans,transitory,adjective,temporary or lasting only a short time,tam thoi; thoang qua,new_unit,P2,2026-09-10,2026-09-10 addendum,Unit 38 word family
 38,trans,translate,verb,change words from one language into another,dich,new_unit,P2,2026-09-10,2026-09-10 addendum,Unit 38 book word
 38,trans,translation,noun,act or result of translating; translated text,su dich; ban dich,new_unit,P2,2026-09-10,2026-09-10 addendum,Unit 38 word family
@@ -330,8 +330,8 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 38,trans,transplant,verb/noun,move an organ tissue or plant to another place,cay ghep; trong lai,new_unit,P2,2026-09-10,2026-09-10 addendum,Unit 38 book word
 38,trans,transplantation,noun,act or process of transplanting,su cay ghep,new_unit,P2,2026-09-10,2026-09-10 addendum,Unit 38 word family
 38,trans,transparent,adjective,clear enough to see through; open and honest,trong suot; minh bach; ro rang,new_unit,P2,2026-09-10,2026-09-10 addendum,Unit 38 book word
-38,trans,transparency,noun,quality of being open clear and honest,su minh bach,recovery,P1,2026-09-14,quiz history,Selected again where adverb transparently modified reported; raise P1
-38,trans,transparently,adverb,in an open clear and honest way,mot cach ro rang,recovery,P1,2026-09-14,quiz history,Missed again before reported; raise P1
+38,trans,transparency,noun,quality of being open clear and honest,su minh bach,recovery,P2,2026-09-16,quiz history,Correctly avoided where an adverb modified managed
+38,trans,transparently,adverb,in an open clear and honest way,mot cach ro rang,recovery,P2,2026-09-16,quiz history,Correct confidently before reported
 38,trans,transcend,verb,go beyond the limits of something,vuot len tren,new_unit,P2,2026-09-10,2026-09-10 addendum,Unit 38 extension
 38,trans,transnational,adjective,involving more than one country,xuyen quoc gia,new_unit,P2,2026-09-10,2026-09-10 addendum,Unit 38 extension
 38,trans,transport,verb,move people or goods from one place to another,van chuyen,new_unit,P2,2026-09-10,2026-09-10 addendum,Unit 38 extension
@@ -345,7 +345,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 39,un,uncertainty,noun,state of being uncertain,su khong chac chan,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 word family
 39,un,unfair,adjective,not just or equitable,bat cong,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 word family
 39,un,unfairly,adverb,in an unfair way,mot cach bat cong,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 word family
-39,un,unfairness,noun,quality of being unfair,su bat cong,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 word family
+39,un,unfairness,noun,quality of being unfair,su bat cong,new_unit,P2,2026-09-16,quiz history,Correct answer after the but reasoning called it an adjective; retain word-family watch
 39,un,unlock,verb,open a lock or make something available,mo khoa,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 book word
 39,un,unpleasant,adjective,causing discomfort or dislike,kho chiu,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 word family
 39,un,pleasant,adjective,giving pleasure or enjoyment,de chiu,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 support word
@@ -369,7 +369,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 39,un,common,adjective,happening or found often,pho bien,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 support word
 39,un,unlimited,adjective,without a limit,khong gioi han,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 extension
 39,un,unreliable,adjective,not able to be trusted or depended on,khong dang tin cay,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 extension
-39,un,reliable,adjective,able to be trusted or depended on,dang tin cay,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 support word
+39,un,reliable,adjective,able to be trusted or depended on,dang tin cay,new_unit,P2,2026-09-16,quiz history,Correct confidently for a supplier
 39,un,unnoticed,adjective,not seen or noticed,khong duoc chu y,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 extension
 39,un,noticed,adjective,seen or given attention to,duoc chu y,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 support word
 39,un,unconscious,adjective,not awake or aware,bat tinh,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 extension
@@ -378,3 +378,34 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 39,un,unimpressed,adjective,not feeling admiration or interest,khong an tuong,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 extension
 39,un,impressed,adjective,feeling admiration or interest,an tuong,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 support word
 39,un,unnecessary,adjective,not needed,khong can thiet,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 extension
+40,under,underground,adjective/adverb,below the surface of the ground,duoi mat dat,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 book word
+40,under,ground,noun,the surface of the earth,mat dat,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 support word
+40,under,underline,verb,draw a line under text; emphasize,gach chan; nhan manh,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 book word
+40,under,underestimate,verb,estimate something to be less than it really is,danh gia thap,new_unit,P2,2026-09-16,quiz history,Correct confidently for migration time
+40,under,underrate,verb,judge someone or something as less valuable or capable than it is,danh gia thap,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 book word
+40,under,understate,verb,describe something as less important or serious than it is,noi giam,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 book word
+40,under,understatement,noun,statement that makes something seem less important or serious,su noi giam; noi tranh,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 word family
+40,under,state,verb,noun,say or declare; condition or situation,noi; khang dinh,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 support word
+40,under,shelter,noun,place that gives protection from weather or danger,ham tru an; noi tru an,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 support word
+40,under,underwear,noun,clothes worn under outer clothes,do lot,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 extension
+40,under,wear,verb,noun,have clothes on; damage from use,mac; su hao mon,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 support word
+40,under,underpass,noun,passage that goes under a road or railway,ham chui,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 extension
+40,under,underweight,adjective,below a healthy or expected weight,nhe can,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 extension
+40,under,understaffed,adjective,having too few workers,thieu nhan su,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 extension
+40,under,underdeveloped,adjective,not developed enough,kem phat trien,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 extension
+40,under,undercharge,verb,charge less money than should be charged,tinh gia thap,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 extension
+40,under,underachieve,verb,perform less well than expected or possible,dat ket qua thap hon kha nang,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 extension
+40,under,underpaid,adjective,paid less than is fair or expected,bi tra luong thap,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 extension
+40,under,underwater,adjective,below the surface of water,duoi nuoc,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 extension
+40,under,undercover,adjective,done secretly; using a false identity,bi mat; ngam,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 extension
+41,uni,unicycle,noun,cycle with one wheel,xe dap mot banh,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 book word
+41,uni,uniform,noun/adjective,standard clothing; consistent in form,dong phuc; dong nhat,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 book word
+41,uni,form,noun/verb,shape or structure; create or develop,hinh dang; tao thanh,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 support word
+41,uni,uniformity,noun,state of being the same or consistent,su dong nhat,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 word family
+41,uni,unisex,adjective,designed for any gender,trung tinh; dung cho moi gioi,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 book word
+41,uni,universe,noun,all space matter and existence,vu tru,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 book word
+41,uni,universal,adjective,existing or applying everywhere or to everyone,pho quat; toan the,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 word family
+41,uni,unicellular,adjective,consisting of one cell,don bao,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 extension
+41,uni,unicorn,noun,mythical animal with one horn,ky lan,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 extension
+41,uni,unison,noun,simultaneous agreement or sound,su dong thanh,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 extension
+41,uni,unilateral,adjective,done by or affecting one side only,don phuong,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 extension

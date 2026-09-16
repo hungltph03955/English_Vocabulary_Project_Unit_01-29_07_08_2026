@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-39
+# Word Formation Addendum - Units 22-41
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -848,6 +848,59 @@ Watch:
 - `unfair` is an adjective; `unfairly` is the adverb; `unfairness` is the noun.
 - `unpredictable` is an adjective; `unpredictability` is the noun.
 
+## Unit 40 - `under-`
+
+Meaning: below, less than, insufficiently, or beneath.
+
+Book words:
+
+- `underground`; `underline`; `underestimate`; `underrate`; `understate`
+
+Word families and support words:
+
+- `ground`
+- `understatement`; `state`
+- `shelter`
+- `underwear`; `wear`
+
+Extensions:
+
+- `underpass`, `underweight`, `understaffed`, `underdeveloped`
+- `undercharge`, `underachieve`, `underpaid`
+- `underwater`, `undercover`
+
+Watch:
+
+- `underestimate` is usually about an estimate of a number, level, cost, or
+  amount. `Underrate` is usually about judging value or ability too low.
+- `understate` describes something as less serious or important than it is;
+  an `understatement` is the noun.
+
+## Unit 41 - `uni-`
+
+Meaning: one, single, or the same.
+
+Book words:
+
+- `unicycle`; `uniform`; `unisex`; `universe`
+
+Word families and support words:
+
+- `uniform`; `form`; `uniformity`
+- `universe`; `universal`
+- `cycle` is already active in Unit 33 and supports `unicycle`.
+
+Extensions:
+
+- `unicellular`; `unicorn`; `unison`; `unilateral`
+
+Watch:
+
+- `uniform` can be a noun or adjective; `uniformity` is the noun for sameness.
+- `universe` is a noun; `universal` is an adjective.
+- Root hints such as `sex`, `vers`, `cellular`, `corn`, `son`, and `lateral`
+  remain notes unless separately approved as active vocabulary.
+
 Extensions and support words:
 
 - `unusual`; `usual`
@@ -948,3 +1001,58 @@ impressed: ấn tượng
 unnecessary (adj) /ʌnˈnesəsəri/: không cần thiết
 
 Root hints: certain (chắc chắn), fair (công bằng), lock (khoá), pleasant (dễ chịu, thoải mái), predictable (có thể đoán trước), usual (bình thường), able (có khả năng), safe (an toàn), tidy (ngăn nắp), well (khỏe mạnh), cover (che phủ), common (phổ biến), limit (giới hạn), reliable (đáng tin cậy), notice (chú ý), conscious (có ý thức), believe (tin tưởng), protect (bảo vệ), impress (gây ấn tượng), necessary (cần thiết).
+
+
+underground : (adj , adv) :dưới mặt đất
+
+ground (b) : mặt đất
+
+underline : (v) : gạch chân
+
+underestimate : đánh giá thấp, xem nhẹ
+
+underrate : đánh giá thấp
+
+understate : nói giảm
+
+understatement : (n) : sự nói giảm, nói tránh
+
+state: nói , khẳng định
+
+shelter: hầm chú ẩn
+
+
+- Từ trong sách: underground, underline, underestimate, underrate, understate
+- Từ mở rộng:
+• underwear (n) /ˈʌndəweə(r)/: đồ lót
+wear : mặc
+
+• underpass (n) /ˈʌndəpɑːs/: hầm chui
+• underweight (adj) /ˌʌndəˈweɪt/: nhẹ cân
+• understaffed (adj) /ˌʌndəˈstɑːft/: thiếu nhân sự
+• underdeveloped (adj) /ˌʌndədɪˈveləpt/: kém phát triển
+• undercharge (v) /ˌʌndəˈtʃɑːdʒ/: tính giá thấp hơn mức cần thiết
+• underachieve (v) /ˌʌndərəˈtʃiːv/: đạt kết quả thấp hơn khả năng
+• underpaid (adj) /ˌʌndəˈpeɪd/: bị trả lương thấp
+• underwater (adj) /ˌʌndəˈwɔːtə(r)/: ở dưới nước
+• undercover (adj) /ˌʌndəˈkʌvə(r)/: bí mật; ngầm
+
+
+unicycle (n) : xe đạp 1 bánh
+
+uniform : (n) : đồng phục
+form: hình dáng
+uniformity : n : sự đồng nhất
+unisex : (adj) : trung tính
+
+universe : (n) : vũ trụ
+universal (adj) : phổ quát; thuộc vũ trụ
+
+- Từ trong sách: unicycle, uniform, unisex, universe
+- Từ mở rộng:
+• unicellular (adj) /ˌjuːniˈseljələ(r)/: đơn bào
+• unicorn (n) /ˈjuːnɪkɔːn/: kỳ lân
+• unison (n) /ˈjuːnɪsn/: sự đồng thanh
+• unilateral (adj) /ˌjuːnɪˈlætərəl/: đơn phương
+
+Root hints: cycle (vòng tròn/chu kỳ), form (hình dáng), sex (giới tính), vers (xoay), cellular (tế bào), corn (sừng), son (âm thanh), lateral (phía/cạnh).

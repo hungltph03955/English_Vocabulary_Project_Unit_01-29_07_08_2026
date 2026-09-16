@@ -1,13 +1,21 @@
 # English Vocabulary Project - Agent Operating Manual
 
 Date created: 2026-08-07
-Current scope: Unit 01-39
+Current scope: Unit 01-41
 
 This file is the mandatory entry point for every Codex session in this project.
 
 Conversation history is not the source of truth. Project files are the source of
 truth. The agent must load the project files before generating, grading, or
 updating any quiz.
+
+## Pre-Action Rule
+
+Before taking any project action after the initial opening of this file, the
+agent must read AGENTS.md again. This applies to creating a quiz, grading an
+answer, updating state files, inspecting project data, or using any project
+tool. The agent must then follow the required reading order before generating,
+grading, or updating a quiz.
 
 ## 1. Mandatory Startup Checklist
 

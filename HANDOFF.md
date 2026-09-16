@@ -2,7 +2,7 @@
 
 Date: Monday 2026-08-24
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-39
+Current scope: Unit 01-41
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -25,12 +25,12 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Friday 2026-09-11 was a Weekly Quick day.
-The valid Weekly Quick was completed with a score of 23/30.
+Tuesday 2026-09-15 was a Daily Quick day.
+The valid Daily Quick was completed with a score of 11/12.
 
 The next expected quiz is:
 
-- Monday 2026-09-14
+- Wednesday 2026-09-16
 - Daily Quick
 - 12 questions
 
@@ -45,7 +45,7 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 39.
+The project has advanced through Unit 41.
 
 Recent unit coverage:
 
@@ -67,6 +67,19 @@ Recent unit coverage:
 - Unit 37: `syn-` / `sym-`
 - Unit 38: `trans-`
 - Unit 39: `un-`
+- Unit 40: `under-`
+- Unit 41: `uni-`
+
+## Update 2026-09-16 - Unit 41 `uni-`
+
+The addendum import added 11 active entries at `new_unit/P2`. Prioritize
+`uniform` / `uniformity` and `universe` / `universal`, including support-word
+coverage.
+
+## Update 2026-09-15 - Unit 40 `under-`
+
+The addendum import added 20 active entries at `new_unit/P2`. Prioritize
+`underestimate` vs `underrate` and `understate` vs `understatement`.
 
 ## Update 2026-09-14 - Unit 39 `un-`
 

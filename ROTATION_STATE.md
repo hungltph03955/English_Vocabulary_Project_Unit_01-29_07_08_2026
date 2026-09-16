@@ -1,9 +1,9 @@
 # Rotation State - Snapshot
 
-Date: Friday 2026-09-11
-Scope: Unit 01-39
-Last valid quiz: Weekly Quick on Friday 2026-09-11, 23/30
-Next expected quiz: Daily Quick, 12 questions, Monday 2026-09-14
+Date: Tuesday 2026-09-15
+Scope: Unit 01-41
+Last valid quiz: Daily Quick on Tuesday 2026-09-15, 11/12
+Next expected quiz: Daily Quick, 12 questions, Wednesday 2026-09-16
 
 ## Selection order
 
@@ -174,7 +174,7 @@ No completed quiz history was found for Friday 2026-08-21.
 | P3 | `overreact` / `outsource` / `mishandle` | Correct on recent Daily Quicks | 2026-08-11 | Cooldown only |
 | P3 | `oversleep` / `overload` | Correct on recent Daily Quicks | 2026-08-10 | Light watch only |
 
-## Unit 29-39 current-unit targets
+## Unit 29-41 current-unit targets
 
 Prioritize these in the next Daily Quick:
 
@@ -204,6 +204,12 @@ Prioritize these in the next Daily Quick:
 - Unit 38 extensions: `transcend`, `transnational`, `transport`, `transcribe`, `transmit`, `transgender`, `transcontinental`
 - Unit 39 `un-`: `uncertain`, `unfair`, `unlock`, `unpleasant`, `unpredictable`
 - Unit 39 word families: `certain`, `uncertainly`, `uncertainty`, `unfairly`, `unfairness`, `pleasant`, `unpleasantly`, `unpleasantness`, `predictable`, `unpredictability`, `unpredictably`
+- Unit 40 `under-`: `underground`, `underline`, `underestimate`, `underrate`, `understate`
+- Unit 40 word families and support words: `ground`, `understatement`, `state`, `shelter`, `underwear`, `wear`
+- Unit 40 extensions: `underpass`, `underweight`, `understaffed`, `underdeveloped`, `undercharge`, `underachieve`, `underpaid`, `underwater`, `undercover`
+- Unit 41 `uni-`: `unicycle`, `uniform`, `unisex`, `universe`
+- Unit 41 word families and support words: `form`, `uniformity`, `universal`, and existing `cycle`
+- Unit 41 extensions: `unicellular`, `unicorn`, `unison`, `unilateral`
 - Outwork additions: `endurance`, `tolerating`
 - Additional update words: `compounding`, `sustained`, `drug`
 - `monotonous`, `stimulation`, `boredom tolerance`

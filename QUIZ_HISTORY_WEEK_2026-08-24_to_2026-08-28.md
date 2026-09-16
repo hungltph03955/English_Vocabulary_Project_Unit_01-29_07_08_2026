@@ -751,24 +751,47 @@ Recovery updates:
 Next expected quiz:
 - Monday 2026-09-14 - Daily Quick, 12 questions.
 
-## Monday 2026-09-14 - Daily Quick
+## Tuesday 2026-09-15 - Daily Quick
 
 Quiz type: Daily Quick
-Score: 8/12 = 66.7%
+Score: 11/12 = 91.7%
 
 Answer summary:
-- Correct: Q1-Q4, Q8-Q9, Q11-Q12
-- Wrong: Q5-Q7, Q10
+- Correct: Q1-Q5, Q7-Q12
+- Wrong: Q6
 - Correct but uncertain: none
+- Wrong and uncertain: Q6
 - Unanswered/unresolved: none
 - Incidental candidate recorded: none
 
 Recovery updates:
-- Keep P1 `tolerating`, `provision`, `profound`, and `semicircle` /
-  `semicircular` after confident corrections.
-- Raise `transparency` / `transparently`, `transition` / `transfer`,
-  `symphonic` / `sympathetic`, and `renewal` / `renew` to P1 after repeated
-  next-day errors.
+- Keep P1 `tolerating` vs `endurance` / `sustained` after selecting
+  `sustained` in a gerund context.
+- Lower `transparency` / `transparently`, `transition` / `transfer`,
+  `symphonic` / `sympathetic`, `renewal` / `renew`, and `semicircle` /
+  `semicircular` to P2 after confident correct answers.
 
 Next expected quiz:
-- Tuesday 2026-09-15 - Daily Quick, 12 questions.
+- Wednesday 2026-09-16 - Daily Quick, 12 questions.
+
+## Wednesday 2026-09-16 - Daily Quick
+
+Quiz type: Daily Quick
+Score: 11/12 = 91.7%
+
+Answer summary:
+- Correct: Q1-Q5, Q7-Q10, Q12
+- Correct but uncertain: Q3, Q9
+- Wrong: Q11
+- Wrong and uncertain: Q11
+- Unanswered/unresolved: none
+- Incidental candidate recorded: none
+
+Recovery updates:
+- Keep P1 `tolerating` vs `endurance` / `sustained` after Q6 selected the adjective `sustained` where a gerund was required.
+- Keep P1 `provision` vs `protection` and `profound` vs `profoundly` after correct retrieval; Q3 was uncertain.
+- Keep Unit 39 `unfairness` in first-practice rotation because the final answer was correct but the noun/adjective reasoning was inaccurate.
+- Retain P2 checks for `transparently`, `transition`, `symphonic`, `semicircular`, and `renewal` after correct answers.
+
+Next expected quiz:
+- Thursday 2026-09-17 - Daily Quick, 12 questions.
