@@ -1,9 +1,9 @@
 # Rotation State - Snapshot
 
-Date: Tuesday 2026-09-15
+Date: Friday 2026-09-18
 Scope: Unit 01-41
-Last valid quiz: Daily Quick on Tuesday 2026-09-15, 11/12
-Next expected quiz: Daily Quick, 12 questions, Wednesday 2026-09-16
+Last valid quiz: WQ-2026-09-18, Weekly Quick on Friday 2026-09-18, 24/30 (80%)
+Next expected quiz: Daily Quick, 12 questions, Monday 2026-09-21
 
 ## Selection order
 
@@ -131,8 +131,10 @@ Thursday 2026-09-10 was correctly completed as a Daily Quick with 12 questions.
 
 Friday 2026-09-11 was correctly completed as a Weekly Quick with 30 questions.
 
-The next expected quiz day is Monday 2026-09-14, so use a Daily Quick with 12
-questions.
+Friday 2026-09-18 was completed as WQ-2026-09-18, Weekly Quick, 30 questions.
+The next expected quiz day is Monday 2026-09-21: Daily Quick, 12 questions.
+Friday 2026-09-25 is the last Friday of the month: Monthly Quick, 50 questions.
+Exact grading source: `QUIZ_2026-09-18_WEEKLY.md`.
 
 No completed quiz history was found for Friday 2026-08-21.
 
@@ -140,22 +142,21 @@ No completed quiz history was found for Friday 2026-08-21.
 
 | Priority | Group | Reason | Last seen | Next action |
 |---|---|---|---|---|
-| P2 | `semicircle` vs `semicircular` | Recent Week 09-04 answers were correct after earlier noun/adjective errors | 2026-09-04 | Test later in new shape contexts |
-| P1 | `provision` vs `protection` | Selected `protection` for a contingency arrangement in a continuity plan | 2026-09-09 | Test arrangement/clause noun vs safety noun early |
-| P1 | `profound` vs `profoundly` | Selected adjective `profound` where an adverb modified `changed` | 2026-09-09 | Test adjective before noun vs adverb before verb early |
-| P1 | `tolerating` vs `endurance` / `sustained` | Unanswered where the gerund subject `tolerating` was required | 2026-09-10 | Test a clear accepting-interruptions context early |
+| P2 | `semicircle` vs `semicircular` | Q21 correct adjective after repeated earlier role misses | 2026-09-18 | Continue Recovery in new shape contexts |
+| P2 | `provision` vs `protection` | Q2 confident clause retrieval after earlier recorded corrections | 2026-09-18 | Lower gradually; test arrangement vs safety |
+| P1/P2 | `profoundly` P1; `profound` P2 | Q3 correct adjective; prior uncertain adverb still needs retrieval | 2026-09-18 | Test adverb production; do not treat avoiding it as mastery |
+| P2 | `tolerating` vs `endurance` / `sustained` | Q1 confident gerund retrieval after earlier recorded corrections | 2026-09-18 | Lower gradually; retain Recovery |
 | P2 | `semiconscious` vs `subconscious` | Second confident physical-state correction after repeated misses | 2026-09-10 | Recheck later before cooldown |
-| P2 | `substitution` vs `subtitle` / `substitute` | Second confident replacement-action correction | 2026-09-10 | Recheck later before cooldown |
+| P3 | `substitution` vs `subtitle` / `substitute` | Q17 confident replacement-action retrieval after earlier corrections | 2026-09-18 | Cooldown for substitution; preserve other lemmas' CSV states |
 | P2 | `synonym` vs `synonymous` | Selected noun `synonym` where adjective before `with` was required | 2026-09-10 | Test noun `for` vs adjective `with` |
-| P2 | `superficial` vs `superficiality` | Selected adjective where noun after `the` was required | 2026-09-10 | Test adjective/noun role contrast |
-| P2 | `subordinate` vs `supervisor` | Selected manager role for people who report to a manager | 2026-09-10 | Test reporting direction |
+| P2 | `superficial` vs `superficiality` | Q5 correct but uncertain; noun reasoning correct | 2026-09-18 | Light watch; require confident context retrieval |
+| P2 | `subordinate` vs `supervisor` | Q4 correct confidently after prior uncertainty | 2026-09-18 | Retain Recovery; recheck reporting direction later |
 | P3 | `protective` | Correct confidently before `foam` after several stable adjective uses | 2026-09-09 | Cooldown; use only as an occasional provision-family distractor |
 | P3 | `perceptive` vs `observable` | Both person-noticing and measurable-change sides were correct in consecutive quizzes | 2026-09-09 | Cooldown contrast only |
-| P2 | `tolerating` vs `sustained` / `compounding` | Q5 on 2026-08-24 was ambiguous and `sustained noisy calls` was accepted | 2026-08-24 | Retest `tolerating` later with a cleaner gerund-as-subject prompt |
 | P2 | `semi-permanent` | Correct but uncertain for salon color lasting weeks then fading | 2026-08-24 | Retest with temporary-but-long-lasting contexts |
-| P2 | `semicircle` noun use | Correct but uncertain for drawing a half-circle shape | 2026-08-24 | Keep near P1 because adjective contrast still failed |
+| P2 | `semicircle` noun use | Keep linked to repeated shape-role Recovery | 2026-08-24 | Current adjective correction is recorded above; recheck noun when due |
 | P2 | Unit 34 `semi-` continued first-practice words | `semi-detached`, `semifinal`, and `semi-permanent` practiced on 2026-08-24 | 2026-08-24 | Continue semisweet and partial-state adjectives |
-| P2 | Unit 32 `pro-` word-family contrasts | `provision`, `protective`, and `protection` now P1 after errors | 2026-08-24 | Continue protect family and untested Unit 32 words |
+| P2 | Unit 32 `pro-` word-family contrasts | Provision/profound now P2; profoundly remains P1 | 2026-09-18 | Continue untested protect/provide/promote family roles |
 | P2 | Unit 33 `re-` continued first-practice words | `rewrite` correct on 2026-08-24; `recycle`, `rearrange`, `renew`, and `refund` correct earlier | 2026-08-24 | Continue return/rewrite families and extended re- verbs |
 | P2 | Unit 30 `post-` continued first-practice words | `post-flight`, `postwar`, and `postponement` correct on 2026-08-20 | 2026-08-20 | Continue `post-traumatic`, `postgraduate`, `postscript`, and extended `post-` phrases |
 | P2 | Unit 31 `pre-` continued first-practice words | `precaution` correct again on 2026-08-24 | 2026-08-24 | Continue remaining before/in-advance contexts after P1 Recovery |
@@ -174,9 +175,19 @@ No completed quiz history was found for Friday 2026-08-21.
 | P3 | `overreact` / `outsource` / `mishandle` | Correct on recent Daily Quicks | 2026-08-11 | Cooldown only |
 | P3 | `oversleep` / `overload` | Correct on recent Daily Quicks | 2026-08-10 | Light watch only |
 
+| P1 | `transparently` / `transparency` | Q6 repeated noun/adverb miss | 2026-09-18 | Contrast manner of explaining with quality noun |
+| P2 | `form` / `uniform` | Q9 clothing correct; Q12 shape missed | 2026-09-18 | Test shape noun vs uniform clothing/consistency |
+| P2 | `unfairly` / `unfairness` | Q15 selected noun for manner of treatment | 2026-09-18 | Test adverb vs quality noun |
+| P2 | `outweigh` / `overcharge` | Q22 wrong uncertain; Q30 pricing correct | 2026-09-18 | Test benefits vs costs and excessive prices separately |
+| P2 | `obligatory` / `obvious` | Q26 mandatory attendance missed | 2026-09-18 | Test requirement vs clarity |
+| P2 | `underpass` / `underground` | Q28 passage noun missed | 2026-09-18 | Test passage vs location |
+| P2 | `semiofficial` / `semiformal` | Q8 first confident correction after miss | 2026-09-18 | Recheck partly-official status later |
+| P3 | `renewal` / `renew` | Q7 correct after recorded noun-role corrections | 2026-09-18 | Cooldown; later sample renew in a verb slot |
+
 ## Unit 29-41 current-unit targets
 
-Prioritize these in the next Daily Quick:
+Use Unit 39-41 for current-unit coverage; older units rotate when due.
+The lists below are the active unit target inventory, not an all-at-once recipe:
 
 - Unit 30 `post-`: `postgraduate`, `postpone`, `postscript`, `post-traumatic`, `postwar`, `postponement`
 - Unit 30 extended `post-`: `post-paid`, `post-crisis`, `post-match`, `post-accident`, `post-flight`, `post-holiday`, `post-concert`
@@ -303,30 +314,36 @@ These groups should not dominate the next quiz, but can appear when due:
 | 23 | `mis-` | July recovery and 2026-08-03/04 checks | Improved; keep light watch |
 | 24 | `multi-` | July and 2026-08-03/04 checks | Stable |
 | 25 | `non-` | July and 2026-08-06/10/11 checks | Stable; `non-essential` vs `non-urgent` moved to cooldown |
-| 26 | `ob-` family | July cumulative and August recovery | Mostly improved; light watch for `observant`/`observable` |
-| 27 | `out-` | Added 2026-08-03; practiced 2026-08-04 to 2026-08-11 | Mostly good; `outburst` moved to cooldown |
-| 28 | `over-` | Added 2026-08-04; practiced 2026-08-05 to 2026-08-17 | Mostly good; cooldown; `overlook` now correct confidently |
+| 26 | `ob-` family | Q26 on 2026-09-18 | `obligatory` vs `obvious` reactivated at P2 |
+| 27 | `out-` | Q22/Q25 on 2026-09-18 | `outweigh` P2 Recovery; `outdated` cooldown |
+| 28 | `over-` | Q22/Q30 on 2026-09-18 | `overcharge` pricing correct but savings contrast needs P2 |
 | 29 | `per-` / Outwork | Added and practiced 2026-08-07 to 2026-08-24 | `tolerating` vs `sustained` P2 after ambiguous accepted item; `perceptive` vs `persuasive` cooldown |
 | 30 | `post-` | Added 2026-08-10; practiced 2026-08-11 to 2026-08-24 | `post-flight` vs `postwar` cooldown; continue first-practice rotation |
 | 31 | `pre-` | Added 2026-08-11; practiced 2026-08-12 to 2026-08-24 | `precaution` vs `preview` cooldown; continue first-practice rotation |
-| 32 | `pro-` | Added 2026-08-12; practiced 2026-08-17 to 2026-08-24 | `provision` / `protective` / `protection` P1; continue word-family contrasts |
-| 33 | `re-` | Added 2026-08-17; practiced 2026-08-18 to 2026-08-24 | Continue first-practice rotation; `rewrite`, `rearrange`, `renew`, `refund`, `recycle` correct |
-| 34 | `semi-` | Added 2026-08-18; practiced through 2026-09-09 | `semisweet` correct; retain `semicircle` vs `semicircular` Recovery |
-| 35 | `sub-` | Added 2026-09-03; practiced through 2026-09-09 | `submit`, `submerge`, and `subway` correct; continue untested words |
-| 36 | `super-` | Added 2026-09-08; first Daily Quick check 2026-09-09 | `supervision` correct; continue book words and family contrasts |
-| 37 | `syn-` / `sym-` | Added 2026-09-09 | Start book words and word-family role contrasts |
-| 38 | `trans-` | Added 2026-09-10 | Start book words and word-family role contrasts |
+| 32 | `pro-` | Q2/Q3 on 2026-09-18 | `provision`/`profound` P2; `profoundly` P1 |
+| 33 | `re-` | Q7 on 2026-09-18 | `renewal`/`renew` P3; continue untested re- words |
+| 34 | `semi-` | Q8/Q21 on 2026-09-18 | `semiofficial` and `semicircular` correct; retain P2 Recovery |
+| 35 | `sub-` | Q4/Q17 on 2026-09-18 | `subordinate` P2; `substitution` P3 |
+| 36 | `super-` | Q5 on 2026-09-18 | `superficiality` correct but uncertain; P2 light watch |
+| 37 | `syn-` / `sym-` | Q18/Q19 on 2026-09-18 | `synchronization` and `symphony` correct; continue coverage |
+| 38 | `trans-` | Q6/Q20 on 2026-09-18 | `translation` correct; `transparently`/`transparency` P1 |
 
-## Weekly Quick recipe for Friday 2026-09-11
+| 39 | `un-` | Q15/Q16 on 2026-09-18 | `unpredictability` correct; `unfairly`/`unfairness` P2 Recovery |
+| 40 | `under-` | Q13/Q14/Q28 on 2026-09-18 | `understatement`/`underline` correct; `underpass`/`underground` P2 |
+| 41 | `uni-` | Q9-Q12 on 2026-09-18 | 3/4 correct; support word `form` vs `uniform` P2 Recovery |
 
-Use 30 questions:
+## Daily Quick recipe for Monday 2026-09-21
 
-- Q1-Q9: Recovery, including `provision` vs `protection`, `profound` vs
-  `profoundly`, `tolerating` vs `endurance`, and the new P2 contrasts.
-- Q10-Q15: Unit 36-38 coverage with word-family roles, including at least two
-  Unit 38 checks.
-- Q16-Q21: Unit 35 and Unit 30-34 continued coverage.
-- Q22-Q26: Due or cooldown checks from earlier units.
-- Q27-Q30: Unit Tour, Topic Tour, and broader word-family checks.
+Use 12 questions:
 
+- 6 Recovery questions: P1 transparently early, then new P2 contrasts;
+  include profoundly's adverb check when space permits.
+- 3 current Unit 39-41 checks, with at least one correct answer from Word
+  families and support words.
+- 2 due or older-unit checks.
+- 1 Unit Tour / Topic Tour / cooldown check.
+
+Complete startup again before generation. Save a unique quiz ID, exact
+sentences, option order, and key before issuing the next quiz.
+Do not repeat recent sentences unless deliberately testing Recovery.
 Do not use the invalid 12-question Friday 2026-08-07 Daily Quick as history.

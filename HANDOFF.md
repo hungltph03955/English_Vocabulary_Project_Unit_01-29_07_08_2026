@@ -1,6 +1,6 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Monday 2026-08-24
+Date: Friday 2026-09-18
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
 Current scope: Unit 01-41
 
@@ -15,24 +15,27 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-08-25.md` after the Monday quiz)
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-18.md`)
 6. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 7. `VOCABULARY_STATE.csv`
-8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-08-24_to_2026-08-28.md`)
+8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-09-14_to_2026-09-18.md`)
 9. `MONTHLY_REPORT_2026_07.md`
 
 Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Tuesday 2026-09-15 was a Daily Quick day.
-The valid Daily Quick was completed with a score of 11/12.
+Friday 2026-09-18 was a Weekly Quick day, not the last Friday of the month.
+The saved quiz WQ-2026-09-18 was graded against its exact question file:
+`QUIZ_2026-09-18_WEEKLY.md`. Score: 24/30 (80%).
 
 The next expected quiz is:
 
-- Wednesday 2026-09-16
+- Monday 2026-09-21
 - Daily Quick
 - 12 questions
+
+Friday 2026-09-25 is the last Friday of September: Monthly Quick, 50 questions.
 
 The 12-question Friday 2026-08-07 Daily Quick was a schedule mistake and must
 not be counted as a valid completed quiz.
@@ -210,21 +213,21 @@ Unit 34 `semi-` vocabulary added on 2026-08-18 after the Daily Quick:
 
 ## Last valid completed quiz
 
-Last valid completed quiz:
+- Date: Friday 2026-09-18
+- Quiz ID: WQ-2026-09-18
+- Type: Weekly Quick
+- Recorded result: 24/30 (80%)
+- Correct but uncertain: Q5 (D. superficiality)
+- Wrong: Q6, Q12, Q15, Q22, Q26, Q28
+- Wrong and uncertain: Q22 (B. overcharge)
+- Unanswered/unresolved: none
+- Incidental candidates: none
+- Exact grading source: `QUIZ_2026-09-18_WEEKLY.md`
+- Result and reviews: `QUIZ_HISTORY_WEEK_2026-09-14_to_2026-09-18.md`
 
-- Date: Thursday 2026-09-10
-- Type: Daily Quick
-- Recorded result: 8/12
-- Correct but uncertain: none
-- Wrong: Q7 `synonymous`, Q8 `superficiality`, Q9 `subordinate`
-- Unanswered/unresolved: Q5 `tolerating`
-- Incidental candidate recorded: none
-
-Previous valid quiz:
-
-- Date: Wednesday 2026-09-09
-- Type: Daily Quick
-- Recorded result: 10/12
+Earlier valid quiz records remain in
+`QUIZ_HISTORY_WEEK_2026-08-24_to_2026-08-28.md`.
+Do not apply their question sentences or option letters to the September 18 quiz.
 
 ## Earlier August progress
 
@@ -262,36 +265,29 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
+Use `RECOVERY_PRIORITIES_2026-09-18.md` and the current CSV for the complete queue.
+
 P1:
 
-- `provision` vs `protection`
-- `profound` vs `profoundly`
-- `semiconscious` vs `subconscious`
-- `substitution` vs `subtitle` / `substitute`
+- `transparency` / `transparently` after repeated noun/adverb confusion
+- `profoundly` after prior uncertain adverb retrieval; Q3 tested profound instead
 
 P2:
 
-- `protection` within the provision/protection noun-role contrast
-- `subtitle` after being selected for a replacement action
-- `semicircle` vs `semicircular`
-- `tolerating` vs `sustained` / `compounding` after ambiguous accepted item
-- `semi-permanent` after correct but uncertain answer
-- `semicircle` noun use after correct but uncertain answer, still tied to P1 contrast
-- `objective` vs `observant` vs `observable`
-- Unit 29 contrast families: `persuasive` vs `permanent`, `permanent` vs `perfect`, `persist` vs `persevere`
-- Unit 30 `post-` continued first-practice words, especially
-  `post-traumatic`, `postgraduate`, `postscript`, and extended `post-` phrases
-- Unit 31 `pre-` continued first-practice words, especially `pretest`,
-  `prevent`, and other before/in-advance contexts
-- Unit 32 `pro-` continued first-practice words, especially untested word-family contrasts around `promote`, `protect`, `provide`, `progress`, and `provision`
-- Unit 33 `re-` first-practice words, especially `return`, `rewrite`, and
-  word-family contrasts after `rearrange`, `renew`, `refund`, and `recycle`
-  were correct
-- Unit 34 `semi-` continued first-practice words, especially
-  `semi-detached`, `semifinal`, `semisweet`, and partial-state adjectives
-- Unit 36 `super-` and Unit 37 `syn-` / `sym-` current-unit coverage, with
-  word-family role contrasts before transparent extensions
-- Additional update words: `compounding`, `sustained`, `drug`
+- New or reactivated: `form` / `uniform`, `unfairly` / `unfairness`,
+  `outweigh` / `overcharge`, `obligatory` / `obvious`,
+  `underpass` / `underground`
+- `superficiality`: correct but uncertain; retain light watch
+- `tolerating`, `provision`, and `profound`: lowered gradually from P1
+- `subordinate`, `semiofficial`, and `semicircular`: remain in Recovery
+- Other untested Recovery groups retain their existing CSV state.
+- Unit 39-41 continued coverage, including Word families and support words
+
+New P3 cooldown:
+
+- `renewal` / `renew` and `substitution` after repeated confident corrections
+
+The historical cooldown list below excludes any terms reactivated above.
 
 Cooldown / light watch:
 
@@ -321,20 +317,18 @@ Cooldown / light watch:
 - `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Daily Quick for 2026-08-25
+## Recommended Daily Quick for 2026-09-21
 
 Use 12 questions:
 
-- 5-6 Recovery questions
-- 2-3 current Unit 34 checks
-- 1-2 Unit 32 word-family checks
-- 1 Unit 33 continued check
-- 1 Unit 30/31 or Outwork due check
+- 6 Recovery questions: prioritize transparently, then rotate new P2 misses;
+  include the profound/profoundly adverb check when space permits
+- 3 current Unit 39-41 questions, including a Word families/support-word answer
+- 2 due or older-unit questions
 - 1 Unit Tour / Topic Tour / cooldown check
 
-Recovery must appear early. Include `semicircle` vs `semicircular`,
-`provision` vs `protective`, and `protective` vs `protection`. Retest
-`tolerating` with a cleaner sentence if space allows.
+Use new sentence contexts. Keep Q5 superficiality on light watch.
+Save the complete questions and A-D key with a unique quiz ID before delivery.
 
 ## Operational priority
 
