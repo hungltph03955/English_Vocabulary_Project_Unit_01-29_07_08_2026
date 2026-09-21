@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Friday 2026-09-18
+Date: Monday 2026-09-21
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-41
+Current scope: Unit 01-42
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -15,23 +15,23 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-18.md`)
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-21.md`)
 6. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 7. `VOCABULARY_STATE.csv`
-8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-09-14_to_2026-09-18.md`)
+8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`)
 9. `MONTHLY_REPORT_2026_07.md`
 
 Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Friday 2026-09-18 was a Weekly Quick day, not the last Friday of the month.
-The saved quiz WQ-2026-09-18 was graded against its exact question file:
-`QUIZ_2026-09-18_WEEKLY.md`. Score: 24/30 (80%).
+Monday 2026-09-21 was a Daily Quick day.
+The saved quiz DQ-2026-09-21 was graded against its exact question file:
+`QUIZ_2026-09-21_DAILY.md`. Score: 8/12 (66.7%).
 
 The next expected quiz is:
 
-- Monday 2026-09-21
+- Tuesday 2026-09-22
 - Daily Quick
 - 12 questions
 
@@ -48,7 +48,7 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 41.
+The project has advanced through Unit 42.
 
 Recent unit coverage:
 
@@ -72,6 +72,18 @@ Recent unit coverage:
 - Unit 39: `un-`
 - Unit 40: `under-`
 - Unit 41: `uni-`
+- Unit 42: `up-`
+
+## Update 2026-09-21 - Unit 42 `up-`
+
+The addendum import added 28 active entries at `new_unit/P2`: 5 book words,
+10 extensions, and 13 support/general words. Prioritize `update` vs
+`upgrade`, `upbringing` with support word `strict`, `uplift` vs
+`upset`, and `upkeep` vs `uphold`.
+
+The user-listed forms `bringing` and `coming` were normalized to lemmas
+`bring` and `come`. Root hints `date`, `set`, and `turn` remain notes
+only and were not promoted. No candidate words were promoted.
 
 ## Update 2026-09-16 - Unit 41 `uni-`
 
@@ -213,21 +225,20 @@ Unit 34 `semi-` vocabulary added on 2026-08-18 after the Daily Quick:
 
 ## Last valid completed quiz
 
-- Date: Friday 2026-09-18
-- Quiz ID: WQ-2026-09-18
-- Type: Weekly Quick
-- Recorded result: 24/30 (80%)
-- Correct but uncertain: Q5 (D. superficiality)
-- Wrong: Q6, Q12, Q15, Q22, Q26, Q28
-- Wrong and uncertain: Q22 (B. overcharge)
+- Date: Monday 2026-09-21
+- Quiz ID: DQ-2026-09-21
+- Type: Daily Quick
+- Recorded result: 8/12 (66.7%)
+- Correct but uncertain: none
+- Wrong: Q4, Q7, Q8, Q9
+- Wrong and uncertain: Q8 (A. perceptive)
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-09-18_WEEKLY.md`
-- Result and reviews: `QUIZ_HISTORY_WEEK_2026-09-14_to_2026-09-18.md`
+- Exact grading source: `QUIZ_2026-09-21_DAILY.md`
+- Result and reviews: `QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`
 
-Earlier valid quiz records remain in
-`QUIZ_HISTORY_WEEK_2026-08-24_to_2026-08-28.md`.
-Do not apply their question sentences or option letters to the September 18 quiz.
+Earlier valid records remain in their dated history files. Never apply their
+question sentences or option letters to DQ-2026-09-21.
 
 ## Earlier August progress
 
@@ -265,29 +276,30 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-09-18.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-09-21.md` and the current CSV for the complete queue.
 
 P1:
 
-- `transparency` / `transparently` after repeated noun/adverb confusion
-- `profoundly` after prior uncertain adverb retrieval; Q3 tested profound instead
+- `unfairly` / `unfairness`: repeated noun-for-adverb error
+- `observable` / `perceptive`: Q8 wrong and uncertain; person quality versus
+  measurable result
 
 P2:
 
-- New or reactivated: `form` / `uniform`, `unfairly` / `unfairness`,
-  `outweigh` / `overcharge`, `obligatory` / `obvious`,
-  `underpass` / `underground`
-- `superficiality`: correct but uncertain; retain light watch
-- `tolerating`, `provision`, and `profound`: lowered gradually from P1
-- `subordinate`, `semiofficial`, and `semicircular`: remain in Recovery
-- Other untested Recovery groups retain their existing CSV state.
-- Unit 39-41 continued coverage, including Word families and support words
+- New: `overpay` / `overlook` and `universe` / `universal`
+- Lowered gradually after confident corrections: `transparently` /
+  `transparency` and `profoundly` / `profound`
+- Retain after first correction: `form` / `uniform`, `outweigh` /
+  `overcharge`, and `underpass` / `underground`
+- Preserve other untested P2 groups in the current CSV and latest Recovery file.
+- Continue Unit 40-42 coverage, including Unit 42 Word families and support words.
+- Unit 42 starts at `new_unit/P2`; new-unit status is coverage, not Recovery.
 
-New P3 cooldown:
+P3 cooldown:
 
-- `renewal` / `renew` and `substitution` after repeated confident corrections
+- `renew` / `renewal` remain stable after a direct verb-role check.
 
-The historical cooldown list below excludes any terms reactivated above.
+The historical cooldown list below excludes terms reactivated above.
 
 Cooldown / light watch:
 
@@ -317,18 +329,18 @@ Cooldown / light watch:
 - `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Daily Quick for 2026-09-21
+## Recommended Daily Quick for 2026-09-22
 
 Use 12 questions:
 
-- 6 Recovery questions: prioritize transparently, then rotate new P2 misses;
-  include the profound/profoundly adverb check when space permits
-- 3 current Unit 39-41 questions, including a Word families/support-word answer
-- 2 due or older-unit questions
+- 5 Recovery questions, with both P1 contrasts early
+- 4 current Unit 42 questions, including at least one correct answer from its
+  Word families and support words section
+- 2 due or older Unit 39-41 questions
 - 1 Unit Tour / Topic Tour / cooldown check
 
-Use new sentence contexts. Keep Q5 superficiality on light watch.
-Save the complete questions and A-D key with a unique quiz ID before delivery.
+Use new sentence contexts. Rotate P2 instead of placing every P2 item in one
+quiz. Save the exact questions, A-D order, and key before delivery.
 
 ## Operational priority
 

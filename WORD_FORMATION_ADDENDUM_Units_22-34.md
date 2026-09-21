@@ -1056,3 +1056,89 @@ universal (adj) : phổ quát; thuộc vũ trụ
 • unilateral (adj) /ˌjuːnɪˈlætərəl/: đơn phương
 
 Root hints: cycle (vòng tròn/chu kỳ), form (hình dáng), sex (giới tính), vers (xoay), cellular (tế bào), corn (sừng), son (âm thanh), lateral (phía/cạnh).
+
+
+update : cập nhật
+
+upgrade : nâng cấp
+grade : cấp , cấp bậc
+
+upbringing : sự nuôi nấng
+bringing: sinh ra , mang đến
+
+uplift : nâng dậy , nâng tinh thần , phấn trấn lên
+lift : nâng
+
+upset : buồn , bất an
+
+strict : nghiêm khắc
+
+- Từ trong sách: update, upgrade, upbringing, uplift, upset
+- Từ mở rộng:
+• upstairs (adv) /ˌʌpˈsteərz/: ở tầng trên
+stairs : cầu thang
+• upfront (adj) /ʌpˈfrʌnt/: thẳng thắn, công khai
+front : phía trước
+• upcoming (adj) /ˌʌpˈkʌmɪŋ/: sắp tới
+coming : tới . đang tới
+• upstream (adv/adj) /ˌʌpˈstriːm/: ngược dòng
+stream: dòng chảy
+• upright (adj) /ˈʌpraɪt/: thẳng đứng, ngay thẳng
+right: đúng đắn.
+• uproot (v) /ˌʌpˈruːt/: nhổ tận gốc
+root : gốc rễ
+• upkeep (n) /ˈʌpkiːp/: sự bảo trì, chi phí duy trì
+keep : giữ
+• uphold (v) /ʌpˈhəʊld/: duy trì, ủng hộ
+hold: giữ
+• uphill (adj) /ˈʌphɪl/: khó khăn, leo dốc
+hill: đồi núi ,
+khó khăn , leo giốc
+• upturn (n) /ˈʌptɜːn/: sự cải thiện, tăng trưởng
+
+- Root hints: date (ngày), grade (cấp bậc), bring (mang đến), lift (nâng lên), set (thiết lập), stairs (cầu thang), front (phía trước), come (tới), stream (dòng suối), right (thẳng), root (đào bới), keep (giữ), hold (nắm giữ), hill (đồi), turn (sự xoay chuyển).
+
+## Unit 42 - `up-`
+
+Meaning: upward, higher, increased, improved, or completed.
+
+Book words:
+
+- `update` (noun/verb) = make or become current; current information
+- `upgrade` (noun/verb) = improve to a newer or better version
+- `upbringing` (noun) = the way a child is raised
+- `uplift` (noun/verb) = raise physically or improve mood and confidence
+- `upset` (adjective/verb) = unhappy or worried; make someone unhappy
+
+Word families and support words:
+
+- `upgrade`; `grade`
+- `upbringing`; `bring`
+- `uplift`; `lift`
+- `upstairs`; `stairs`
+- `upfront`; `front`
+- `upcoming`; `come`
+- `upstream`; `stream`
+- `upright`; `right`
+- `uproot`; `root`
+- `upkeep`; `keep`
+- `uphold`; `hold`
+- `uphill`; `hill`
+- `strict` is an approved general support word.
+
+Extensions:
+
+- `upstairs`, `upfront`, `upcoming`, `upstream`, `upright`
+- `uproot`, `upkeep`, `uphold`, `uphill`, `upturn`
+
+Watch:
+
+- `update` makes information, records, or software current; `upgrade`
+  improves something to a newer or better version.
+- `upbringing` is a noun. Common chunk: `a strict upbringing`.
+- `uplift` raises or encourages; `upset` describes or causes distress.
+- `upkeep` is maintenance or its cost; `uphold` means support or maintain.
+- User-listed `bringing` and `coming` are stored in the active bank as the
+  normalized lemmas `bring` and `come`.
+- Root hints `date`, `set`, and `turn` remain notes only because they were
+  not separately listed as active vocabulary.
