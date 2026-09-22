@@ -1,9 +1,9 @@
 # Rotation State - Snapshot
 
-Date: Monday 2026-09-21
+Date: Tuesday 2026-09-22
 Scope: Unit 01-42
-Last valid quiz: DQ-2026-09-21, Daily Quick on Monday 2026-09-21, 8/12 (66.7%)
-Next expected quiz: Daily Quick, 12 questions, Tuesday 2026-09-22
+Last valid quiz: DQ-2026-09-22, Daily Quick on Tuesday 2026-09-22, 7/12 (58.3%)
+Next expected quiz: Daily Quick, 12 questions, Wednesday 2026-09-23
 
 ## Selection order
 
@@ -145,6 +145,18 @@ Use this order when generating quizzes:
 - Start Unit 42 coverage with book-word meaning contrasts and at least one
   support-word correct answer in the current quiz cycle.
 
+## 2026-09-22 update
+
+- Keep `unfairness` / `unfairly` at P1 after two-way role confusion.
+- Keep `perceptive` / `observable` at P1 after both contexts were confused.
+- Raise `universe` / `universal` to P1 after another family-role miss.
+- Add P2 `uniformity`, `unilateral` / `universal`, and
+  `update` / `uphold`.
+- Keep `overpay` / `overlook` and `obligatory` / `obvious` at P2
+  after first confident corrections.
+- Unit 42 first practice was 3/4: upgrade, strict, and upkeep correct; update missed.
+- Unit 40 underestimate and cooldown precaution were correct confidently.
+
 ## Schedule guardrail
 
 Friday 2026-09-04 was correctly completed as a Weekly Quick with 30 questions.
@@ -161,9 +173,10 @@ Friday 2026-09-11 was correctly completed as a Weekly Quick with 30 questions.
 
 Friday 2026-09-18 was completed as WQ-2026-09-18, Weekly Quick, 30 questions.
 Monday 2026-09-21 was completed as DQ-2026-09-21, Daily Quick, 12 questions.
-The next expected quiz day is Tuesday 2026-09-22: Daily Quick, 12 questions.
+Tuesday 2026-09-22 was completed as DQ-2026-09-22, Daily Quick, 12 questions.
+The next expected quiz day is Wednesday 2026-09-23: Daily Quick, 12 questions.
 Friday 2026-09-25 is the last Friday of the month: Monthly Quick, 50 questions.
-Exact latest grading source: `QUIZ_2026-09-21_DAILY.md`.
+Exact latest grading source: `QUIZ_2026-09-22_DAILY.md`.
 
 No completed quiz history was found for Friday 2026-08-21.
 
@@ -181,7 +194,7 @@ No completed quiz history was found for Friday 2026-08-21.
 | P2 | `superficial` vs `superficiality` | Q5 correct but uncertain; noun reasoning correct | 2026-09-18 | Light watch; require confident context retrieval |
 | P2 | `subordinate` vs `supervisor` | Q4 correct confidently after prior uncertainty | 2026-09-18 | Retain Recovery; recheck reporting direction later |
 | P3 | `protective` | Correct confidently before `foam` after several stable adjective uses | 2026-09-09 | Cooldown; use only as an occasional provision-family distractor |
-| P1 | `observable` / `perceptive` | Q8 selected person-quality adjective for measured reduction; wrong uncertain | 2026-09-21 | Test both sides early in separate contexts |
+| P1 | `perceptive` / `observable` | Q2 selected observable for a perceptive person | 2026-09-22 | Test both sides early |
 | P2 | `semi-permanent` | Correct but uncertain for salon color lasting weeks then fading | 2026-08-24 | Retest with temporary-but-long-lasting contexts |
 | P2 | `semicircle` noun use | Keep linked to repeated shape-role Recovery | 2026-08-24 | Current adjective correction is recorded above; recheck noun when due |
 | P2 | Unit 34 `semi-` continued first-practice words | `semi-detached`, `semifinal`, and `semi-permanent` practiced on 2026-08-24 | 2026-08-24 | Continue semisweet and partial-state adjectives |
@@ -206,15 +219,19 @@ No completed quiz history was found for Friday 2026-08-21.
 
 | P2 | `transparently` / `transparency` | Q1 direct adverb role correct after repeated confusion | 2026-09-21 | Lower gradually; retain Recovery |
 | P2 | `form` / `uniform` | Q3 first confident correction after shape-role miss | 2026-09-21 | Recheck later before lowering |
-| P1 | `unfairly` / `unfairness` | Q4 repeated noun-for-adverb miss | 2026-09-21 | Test action manner vs quality noun early |
+| P1 | `unfairness` / `unfairly` | Q1 repeated opposite-direction noun/adverb error | 2026-09-22 | Test both roles early |
 | P2 | `outweigh` / `overcharge` | Q5 first confident cost-benefit correction | 2026-09-21 | Retain until stable |
-| P2 | `obligatory` / `obvious` | Q26 mandatory attendance missed | 2026-09-18 | Test requirement vs clarity |
+| P2 | `obligatory` / `obvious` | Q5 first confident correction | 2026-09-22 | Retain until stable |
 | P2 | `underpass` / `underground` | Q6 first confident passage/location correction | 2026-09-21 | Retain until stable |
 | P2 | `semiofficial` / `semiformal` | Q8 first confident correction after miss | 2026-09-18 | Recheck partly-official status later |
 | P3 | `renewal` / `renew` | Q12 direct verb role correct confidently | 2026-09-21 | Stable cooldown |
 
-| P2 | `overpay` / `overlook` | Q7 selected overlook in payment context | 2026-09-21 | Test paying too much vs failing to notice |
-| P2 | `universe` / `universal` | Q9 selected adjective where noun followed the | 2026-09-21 | Test noun vs adjective roles |
+| P2 | `overpay` / `overlook` | Q3 first confident correction | 2026-09-22 | Retain until stable |
+| P1 | `universe` / `universal` | Q4 repeated family-role miss; selected uniformity | 2026-09-22 | Test noun and adjective early |
+
+| P2 | `update` / `uphold` | Q6 selected uphold for making records current | 2026-09-22 | Test records vs rules/decisions |
+| P2 | `unilateral` / `universal` | Q11 selected universal for one-sided decision | 2026-09-22 | Test one side vs everyone |
+| P2 | `uniformity` | Q4 selected sameness noun for universal adjective | 2026-09-22 | Test noun role and meaning |
 
 ## Unit 29-42 current-unit targets
 
@@ -357,10 +374,10 @@ These groups should not dominate the next quiz, but can appear when due:
 | 23 | `mis-` | July recovery and 2026-08-03/04 checks | Improved; keep light watch |
 | 24 | `multi-` | July and 2026-08-03/04 checks | Stable |
 | 25 | `non-` | July and 2026-08-06/10/11 checks | Stable; `non-essential` vs `non-urgent` moved to cooldown |
-| 26 | `ob-` family | Q8 on 2026-09-21 | `observable` vs `perceptive` P1 after wrong uncertain answer |
+| 26 | `ob-` family | Q5 on 2026-09-22 | `obligatory` corrected; pair remains P2 |
 | 27 | `out-` | Q5 on 2026-09-21 | `outweigh` corrected; retain P2 until stable |
-| 28 | `over-` | Q7 on 2026-09-21 | `overpay` vs `overlook` P2 Recovery |
-| 29 | `per-` / Outwork | Added and practiced 2026-08-07 to 2026-08-24 | `tolerating` vs `sustained` P2 after ambiguous accepted item; `perceptive` vs `persuasive` cooldown |
+| 28 | `over-` | Q3 on 2026-09-22 | `overpay` corrected; pair remains P2 |
+| 29 | `per-` / Outwork | Q2 on 2026-09-22 | `perceptive` vs `observable` remains P1 |
 | 30 | `post-` | Added 2026-08-10; practiced 2026-08-11 to 2026-08-24 | `post-flight` vs `postwar` cooldown; continue first-practice rotation |
 | 31 | `pre-` | Added 2026-08-11; practiced 2026-08-12 to 2026-08-24 | `precaution` vs `preview` cooldown; continue first-practice rotation |
 | 32 | `pro-` | Q2 on 2026-09-21 | `profoundly` direct adverb role correct; pair now P2 |
@@ -370,21 +387,21 @@ These groups should not dominate the next quiz, but can appear when due:
 | 36 | `super-` | Q5 on 2026-09-18 | `superficiality` correct but uncertain; P2 light watch |
 | 37 | `syn-` / `sym-` | Q18/Q19 on 2026-09-18 | `synchronization` and `symphony` correct; continue coverage |
 | 38 | `trans-` | Q1 on 2026-09-21 | `transparently` direct adverb role correct; pair now P2 |
-| 39 | `un-` | Q4/Q11 on 2026-09-21 | `unfairly` P1; `unpleasantness` correct first check |
-| 40 | `under-` | Q6/Q10 on 2026-09-21 | `underpass` corrected at P2; `understate` correct first check |
-| 41 | `uni-` | Q3/Q9 on 2026-09-21 | `form` corrected; `universe`/`universal` P2 Recovery |
-| 42 | `up-` | Added 2026-09-21; not yet practiced | 28 entries at new_unit/P2; begin book and support-word coverage |
+| 39 | `un-` | Q1 on 2026-09-22 | `unfairness` vs `unfairly` remains P1 |
+| 40 | `under-` | Q10 on 2026-09-22 | `underestimate` correct for numerical amount |
+| 41 | `uni-` | Q4/Q11 on 2026-09-22 | family roles P1; `unilateral` P2 |
+| 42 | `up-` | First practice Q6-Q9 on 2026-09-22 | 3/4 correct; `update` vs `uphold` P2 |
 
-## Daily Quick recipe for Tuesday 2026-09-22
+## Daily Quick recipe for Wednesday 2026-09-23
 
 Use 12 questions:
 
-- 5 Recovery questions, with unfairly/unfairness and observable/perceptive early.
-- 4 current Unit 42 checks, including at least one correct-answer target from
-  Word families and support words.
+- 6 Recovery questions, with all three P1 groups early.
+- 3 Unit 42 checks, including one correct-answer target from Word families
+  and support words.
 - 2 due or recent Unit 39-41 checks.
 - 1 Unit Tour / Topic Tour / cooldown check.
 
-Prioritize clear contrasts such as update/upgrade and upkeep/uphold. Do not test
-all 28 new terms at once. Use new sentence contexts. Complete startup and save
-the unique quiz ID, exact sentences, A-D order, and key before delivery.
+Rotate selected P2 items and continue untested Unit 42 terms. Use new sentence
+contexts. Complete startup and save the unique quiz ID, exact sentences, A-D
+order, and key before delivery.

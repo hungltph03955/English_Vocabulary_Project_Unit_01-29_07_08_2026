@@ -62,13 +62,13 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 26,ob,obliged,adjective,required; forced by duty,bat buoc,cooldown,P3,2026-07-31,2026-07-31 package,
 26,ob,observe,verb,watch carefully; notice,quan sat,cooldown,P3,2026-07-31,2026-07-31 package,
 26,ob,obstacle,noun,barrier; difficulty,chuong ngai,cooldown,P3,2026-08-07,quiz history,Correct on Weekly Quick
-26,ob,obvious,adjective,clear; easy to see,hien nhien,recovery,P2,2026-09-18,WQ-2026-09-18,Q26 selected incorrectly for compulsory attendance; obvious means clear not mandatory
+26,ob,obvious,adjective,clear; easy to see,hien nhien,recovery,P2,2026-09-22,DQ-2026-09-22,Q5 correctly avoided clear/evident adjective in mandatory-training context; retain contrast
 26,ob,objective,adjective,fair; unbiased; fact-based,khach quan,cooldown,P3,2026-09-08,quiz history,Correct confidently for an unbiased reviewer
 26,ob,objection,noun,statement of disagreement,su phan doi,cooldown,P3,2026-07-31,2026-07-31 package,
 26,ob,oblige,verb,force or require; do a favor,bat buoc; giup do,cooldown,P3,2026-07-31,2026-07-31 package,
-26,ob,obligatory,adjective,required,bat buoc,recovery,P2,2026-09-18,WQ-2026-09-18,Q26 missed mandatory-attendance context; selected obvious; obligatory means required
+26,ob,obligatory,adjective,required,bat buoc,recovery,P2,2026-09-22,DQ-2026-09-22,Q5 first confident correction after confusing required with obvious; retain Recovery
 26,ob,obligation,noun,duty; requirement,nghia vu,cooldown,P3,2026-07-31,2026-07-31 package,
-26,ob,observable,adjective,can be seen/measured/coi thay duoc,co the quan sat,recovery,P1,2026-09-21,DQ-2026-09-21,Q8 wrong and uncertain: measurable reduction was observable; selected perceptive
+26,ob,observable,adjective,can be seen/measured/coi thay duoc,co the quan sat,recovery,P1,2026-09-22,DQ-2026-09-22,Q2 selected incorrectly for a perceptive person; observable describes something that can be seen or measured
 26,ob,observant,adjective,good at noticing details,tinh y,recovery,P2,2026-08-07,quiz history,Correct on Weekly Quick after multiple misses
 26,ob,observation,noun,act/result of observing,su quan sat,cooldown,P3,2026-07-31,2026-07-31 package,
 26,ob,observatory,noun,place for observing sky,dao quan sat,cooldown,P3,2026-07-31,2026-07-31 package,
@@ -108,7 +108,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 28,over,overweight,adjective,too heavy,thua can,cooldown,P3,2026-08-04,conversation update,
 28,over,oversize,adjective,too large,qua co,cooldown,P3,2026-08-04,conversation update,
 28,over,overcharge,verb,charge too much,tinh gia qua cao,recovery,P2,2026-09-21,DQ-2026-09-21,Q5 correctly avoided excessive-price verb in benefits-vs-cost comparison; retain paired contrast
-28,over,overlook,verb,fail to notice; look over,bo sot; nhin ra,recovery,P2,2026-09-21,DQ-2026-09-21,Q7 selected incorrectly in a payment context; contrast overlook something with intransitive overpay
+28,over,overlook,verb,fail to notice; look over,bo sot; nhin ra,recovery,P2,2026-09-22,DQ-2026-09-22,Q3 correctly avoided overlook in payment context; retain paired contrast
 28,over,overwork,verb,work too much,lam viec qua suc,cooldown,P3,2026-08-04,conversation update,
 28,over,oversleep,verb,sleep too long; wake late,ngu quen,cooldown,P3,2026-08-10,quiz history,Correct on Daily Quick
 28,over,overwhelmed,adjective,unable to cope; flooded with feeling,choang ngop,cooldown,P3,2026-08-05,conversation update,
@@ -120,10 +120,10 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 28,over,overpriced,adjective,too expensive,qua dat,cooldown,P3,2026-08-05,conversation update,
 28,over,overjoyed,adjective,extremely happy,rat vui mung,cooldown,P3,2026-08-04,conversation update,
 28,over,overeat,verb,eat too much,an qua nhieu,cooldown,P3,2026-08-04,conversation update,
-28,over,overpay,verb,pay too much,tra qua nhieu tien,recovery,P2,2026-09-21,DQ-2026-09-21,Q7 missed: selected overlook where paying more than necessary was needed
+28,over,overpay,verb,pay too much,tra qua nhieu tien,recovery,P2,2026-09-22,DQ-2026-09-22,Q3 first confident correction after payment-context miss; retain Recovery until stable
 29,per,perceive,verb,become aware of; understand,nhan thuc,cooldown,P3,2026-08-07,quiz history,Correct on first valid Weekly Quick
 29,per,perception,noun,way of seeing/understanding,nhan thuc; cam nhan,cooldown,P3,2026-09-18,WQ-2026-09-18,"Q24: Correct confidently; After reading dozens of negative reviews, customers formed a poor perception of the brand."
-29,per,perceptive,adjective,quick to notice/understand,tinh y; sau sac,recovery,P1,2026-09-21,DQ-2026-09-21,Q8 meaning recognized as tinh y but applied to a measured reduction; perceptive normally describes a person
+29,per,perceptive,adjective,quick to notice/understand,tinh y; sau sac,recovery,P1,2026-09-22,DQ-2026-09-22,Q2 missed person-quality context: selected observable for someone who noticed a hidden pattern
 29,per,perfect,adjective/verb,without mistakes; make perfect,hoan hao,recovery,P2,2026-08-07,quiz history,Selected instead of permanent on Weekly Quick
 29,per,perfectly,adverb,completely; without error,mot cach hoan hao,new_unit,P2,2026-08-07,conversation update,
 29,per,perfection,noun,state of being perfect,su hoan hao,new_unit,P2,2026-08-07,conversation update,
@@ -181,7 +181,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 31,pre,precooked,adjective,cooked before sale or use,da nau chin truoc,new_unit,P2,2026-08-11,addendum update,Extended word
 31,pre,pre-sale,noun,sale before official or general release,dot mo ban truoc,new_unit,P2,2026-08-11,addendum update,Extended word
 31,pre,prevent,verb,stop something from happening,ngan chan,new_unit,P2,2026-08-11,addendum update,Extended word
-31,pre,precaution,noun,action taken in advance to avoid risk or harm,su phong ngua,cooldown,P3,2026-09-18,WQ-2026-09-18,Q23: Correct confidently; Keeping a spare copy before changing the database is a sensible precaution.
+31,pre,precaution,noun,action taken in advance to avoid risk or harm,su phong ngua,cooldown,P3,2026-09-22,DQ-2026-09-22,Q12 correct confidently for protective gloves used to reduce chemical risk; remain cooldown
 32,pro,proceed,verb,continue; go forward with an action or process,tiep tuc; tien hanh,cooldown,P3,2026-09-07,quiz history,Correct after-approval continue-with-action context after prior unresolved answer
 32,pro,profound,adjective,deep; serious; having deep meaning,sau sac,recovery,P2,2026-09-21,DQ-2026-09-21,Q2 correctly avoided adjective before affected; retain adjective/adverb contrast
 32,pro,promote,verb,support or encourage; raise to a higher position,thuc day; thang chuc,new_unit,P2,2026-08-18,quiz history,Correct campaign context
@@ -344,8 +344,8 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 39,un,uncertainly,adverb,in an uncertain way,mot cach khong chac chan,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 word family
 39,un,uncertainty,noun,state of being uncertain,su khong chac chan,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 word family
 39,un,unfair,adjective,not just or equitable,bat cong,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 word family
-39,un,unfairly,adverb,in an unfair way,mot cach bat cong,recovery,P1,2026-09-21,DQ-2026-09-21,Q4 repeated miss: selected noun unfairness where adverb modifies kept
-39,un,unfairness,noun,quality of being unfair,su bat cong,recovery,P1,2026-09-21,DQ-2026-09-21,"Q4 selected incorrectly to modify kept; unfairness is the noun, unfairly the adverb"
+39,un,unfairly,adverb,in an unfair way,mot cach bat cong,recovery,P1,2026-09-22,DQ-2026-09-22,Q1 selected incorrectly where noun unfairness was required; repeated two-way noun/adverb confusion
+39,un,unfairness,noun,quality of being unfair,su bat cong,recovery,P1,2026-09-22,DQ-2026-09-22,Q1 missed noun slot: selected adverb unfairly after the; word-family role remains unstable
 39,un,unlock,verb,open a lock or make something available,mo khoa,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 book word
 39,un,unpleasant,adjective,causing discomfort or dislike,kho chiu,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 word family
 39,un,pleasant,adjective,giving pleasure or enjoyment,de chiu,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 support word
@@ -381,8 +381,8 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 40,under,underground,adjective/adverb,below the surface of the ground,duoi mat dat,recovery,P2,2026-09-21,DQ-2026-09-21,Q6 correctly avoided location word where passage noun underpass was needed; retain contrast
 40,under,ground,noun,the surface of the earth,mat dat,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 support word
 40,under,underline,verb,draw a line under text; emphasize,gach chan; nhan manh,new_unit,P2,2026-09-18,WQ-2026-09-18,Q14: Correct confidently; Please underline the three most important dates in the printed schedule.
-40,under,underestimate,verb,estimate something to be less than it really is,danh gia thap,new_unit,P2,2026-09-16,quiz history,Correct confidently for migration time
-40,under,underrate,verb,judge someone or something as less valuable or capable than it is,danh gia thap,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 book word
+40,under,underestimate,verb,estimate something to be less than it really is,danh gia thap,new_unit,P2,2026-09-22,DQ-2026-09-22,Q10 correct confidently for estimating a storage amount too low; continue contrast with underrate
+40,under,underrate,verb,judge someone or something as less valuable or capable than it is,danh gia thap,new_unit,P2,2026-09-22,DQ-2026-09-22,Q10 correctly avoided value/ability judgment verb in numerical storage estimate; continue current-unit contrast
 40,under,understate,verb,describe something as less important or serious than it is,noi giam,new_unit,P2,2026-09-21,DQ-2026-09-21,Q10 correct confidently for describing an outage as less serious; continue current-unit rotation
 40,under,understatement,noun,statement that makes something seem less important or serious,su noi giam; noi tranh,new_unit,P2,2026-09-18,WQ-2026-09-18,"Q13: Correct confidently; After a crash that destroyed the entire database, calling the damage 'a small problem' would be an understatement."
 40,under,state,verb,noun,say or declare; condition or situation,noi; khang dinh,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 support word
@@ -401,23 +401,23 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 41,uni,unicycle,noun,cycle with one wheel,xe dap mot banh,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 book word
 41,uni,uniform,noun/adjective,standard clothing; consistent in form,dong phuc; dong nhat,recovery,P2,2026-09-21,DQ-2026-09-21,Q3 correctly avoided uniform where form named device shape; retain contrast
 41,uni,form,noun/verb,shape or structure; create or develop,hinh dang; tao thanh,recovery,P2,2026-09-21,DQ-2026-09-21,Q3 first confident correction after selecting uniform for shape on 2026-09-18; retain Recovery
-41,uni,uniformity,noun,state of being the same or consistent,su dong nhat,new_unit,P2,2026-09-18,WQ-2026-09-18,Q10: Correct confidently; Different branches used different layouts; a common template brought greater uniformity to their reports.
+41,uni,uniformity,noun,state of being the same or consistent,su dong nhat,recovery,P2,2026-09-22,DQ-2026-09-22,Q4 selected noun for adjective universal; contrast sameness noun with universal adjective
 41,uni,unisex,adjective,designed for any gender,trung tinh; dung cho moi gioi,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 book word
-41,uni,universe,noun,all space matter and existence,vu tru,recovery,P2,2026-09-21,DQ-2026-09-21,Q9 missed noun after the for all space and galaxies; selected adjective universal
-41,uni,universal,adjective,existing or applying everywhere or to everyone,pho quat; toan the,recovery,P2,2026-09-21,DQ-2026-09-21,Q9 selected adjective where noun universe was required; retain word-family contrast
+41,uni,universe,noun,all space matter and existence,vu tru,recovery,P1,2026-09-22,DQ-2026-09-22,"Q4 correctly avoided noun in adjective slot, but universe/universal family remains repeatedly unstable"
+41,uni,universal,adjective,existing or applying everywhere or to everyone,pho quat; toan the,recovery,P1,2026-09-22,DQ-2026-09-22,Q4 target missed after prior noun/adjective confusion; Q11 also selected universal for a one-sided decision
 41,uni,unicellular,adjective,consisting of one cell,don bao,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 extension
 41,uni,unicorn,noun,mythical animal with one horn,ky lan,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 extension
 41,uni,unison,noun,simultaneous agreement or sound,su dong thanh,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 extension
-41,uni,unilateral,adjective,done by or affecting one side only,don phuong,new_unit,P2,2026-09-16,2026-09-16 addendum,Unit 41 extension
-42,up,update,noun/verb,make or become current; current information,cap nhat,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 book word
-42,up,upgrade,noun/verb,improve to a newer or better version,nang cap,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 book word
+41,uni,unilateral,adjective,done by or affecting one side only,don phuong,recovery,P2,2026-09-22,DQ-2026-09-22,Q11 missed one-sided decision context; selected universal
+42,up,update,noun/verb,make or become current; current information,cap nhat,recovery,P2,2026-09-22,DQ-2026-09-22,Q6 missed: selected uphold where customer records needed to be made current
+42,up,upgrade,noun/verb,improve to a newer or better version,nang cap,new_unit,P2,2026-09-22,DQ-2026-09-22,Q7 correct confidently for improving laptop hardware; continue Unit 42 rotation
 42,up,upbringing,noun,the way a child is raised,su nuoi nang,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 book word
 42,up,uplift,noun/verb,raise physically or improve mood and confidence,nang len; nang tinh than,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 book word
 42,up,upset,adjective/verb,unhappy or worried; make someone unhappy,buon; bat an; lam buon,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 book word
 42,up,grade,noun/verb,level or rank; evaluate work,cap; cap bac; cham diem,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 support word for upgrade
 42,up,bring,verb,carry or cause something to come,mang den,new_unit,P2,2026-09-21,2026-09-21 addendum,Normalized lemma from user-listed bringing; Unit 42 support word for upbringing
 42,up,lift,noun/verb,raise something to a higher position,nang len,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 support word for uplift
-42,up,strict,adjective,requiring rules to be obeyed,nghiem khac,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 general support word
+42,up,strict,adjective,requiring rules to be obeyed,nghiem khac,new_unit,P2,2026-09-22,DQ-2026-09-22,Q8 correct confidently in firm-rules support-word context; continue Unit 42 rotation
 42,up,upstairs,adverb/adjective,on or to a higher floor,o tang tren,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 extension
 42,up,stairs,plural noun,a set of steps between levels,cau thang,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 support word for upstairs
 42,up,upfront,adjective/adverb,open and direct; in advance,thang than; cong khai; tra truoc,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 extension
@@ -430,9 +430,9 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 42,up,right,adjective,correct or morally good,dung; dung dan,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 support word for upright
 42,up,uproot,verb,pull out by the roots; force away from home,nho tan goc; bat roi khoi noi o,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 extension
 42,up,root,noun,underground part of a plant; origin,goc re; nguon goc,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 support word for uproot
-42,up,upkeep,noun,maintenance or the cost of maintenance,su bao tri; chi phi duy tri,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 extension
+42,up,upkeep,noun,maintenance or the cost of maintenance,su bao tri; chi phi duy tri,new_unit,P2,2026-09-22,DQ-2026-09-22,Q9 correct confidently for annual building maintenance costs; continue Unit 42 rotation
 42,up,keep,verb,retain or continue to have,giu,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 support word for upkeep
-42,up,uphold,verb,support or maintain a rule or decision,duy tri; ung ho,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 extension
+42,up,uphold,verb,support or maintain a rule or decision,duy tri; ung ho,recovery,P2,2026-09-22,DQ-2026-09-22,Q6 selected incorrectly for changing an address; uphold means support or maintain a rule or decision
 42,up,hold,verb,carry support or keep in a position,giu; nam giu,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 support word for uphold
 42,up,uphill,adjective/adverb,toward a higher place; difficult,len doc; kho khan,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 extension
 42,up,hill,noun,a naturally raised area of land,doi; doi nui,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 support word for uphill

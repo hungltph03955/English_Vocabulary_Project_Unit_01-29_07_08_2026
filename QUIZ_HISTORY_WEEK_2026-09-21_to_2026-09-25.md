@@ -103,3 +103,110 @@ Memory: `Astronomers study distant galaxies across the universe.`
 
 Next scheduled quiz: Tuesday 2026-09-22, Daily Quick, 12 questions.
 Friday 2026-09-25 is Monthly Quick / Cumulative Test, 50 questions.
+
+## Tuesday 2026-09-22 - Daily Quick
+
+Quiz ID: DQ-2026-09-22
+Source of questions and key: `QUIZ_2026-09-22_DAILY.md`
+Local date verified: Tuesday 2026-09-22, Asia/Saigon (+07:00).
+
+Score: 7/12 = 58.3%
+
+- Correct: Q3, Q5, Q7-Q10, Q12
+- Correct confidently: 7
+- Correct but uncertain: none
+- Wrong: Q1, Q2, Q4, Q6, Q11
+- Wrong and uncertain: none
+- Unanswered/unresolved: none
+- Incidental new-word candidates: none.
+
+## Item-Level Results
+
+| Q | Target | Learner | Correct | Result |
+|---|---|---|---|---|
+| 1 | unfairness | C. unfairly | B. unfairness | Wrong |
+| 2 | perceptive | B. observable | A. perceptive | Wrong |
+| 3 | overpay | C. overpay | C. overpay | Correct |
+| 4 | universal | B. uniformity | D. universal | Wrong |
+| 5 | obligatory | B. obligatory | B. obligatory | Correct |
+| 6 | update | D. uphold | A. update | Wrong |
+| 7 | upgrade | B. upgrade | B. upgrade | Correct |
+| 8 | strict | C. strict | C. strict | Correct |
+| 9 | upkeep | D. upkeep | D. upkeep | Correct |
+| 10 | underestimate | A. underestimate | A. underestimate | Correct |
+| 11 | unilateral | A. universal | C. unilateral | Wrong |
+| 12 | precaution | B. precaution | B. precaution | Correct |
+
+## Focused Review
+
+### Q1 - unfairness
+
+Original sentence: `Employees questioned the ______ of a policy that gave bonuses only to managers.`
+
+Learner: C. `unfairly`.
+Correct: B. `unfairness`.
+
+Why: The pattern the ______ of a policy needs a noun. Unfairness is the noun; unfairly is an adverb that describes how an action is done.
+
+Memory: `Employees questioned the unfairness of the policy.`
+
+### Q2 - perceptive
+
+Original sentence: `Linh noticed a pattern in the support tickets that everyone else had missed, showing how ______ she was.`
+
+Learner: B. `observable`.
+Correct: A. `perceptive`.
+
+Why: Linh is a person who notices a hidden pattern, so perceptive fits. Observable describes a change or result that can be seen or measured.
+
+Memory: `A perceptive analyst notices patterns that others miss.`
+
+### Q4 - universal
+
+Original sentence: `The right to a fair hearing is considered ______ because it should apply to every person.`
+
+Learner: B. `uniformity`.
+Correct: D. `universal`.
+
+Why: The blank needs an adjective meaning applying to every person: universal. Uniformity is a noun meaning sameness or consistency.
+
+Memory: `The right to a fair hearing is universal.`
+
+### Q6 - update
+
+Original sentence: `Please ______ the customer's mailing address in our records after they move.`
+
+Learner: D. `uphold`.
+Correct: A. `update`.
+
+Why: To update an address is to make the record current. Uphold means support or maintain a rule, principle, or decision.
+
+Memory: `Please update the customer's address; the court will uphold the decision.`
+
+### Q11 - unilateral
+
+Original sentence: `The legal team made a ______ decision without consulting product or support.`
+
+Learner: A. `universal`.
+Correct: C. `unilateral`.
+
+Why: A decision made by one team without consulting others is unilateral (one-sided). Universal means applying to everyone or everywhere.
+
+Memory: `The legal team made a unilateral decision.`
+
+## State Changes
+
+- Keep unfairness / unfairly at P1 after two-way noun/adverb confusion.
+- Keep perceptive / observable at P1 after both contexts were confused on
+  consecutive quizzes.
+- Raise universe / universal to P1 after another word-role miss; add uniformity
+  at P2 and keep unilateral at P2 after the one-sided-decision miss.
+- Add update / uphold at P2 Recovery. Upgrade, strict, and upkeep remain
+  new_unit/P2 after confident first-practice answers.
+- Keep overpay / overlook and obligatory / obvious at P2 after first confident
+  corrections.
+- Underestimate / underrate remain new_unit/P2; precaution remains P3 cooldown.
+- No candidate addition or promotion.
+
+Next scheduled quiz: Wednesday 2026-09-23, Daily Quick, 12 questions.
+Friday 2026-09-25 is Monthly Quick / Cumulative Test, 50 questions.

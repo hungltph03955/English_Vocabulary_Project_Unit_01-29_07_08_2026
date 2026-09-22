@@ -1,6 +1,6 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Monday 2026-09-21
+Date: Tuesday 2026-09-22
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
 Current scope: Unit 01-42
 
@@ -15,7 +15,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-21.md`)
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-22.md`)
 6. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 7. `VOCABULARY_STATE.csv`
 8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`)
@@ -25,13 +25,13 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Monday 2026-09-21 was a Daily Quick day.
-The saved quiz DQ-2026-09-21 was graded against its exact question file:
-`QUIZ_2026-09-21_DAILY.md`. Score: 8/12 (66.7%).
+Tuesday 2026-09-22 was a Daily Quick day.
+The saved quiz DQ-2026-09-22 was graded against its exact question file:
+`QUIZ_2026-09-22_DAILY.md`. Score: 7/12 (58.3%).
 
 The next expected quiz is:
 
-- Tuesday 2026-09-22
+- Wednesday 2026-09-23
 - Daily Quick
 - 12 questions
 
@@ -225,20 +225,20 @@ Unit 34 `semi-` vocabulary added on 2026-08-18 after the Daily Quick:
 
 ## Last valid completed quiz
 
-- Date: Monday 2026-09-21
-- Quiz ID: DQ-2026-09-21
+- Date: Tuesday 2026-09-22
+- Quiz ID: DQ-2026-09-22
 - Type: Daily Quick
-- Recorded result: 8/12 (66.7%)
+- Recorded result: 7/12 (58.3%)
 - Correct but uncertain: none
-- Wrong: Q4, Q7, Q8, Q9
-- Wrong and uncertain: Q8 (A. perceptive)
+- Wrong: Q1, Q2, Q4, Q6, Q11
+- Wrong and uncertain: none
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-09-21_DAILY.md`
+- Exact grading source: `QUIZ_2026-09-22_DAILY.md`
 - Result and reviews: `QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`
 
 Earlier valid records remain in their dated history files. Never apply their
-question sentences or option letters to DQ-2026-09-21.
+question sentences or option letters to DQ-2026-09-22.
 
 ## Earlier August progress
 
@@ -276,28 +276,26 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-09-21.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-09-22.md` and the current CSV for the complete queue.
 
 P1:
 
-- `unfairly` / `unfairness`: repeated noun-for-adverb error
-- `observable` / `perceptive`: Q8 wrong and uncertain; person quality versus
-  measurable result
+- `unfairness` / `unfairly`: repeated two-way noun/adverb confusion
+- `perceptive` / `observable`: person quality versus measurable result
+- `universe` / `universal`: repeated noun/adjective confusion; Q4 also
+  selected `uniformity`
 
 P2:
 
-- New: `overpay` / `overlook` and `universe` / `universal`
-- Lowered gradually after confident corrections: `transparently` /
-  `transparency` and `profoundly` / `profound`
-- Retain after first correction: `form` / `uniform`, `outweigh` /
-  `overcharge`, and `underpass` / `underground`
-- Preserve other untested P2 groups in the current CSV and latest Recovery file.
-- Continue Unit 40-42 coverage, including Unit 42 Word families and support words.
-- Unit 42 starts at `new_unit/P2`; new-unit status is coverage, not Recovery.
+- New: `update` / `uphold`, `unilateral` / `universal`, and
+  `uniformity` role contrast
+- First corrections: `overpay` / `overlook` and `obligatory` / `obvious`
+- Preserve other untested P2 groups in the CSV and latest Recovery snapshot.
+- Continue Unit 42 coverage; `upgrade`, `strict`, and `upkeep` were correct.
 
 P3 cooldown:
 
-- `renew` / `renewal` remain stable after a direct verb-role check.
+- `precaution` remains stable after a new safety-context check.
 
 The historical cooldown list below excludes terms reactivated above.
 
@@ -329,14 +327,13 @@ Cooldown / light watch:
 - `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Daily Quick for 2026-09-22
+## Recommended Daily Quick for 2026-09-23
 
 Use 12 questions:
 
-- 5 Recovery questions, with both P1 contrasts early
-- 4 current Unit 42 questions, including at least one correct answer from its
-  Word families and support words section
-- 2 due or older Unit 39-41 questions
+- 6 Recovery questions, with all three P1 groups early
+- 3 current Unit 42 questions, including one Word families/support-word answer
+- 2 due or recent Unit 39-41 questions
 - 1 Unit Tour / Topic Tour / cooldown check
 
 Use new sentence contexts. Rotate P2 instead of placing every P2 item in one
