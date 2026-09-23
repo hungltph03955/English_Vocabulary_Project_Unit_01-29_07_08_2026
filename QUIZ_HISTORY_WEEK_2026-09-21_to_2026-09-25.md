@@ -210,3 +210,103 @@ Memory: `The legal team made a unilateral decision.`
 
 Next scheduled quiz: Wednesday 2026-09-23, Daily Quick, 12 questions.
 Friday 2026-09-25 is Monthly Quick / Cumulative Test, 50 questions.
+
+## Wednesday 2026-09-23 - Daily Quick
+
+Quiz ID: DQ-2026-09-23
+Source of questions and key: `QUIZ_2026-09-23_DAILY.md`
+Local date verified: Wednesday 2026-09-23, Asia/Saigon (+07:00).
+
+Score: 9/12 = 75.0%
+
+- Correct: Q2-Q3, Q5-Q9, Q11-Q12
+- Correct confidently: 9
+- Correct but uncertain: none
+- Wrong: Q1, Q4, Q10
+- Wrong and uncertain: Q1 (B. unfair)
+- Unanswered/unresolved: none
+- Incidental new-word candidates: none
+
+## Item-Level Results
+
+| Q | Target | Learner | Correct | Result |
+|---|---|---|---|---|
+| 1 | unfairly | B. unfair? | C. unfairly | Wrong and uncertain; reasoning identified adverb role |
+| 2 | observable | D. observable | D. observable | Correct |
+| 3 | universe | C. universe | C. universe | Correct |
+| 4 | uphold | D. upgrade | C. uphold | Wrong |
+| 5 | uniformity | B. uniformity | B. uniformity | Correct |
+| 6 | obligatory | B. obligatory | B. obligatory | Correct |
+| 7 | uplift | B. uplift | B. uplift | Correct |
+| 8 | upfront | C. upfront | C. upfront | Correct |
+| 9 | root | B. root | B. root | Correct |
+| 10 | uncertainty | B. unpredictable | C. uncertainty | Wrong |
+| 11 | understaffed | D. understaffed | D. understaffed | Correct |
+| 12 | illegible | C. illegible | C. illegible | Correct |
+
+## Reasoning and Confidence
+
+Q1: The learner marked the item uncertain and correctly reasoned that the
+blank needed an adverb meaning "in an unfair way." However, the final choice
+was B. `unfair`, which is an adjective. The correct adverb is C. `unfairly`.
+
+## Focused Review
+
+### Q1 - unfairly
+
+Original sentence: `Although two teams made the same mistake, the manager punished only one team, treating its members ______.`
+
+Learner: B. `unfair?`.
+Correct: C. `unfairly`.
+
+Why: The reasoning about the adverb slot was correct, but `unfair` is an
+adjective. The verb phrase `treating its members` needs the adverb `unfairly`
+to describe how the members were treated.
+
+Memory: `The manager treated one team unfairly.`
+
+### Q4 - uphold
+
+Original sentence: `Even when the ruling was unpopular, the agency agreed to ______ the court's decision.`
+
+Learner: D. `upgrade`.
+Correct: C. `uphold`.
+
+Why: A court decision is supported or maintained, so the verb is `uphold`.
+`Upgrade` means improve something to a newer or better version.
+
+Memory: `The agency will uphold the decision but upgrade its software.`
+
+### Q10 - uncertainty
+
+Original sentence: `The continuing ______ over shipping dates makes production planning difficult.`
+
+Learner: B. `unpredictable`.
+Correct: C. `uncertainty`.
+
+Why: After `the continuing`, the sentence needs a noun naming the lack of
+certainty: `uncertainty`. `Unpredictable` is an adjective and must describe a
+noun, as in `unpredictable shipping dates`.
+
+Memory: `Unpredictable shipping dates create uncertainty.`
+
+## State Changes
+
+- Keep `unfair` / `unfairly` / `unfairness` at P1. Q1 was wrong and uncertain
+  even though the learner recognized the required part of speech.
+- Raise the Unit 42 distinction `update` / `upgrade` / `uphold` to P1 after
+  Q4 selected `upgrade` for supporting a court decision.
+- Keep `perceptive` / `observable` and `universe` / `universal` at P1 after
+  their first confident direct corrections following repeated confusion.
+- Add `uncertainty` / `uncertain` / `unpredictable` at P2 for the new
+  noun/adjective role error.
+- Retain `uniformity` at P2 after one confident correction. Lower
+  `obligatory` gradually after its second confident correction while
+  preserving `obvious` for a later opposite-side check.
+- Unit 42 `uplift`, `upfront`, and support word `root` were correct confidently.
+- Unit 40 `understaffed` was correct confidently on its first check.
+- Keep `illegible` / `illiterate` at P3 cooldown after another confident check.
+- No candidate addition or promotion.
+
+Next scheduled quiz: Thursday 2026-09-24, Daily Quick, 12 questions.
+Friday 2026-09-25 is Monthly Quick / Cumulative Test, 50 questions.

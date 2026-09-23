@@ -1,6 +1,6 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Tuesday 2026-09-22
+Date: Wednesday 2026-09-23
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
 Current scope: Unit 01-42
 
@@ -15,7 +15,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-22.md`)
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-23.md`)
 6. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 7. `VOCABULARY_STATE.csv`
 8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`)
@@ -25,13 +25,13 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Tuesday 2026-09-22 was a Daily Quick day.
-The saved quiz DQ-2026-09-22 was graded against its exact question file:
-`QUIZ_2026-09-22_DAILY.md`. Score: 7/12 (58.3%).
+Wednesday 2026-09-23 was a Daily Quick day.
+The saved quiz DQ-2026-09-23 was graded against its exact question file:
+`QUIZ_2026-09-23_DAILY.md`. Score: 9/12 (75.0%).
 
 The next expected quiz is:
 
-- Wednesday 2026-09-23
+- Thursday 2026-09-24
 - Daily Quick
 - 12 questions
 
@@ -223,18 +223,31 @@ Unit 34 `semi-` vocabulary added on 2026-08-18 after the Daily Quick:
   `semi-solid`, `semi-professional`, `semiautomatic`, `semidarkness`,
   `semiofficial`, `semi-permanent`, `semi-domesticated`
 
+## Update 2026-09-23 - Daily Quick
+
+The Daily Quick scored 9/12. Keep the `unfair` word forms at P1 after the
+learner identified the adverb role but selected adjective `unfair` with
+uncertainty. Raise `update` / `upgrade` / `uphold` to P1 after `upgrade` was
+selected for supporting a court decision. Add P2 `uncertainty` versus
+adjective forms. Keep `perceptive` / `observable` and `universe` / `universal`
+at P1 after their first confident direct corrections.
+
+Unit 42 `uplift`, `upfront`, and support word `root` were correct. Unit 40
+`understaffed` and cooldown `illegible` were also correct. No incidental
+candidate was added.
+
 ## Last valid completed quiz
 
-- Date: Tuesday 2026-09-22
-- Quiz ID: DQ-2026-09-22
+- Date: Wednesday 2026-09-23
+- Quiz ID: DQ-2026-09-23
 - Type: Daily Quick
-- Recorded result: 7/12 (58.3%)
+- Recorded result: 9/12 (75.0%)
 - Correct but uncertain: none
-- Wrong: Q1, Q2, Q4, Q6, Q11
-- Wrong and uncertain: none
+- Wrong: Q1, Q4, Q10
+- Wrong and uncertain: Q1 (B. unfair)
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-09-22_DAILY.md`
+- Exact grading source: `QUIZ_2026-09-23_DAILY.md`
 - Result and reviews: `QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`
 
 Earlier valid records remain in their dated history files. Never apply their
@@ -276,19 +289,20 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-09-22.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-09-23.md` and the current CSV for the complete queue.
 
 P1:
 
-- `unfairness` / `unfairly`: repeated two-way noun/adverb confusion
-- `perceptive` / `observable`: person quality versus measurable result
-- `universe` / `universal`: repeated noun/adjective confusion; Q4 also
-  selected `uniformity`
+- `unfair` / `unfairly` / `unfairness`: form mapping remains unstable
+- `update` / `upgrade` / `uphold`: current information versus improved version
+  versus supporting a rule or decision
+- `perceptive` / `observable`: first confident correction; retain until stable
+- `universe` / `universal`: first confident correction; retain until stable
 
 P2:
 
-- New: `update` / `uphold`, `unilateral` / `universal`, and
-  `uniformity` role contrast
+- New: `uncertainty` / `uncertain` / `unpredictable`
+- Retain `unilateral` / `universal` and `uniformity`
 - First corrections: `overpay` / `overlook` and `obligatory` / `obvious`
 - Preserve other untested P2 groups in the CSV and latest Recovery snapshot.
 - Continue Unit 42 coverage; `upgrade`, `strict`, and `upkeep` were correct.
@@ -327,11 +341,11 @@ Cooldown / light watch:
 - `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Daily Quick for 2026-09-23
+## Recommended Daily Quick for 2026-09-24
 
 Use 12 questions:
 
-- 6 Recovery questions, with all three P1 groups early
+- 6 Recovery questions, with the unfair forms and Unit 42 three-way contrast early
 - 3 current Unit 42 questions, including one Word families/support-word answer
 - 2 due or recent Unit 39-41 questions
 - 1 Unit Tour / Topic Tour / cooldown check
