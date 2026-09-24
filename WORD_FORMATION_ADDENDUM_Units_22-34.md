@@ -1142,3 +1142,36 @@ Watch:
   normalized lemmas `bring` and `come`.
 - Root hints `date`, `set`, and `turn` remain notes only because they were
   not separately listed as active vocabulary.
+
+
+inactive : không hoạt động 
+inactivate : (v) : vô hiệu hóa 
+active : (adj) : có hoạt động . 
+
+react: (V) : phản ứng
+reaction : (n) :  sự phản ứng 
+
+transact (v): giao dịch 
+transaction : (n) : sự giao dịch 
+
+action (n): làm , hành động
+actual : adj : thực tế 
+actually : adv : thực sự , trên thực tế 
+actualize : v : hiện thực hóa 
+actuality : n : hiện thực 
+
+
+- Từ trong sách: inactive, react, transact, action, actual
+
+- Từ mở rộng:
+• enact (v) /ɪˈnækt/: ban hành
+• actor (n) /ˈæktə(r)/: diễn viên
+• activity (n) /ækˈtɪvəti/: hoạt động
+• interact (v) /ˌɪntərˈækt/: tương tác
+• overact (v) /ˌəʊvərˈækt/: diễn quá lố
+• counteract (v) /ˌkaʊntərˈækt/: chống lại
+• proactive (adj) /ˌprəʊˈæktɪv/: chủ động
+• activate (v) /ˈæktɪveɪt/: kích hoạt
+• coact (v) /ˌkəʊˈækt/: phối hợp hành động
+
+- Affix hints: counter- (chống lại, đối lập), -ate (làm cho), -ion (sự), -ity (trạng thái, tính chất), -ive (có tính chất), -or (người), -ual (liên quan, thuộc về)

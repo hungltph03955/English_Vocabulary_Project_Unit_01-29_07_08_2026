@@ -1,6 +1,6 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Wednesday 2026-09-23
+Date: Thursday 2026-09-24
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
 Current scope: Unit 01-42
 
@@ -15,7 +15,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-23.md`)
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-24.md`)
 6. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 7. `VOCABULARY_STATE.csv`
 8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`)
@@ -25,15 +25,15 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Wednesday 2026-09-23 was a Daily Quick day.
-The saved quiz DQ-2026-09-23 was graded against its exact question file:
-`QUIZ_2026-09-23_DAILY.md`. Score: 9/12 (75.0%).
+Thursday 2026-09-24 was a Daily Quick day.
+The saved quiz DQ-2026-09-24 was graded against its exact question file:
+`QUIZ_2026-09-24_DAILY.md`. Score: 11/12 (91.7%).
 
 The next expected quiz is:
 
-- Thursday 2026-09-24
-- Daily Quick
-- 12 questions
+- Friday 2026-09-25
+- Monthly Quick / Cumulative Test
+- 50 questions
 
 Friday 2026-09-25 is the last Friday of September: Monthly Quick, 50 questions.
 
@@ -238,16 +238,16 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Date: Wednesday 2026-09-23
-- Quiz ID: DQ-2026-09-23
+- Date: Thursday 2026-09-24
+- Quiz ID: DQ-2026-09-24
 - Type: Daily Quick
-- Recorded result: 9/12 (75.0%)
-- Correct but uncertain: none
-- Wrong: Q1, Q4, Q10
-- Wrong and uncertain: Q1 (B. unfair)
+- Recorded result: 11/12 (91.7%)
+- Correct but uncertain: Q1 (C. unfairly), Q7 (D. upbringing)
+- Wrong: Q6
+- Wrong and uncertain: none
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-09-23_DAILY.md`
+- Exact grading source: `QUIZ_2026-09-24_DAILY.md`
 - Result and reviews: `QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`
 
 Earlier valid records remain in their dated history files. Never apply their

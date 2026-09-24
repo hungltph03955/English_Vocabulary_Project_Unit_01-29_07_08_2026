@@ -1,9 +1,9 @@
 # Rotation State - Snapshot
 
-Date: Wednesday 2026-09-23
+Date: Thursday 2026-09-24
 Scope: Unit 01-42
-Last valid quiz: DQ-2026-09-23, Daily Quick on Wednesday 2026-09-23, 9/12 (75.0%)
-Next expected quiz: Daily Quick, 12 questions, Thursday 2026-09-24
+Last valid quiz: DQ-2026-09-24, Daily Quick on Thursday 2026-09-24, 11/12 (91.7%)
+Next expected quiz: Monthly Quick / Cumulative Test, 50 questions, Friday 2026-09-25
 
 ## Selection order
 
@@ -177,6 +177,9 @@ Use this order when generating quizzes:
   unreadable-writing check.
 
 ## Schedule guardrail
+
+Thursday 2026-09-24 was completed as DQ-2026-09-24, Daily Quick, 12 questions.
+The next expected quiz is Friday 2026-09-25: Monthly Quick / Cumulative Test, 50 questions.
 
 Friday 2026-09-04 was correctly completed as a Weekly Quick with 30 questions.
 

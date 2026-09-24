@@ -104,6 +104,68 @@ Memory: `Astronomers study distant galaxies across the universe.`
 Next scheduled quiz: Tuesday 2026-09-22, Daily Quick, 12 questions.
 Friday 2026-09-25 is Monthly Quick / Cumulative Test, 50 questions.
 
+## Thursday 2026-09-24 - Daily Quick
+
+Quiz ID: DQ-2026-09-24
+Source: `QUIZ_2026-09-24_DAILY.md`
+Local date verified: Thursday 2026-09-24, Asia/Saigon (+07:00).
+
+Score: 11/12 = 91.7%
+
+- Correct: Q1-Q5, Q7-Q12
+- Correct confidently: 9
+- Correct but uncertain: Q1 (C. unfairly), Q7 (D. upbringing)
+- Wrong: Q6
+- Unanswered/unresolved: none
+- Incidental new-word candidates: none
+
+| Q | Target | Learner | Correct | Result |
+|---|---|---|---|---|
+| 1 | unfairly | C. unfairly? | C. unfairly | Correct but uncertain; role reasoning partly inaccurate |
+| 2 | update | A. update | A. update | Correct |
+| 3 | uphold | D. uphold | D. uphold | Correct |
+| 4 | perceptive | B. perceptive | B. perceptive | Correct |
+| 5 | universal | C. universal | C. universal | Correct |
+| 6 | uncertainty | C. uncertainly | A. uncertainty | Wrong |
+| 7 | upbringing | D. upbringing? | D. upbringing | Correct but uncertain |
+| 8 | upcoming | B. upcoming | B. upcoming | Correct |
+| 9 | stairs | C. stairs | C. stairs | Correct |
+| 10 | understatement | A. understatement | A. understatement | Correct |
+| 11 | unilateral | D. unilateral | D. unilateral | Correct |
+| 12 | prepaid | B. prepaid | B. prepaid | Correct |
+
+### Focused Review - Q6
+
+Original sentence: `Economic ______ caused the company to delay its expansion until demand became clearer.`
+
+Learner: C. `uncertainly`.
+Correct: A. `uncertainty`.
+
+Why: The adjective `Economic` must describe a noun. `Uncertainty` is the noun
+meaning lack of certainty; `uncertainly` is an adverb describing how an action
+is performed.
+
+Memory: `Economic uncertainty delayed the expansion.`
+
+### Reasoning Note - Q1
+
+The final answer `unfairly` was correct. It is an adverb because it describes
+how the contractor was `charging`; being placed after `businesses` does not by
+itself determine the word class.
+
+## State Changes after DQ-2026-09-24
+
+- Raise `uncertainty` / `uncertainly` / `unpredictable` to P1.
+- Keep the unfair family at P1 because Q1 was uncertain and the role reasoning
+  still needs correction.
+- Keep `update` / `upgrade` / `uphold` at P1 after first confident corrections.
+- Lower `perceptive` / `observable` and `universe` / `universal` to P2 after
+  confident retrieval of both sides across consecutive quizzes.
+- Keep `upbringing` at P2 light watch because it was correct but uncertain.
+- No candidate addition or promotion.
+
+Next scheduled quiz: Friday 2026-09-25, Monthly Quick / Cumulative Test, 50 questions.
+
 ## Tuesday 2026-09-22 - Daily Quick
 
 Quiz ID: DQ-2026-09-22
