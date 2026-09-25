@@ -1,9 +1,9 @@
 # Rotation State - Snapshot
 
-Date: Thursday 2026-09-24
-Scope: Unit 01-42
-Last valid quiz: DQ-2026-09-24, Daily Quick on Thursday 2026-09-24, 11/12 (91.7%)
-Next expected quiz: Monthly Quick / Cumulative Test, 50 questions, Friday 2026-09-25
+Date: Friday 2026-09-25
+Scope: Unit 01-43
+Last valid quiz: MQ-2026-09-25, Monthly Quick on Friday 2026-09-25, 46/50 (92.0%)
+Next expected quiz: first scheduled Daily Quick of October 2026
 
 ## Selection order
 
@@ -176,7 +176,24 @@ Use this order when generating quizzes:
 - Keep `illegible` / `illiterate` at P3 cooldown after another confident
   unreadable-writing check.
 
+## 2026-09-24 Unit 43 root `act` import
+
+- Begin the root-learning phase after the Unit 22-42 prefix sequence.
+- Add 20 new active entries at `new_unit/P2`: five book words, word-family
+  forms, and approved extensions.
+- Cross-reference existing Unit 32 `proactive`; do not create a duplicate row.
+- Keep root label `act` and affix hints as analysis notes rather than active
+  standalone vocabulary.
+- Prioritize `inactive` / `inactivate` / `active` / `activate`, `react` /
+  `reaction`, `transact` / `transaction`, and the `actual` word family.
+- Include Unit 43 in the 2026-09-25 Monthly Quick while preserving Recovery
+  as the highest selection priority.
+
 ## Schedule guardrail
+
+Friday 2026-09-25 was completed as MQ-2026-09-25, Monthly Quick / Cumulative
+Test, 50 questions. October priorities were reset in
+`RECOVERY_PRIORITIES_2026-09-25.md`.
 
 Thursday 2026-09-24 was completed as DQ-2026-09-24, Daily Quick, 12 questions.
 The next expected quiz is Friday 2026-09-25: Monthly Quick / Cumulative Test, 50 questions.

@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Thursday 2026-09-24
+Date: Friday 2026-09-25
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-42
+Current scope: Unit 01-43
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -15,7 +15,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-24.md`)
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-25.md`)
 6. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 7. `VOCABULARY_STATE.csv`
 8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`)
@@ -25,15 +25,11 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Thursday 2026-09-24 was a Daily Quick day.
-The saved quiz DQ-2026-09-24 was graded against its exact question file:
-`QUIZ_2026-09-24_DAILY.md`. Score: 11/12 (91.7%).
+Friday 2026-09-25 was the last Friday of September and was completed as a
+Monthly Quick. MQ-2026-09-25 scored 46/50 (92.0%). Exact source:
+`QUIZ_2026-09-25_MONTHLY.md`.
 
-The next expected quiz is:
-
-- Friday 2026-09-25
-- Monthly Quick / Cumulative Test
-- 50 questions
+The next expected quiz is the first scheduled Daily Quick of October 2026.
 
 Friday 2026-09-25 is the last Friday of September: Monthly Quick, 50 questions.
 
@@ -48,7 +44,7 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 42.
+The project has advanced through Unit 43.
 
 Recent unit coverage:
 
@@ -73,6 +69,19 @@ Recent unit coverage:
 - Unit 40: `under-`
 - Unit 41: `uni-`
 - Unit 42: `up-`
+- Unit 43: root `act`
+
+## Update 2026-09-24 - Unit 43 root `act`
+
+The project has moved from the Unit 22-42 prefix sequence into the root-learning
+phase. The user addendum added root `act` vocabulary. The merge added 20 new
+active entries at `new_unit/P2`: five book words, word-family forms, and
+extensions. Existing Unit 32 `proactive` was cross-referenced rather than
+duplicated. The root label `act` and affix hints remain analysis notes.
+
+Prioritize `inactive` / `inactivate` / `active` / `activate`, `react` /
+`reaction`, `transact` / `transaction`, and `actual` / `actually` /
+`actualize` / `actuality` in first-practice questions.
 
 ## Update 2026-09-21 - Unit 42 `up-`
 
@@ -238,16 +247,16 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Date: Thursday 2026-09-24
-- Quiz ID: DQ-2026-09-24
-- Type: Daily Quick
-- Recorded result: 11/12 (91.7%)
-- Correct but uncertain: Q1 (C. unfairly), Q7 (D. upbringing)
-- Wrong: Q6
+- Date: Friday 2026-09-25
+- Quiz ID: MQ-2026-09-25
+- Type: Monthly Quick / Cumulative Test
+- Recorded result: 46/50 (92.0%)
+- Correct but uncertain: Q2, Q10, Q46
+- Wrong: Q22, Q23, Q47, Q50
 - Wrong and uncertain: none
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-09-24_DAILY.md`
+- Exact grading source: `QUIZ_2026-09-25_MONTHLY.md`
 - Result and reviews: `QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`
 
 Earlier valid records remain in their dated history files. Never apply their
@@ -289,23 +298,21 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-09-23.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-09-25.md` and the current CSV for the complete queue.
 
 P1:
 
-- `unfair` / `unfairly` / `unfairness`: form mapping remains unstable
-- `update` / `upgrade` / `uphold`: current information versus improved version
-  versus supporting a rule or decision
-- `perceptive` / `observable`: first confident correction; retain until stable
-- `universe` / `universal`: first confident correction; retain until stable
+- `outweigh` / `overpay` / `overcharge`
+- `underrate` / `understate` / `underestimate`
+- `upkeep` / `upturn`
+- `uncertainty` / `uncertainly` / `unpredictable`
 
 P2:
 
-- New: `uncertainty` / `uncertain` / `unpredictable`
-- Retain `unilateral` / `universal` and `uniformity`
-- First corrections: `overpay` / `overlook` and `obligatory` / `obvious`
-- Preserve other untested P2 groups in the CSV and latest Recovery snapshot.
-- Continue Unit 42 coverage; `upgrade`, `strict`, and `upkeep` were correct.
+- `unfair` / `unfairly` / `unfairness`
+- `profound` / `profoundly` / `profundity`
+- `update` / `upgrade` / `uphold`
+- Unit 43 root `act` word families after an 8/8 first-practice result
 
 P3 cooldown:
 
@@ -341,13 +348,13 @@ Cooldown / light watch:
 - `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Daily Quick for 2026-09-24
+## Recommended October Opening Daily Quick
 
 Use 12 questions:
 
-- 6 Recovery questions, with the unfair forms and Unit 42 three-way contrast early
-- 3 current Unit 42 questions, including one Word families/support-word answer
-- 2 due or recent Unit 39-41 questions
+- 6 Recovery questions, prioritizing the four new P1 groups
+- 3 current Unit 43 root-family questions
+- 2 due or older-unit questions
 - 1 Unit Tour / Topic Tour / cooldown check
 
 Use new sentence contexts. Rotate P2 instead of placing every P2 item in one

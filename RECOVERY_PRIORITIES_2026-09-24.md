@@ -30,6 +30,11 @@ This snapshot supersedes `RECOVERY_PRIORITIES_2026-09-23.md`.
 - Unit 42 `upbringing` was correct but uncertain.
 - `upcoming` and support word `stairs` were correct confidently.
 - Continue remaining Unit 42 terms in the cumulative rotation.
+- Unit 43 begins the root-learning phase with root `act`.
+- New Unit 43 contrasts: `inactive` / `inactivate` / `active` / `activate`,
+  `react` / `reaction`, `transact` / `transaction`, and `actual` / `actually`
+  / `actualize` / `actuality`.
+- Cross-reference existing `proactive`; do not duplicate it.
 
 ## Cooldown
 
@@ -40,4 +45,5 @@ This snapshot supersedes `RECOVERY_PRIORITIES_2026-09-23.md`.
 
 - Friday 2026-09-25 is the last Friday of September.
 - Generate a Monthly Quick / Cumulative Test with 50 questions, replacing the
-  normal Weekly Quick and covering the whole active vocabulary bank.
+  normal Weekly Quick and covering the whole active vocabulary bank, including
+  first-practice Unit 43 root `act` items.

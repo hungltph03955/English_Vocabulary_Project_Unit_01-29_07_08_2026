@@ -1144,6 +1144,12 @@ Watch:
   not separately listed as active vocabulary.
 
 
+## Unit 43 - Root `act`
+
+Core meaning: do, perform, or drive an action. This is the first root lesson
+after the prefix sequence in Units 22-42. The root label `act` organizes the
+family but is not added as a standalone active lemma unless separately approved.
+
 inactive : không hoạt động 
 inactivate : (v) : vô hiệu hóa 
 active : (adj) : có hoạt động . 
@@ -1175,3 +1181,38 @@ actuality : n : hiện thực
 • coact (v) /ˌkəʊˈækt/: phối hợp hành động
 
 - Affix hints: counter- (chống lại, đối lập), -ate (làm cho), -ion (sự), -ity (trạng thái, tính chất), -ive (có tính chất), -or (người), -ual (liên quan, thuộc về)
+
+### Normalized Unit 43 classification
+
+Book words:
+
+- `inactive` (adjective) = not active or operating
+- `react` (verb) = respond to an event or situation
+- `transact` (verb) = conduct business or an exchange
+- `action` (noun) = the process or result of doing something
+- `actual` (adjective) = real; existing in fact
+
+Word families and support words:
+
+- `active` / `inactive` / `inactivate` / `activate` / `activity`
+- `react` / `reaction`
+- `transact` / `transaction`
+- `actual` / `actually` / `actualize` / `actuality`
+
+Extensions:
+
+- `enact`, `actor`, `interact`, `overact`, `counteract`, `coact`
+- `proactive` is already active in Unit 32 and is cross-referenced here rather
+  than duplicated in the vocabulary bank.
+
+Watch:
+
+- `inactive` is an adjective; `inactivate` and `activate` are verbs.
+- `react` is a verb; `reaction` is the response noun.
+- `transact` is a verb; `transaction` is the exchange noun.
+- `actual` is an adjective; `actually` is an adverb; `actuality` is a noun;
+  `actualize` is a verb meaning make real.
+- `action` names an act or process; `activity` names something people do or a
+  state of being active.
+- Affix hints remain analysis notes and are not automatically promoted as
+  standalone vocabulary.

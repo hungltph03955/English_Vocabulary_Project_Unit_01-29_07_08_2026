@@ -166,6 +166,61 @@ itself determine the word class.
 
 Next scheduled quiz: Friday 2026-09-25, Monthly Quick / Cumulative Test, 50 questions.
 
+## Friday 2026-09-25 - Monthly Quick / Cumulative Test
+
+Quiz ID: MQ-2026-09-25
+Source: `QUIZ_2026-09-25_MONTHLY.md`
+Score: 46/50 = 92.0%.
+
+- Correct confidently: 43
+- Correct but uncertain: Q2, Q10, Q46
+- Wrong: Q22, Q23, Q47, Q50
+- Wrong and uncertain: Q22
+- Unanswered/unresolved: none
+- Incidental new-word candidates: none
+
+### Q22 - outweigh
+
+Original: `The long-term security benefits should ______ the extra setup time.`
+Learner: D. `overpay?`. Correct: C. `outweigh`.
+Why: Benefits can outweigh a cost or disadvantage by being more important.
+`Overpay` means pay too much money and requires a payer.
+Memory: `The security benefits outweigh the setup cost.`
+
+### Q23 - overpay
+
+Original: `A billing-system error caused the customer to ______ by forty dollars.`
+Learner: C. `overcharge`. Correct: B. `overpay`.
+Why: The customer pays, so the customer can overpay. A seller or billing system
+overcharges the customer.
+Memory: `The system overcharged the customer, so the customer overpaid.`
+
+### Q30 - accepted alternative
+
+Learner: B. `Sustained`. Original key: C. `Tolerating`.
+Result: Accepted. `Sustained repetitive practice` is a valid noun phrase and
+matches the learner's explanation. Because both B and C fit, no penalty or
+Recovery escalation is applied.
+
+### Q47 - underrate
+
+Original: `Do not ______ the junior analyst's ability; she may be ready to lead the project.`
+Learner: C. `understate`. Correct: B. `underrate`.
+Why: `Underrate` means judge someone's value or ability too low. `Understate`
+means describe the seriousness or size of something as less than it is.
+Memory: `Do not underrate her ability; do not understate the risk.`
+
+### Q50 - upkeep
+
+Original: `Annual ______ of the old roof costs more than the owners expected.`
+Learner: A. `upturn`. Correct: C. `upkeep`.
+Why: `Upkeep` means maintenance or its cost. `Upturn` means an improvement or
+increase, often in business or the economy.
+Memory: `The building's upkeep is costly during an economic upturn.`
+
+Monthly report: `MONTHLY_REPORT_2026_09.md`.
+October Recovery reset: `RECOVERY_PRIORITIES_2026-09-25.md`.
+
 ## Tuesday 2026-09-22 - Daily Quick
 
 Quiz ID: DQ-2026-09-22

@@ -575,8 +575,9 @@ Gốc từ + tiền tố/hậu tố → mạng họ từ
 Ví dụ mô hình: root → derived words → word families → collocations
 ```
 
-Khi dữ liệu gốc từ được nhập, nên tạo một tài liệu riêng, không trộn với sơ đồ
-tiền tố này. Sơ đồ gốc từ tương lai nên tổ chức theo:
+Dữ liệu gốc từ đã bắt đầu được nhập từ Unit 43 với gốc `act`. Gốc này được
+quản lý trong tài liệu riêng, không trộn vào 21 nhánh tiền tố Unit 22–42.
+Sơ đồ gốc từ nên tổ chức theo:
 
 1. Ý nghĩa cốt lõi của gốc từ.
 2. Các biến thể chính tả của gốc.
