@@ -1,9 +1,9 @@
 # Rotation State - Snapshot
 
-Date: Friday 2026-09-25
-Scope: Unit 01-43
-Last valid quiz: MQ-2026-09-25, Monthly Quick on Friday 2026-09-25, 46/50 (92.0%)
-Next expected quiz: first scheduled Daily Quick of October 2026
+Date: Tuesday 2026-09-29
+Scope: Unit 01-44
+Last valid quiz: DQ-2026-09-29, Daily Quick on Tuesday 2026-09-29, 11/12 (91.7%)
+Next expected quiz: Daily Quick, 12 questions, Wednesday 2026-09-30
 
 ## Selection order
 
@@ -188,6 +188,16 @@ Use this order when generating quizzes:
   `reaction`, `transact` / `transaction`, and the `actual` word family.
 - Include Unit 43 in the 2026-09-25 Monthly Quick while preserving Recovery
   as the highest selection priority.
+
+## 2026-09-29 Unit 44 root `aqua` import
+
+- Add 15 active entries at `new_unit/P2`: five book words, four family/support
+  words, and six extensions.
+- Keep root label `aqua` as an analysis node rather than a standalone lemma.
+- Prioritize `aquarium` / `aquaculture`, `aquatic` / `aquatics`, `aqueduct` /
+  `aquifer`, and `aqualung` / `lung`.
+- The next Daily Quick should contain 3 Unit 44 items, including at least one
+  family/support-word target, after 6 Recovery questions.
 
 ## Schedule guardrail
 

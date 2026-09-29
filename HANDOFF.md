@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Friday 2026-09-25
+Date: Tuesday 2026-09-29
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-43
+Current scope: Unit 01-44
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -15,7 +15,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-25.md`)
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-29.md`)
 6. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 7. `VOCABULARY_STATE.csv`
 8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`)
@@ -25,11 +25,10 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Friday 2026-09-25 was the last Friday of September and was completed as a
-Monthly Quick. MQ-2026-09-25 scored 46/50 (92.0%). Exact source:
-`QUIZ_2026-09-25_MONTHLY.md`.
+Tuesday 2026-09-29 was completed as DQ-2026-09-29, Daily Quick, 11/12
+(91.7%). Exact source: `QUIZ_2026-09-29_DAILY.md`.
 
-The next expected quiz is the first scheduled Daily Quick of October 2026.
+The next expected quiz is Wednesday 2026-09-30, Daily Quick, 12 questions.
 
 Friday 2026-09-25 is the last Friday of September: Monthly Quick, 50 questions.
 
@@ -44,7 +43,7 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 43.
+The project has advanced through Unit 44.
 
 Recent unit coverage:
 
@@ -70,6 +69,17 @@ Recent unit coverage:
 - Unit 41: `uni-`
 - Unit 42: `up-`
 - Unit 43: root `act`
+- Unit 44: root `aqua`
+
+## Update 2026-09-29 - Unit 44 root `aqua`
+
+The user addendum added the second root lesson, `aqua` = water. The merge
+added 15 active entries at `new_unit/P2`: five book words, four family/support
+words, and six extensions. Root label `aqua` remains an analysis node rather
+than a standalone lemma. No candidate word was promoted.
+
+Prioritize `aquarium` / `aquaculture`, `aquatic` / `aquatics`, `aqueduct` /
+`aquifer`, and `aqualung` / `lung` in the next quiz cycle.
 
 ## Update 2026-09-24 - Unit 43 root `act`
 
@@ -247,17 +257,17 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Date: Friday 2026-09-25
-- Quiz ID: MQ-2026-09-25
-- Type: Monthly Quick / Cumulative Test
-- Recorded result: 46/50 (92.0%)
-- Correct but uncertain: Q2, Q10, Q46
-- Wrong: Q22, Q23, Q47, Q50
-- Wrong and uncertain: none
+- Date: Tuesday 2026-09-29
+- Quiz ID: DQ-2026-09-29
+- Type: Daily Quick
+- Recorded result: 11/12 (91.7%)
+- Correct but uncertain: Q8, Q10
+- Wrong: Q2
+- Wrong and uncertain: Q2
 - Unanswered/unresolved: none
-- Incidental candidates: none
-- Exact grading source: `QUIZ_2026-09-25_MONTHLY.md`
-- Result and reviews: `QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`
+- Incidental candidates: `sibling`
+- Exact grading source: `QUIZ_2026-09-29_DAILY.md`
+- Result and reviews: `QUIZ_HISTORY_WEEK_2026-09-28_to_2026-10-02.md`
 
 Earlier valid records remain in their dated history files. Never apply their
 question sentences or option letters to DQ-2026-09-22.
@@ -298,7 +308,7 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-09-25.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-09-29.md` and the current CSV for the complete queue.
 
 P1:
 

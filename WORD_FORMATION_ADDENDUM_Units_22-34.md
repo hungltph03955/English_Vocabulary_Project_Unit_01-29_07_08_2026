@@ -1216,3 +1216,69 @@ Watch:
   state of being active.
 - Affix hints remain analysis notes and are not automatically promoted as
   standalone vocabulary.
+
+
+
+
+
+## Unit 44 - Root `aqua`
+
+Core meaning: water. This is the second root lesson after Unit 43 `act`.
+The root label `aqua` organizes the family but is not added as a standalone
+active lemma unless separately approved.
+
+aquaculture : (n) : nuôi trồng thủy sản
+aqualung : (n) : bình thở dưới nước
+lung : (n) : phổi
+
+aquamarine (n, adj) : ngọc xanh biển
+
+aquarium : (n) : bể cá , thủy cung
+
+aquatic (adj) : thuộc nước
+aquatics (n) : những môn thể thao dưới nước
+leak : rò rỉ
+
+
+- Từ trong sách: aquaculture, aqualung, aquamarine, aquarium, aquatic
+- Từ mở rộng:
+• aquanaut (n) /ˈeɪ.kwə.nɔːt/: nhà thám hiểm dưới nước
+• aquaplane (n) /ˈeɪ.kwə.pleɪn/: ván lướt nước
+• aqua-aerobics (n) /ˈæk.wə.eəˌrəʊ.bɪks/: thể dục dưới nước
+• aquaphobia (n) /ˌæk.wəˈfəʊ.bi.ə/: chứng sợ nước
+phobia (n) : sợ hãi
+• aqueduct (n) /ˈæk.wɪ.dʌkt/: máng dẫn nước
+• aquifer (n) /ˈæk.wɪ.fər/: tầng chứa nước
+
+### Normalized Unit 44 classification
+
+Book words:
+
+- `aquaculture` (noun) = farming fish, shellfish, or aquatic plants
+- `aqualung` (noun) = equipment that lets a diver breathe underwater
+- `aquamarine` (noun/adjective) = a blue-green gemstone or color
+- `aquarium` (noun) = a tank or building for aquatic animals and plants
+- `aquatic` (adjective) = living, growing, or happening in water
+
+Word families and support words:
+
+- `aqualung` / `lung`
+- `aquatic` / `aquatics`
+- `aquaphobia` / `phobia`
+- `leak` is an approved general support word for water-related contexts.
+
+Extensions:
+
+- `aquanaut`, `aquaplane`, `aqua-aerobics`, `aquaphobia`, `aqueduct`,
+  `aquifer`
+
+Watch:
+
+- `aquatic` is an adjective; `aquatics` is a plural noun for water sports.
+- `aquarium` is a tank or public facility; `aquaculture` is the farming
+  process or industry.
+- `aqualung` is breathing equipment; `lung` is the body organ.
+- `aqueduct` carries water; `aquifer` stores groundwater underground.
+- `aquaphobia` is fear of water; `phobia` is the broader fear noun.
+- Root `aqua` and pronunciation/affix notes remain analysis notes unless
+  explicitly approved as standalone vocabulary.

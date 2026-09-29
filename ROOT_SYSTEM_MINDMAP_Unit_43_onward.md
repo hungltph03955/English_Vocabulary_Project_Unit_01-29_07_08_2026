@@ -104,3 +104,60 @@ actual (adj)     ≠ actually (adv)    ≠ actuality (n) ≠ actualize (v)
 
 `proactive` đã có trong Unit 32 nên được liên kết sang họ `act`, không tạo
 thêm một mục trùng trong ngân hàng từ vựng.
+
+## Unit 44 — Root `aqua`
+
+Ý nghĩa cốt lõi: **water — nước**.
+
+```mermaid
+mindmap
+  root((AQUA<br/>water))
+    Nuôi trồng và môi trường nước
+      aquaculture = nuôi trồng thủy sản
+      aquatic = thuộc nước
+      aquatics = các môn thể thao dưới nước
+    Vật chứa và thiết bị
+      aquarium = bể cá · thủy cung
+      aqualung = bình thở dưới nước
+      lung = phổi
+      leak = rò rỉ
+    Màu sắc
+      aquamarine = ngọc hoặc màu xanh biển
+    Con người và hoạt động
+      aquanaut = nhà thám hiểm dưới nước
+      aquaplane = ván lướt nước
+      aqua-aerobics = thể dục dưới nước
+    Nước trong hệ thống tự nhiên
+      aqueduct = máng dẫn nước
+      aquifer = tầng chứa nước
+    Nỗi sợ
+      aquaphobia = chứng sợ nước
+      phobia = chứng sợ
+```
+
+### Cây phân biệt nhanh
+
+```text
+AQUA = nước
+│
+├── aquatic (adj)       thuộc nước / sống dưới nước
+│   └── aquatics (n)    các môn thể thao dưới nước
+├── aquarium (n)        nơi chứa hoặc trưng bày sinh vật nước
+├── aquaculture (n)     hoạt động nuôi trồng thủy sản
+├── aqueduct (n)        công trình dẫn nước
+├── aquifer (n)         tầng đất đá chứa nước ngầm
+├── aqualung (n)        thiết bị giúp thợ lặn thở dưới nước
+├── aquamarine          ngọc hoặc màu xanh biển
+├── aquaphobia          chứng sợ nước
+└── aquanaut            người thám hiểm hoặc làm việc dưới nước
+```
+
+### Cụm ví dụ
+
+- `aquatic plants and animals` — thực vật và động vật sống dưới nước.
+- `visit a public aquarium` — tham quan thủy cung.
+- `work in aquaculture` — làm việc trong ngành nuôi trồng thủy sản.
+- `an underground aquifer` — tầng chứa nước ngầm.
+- `an ancient aqueduct` — máng dẫn nước cổ.
+- `repair a water leak` — sửa chỗ rò rỉ nước.
+- `overcome aquaphobia` — vượt qua chứng sợ nước.

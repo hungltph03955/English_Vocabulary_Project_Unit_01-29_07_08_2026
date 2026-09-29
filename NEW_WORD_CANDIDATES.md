@@ -54,3 +54,12 @@ When grading a quiz:
 - Learner note: said `praised` was unknown.
 - Meaning in context: received approval or positive comments for doing something well.
 - Status: candidate only; not active vocabulary.
+
+### 2026-09-29 - `sibling`
+
+- Source: DQ-2026-09-29 Q10 prompt.
+- Sentence: "The children quickly noticed the unfairness of giving one sibling a later bedtime for no clear reason."
+- Learner note: explicitly said the meaning of `sibling` was unknown and
+  therefore considered both `unfairness` and `uncertainty` plausible.
+- Meaning in context: a brother or sister; anh, chị hoặc em ruột.
+- Status: candidate only; not active vocabulary.
