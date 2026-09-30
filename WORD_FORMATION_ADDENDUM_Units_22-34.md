@@ -1282,3 +1282,105 @@ Watch:
 - `aquaphobia` is fear of water; `phobia` is the broader fear noun.
 - Root `aqua` and pronunciation/affix notes remain analysis notes unless
   explicitly approved as standalone vocabulary.
+
+Bài nghe Unit 19: Shopping
+
+magazines : tạp chí
+
+necklace : vòng cổ
+
+envelopes  : phong bì
+
+shampoo : dầu gội
+
+jewelry  : trang sức
+
+drug : thuốc
+
+grocery store : cửa hàng tạp hóa
+
+stationery store : cửa hàng văn phòng phẩm
+
+### Normalized Listening Supplement - Unit 19 `Shopping`
+
+New active listening vocabulary:
+
+- `magazine` (noun) = a regularly published collection of articles and images
+- `necklace` (noun) = jewelry worn around the neck
+- `envelope` (noun) = paper container for a letter or document
+- `shampoo` (noun/verb) = liquid for washing hair; wash hair with shampoo
+- `jewelry` (uncountable noun) = decorative objects worn on the body
+- `grocery store` (noun phrase) = shop selling food and everyday household goods
+- `stationery store` (noun phrase) = shop selling paper, pens, envelopes, and office supplies
+
+Normalization and cross-reference:
+
+- User forms `magazines` and `envelopes` are stored as singular lemmas
+  `magazine` and `envelope`.
+- `drug` is already active in Unit 23 and is cross-referenced to this shopping
+  topic rather than duplicated.
+
+Watch:
+
+- `jewelry` is generally uncountable: `some jewelry`, not `a jewelry`.
+- `stationery` with `e` means writing and office supplies; `stationary` means
+  not moving and is not added by this update.
+- `grocery store` and `stationery store` are stored as complete noun phrases.
+
+
+## Unit 45 - Root `aud`
+
+Core meaning: hear or listen. The root label `aud` organizes the family but is
+not added as a standalone active lemma unless separately approved.
+
+audible : có thể nghe được
+audibility (n) : độ rõ của âm thanh
+inaudible : adj : không nghe được
+
+audience : khán giả , thính giả
+
+audition : buổi thử giọng
+
+auditory : (thuộc) thính giác
+
+auditorium : khán phòng
+
+applauded : vỗ tay
+
+- Từ trong sách: audible, audience, audition, auditory, auditorium
+- Từ mở rộng:
+• auditor (n) /ˈɔː.dɪ.tər/: người dự thính
+• audibility (n) /ˌɔː.dɪˈbɪl.ə.ti/: tính có thể nghe thấy
+• inaudible (adj) /ɪˈnɔː.dɪ.bəl/: không thể nghe thấy
+• audibly (adv) /ˈɔː.dɪ.bli/: một cách có thể nghe thấy
+
+### Normalized Unit 45 classification
+
+Book words:
+
+- `audible` (adjective) = able to be heard
+- `audience` (noun) = group of people watching or listening to a performance
+- `audition` (noun/verb) = performance test for a role; take such a test
+- `auditory` (adjective) = relating to hearing
+- `auditorium` (noun) = large room or hall where an audience sits
+
+Word families and extensions:
+
+- `audible` / `audibility` / `inaudible` / `audibly`
+- `auditor` (noun) = person who audits accounts; historically also a listener
+  or attendee in an educational context
+
+Support word:
+
+- User form `applauded` is normalized to lemma `applaud` (verb) = show approval
+  by clapping. It is useful in audience/performance contexts but is not treated
+  as a direct `aud`-root derivative.
+
+Watch:
+
+- `audible` is an adjective; `audibly` is an adverb; `audibility` is a noun;
+  `inaudible` means unable to be heard.
+- `audience` is the group of listeners/viewers; `auditorium` is the place.
+- `audition` is a performance test; `auditory` describes the sense of hearing.
+- `auditor` commonly means a person who checks financial records in modern
+  usage, so context determines whether the listening-related sense is intended.

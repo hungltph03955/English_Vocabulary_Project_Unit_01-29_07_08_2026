@@ -161,3 +161,52 @@ AQUA = nước
 - `an ancient aqueduct` — máng dẫn nước cổ.
 - `repair a water leak` — sửa chỗ rò rỉ nước.
 - `overcome aquaphobia` — vượt qua chứng sợ nước.
+
+## Unit 45 — Root `aud`
+
+Ý nghĩa cốt lõi: **hear / listen — nghe**.
+
+```mermaid
+mindmap
+  root((AUD<br/>hear · listen))
+    Khả năng nghe thấy
+      audible = có thể nghe được
+      audibly = một cách nghe thấy được
+      audibility = độ rõ · khả năng nghe thấy
+      inaudible = không thể nghe được
+    Người nghe và nơi nghe
+      audience = khán giả · thính giả
+      auditorium = khán phòng
+      auditor = kiểm toán viên · người dự thính
+    Biểu diễn và thính giác
+      audition = buổi thử giọng · thử vai
+      auditory = thuộc thính giác
+      applaud = vỗ tay tán thưởng
+```
+
+### Cây phân biệt nhanh
+
+```text
+AUD = nghe
+│
+├── audible (adj)       có thể nghe được
+│   ├── audibly (adv)   một cách có thể nghe thấy
+│   ├── audibility (n)  độ rõ / khả năng nghe thấy
+│   └── inaudible (adj) không thể nghe thấy
+├── audience (n)        nhóm khán giả / thính giả
+├── auditorium (n)      khán phòng
+├── audition (n/v)      buổi thử giọng / thử vai
+├── auditory (adj)      thuộc thính giác
+└── auditor (n)         kiểm toán viên; đôi khi người dự thính
+```
+
+### Cụm ví dụ
+
+- `an audible warning` — cảnh báo có thể nghe được.
+- `speak audibly` — nói đủ nghe.
+- `an inaudible whisper` — lời thì thầm không nghe rõ.
+- `a large audience` — một lượng lớn khán giả.
+- `enter the auditorium` — bước vào khán phòng.
+- `audition for a role` — thử vai.
+- `an auditory test` — bài kiểm tra thính giác.
+- `the audience applauded` — khán giả đã vỗ tay.

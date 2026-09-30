@@ -1,9 +1,9 @@
 # Rotation State - Snapshot
 
-Date: Tuesday 2026-09-29
-Scope: Unit 01-44
-Last valid quiz: DQ-2026-09-29, Daily Quick on Tuesday 2026-09-29, 11/12 (91.7%)
-Next expected quiz: Daily Quick, 12 questions, Wednesday 2026-09-30
+Date: Wednesday 2026-09-30
+Scope: Unit 01-45
+Last valid quiz: DQ-2026-09-30, Daily Quick on Wednesday 2026-09-30, 10/12 (83.3%)
+Next expected quiz: Daily Quick, 12 questions, Thursday 2026-10-01
 
 ## Selection order
 
@@ -198,6 +198,26 @@ Use this order when generating quizzes:
   `aquifer`, and `aqualung` / `lung`.
 - The next Daily Quick should contain 3 Unit 44 items, including at least one
   family/support-word target, after 6 Recovery questions.
+
+## 2026-09-29 Listening Unit 19 `Shopping` supplement
+
+- Add 7 new active listening entries at `new_unit/P2`.
+- Normalize `magazines` to `magazine` and `envelopes` to `envelope`.
+- Cross-reference existing Unit 23 `drug`; do not create a duplicate.
+- Keep `grocery store` and `stationery store` as noun phrases.
+- Include at least one Listening Unit 19 item in the 2026-09-30 Daily Quick,
+  while Recovery and Unit 44 remain higher priorities.
+
+## 2026-09-30 Unit 45 root `aud` import
+
+- Add 10 active entries at `new_unit/P2`: five book words, four word-family or
+  extension items, and support verb `applaud`.
+- Normalize user form `applauded` to lemma `applaud`.
+- Keep root label `aud` as an analysis node rather than a standalone lemma.
+- Prioritize `audible` / `audibly` / `audibility` / `inaudible`, `audience` /
+  `auditorium`, and `audition` / `auditory` role contrasts.
+- The next Quick should include 3 Unit 45 items, including a word-family or
+  support-word correct answer, after Recovery.
 
 ## Schedule guardrail
 

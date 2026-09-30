@@ -36,8 +36,16 @@ This snapshot supersedes `RECOVERY_PRIORITIES_2026-09-25.md`.
 - Prioritize `aquarium` versus `aquaculture`, adjective `aquatic` versus noun
   `aquatics`, and water carrier `aqueduct` versus groundwater store `aquifer`.
 
+## Listening Supplement Coverage
+
+- Listening Unit 19 `Shopping` adds `magazine`, `necklace`, `envelope`,
+  `shampoo`, `jewelry`, `grocery store`, and `stationery store` at P2.
+- Existing `drug` is cross-referenced, not duplicated.
+- Include at least one listening target in the next quiz; prefer a store or
+  item context with low incidental-vocabulary load.
+
 ## Next Quiz
 
 - Wednesday 2026-09-30: Daily Quick, 12 questions.
 - Use 6 Recovery questions, 3 Unit 44 questions including one support/family
-  answer, 2 due Unit 43/older checks, and 1 cooldown item.
+  answer, 1 due Unit 43 check, 1 Listening Unit 19 item, and 1 cooldown item.

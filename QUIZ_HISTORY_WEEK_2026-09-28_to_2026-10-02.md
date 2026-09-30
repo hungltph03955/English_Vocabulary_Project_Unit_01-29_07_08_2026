@@ -59,3 +59,60 @@ Memory: `The store overcharged the customer, so the customer overpaid.`
 - No candidate promotion.
 
 Next scheduled quiz: Wednesday 2026-09-30, Daily Quick, 12 questions.
+
+## Wednesday 2026-09-30 - Daily Quick
+
+Quiz ID: DQ-2026-09-30
+Source: `QUIZ_2026-09-30_DAILY.md`
+Score: 10/12 = 83.3%.
+
+- Correct confidently: 9
+- Correct but uncertain: Q5 (A. uncertainty)
+- Wrong: Q9, Q10
+- Wrong and uncertain: Q9 (A. aqueduct)
+- Unanswered/unresolved: none
+- Incidental new-word candidates: none
+
+### Q9 - aquifer
+
+Original: `Several village wells draw water from the same underground ______.`
+
+Learner: A. `aqueduct?`.
+Correct: D. `aquifer`.
+
+Why: An `aquifer` is an underground layer of rock or soil that stores and
+carries groundwater, so wells draw water from it. An `aqueduct` is a built
+channel or structure that transports water from one place to another.
+
+Memory: `Wells draw groundwater from an aquifer; an aqueduct carries water.`
+
+### Q10 - actually
+
+Original: `We expected the repair to be expensive, but it ______ cost less than the original estimate.`
+
+Learner: B. `actual`.
+Correct: D. `actually`.
+
+Why: The blank describes the verb `cost`, so it needs the adverb `actually`.
+`Actual` is an adjective and must describe a noun, as in `the actual cost`.
+
+Memory: `The actual cost was lower; it actually cost less.`
+
+### Confidence Note - Q5
+
+The reasoning was correct: `considerable` is an adjective modifying the noun
+`uncertainty`. Keep the family on light watch because the answer was uncertain.
+
+## State Changes
+
+- Lower `outweigh`, `underrate`, `understate`, and `upkeep` from P1 to P2 after
+  second consecutive confident corrections.
+- Keep `overcharge` at P1; `overpay` was correct but the opposite direction
+  still needs a confident direct check.
+- Keep the uncertainty family at P1 because Q5 was correct but uncertain.
+- Raise `aquifer` / `aqueduct` and `actual` / `actually` to P1.
+- Unit 44 `aquarium` and `aquatics` were correct confidently.
+- Listening `stationery store` was correct confidently on first practice.
+- No candidate addition or promotion.
+
+Next scheduled quiz: Thursday 2026-10-01, Daily Quick, 12 questions.

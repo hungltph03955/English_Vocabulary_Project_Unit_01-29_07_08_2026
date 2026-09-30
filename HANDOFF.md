@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Tuesday 2026-09-29
+Date: Wednesday 2026-09-30
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-44
+Current scope: Unit 01-45
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -15,7 +15,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-29.md`)
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-30.md`)
 6. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 7. `VOCABULARY_STATE.csv`
 8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`)
@@ -25,10 +25,10 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Tuesday 2026-09-29 was completed as DQ-2026-09-29, Daily Quick, 11/12
-(91.7%). Exact source: `QUIZ_2026-09-29_DAILY.md`.
+Wednesday 2026-09-30 was completed as DQ-2026-09-30, Daily Quick, 10/12
+(83.3%). Exact source: `QUIZ_2026-09-30_DAILY.md`.
 
-The next expected quiz is Wednesday 2026-09-30, Daily Quick, 12 questions.
+The next expected quiz is Thursday 2026-10-01, Daily Quick, 12 questions.
 
 Friday 2026-09-25 is the last Friday of September: Monthly Quick, 50 questions.
 
@@ -43,7 +43,7 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 44.
+The project has advanced through Unit 45.
 
 Recent unit coverage:
 
@@ -70,6 +70,18 @@ Recent unit coverage:
 - Unit 42: `up-`
 - Unit 43: root `act`
 - Unit 44: root `aqua`
+- Unit 45: root `aud`
+
+## Update 2026-09-30 - Unit 45 root `aud`
+
+The addendum added root `aud` = hear/listen. The merge added 10 active entries
+at `new_unit/P2`: five book words, word-family/extension items, and support verb
+`applaud`. User form `applauded` was normalized to lemma `applaud`. Root label
+`aud` remains an analysis node rather than a standalone lemma. No candidate
+word was promoted.
+
+Prioritize the `audible` family, `audience` versus `auditorium`, and
+`audition` versus `auditory` in the next Quick cycle.
 
 ## Update 2026-09-29 - Unit 44 root `aqua`
 
@@ -80,6 +92,17 @@ than a standalone lemma. No candidate word was promoted.
 
 Prioritize `aquarium` / `aquaculture`, `aquatic` / `aquatics`, `aqueduct` /
 `aquifer`, and `aqualung` / `lung` in the next quiz cycle.
+
+## Update 2026-09-29 - Listening Unit 19 `Shopping`
+
+The listening supplement added 7 new active entries at `new_unit/P2`:
+`magazine`, `necklace`, `envelope`, `shampoo`, `jewelry`, `grocery store`, and
+`stationery store`. User plurals were normalized to singular lemmas. Existing
+Unit 23 `drug` was cross-referenced rather than duplicated. No candidate word
+was promoted.
+
+Include at least one Listening Unit 19 item in the next Daily Quick after
+Recovery and current Unit 44 coverage.
 
 ## Update 2026-09-24 - Unit 43 root `act`
 
@@ -257,16 +280,16 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Date: Tuesday 2026-09-29
-- Quiz ID: DQ-2026-09-29
+- Date: Wednesday 2026-09-30
+- Quiz ID: DQ-2026-09-30
 - Type: Daily Quick
-- Recorded result: 11/12 (91.7%)
-- Correct but uncertain: Q8, Q10
-- Wrong: Q2
-- Wrong and uncertain: Q2
+- Recorded result: 10/12 (83.3%)
+- Correct but uncertain: Q5
+- Wrong: Q9, Q10
+- Wrong and uncertain: Q9
 - Unanswered/unresolved: none
-- Incidental candidates: `sibling`
-- Exact grading source: `QUIZ_2026-09-29_DAILY.md`
+- Incidental candidates: none
+- Exact grading source: `QUIZ_2026-09-30_DAILY.md`
 - Result and reviews: `QUIZ_HISTORY_WEEK_2026-09-28_to_2026-10-02.md`
 
 Earlier valid records remain in their dated history files. Never apply their
@@ -308,7 +331,7 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-09-29.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-09-30.md` and the current CSV for the complete queue.
 
 P1:
 
