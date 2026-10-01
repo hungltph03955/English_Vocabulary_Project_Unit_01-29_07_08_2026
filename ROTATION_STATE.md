@@ -1,9 +1,9 @@
 # Rotation State - Snapshot
 
-Date: Wednesday 2026-09-30
-Scope: Unit 01-45
-Last valid quiz: DQ-2026-09-30, Daily Quick on Wednesday 2026-09-30, 10/12 (83.3%)
-Next expected quiz: Daily Quick, 12 questions, Thursday 2026-10-01
+Date: Thursday 2026-10-01
+Scope: Unit 01-46
+Last valid quiz: DQ-2026-10-01, Daily Quick on Thursday 2026-10-01, 9/12 (75.0%)
+Next expected quiz: Weekly Quick, 30 questions, Friday 2026-10-02
 
 ## Selection order
 
@@ -218,6 +218,16 @@ Use this order when generating quizzes:
   `auditorium`, and `audition` / `auditory` role contrasts.
 - The next Quick should include 3 Unit 45 items, including a word-family or
   support-word correct answer, after Recovery.
+
+## 2026-10-01 Unit 46 root `cred` import
+
+- Add 11 active entries at `new_unit/P2`: five book words plus approved
+  word-family and extension items.
+- Keep root label `cred` as an analysis node rather than a standalone lemma.
+- Prioritize `credible` / `credibly` / `credibility` / `incredible`,
+  `credence` / `credential`, and `credible` / `credulous` contrasts.
+- Include 4-5 Unit 46 questions in the 2026-10-02 Weekly Quick, including at
+  least one word-family answer, without crowding out Recovery.
 
 ## Schedule guardrail
 

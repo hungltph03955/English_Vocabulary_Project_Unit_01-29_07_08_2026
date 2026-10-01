@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Wednesday 2026-09-30
+Date: Thursday 2026-10-01
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-45
+Current scope: Unit 01-46
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -15,7 +15,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-09-30.md`)
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-01.md`)
 6. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 7. `VOCABULARY_STATE.csv`
 8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`)
@@ -25,10 +25,11 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Wednesday 2026-09-30 was completed as DQ-2026-09-30, Daily Quick, 10/12
-(83.3%). Exact source: `QUIZ_2026-09-30_DAILY.md`.
+Thursday 2026-10-01 was completed as DQ-2026-10-01, Daily Quick, 9/12
+(75.0%). Exact source: `QUIZ_2026-10-01_DAILY.md`.
 
-The next expected quiz is Thursday 2026-10-01, Daily Quick, 12 questions.
+The next expected quiz is Friday 2026-10-02, Weekly Quick, 30 questions. It is
+not the last Friday of October; the last Friday is 2026-10-30.
 
 Friday 2026-09-25 is the last Friday of September: Monthly Quick, 50 questions.
 
@@ -43,7 +44,7 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 45.
+The project has advanced through Unit 46.
 
 Recent unit coverage:
 
@@ -71,6 +72,16 @@ Recent unit coverage:
 - Unit 43: root `act`
 - Unit 44: root `aqua`
 - Unit 45: root `aud`
+- Unit 46: root `cred`
+
+## Update 2026-10-01 - Unit 46 root `cred`
+
+The addendum added root `cred` = believe/trust. The merge added 11 active
+entries at `new_unit/P2`. Root label `cred` remains an analysis node rather
+than a standalone lemma. No candidate word was promoted.
+
+Prioritize the credible word family, `credence` versus `credential`, and
+`credible` versus `credulous` in the 2026-10-02 Weekly Quick.
 
 ## Update 2026-09-30 - Unit 45 root `aud`
 
@@ -280,16 +291,16 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Date: Wednesday 2026-09-30
-- Quiz ID: DQ-2026-09-30
+- Date: Thursday 2026-10-01
+- Quiz ID: DQ-2026-10-01
 - Type: Daily Quick
-- Recorded result: 10/12 (83.3%)
-- Correct but uncertain: Q5
-- Wrong: Q9, Q10
-- Wrong and uncertain: Q9
+- Recorded result: 9/12 (75.0%)
+- Correct but uncertain: Q5, Q8
+- Wrong: Q6, Q7, Q10
+- Wrong and uncertain: none
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-09-30_DAILY.md`
+- Exact grading source: `QUIZ_2026-10-01_DAILY.md`
 - Result and reviews: `QUIZ_HISTORY_WEEK_2026-09-28_to_2026-10-02.md`
 
 Earlier valid records remain in their dated history files. Never apply their
@@ -331,7 +342,7 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-09-30.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-10-01.md` and the current CSV for the complete queue.
 
 P1:
 

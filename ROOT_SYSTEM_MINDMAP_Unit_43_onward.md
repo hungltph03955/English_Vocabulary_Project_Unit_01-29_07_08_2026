@@ -210,3 +210,56 @@ AUD = nghe
 - `audition for a role` — thử vai.
 - `an auditory test` — bài kiểm tra thính giác.
 - `the audience applauded` — khán giả đã vỗ tay.
+
+## Unit 46 — Root `cred`
+
+Ý nghĩa cốt lõi: **believe / trust — tin, tin tưởng**.
+
+```mermaid
+mindmap
+  root((CRED<br/>believe · trust))
+    Độ đáng tin
+      credible = đáng tin
+      credibly = một cách đáng tin
+      credibility = độ tin cậy
+      incredible = khó tin · đáng kinh ngạc
+    Niềm tin và tính cách
+      credence = sự tin tưởng
+      credulous = cả tin
+      creed = hệ thống tín ngưỡng
+    Chứng nhận và tài chính
+      credential = giấy chứng nhận
+      accredit = chính thức công nhận
+      creditor = chủ nợ
+    Làm mất niềm tin
+      discredit = làm mất uy tín
+```
+
+### Cây phân biệt nhanh
+
+```text
+CRED = tin / tin tưởng
+│
+├── credible (adj)       đáng tin
+│   ├── credibly (adv)   một cách đáng tin
+│   ├── credibility (n)  độ tin cậy / uy tín
+│   └── incredible (adj) khó tin / đáng kinh ngạc
+├── credence (n)         sự tin tưởng
+├── credential (n)       giấy tờ chứng minh năng lực / danh tính
+├── credulous (adj)      cả tin
+├── accredit (v)         chính thức công nhận
+├── creditor (n)         chủ nợ
+├── creed (n)            hệ thống tín ngưỡng
+└── discredit (v)        làm mất uy tín / khiến ít đáng tin hơn
+```
+
+### Cụm ví dụ
+
+- `a credible explanation` — lời giải thích đáng tin.
+- `speak credibly` — nói một cách đáng tin.
+- `damage the company's credibility` — làm tổn hại uy tín công ty.
+- `give credence to a claim` — tin hoặc coi một tuyên bố là có cơ sở.
+- `verify professional credentials` — xác minh chứng chỉ nghề nghiệp.
+- `an accredited institution` — tổ chức được công nhận chính thức.
+- `repay a creditor` — trả tiền cho chủ nợ.
+- `discredit a false report` — làm báo cáo sai mất độ tin cậy.

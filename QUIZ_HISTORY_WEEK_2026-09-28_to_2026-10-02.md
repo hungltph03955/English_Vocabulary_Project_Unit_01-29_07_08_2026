@@ -116,3 +116,72 @@ The reasoning was correct: `considerable` is an adjective modifying the noun
 - No candidate addition or promotion.
 
 Next scheduled quiz: Thursday 2026-10-01, Daily Quick, 12 questions.
+
+## Thursday 2026-10-01 - Daily Quick
+
+Quiz ID: DQ-2026-10-01
+Source: `QUIZ_2026-10-01_DAILY.md`
+Score: 9/12 = 75.0%.
+
+- Correct confidently: 7
+- Correct but uncertain: Q5 (D. overcharge), Q8 (B. audibly)
+- Wrong: Q6, Q7, Q10
+- Unanswered/unresolved: none
+- Incidental new-word candidates: none
+
+### Q6 - uncertainty
+
+Original: `The ______ surrounding the launch date made it difficult to schedule the marketing campaign.`
+
+Learner: C. `uncertainly`.
+Correct: A. `uncertainty`.
+
+Why: The sentence needs a noun as the subject of `made`. `Uncertainty` is that
+noun. `Surrounding the launch date` is a participle phrase describing the
+uncertainty; it does not require an adverb before it.
+
+Memory: `The uncertainty surrounding the date caused delays.`
+
+### Q7 - audible
+
+Original: `The station announcement was barely ______ above the noise of the arriving train.`
+
+Learner: B. `audibility`.
+Correct: C. `audible`.
+
+Why: After linking verb `was`, the sentence needs the adjective `audible`.
+`Barely` is already the adverb modifying that adjective. `Audibility` is the
+noun for the quality or degree of being heard.
+
+Memory: `The announcement was barely audible; its audibility was poor.`
+
+### Q10 - aquatic
+
+Original: `Plants that live and grow entirely in water are described as ______.`
+
+Learner: D. `aquaculture`.
+Correct: A. `aquatic`.
+
+Why: `Aquatic` is an adjective describing organisms that live or grow in
+water. `Aquaculture` is the noun for farming fish, shellfish, or water plants.
+
+Memory: `Aquatic plants may be grown through aquaculture.`
+
+### Confidence Notes
+
+- Q5: the meaning and actor direction were correct; a hotel overcharges guests.
+- Q8: the reasoning was correct; `audibly` is an adverb modifying `sighed`.
+
+## State Changes
+
+- Keep `aquifer` / `aqueduct` at P1 after their first confident corrections.
+- Keep `actual` / `actually` at P1 after their first confident corrections.
+- Keep `overcharge` and the uncertainty family at P1 because retrieval remains
+  uncertain or incorrect.
+- Raise `audible` / `audibility` / `audibly` to P1.
+- Raise `aquatic` / `aquaculture` to P1.
+- Unit 45 `auditorium` and Listening `grocery store` were correct confidently.
+- No candidate addition or promotion.
+
+Next scheduled quiz: Friday 2026-10-02, Weekly Quick, 30 questions. It is not
+the last Friday of October; that date is 2026-10-30.

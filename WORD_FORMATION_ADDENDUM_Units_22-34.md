@@ -1384,3 +1384,60 @@ Watch:
 - `audition` is a performance test; `auditory` describes the sense of hearing.
 - `auditor` commonly means a person who checks financial records in modern
   usage, so context determines whether the listening-related sense is intended.
+
+
+## Unit 46 - Root `cred`
+
+Core meaning: believe or trust. The root label `cred` organizes the family but
+is not added as a standalone active lemma unless separately approved.
+
+  discredit : V : mất niềm tin
+
+  credential : N : giấy chứng nhận
+  credence : n : sự tin tưởng , niềm tin
+  credible : adj : tin được , đáng tin
+
+  credibly : adv : 1 cách đáng tin
+  credibility : n : độ tin cậy
+  incredible : adj : không thể tin được
+
+  creditor : n : chủ nợ
+
+  creed : n : tín ngưỡng
+
+  - Từ trong sách: discredit, credential, credible, creditor, creed
+- Từ mở rộng:
+• credence (n) /ˈkriː.dəns/: sự tin tưởng
+• credulous (adj) /ˈkred.jə.ləs/: cả tin
+• accredit (v) /əˈkred.ɪt/: công nhận
+• incredible (adj) /ɪnˈkred.ə.bəl/: đáng kinh ngạc
+• credibility (n) /ˌkred.əˈbɪl.ə.ti/: độ tin cậy
+
+### Normalized Unit 46 classification
+
+Book words:
+
+- `discredit` (verb) = harm someone's reputation or make an idea less believable
+- `credential` (noun) = qualification or document proving identity or ability
+- `credible` (adjective) = believable or trustworthy
+- `creditor` (noun) = person or organization that is owed money
+- `creed` (noun) = system or statement of religious or political beliefs
+
+Word families:
+
+- `credible` / `credibly` / `credibility` / `incredible`
+
+Extensions:
+
+- `credence` (noun) = belief or acceptance that something is true
+- `credulous` (adjective) = too willing to believe things
+- `accredit` (verb) = officially recognize, approve, or authorize
+
+Watch:
+
+- `credible` is an adjective; `credibly` is an adverb; `credibility` is a noun.
+- `incredible` can mean difficult to believe or extremely impressive.
+- `credence` means belief; `credential` is proof of qualification or identity.
+- `creditor` is owed money; it is not simply someone who is credible.
+- `discredit` means damage trust or reputation, not merely lose one's own belief.
+- `credulous` describes a person who believes too easily.
