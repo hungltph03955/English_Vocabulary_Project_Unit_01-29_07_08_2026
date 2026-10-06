@@ -263,3 +263,26 @@ CRED = tin / tin tưởng
 - `an accredited institution` — tổ chức được công nhận chính thức.
 - `repay a creditor` — trả tiền cho chủ nợ.
 - `discredit a false report` — làm báo cáo sai mất độ tin cậy.
+
+## Unit 47 — Root `dict`
+
+Ý nghĩa cốt lõi: **say / speak — nói**.
+
+```text
+DICT = nói
+├── contradict (v)      nói ngược lại / mâu thuẫn
+├── indicate (v)        chỉ ra
+│   ├── indicator (n)   vật/người chỉ báo
+│   ├── indication (n)  dấu hiệu
+│   └── indicative (adj) mang tính biểu thị
+├── predict (v)         nói trước / dự đoán
+├── dictate (v)         đọc cho chép / ra lệnh
+│   ├── dictation (n)   bài đọc chép
+│   ├── dictator (n)    nhà độc tài
+│   └── dictatorial     độc tài
+├── diction (n)         cách dùng và phát âm từ
+└── dictionary (n)      từ điển
+```
+
+Họ `addict`: `addict`, `addicted`, `addictive`, `addiction`. Các từ mở rộng:
+`malediction`, `verdict`, `benediction`, `edict`, `abdicate`, `valediction`.

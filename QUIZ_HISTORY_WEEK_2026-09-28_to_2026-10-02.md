@@ -185,3 +185,81 @@ Memory: `Aquatic plants may be grown through aquaculture.`
 
 Next scheduled quiz: Friday 2026-10-02, Weekly Quick, 30 questions. It is not
 the last Friday of October; that date is 2026-10-30.
+
+## Friday 2026-10-02 - Weekly Quick
+
+Quiz ID: WQ-2026-10-02
+Source: `QUIZ_2026-10-02_WEEKLY.md`
+Local date verified: Friday 2026-10-02, Asia/Saigon (+07:00).
+Score: 30/30 = 100%.
+
+- Correct confidently: 27
+- Correct but uncertain: Q7 (A. aquifer), Q10 (C. credibility, accepted alternative), Q19 (A. understate)
+- Wrong: none
+- Unanswered/unresolved: none
+- Incidental new-word candidates: none
+
+| Q | Target / accepted option | Learner | Result |
+|---|---|---|---|
+| 1 | uncertainty / B | B | Correct |
+| 2 | audible / D | D | Correct |
+| 3 | audibility / A | A | Correct |
+| 4 | aquatic / C | C | Correct |
+| 5 | aquaculture / B | B | Correct |
+| 6 | overcharge / D | D | Correct |
+| 7 | aquifer / A | A? | Correct but uncertain |
+| 8 | actually / C | C | Correct |
+| 9 | actual / B | B | Correct |
+| 10 | credence / D or credibility / C | C? | Correct but uncertain; accepted alternative |
+| 11 | credential / A | A | Correct |
+| 12 | credible / C | C | Correct |
+| 13 | credibility / B | B | Correct |
+| 14 | credulous / D | D | Correct |
+| 15 | discredit / A | A | Correct |
+| 16 | audience / C | C | Correct |
+| 17 | audition / B | B | Correct |
+| 18 | auditory / D | D | Correct |
+| 19 | understate / A | A? | Correct but uncertain |
+| 20 | upbringing / C | C | Correct |
+| 21 | synonymous / B | B | Correct |
+| 22 | provision / D | D | Correct |
+| 23 | semiofficial / A | A | Correct |
+| 24 | returnable / C | C | Correct |
+| 25 | midstream / B | B | Correct |
+| 26 | mismatch / D | D | Correct |
+| 27 | non-urgent / A | A | Correct |
+| 28 | envelope / C | C | Correct |
+| 29 | compounding / B | B | Correct |
+| 30 | post-flight / D | D | Correct |
+
+### Reasoning and confidence
+
+- Q7: `aquifer` is an underground groundwater layer. The learner's meaning
+  was substantially right but marked about 80% confidence, so the pair stays
+  on light watch.
+- Q10: The original key `credence` forms the established collocation `give
+  credence to a claim`. `Give credibility to a claim` also works: evidence
+  makes the claim more believable. C was accepted without penalty; it remains
+  uncertain and does not prove a firm distinction between the two nouns.
+- Q19: `understate` directly describes calling a three-day outage a brief
+  delay. `Underrate its impact` could describe a judgment of the impact, but
+  the sentence foregrounds the act of describing it in words. A is correct;
+  the uncertainty keeps this contrast on light watch.
+
+## State Changes
+
+- Keep `uncertainty` and `overcharge` at P1 after confident corrections that
+  followed repeated errors or uncertainty.
+- Lower `audible` / `audibility`, `aquatic` / `aquaculture`, and `actual` /
+  `actually` to P2 after both sides were produced confidently in new contexts.
+- Keep `aquifer` / `aqueduct` at P1 light watch because Q7 was uncertain.
+- Unit 46 first practice: `credential`, `credible`, `credibility`, `credulous`,
+  and `discredit` were correct confidently; `credence` versus `credibility`
+  remains P2 light watch because Q10 admitted two answers.
+- Unit 45 `audience`, `audition`, and `auditory` were correct confidently.
+- Keep `understate` at P2 light watch; `upbringing`, `synonymous`,
+  `provision`, `returnable`, and `compounding` remain in spaced review.
+- Move stable `semiofficial` to P3 cooldown. Older Unit Tour and Listening
+  targets remain in normal rotation. No candidate addition or promotion.
+
+Next scheduled quiz: Monday 2026-10-05, Daily Quick, 12 questions.

@@ -1441,3 +1441,75 @@ Watch:
 - `creditor` is owed money; it is not simply someone who is credible.
 - `discredit` means damage trust or reputation, not merely lose one's own belief.
 - `credulous` describes a person who believes too easily.
+
+
+## Unit 47 - Root `dict`
+
+Core meaning: say or speak. The root label `dict` organizes the family but is
+not added as a standalone active lemma unless separately approved.
+
+addict : n :  người nghiện
+
+addicted : adj : nghiện , say mê
+addictive : adj : gây nghiện
+addiction : n : chứng nghiện , sự say mê
+
+contradict : v : mâu thuẫn , phản bác
+indicate : v : chỉ ra , chỉ cho thấy
+indicator : n : người , vật chỉ (người chỉ , người cho ta thấy ,... người chỉ ra )
+indicative : adj : có ý , ngụ ý
+indication : n : sự biểu thị , dấu hiệu
+
+predict : v : đoán trước
+dictate : v : đọc cho chép , ra lệnh
+dictation : n : sự đọc chính tả , sự đọc cho chép
+dictator : n : kẻ độc tài
+dictatorial : adj : độc tài
+
+diction : n : cách diễn đạt , cách dùng từ
+dictionary : n : từ điển
+
+
+- Từ trong sách: addict, contradict, indicate, predict, dictate, diction
+- Từ mở rộng:
+• malediction (n) /ˌmæl.əˈdɪk.ʃən/: lời nguyền, lời nguyền rủa
+• verdict (n) /ˈvɜː.dɪkt/: phán quyết
+• benediction (n) /ˌben.ɪˈdɪk.ʃən/: lời chúc phúc
+• edict (n) /ˈiː.dɪkt/: sắc lệnh
+• dictator (n) /dɪkˈteɪ.tər/: nhà độc tài
+• abdicate (v) /ˈæb.dɪ.keɪt/: từ bỏ (quyền lực, chức vụ)
+• valediction (n) /ˌvæl.ɪˈdɪk.ʃən/: lời từ biệt
+
+### Normalized Unit 47 classification
+
+Book words:
+
+- `addict` (noun) = person unable to stop using or doing something
+- `contradict` (verb) = say the opposite of; conflict with a statement
+- `indicate` (verb) = show, point out, or suggest
+- `predict` (verb) = say what is likely to happen before it happens
+- `dictate` (verb) = say words for someone to write; give an order
+- `diction` (noun) = choice and pronunciation of words in speech or writing
+
+Word families and support words:
+
+- `addict` / `addicted` / `addictive` / `addiction`
+- `indicate` / `indicator` / `indicative` / `indication`
+- `dictate` / `dictation` / `dictator` / `dictatorial`
+- `diction` / `dictionary`
+
+Extensions:
+
+- `malediction`, `verdict`, `benediction`, `edict`, `abdicate`, `valediction`
+- `predict` is already active in Unit 31 and is cross-referenced here rather
+  than duplicated in the vocabulary bank.
+
+Watch:
+
+- `contradict` is a verb, not a noun.
+- `indicator` is a person or thing that shows; `indication` is a sign or act
+  of showing; `indicative` is an adjective.
+- `addicted` describes the affected person; `addictive` describes the thing
+  that causes dependence; `addiction` is the noun.
+- `dictator` usually means an autocratic ruler; `dictation` is spoken text
+  written down by another person.

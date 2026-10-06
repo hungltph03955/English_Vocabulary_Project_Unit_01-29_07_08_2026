@@ -1,9 +1,20 @@
 # Rotation State - Snapshot
 
-Date: Thursday 2026-10-01
-Scope: Unit 01-46
-Last valid quiz: DQ-2026-10-01, Daily Quick on Thursday 2026-10-01, 9/12 (75.0%)
-Next expected quiz: Weekly Quick, 30 questions, Friday 2026-10-02
+Date: Tuesday 2026-10-06
+Scope: Unit 01-47
+Last valid quiz: DQ-2026-10-06, Daily Quick on Tuesday 2026-10-06, 12/12 (100%)
+Next expected quiz: Daily Quick, 12 questions, Wednesday 2026-10-07
+
+## 2026-10-06 Daily Quick update
+
+- Keep `indicator` / `indication` at P2 after accepting Q8 as an ambiguous
+  alternative. Q12 `necklace` was corrected as a transcription mistake and
+  created no Recovery addition.
+- Keep the uncertainty family at P1 after a correct but uncertain noun answer.
+- Lower `aquifer` / `aqueduct` and `overcharge` / `overpay` to P2 after
+  confident retrieval of both sides.
+- Unit 47 `contradict` was correct but uncertain; `addictive` was correct.
+- Unit 46 `credibly` and due `understate` were correct confidently.
 
 ## Selection order
 
@@ -15,6 +26,36 @@ Use this order when generating quizzes:
 4. Unit Tour
 5. Topic Tour
 6. Long-unseen words and cooldown checks
+
+## 2026-10-02 Weekly Quick update
+
+- WQ-2026-10-02 scored 30/30. Q7 `aquifer`, Q10 `credibility`, and Q19
+  `understate` were correct but uncertain.
+- Q10 accepted `credibility` alongside issued key `credence`, because both
+  nouns fit the evidence-and-claim sentence. Recheck with an unambiguous
+  contrast later.
+- Retain P1 `aquifer` / `aqueduct`, `uncertainty` / `uncertainly`, and
+  `overcharge` / `overpay` until stable in another context.
+- Lower `audible` / `audibility`, `aquatic` / `aquaculture`, and `actual` /
+  `actually` to P2 after confident direct corrections.
+- Unit 46 `credential`, `credible`, `credibility`, `credulous`, and
+  `discredit` were correct on first practice. Continue other Unit 46 terms
+  and its word-family rotation.
+- Unit 45 `audience`, `audition`, and `auditory` were correct confidently.
+- Move `provision`, `semiofficial`, and `compounding` to cooldown after stable
+  confident retrieval. Keep `understate` on P2 light watch.
+- Next Daily Quick on Monday 2026-10-05: 5-6 Recovery items, 3 Unit 46 items
+  including one word-family answer, 2 due/older checks, and 1 tour/cooldown.
+
+## 2026-10-06 Unit 47 root `dict` import
+
+- Add 21 active entries at `new_unit/P2`; cross-reference existing Unit 31
+  `predict` instead of creating a duplicate.
+- Keep `dict` as a root analysis node, not a standalone active lemma.
+- Prioritize `contradict`, the `indicate` family, the `addict` family, and
+  `dictate` / `dictation` / `dictator` role contrasts.
+- The 2026-10-06 Daily Quick includes three Unit 47 targets, including a
+  support/word-family answer, after six Recovery questions.
 
 ## 2026-09-03 update
 

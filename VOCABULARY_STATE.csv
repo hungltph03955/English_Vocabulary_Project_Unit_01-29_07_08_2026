@@ -6,7 +6,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 22,mid,midtown,noun,central part of a city,khu trung tam,cooldown,P3,2026-07-31,2026-07-31 package,
 22,mid,midway,adverb/adjective,halfway,giua duong,cooldown,P3,2026-07-31,2026-07-31 package,
 22,mid,mid-air,noun/adjective,in the air while moving,giua khong trung,cooldown,P3,2026-07-31,2026-07-31 package,
-22,mid,midstream,noun/adverb,in the middle of a process,giua chung trong qua trinh,cooldown,P3,2026-09-08,quiz history,Correct confidently in changing-requirements-during-a-process context
+22,mid,midstream,noun/adverb,in the middle of a process,giua chung trong qua trinh,cooldown,P3,2026-10-02,WQ-2026-10-02,Q25 correct confidently for requirements changed during migration
 22,mid,midwinter,noun,middle of winter,giua mua dong,cooldown,P3,2026-07-31,2026-07-31 package,
 22,mid,midpoint,noun,middle point,diem giua,cooldown,P3,2026-07-31,2026-07-31 package,
 22,mid,mid-range,adjective,in the middle range,tam trung,cooldown,P3,2026-07-31,2026-07-31 package,
@@ -22,7 +22,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 23,mis,mistreat,verb,treat badly,doi xu te,cooldown,P3,2026-07-31,2026-07-31 package,
 23,mis,misread,verb,read incorrectly,doc nham,cooldown,P3,2026-07-31,2026-07-31 package,
 23,mis,misspell,verb,spell incorrectly,danh van sai,cooldown,P3,2026-07-31,2026-07-31 package,
-23,mis,mismatch,noun/verb,things do not match,khong khop,cooldown,P3,2026-07-31,2026-07-31 package,Watch against misuse/mislead
+23,mis,mismatch,noun/verb,things do not match,khong khop,cooldown,P3,2026-10-02,WQ-2026-10-02,Q26 correct confidently for invoice versus delivered quantity
 23,mis,miscount,verb,count incorrectly,dem sai,cooldown,P3,2026-07-31,2026-07-31 package,
 23,mis,mistrust,verb/noun,distrust,khong tin,cooldown,P3,2026-07-31,2026-07-31 package,
 23,mis,mishear,verb,hear incorrectly,nghe nham,cooldown,P3,2026-07-31,2026-07-31 package,
@@ -56,7 +56,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 25,non,non-essential,adjective,not necessary,khong thiet yeu,cooldown,P3,2026-08-11,quiz history,Stable after non-essential and non-urgent contrast checks
 25,non,non-plastic,adjective,not made of plastic,khong bang nhua,cooldown,P3,2026-07-31,2026-07-31 package,
 25,non,non-swimmer,noun,person who cannot swim,nguoi khong biet boi,cooldown,P3,2026-07-31,2026-07-31 package,
-25,non,non-urgent,adjective,not needing immediate action,khong khan cap,cooldown,P3,2026-09-18,WQ-2026-09-18,"Q27: Correct confidently; This problem matters, but it can wait until next week, so it is non-urgent."
+25,non,non-urgent,adjective,not needing immediate action,khong khan cap,cooldown,P3,2026-10-02,WQ-2026-10-02,Q27 correct confidently for ticket that can wait until next week
 25,non,non-scented,adjective,without scent,khong mui,cooldown,P3,2026-07-31,2026-07-31 package,
 26,ob,object,verb,disagree; oppose,phan doi,cooldown,P3,2026-07-31,2026-07-31 package,
 26,ob,obliged,adjective,required; forced by duty,bat buoc,cooldown,P3,2026-07-31,2026-07-31 package,
@@ -107,7 +107,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 28,over,overhead,noun/adjective,above head; operating costs,tren dau; chi phi chung,cooldown,P3,2026-08-04,conversation update,
 28,over,overweight,adjective,too heavy,thua can,cooldown,P3,2026-08-04,conversation update,
 28,over,oversize,adjective,too large,qua co,cooldown,P3,2026-08-04,conversation update,
-28,over,overcharge,verb,charge too much,tinh gia qua cao,recovery,P1,2026-10-01,DQ-2026-10-01,Q5 correct but uncertain for hotel charging guests; retain P1
+28,over,overcharge,verb,charge too much,tinh gia qua cao,recovery,P2,2026-10-06,DQ-2026-10-06,Q5 confident seller-side correction paired with confident overpay; lower to P2
 28,over,overlook,verb,fail to notice; look over,bo sot; nhin ra,recovery,P2,2026-09-22,DQ-2026-09-22,Q3 correctly avoided overlook in payment context; retain paired contrast
 28,over,overwork,verb,work too much,lam viec qua suc,cooldown,P3,2026-08-04,conversation update,
 28,over,oversleep,verb,sleep too long; wake late,ngu quen,cooldown,P3,2026-08-10,quiz history,Correct on Daily Quick
@@ -120,7 +120,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 28,over,overpriced,adjective,too expensive,qua dat,cooldown,P3,2026-08-05,conversation update,
 28,over,overjoyed,adjective,extremely happy,rat vui mung,cooldown,P3,2026-08-04,conversation update,
 28,over,overeat,verb,eat too much,an qua nhieu,cooldown,P3,2026-08-04,conversation update,
-28,over,overpay,verb,pay too much,tra qua nhieu tien,recovery,P2,2026-09-30,DQ-2026-09-30,Q2 confident buyer-side correction; lower this side while overcharge remains P1
+28,over,overpay,verb,pay too much,tra qua nhieu tien,recovery,P2,2026-10-06,DQ-2026-10-06,Q6 confident buyer-side correction paired with confident overcharge; retain P2
 29,per,perceive,verb,become aware of; understand,nhan thuc,cooldown,P3,2026-08-07,quiz history,Correct on first valid Weekly Quick
 29,per,perception,noun,way of seeing/understanding,nhan thuc; cam nhan,cooldown,P3,2026-09-18,WQ-2026-09-18,"Q24: Correct confidently; After reading dozens of negative reviews, customers formed a poor perception of the brand."
 29,per,perceptive,adjective,quick to notice/understand,tinh y; sau sac,cooldown,P3,2026-09-25,MQ-2026-09-25,Q5 correct confidently after consecutive stable person-quality checks
@@ -152,7 +152,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 0,outwork,stimulation,noun,mental/physical activation,kich thich,new_unit,P2,2026-08-07,conversation update,Outwork vocabulary
 0,outwork,endurance,noun,ability to keep going despite difficulty or tiredness,suc ben,cooldown,P3,2026-08-18,quiz history,Correct in mental endurance context after prior recovery; move to light watch
 0,outwork,tolerating,verb/gerund,enduring or accepting something unpleasant,chiu dung,recovery,P2,2026-09-18,WQ-2026-09-18,Q1 correct confidently for accepting criticism; Q30 monthly prompt was ambiguous and caused no penalty
-0,outwork,compounding,noun/adjective,cumulative increase or effect that builds over time,su gia tang tich tu,recovery,P2,2026-08-18,quiz history,Correct again in cumulative-effect context; keep contrast with tolerating for one more cycle
+0,outwork,compounding,noun/adjective,cumulative increase or effect that builds over time,su gia tang tich tu,cooldown,P3,2026-10-02,WQ-2026-10-02,Q29 confident cumulative-interest effect after earlier correct checks; move to cooldown
 0,outwork,sustained,adjective,maintained or continued over time,duy tri lien tuc,cooldown,P3,2026-09-25,MQ-2026-09-25,Q30 accepted confidently in valid phrase sustained repetitive practice; no Recovery escalation
 30,post,postgraduate,noun/adjective,student or course after a first university degree,sau dai hoc; hoc vien sau dai hoc,new_unit,P2,2026-08-11,quiz history,Correct on first Unit 30 Daily Quick
 30,post,postpone,verb,delay; arrange for a later time,tri hoan,new_unit,P2,2026-08-11,quiz history,Correct verb use on first Unit 30 Daily Quick
@@ -164,7 +164,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 30,post,post-crisis,adjective,after a crisis,sau khung hoang,new_unit,P2,2026-08-10,addendum update,Extended word
 30,post,post-match,adjective,after a match or game,sau tran dau,new_unit,P2,2026-08-10,addendum update,Extended word
 30,post,post-accident,adjective,after an accident,sau tai nan,new_unit,P2,2026-08-10,addendum update,Extended word
-30,post,post-flight,adjective,after a flight,sau chuyen bay,cooldown,P3,2026-10-01,DQ-2026-10-01,Q12 correct confidently for report written after plane landed; remains stable
+30,post,post-flight,adjective,after a flight,sau chuyen bay,cooldown,P3,2026-10-02,WQ-2026-10-02,Q30 correct confidently for inspection after landing; remains stable
 30,post,post-holiday,adjective,after a holiday or vacation,sau ky nghi,new_unit,P2,2026-08-10,addendum update,Extended word
 30,post,post-concert,adjective,after a concert,sau buoi hoa nhac,new_unit,P2,2026-08-10,addendum update,Extended word
 31,pre,prearranged,adjective,arranged in advance,duoc sap dat truoc,new_unit,P2,2026-08-11,addendum update,Book word
@@ -195,7 +195,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 32,pro,protection,noun,act/state of keeping safe,su bao ve,recovery,P2,2026-09-10,quiz history,Correctly avoided for a contingency-plan clause; retain noun-role contrast
 32,pro,protective,adjective,giving protection; wanting to protect,co tinh bao ve,cooldown,P3,2026-09-09,quiz history,Correct confidently before foam after several stable adjective uses
 32,pro,protector,noun,person or thing that protects,nguoi bao ve; vat bao ve,new_unit,P2,2026-08-12,addendum update,Word family of protect
-32,pro,provision,noun,supply; arrangement made for future need,su cung cap; dieu khoan; su chuan bi,recovery,P2,2026-09-18,WQ-2026-09-18,Q2 correct confidently for rental-agreement clause after recorded policy-clause check; lower gradually from P1
+32,pro,provision,noun,supply; arrangement made for future need,su cung cap; dieu khoan; su chuan bi,cooldown,P3,2026-10-02,WQ-2026-10-02,Q22 confident clause retrieval after several corrections; move to cooldown
 32,pro,proactive,adjective,taking action before problems happen,chu dong,cooldown,P3,2026-09-04,quiz history,Correct confidently after prior uncertain answer; cooldown
 32,pro,produce,verb,make or create something,san xuat; tao ra,new_unit,P2,2026-08-12,addendum update,Extended word
 32,pro,progress,noun/verb,improvement or movement forward,tien bo; tien trien,new_unit,P2,2026-08-12,addendum update,Extended word
@@ -216,7 +216,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 33,re,renewable,adjective,able to be renewed; naturally replaceable,tai tao duoc; co the lam moi,recovery,P2,2026-09-04,quiz history,Selected incorrectly for a rewritable whiteboard; contrast with rewritable and returnable
 33,re,renewal,noun,act of renewing or extending,su lam moi; su gia han,cooldown,P3,2026-09-21,DQ-2026-09-21,Q12 correctly avoided noun after must; renewal/renew role contrast stable on cooldown
 33,re,return,verb/noun,come or go back; give something back,tro lai; tra lai,new_unit,P2,2026-08-17,addendum update,Book word
-33,re,returnable,adjective,able to be returned,co the hoan tra,recovery,P2,2026-09-03,quiz history,Wrong on bottles customers can bring back; contrast with renewable
+33,re,returnable,adjective,able to be returned,co the hoan tra,recovery,P2,2026-10-02,WQ-2026-10-02,Q24 confident deposit-bottle correction; retain until another varied check
 33,re,rewrite,verb/noun,write again or revise,viet lai; ban viet lai,new_unit,P2,2026-08-24,quiz history,Correct revise confusing paragraph context
 33,re,rewritable,adjective,able to be written again or overwritten,co the viet lai,cooldown,P3,2026-09-07,quiz history,Correct name-tag erase/write-again context after renewable contrast miss
 33,re,reorganize,verb,organize again or differently,to chuc lai,new_unit,P2,2026-08-17,addendum update,Extended word
@@ -249,7 +249,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 34,semi,semi-professional,adjective/noun,partly professional; paid or trained but not fully professional,ban chuyen nghiep,new_unit,P2,2026-08-18,addendum update,Extended word
 34,semi,semiautomatic,adjective,partly automatic; requiring some human action,ban tu dong,new_unit,P2,2026-08-18,addendum update,Extended word
 34,semi,semidarkness,noun,partial darkness; dim light,nua toi nua sang,new_unit,P2,2026-08-18,addendum update,Extended word
-34,semi,semiofficial,adjective,partly official; not fully official,ban chinh thuc,recovery,P2,2026-09-18,WQ-2026-09-18,Q8 first confident correction after partly-official-status miss; retain Recovery
+34,semi,semiofficial,adjective,partly official; not fully official,ban chinh thuc,cooldown,P3,2026-10-02,WQ-2026-10-02,Q23 second confident status correction; move to cooldown
 34,semi,semi-permanent,adjective,long-lasting but not permanent,ban vinh cuu; tam thoi,cooldown,P3,2026-09-10,quiz history,Correct confidently for hair color that lasts weeks but fades
 34,semi,semi-domesticated,adjective,partly domesticated; not fully tame,ban hoang da; duoc thuan hoa mot phan,new_unit,P2,2026-08-18,addendum update,Extended word
 35,sub,subconscious,adjective/noun,below conscious awareness; part of the mind outside immediate awareness,tiem thuc,recovery,P2,2026-09-10,quiz history,Correctly avoided again for a partly-awake physical state; lower gradually from P1
@@ -309,7 +309,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 37,syn/sym,synchronization,noun,process of making things happen together or keeping data aligned,su dong bo hoa,new_unit,P2,2026-09-18,WQ-2026-09-18,Q18: Correct confidently; Automatic data synchronization keeps the phone and laptop copies of the calendar identical.
 37,syn/sym,syndrome,noun,set of related symptoms that occur together,hoi chung,new_unit,P2,2026-09-09,2026-09-09 addendum,Unit 37 book word
 37,syn/sym,synonym,noun,word with the same or nearly the same meaning,tu dong nghia,recovery,P2,2026-09-10,quiz history,Selected where an adjective before with was required; contrast with synonymous
-37,syn/sym,synonymous,adjective,having the same or nearly the same meaning,dong nghia,recovery,P2,2026-09-10,quiz history,Missed in is synonymous with pattern; contrast with synonym noun
+37,syn/sym,synonymous,adjective,having the same or nearly the same meaning,dong nghia,recovery,P2,2026-10-02,WQ-2026-10-02,Q21 confident adjective-with correction; retain Recovery until stable
 37,syn/sym,sympathy,noun,feeling of understanding care or pity for someone,su dong cam; su cam thong,new_unit,P2,2026-09-09,2026-09-09 addendum,Unit 37 book word
 37,syn/sym,sympathetic,adjective,showing understanding care or compassion,co su dong cam; cam thong,recovery,P2,2026-09-15,quiz history,Correctly avoided in an orchestral-music context
 37,syn/sym,sympathize,verb,feel or express sympathy,dong cam; cam thong,new_unit,P2,2026-09-09,2026-09-09 addendum,Unit 37 word family
@@ -341,8 +341,8 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 38,trans,transcontinental,adjective,extending across a continent,xuyen luc dia,new_unit,P2,2026-09-10,2026-09-10 addendum,Unit 38 extension
 39,un,uncertain,adjective,not known or not definite,khong chac chan,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 word family
 39,un,certain,adjective,known or proved to be true; sure,chac chan,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 support word
-39,un,uncertainly,adverb,in an uncertain way,mot cach khong chac chan,recovery,P1,2026-09-29,DQ-2026-09-29,Q6 first confident direct adverb correction after recent family-role errors; retain P1
-39,un,uncertainty,noun,state of being uncertain,su khong chac chan,recovery,P1,2026-10-01,DQ-2026-10-01,Q6 missed noun subject; selected adverb uncertainly before surrounding phrase
+39,un,uncertainly,adverb,in an uncertain way,mot cach khong chac chan,recovery,P1,2026-10-06,DQ-2026-10-06,Q4 confident adverb retrieval; paired noun remains uncertain so retain P1
+39,un,uncertainty,noun,state of being uncertain,su khong chac chan,recovery,P1,2026-10-06,DQ-2026-10-06,Q3 correct but uncertain in growing uncertainty phrase; retain P1
 39,un,unfair,adjective,not just or equitable,bat cong,recovery,P1,2026-09-23,DQ-2026-09-23,Q1 selected as final answer even after correctly identifying an adverb slot; form mapping remains unstable
 39,un,unfairly,adverb,in an unfair way,mot cach bat cong,recovery,P1,2026-09-24,DQ-2026-09-24,Q1 correct but uncertain; learner linked adverb role to preceding noun instead of verb charging; retain P1
 39,un,unfairness,noun,quality of being unfair,su bat cong,recovery,P2,2026-09-29,DQ-2026-09-29,Q10 correct but uncertain; unknown sibling weakened context confidence; retain P2
@@ -383,7 +383,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 40,under,underline,verb,draw a line under text; emphasize,gach chan; nhan manh,new_unit,P2,2026-09-18,WQ-2026-09-18,Q14: Correct confidently; Please underline the three most important dates in the printed schedule.
 40,under,underestimate,verb,estimate something to be less than it really is,danh gia thap,new_unit,P2,2026-09-22,DQ-2026-09-22,Q10 correct confidently for estimating a storage amount too low; continue contrast with underrate
 40,under,underrate,verb,judge someone or something as less valuable or capable than it is,danh gia thap,recovery,P2,2026-09-30,DQ-2026-09-30,Q3 second consecutive confident value-judgment correction; lower to P2
-40,under,understate,verb,describe something as less important or serious than it is,noi giam,recovery,P2,2026-09-30,DQ-2026-09-30,Q6 second consecutive confident seriousness-minimizing correction; lower to P2
+40,under,understate,verb,describe something as less important or serious than it is,noi giam,cooldown,P3,2026-10-06,DQ-2026-10-06,Q11 confident correction for minimizing complete data loss; move to cooldown
 40,under,understatement,noun,statement that makes something seem less important or serious,su noi giam; noi tranh,cooldown,P3,2026-09-24,DQ-2026-09-24,Q10 correct confidently for minimizing a twelve-hour outage
 40,under,state,verb,noun,say or declare; condition or situation,noi; khang dinh,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 support word
 40,under,shelter,noun,place that gives protection from weather or danger,ham tru an; noi tru an,new_unit,P2,2026-09-15,2026-09-15 addendum,Unit 40 support word
@@ -411,7 +411,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 41,uni,unilateral,adjective,done by or affecting one side only,don phuong,recovery,P2,2026-09-24,DQ-2026-09-24,Q11 first confident correction for one country acting without other members; retain P2
 42,up,update,noun/verb,make or become current; current information,cap nhat,recovery,P2,2026-09-25,MQ-2026-09-25,Q3 second consecutive confident direct correction; lower to P2
 42,up,upgrade,noun/verb,improve to a newer or better version,nang cap,recovery,P1,2026-09-23,DQ-2026-09-23,Q4 selected incorrectly for supporting a court decision; contrast with update and uphold
-42,up,upbringing,noun,the way a child is raised,su nuoi nang,recovery,P2,2026-09-24,DQ-2026-09-24,Q7 correct but uncertain for respectful habits reflecting how someone was raised
+42,up,upbringing,noun,the way a child is raised,su nuoi nang,recovery,P2,2026-10-02,WQ-2026-10-02,Q20 confident correction after earlier uncertainty; retain spaced review
 42,up,uplift,noun/verb,raise physically or improve mood and confidence,nang len; nang tinh than,new_unit,P2,2026-09-23,DQ-2026-09-23,Q7 correct confidently for improving the tired support team's mood
 42,up,upset,adjective/verb,unhappy or worried; make someone unhappy,buon; bat an; lam buon,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 book word
 42,up,grade,noun/verb,level or rank; evaluate work,cap; cap bac; cham diem,new_unit,P2,2026-09-21,2026-09-21 addendum,Unit 42 support word for upgrade
@@ -445,8 +445,8 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 43,act-root,transact,verb,conduct business or an exchange,giao dich,new_unit,P2,2026-09-25,MQ-2026-09-25,Q17 correct confidently on first practice
 43,act-root,transaction,noun,act or instance of conducting an exchange,giao dich; su giao dich,new_unit,P2,2026-09-29,DQ-2026-09-29,Q9 correct confidently for a card payment entry
 43,act-root,action,noun,process or result of doing something,hanh dong,new_unit,P2,2026-09-24,2026-09-24 root act addendum,Unit 43 book word
-43,act-root,actual,adjective,real or existing in fact,thuc te,recovery,P1,2026-10-01,DQ-2026-10-01,Q4 first confident adjective correction after actual/actually error; retain P1
-43,act-root,actually,adverb,in fact or really,thuc su; tren thuc te,recovery,P1,2026-10-01,DQ-2026-10-01,Q3 first confident adverb correction after recent miss; retain P1
+43,act-root,actual,adjective,real or existing in fact,thuc te,recovery,P2,2026-10-02,WQ-2026-10-02,Q9 second confident adjective correction; lower to P2
+43,act-root,actually,adverb,in fact or really,thuc su; tren thuc te,recovery,P2,2026-10-02,WQ-2026-10-02,Q8 second confident adverb correction; lower to P2
 43,act-root,actualize,verb,make something real or concrete,hien thuc hoa,new_unit,P2,2026-09-25,MQ-2026-09-25,Q20 correct confidently on first word-family check
 43,act-root,actuality,noun,reality or the state of being real,hien thuc,new_unit,P2,2026-09-24,2026-09-24 root act addendum,Unit 43 word family
 43,act-root,enact,verb,make a law or rule official,ban hanh,new_unit,P2,2026-09-24,2026-09-24 root act addendum,Unit 43 extension
@@ -457,12 +457,12 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 43,act-root,counteract,verb,act against or reduce an effect,chong lai; vo hieu hoa,new_unit,P2,2026-09-24,2026-09-24 root act addendum,Unit 43 extension
 43,act-root,activate,verb,make something active or start it,kich hoat,new_unit,P2,2026-09-25,MQ-2026-09-25,Q14 correct confidently on first word-family check
 43,act-root,coact,verb,act together or in cooperation,phoi hop hanh dong,new_unit,P2,2026-09-24,2026-09-24 root act addendum,Unit 43 extension; relatively uncommon
-44,aqua-root,aquaculture,noun,farming fish shellfish or aquatic plants,nuoi trong thuy san,recovery,P1,2026-10-01,DQ-2026-10-01,Q10 selected for adjective context describing plants; contrast process noun with aquatic
+44,aqua-root,aquaculture,noun,farming fish shellfish or aquatic plants,nuoi trong thuy san,recovery,P2,2026-10-02,WQ-2026-10-02,Q5 confident farming-process correction; lower with aquatic to P2
 44,aqua-root,aqualung,noun,equipment that lets a diver breathe underwater,binh tho duoi nuoc,new_unit,P2,2026-09-29,2026-09-29 root aqua addendum,Unit 44 book word
 44,aqua-root,lung,noun,organ used for breathing,phoi,new_unit,P2,2026-09-29,2026-09-29 root aqua addendum,Unit 44 support word for aqualung
 44,aqua-root,aquamarine,noun/adjective,blue-green gemstone or color,ngoc xanh bien; mau xanh bien,new_unit,P2,2026-09-29,2026-09-29 root aqua addendum,Unit 44 book word
 44,aqua-root,aquarium,noun,tank or building for aquatic animals and plants,be ca; thuy cung,new_unit,P2,2026-09-30,DQ-2026-09-30,Q7 correct confidently on first practice
-44,aqua-root,aquatic,adjective,living growing or happening in water,thuoc nuoc; song duoi nuoc,recovery,P1,2026-10-01,DQ-2026-10-01,Q10 target missed; selected aquaculture noun where adjective after described as was required
+44,aqua-root,aquatic,adjective,living growing or happening in water,thuoc nuoc; song duoi nuoc,recovery,P2,2026-10-02,WQ-2026-10-02,Q4 confident adjective correction; lower with aquaculture to P2
 44,aqua-root,aquatics,plural noun,water sports as a group,cac mon the thao duoi nuoc,new_unit,P2,2026-09-30,DQ-2026-09-30,Q8 correct confidently on first word-family practice
 44,aqua-root,leak,noun/verb,hole or escape of liquid; allow liquid to escape,ro ri,new_unit,P2,2026-09-29,2026-09-29 root aqua addendum,Unit 44 general support word
 44,aqua-root,aquanaut,noun,person who explores or works underwater,nha tham hiem duoi nuoc,new_unit,P2,2026-09-29,2026-09-29 root aqua addendum,Unit 44 extension
@@ -470,33 +470,54 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 44,aqua-root,aqua-aerobics,noun,aerobic exercise performed in water,the duc duoi nuoc,new_unit,P2,2026-09-29,2026-09-29 root aqua addendum,Unit 44 extension
 44,aqua-root,aquaphobia,noun,strong fear of water,chung so nuoc,new_unit,P2,2026-09-29,2026-09-29 root aqua addendum,Unit 44 extension
 44,aqua-root,phobia,noun,strong or irrational fear of something,noi so hai; chung so,new_unit,P2,2026-09-29,2026-09-29 root aqua addendum,Unit 44 support word for aquaphobia
-44,aqua-root,aqueduct,noun,structure or channel that carries water,mang dan nuoc,recovery,P1,2026-10-01,DQ-2026-10-01,Q2 first confident direct correction for built water channel; retain P1
-44,aqua-root,aquifer,noun,underground layer that stores and carries groundwater,tang chua nuoc,recovery,P1,2026-10-01,DQ-2026-10-01,Q1 first confident direct correction for underground groundwater layer; retain P1
+44,aqua-root,aqueduct,noun,structure or channel that carries water,mang dan nuoc,recovery,P2,2026-10-06,DQ-2026-10-06,Q1 confident water-carrier correction; lower pair to P2
+44,aqua-root,aquifer,noun,underground layer that stores and carries groundwater,tang chua nuoc,recovery,P2,2026-10-06,DQ-2026-10-06,Q2 confident groundwater-layer correction after prior uncertainty; lower pair to P2
 19,listening-shopping,magazine,noun,regularly published collection of articles and images,tap chi,new_unit,P2,2026-09-29,2026-09-29 listening Unit 19 shopping,Normalized from user plural magazines
-19,listening-shopping,necklace,noun,jewelry worn around the neck,vong co,new_unit,P2,2026-09-29,2026-09-29 listening Unit 19 shopping,Listening vocabulary
-19,listening-shopping,envelope,noun,paper container for a letter or document,phong bi,new_unit,P2,2026-09-29,2026-09-29 listening Unit 19 shopping,Normalized from user plural envelopes
+19,listening-shopping,necklace,noun,jewelry worn around the neck,vong co,new_unit,P2,2026-10-06,DQ-2026-10-06,Q12 clarified final answer C; correct confidently for jewelry worn around neck
+19,listening-shopping,envelope,noun,paper container for a letter or document,phong bi,new_unit,P2,2026-10-02,WQ-2026-10-02,Q28 first confident Listening check for mailing a signed letter; Q12 later corrected as transcription mistake
 19,listening-shopping,shampoo,noun/verb,liquid for washing hair; wash hair with shampoo,dau goi; goi dau,new_unit,P2,2026-09-29,2026-09-29 listening Unit 19 shopping,Listening vocabulary
 19,listening-shopping,jewelry,uncountable noun,decorative objects worn on the body,trang suc,new_unit,P2,2026-09-29,2026-09-29 listening Unit 19 shopping,Generally uncountable
 19,listening-shopping,grocery store,noun phrase,shop selling food and everyday household goods,cua hang tap hoa,new_unit,P2,2026-10-01,DQ-2026-10-01,Q11 correct confidently for food shampoo and household supplies
 19,listening-shopping,stationery store,noun phrase,shop selling paper pens envelopes and office supplies,cua hang van phong pham,new_unit,P2,2026-09-30,DQ-2026-09-30,Q11 correct confidently for envelopes paper and pens
-45,aud-root,audible,adjective,able to be heard,co the nghe duoc,recovery,P1,2026-10-01,DQ-2026-10-01,Q7 target missed after linking verb was; selected audibility noun
-45,aud-root,audibility,noun,quality or degree of being audible,do ro cua am thanh; tinh co the nghe thay,recovery,P1,2026-10-01,DQ-2026-10-01,Q7 selected in adjective slot; contrast noun quality with audible adjective
+45,aud-root,audible,adjective,able to be heard,co the nghe duoc,recovery,P2,2026-10-02,WQ-2026-10-02,Q2 confident adjective correction; lower with audibility after both roles were retrieved
+45,aud-root,audibility,noun,quality or degree of being audible,do ro cua am thanh; tinh co the nghe thay,recovery,P2,2026-10-02,WQ-2026-10-02,Q3 confident noun correction; lower with audible while retaining family review
 45,aud-root,inaudible,adjective,unable to be heard,khong the nghe thay,new_unit,P2,2026-09-30,2026-09-30 root aud addendum,Unit 45 word family
-45,aud-root,audience,noun,group of people watching or listening to a performance,khan gia; thinh gia,new_unit,P2,2026-09-30,2026-09-30 root aud addendum,Unit 45 book word
-45,aud-root,audition,noun/verb,performance test for a role; take such a test,buoi thu giong; thu vai,new_unit,P2,2026-09-30,2026-09-30 root aud addendum,Unit 45 book word
-45,aud-root,auditory,adjective,relating to hearing,thuoc thinh giac,new_unit,P2,2026-09-30,2026-09-30 root aud addendum,Unit 45 book word
+45,aud-root,audience,noun,group of people watching or listening to a performance,khan gia; thinh gia,new_unit,P2,2026-10-02,WQ-2026-10-02,Q16 correct confidently for listeners at piano performance
+45,aud-root,audition,noun/verb,performance test for a role; take such a test,buoi thu giong; thu vai,new_unit,P2,2026-10-02,WQ-2026-10-02,Q17 correct confidently for music school performance test
+45,aud-root,auditory,adjective,relating to hearing,thuoc thinh giac,new_unit,P2,2026-10-02,WQ-2026-10-02,Q18 correct confidently before hearing test
 45,aud-root,auditorium,noun,large room or hall where an audience sits,khan phong,new_unit,P2,2026-10-01,DQ-2026-10-01,Q9 correct confidently for school ceremony venue
 45,aud-root,applaud,verb,show approval by clapping,vo tay; tan thuong,new_unit,P2,2026-09-30,2026-09-30 root aud addendum,Normalized from user form applauded; performance-context support word
 45,aud-root,auditor,noun,person who audits records; listener or attendee in some contexts,kiem toan vien; nguoi du thinh,new_unit,P2,2026-09-30,2026-09-30 root aud addendum,Unit 45 extension; context-sensitive meaning
 45,aud-root,audibly,adverb,in a way that can be heard,mot cach co the nghe thay,recovery,P1,2026-10-01,DQ-2026-10-01,Q8 correct but uncertain modifying sighed; keep audible family at P1
-46,cred-root,discredit,verb,harm reputation or make something less believable,lam mat uy tin; lam mat niem tin,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 book word
-46,cred-root,credential,noun,qualification or document proving identity or ability,giay chung nhan; chung chi,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 book word
-46,cred-root,credence,noun,belief or acceptance that something is true,su tin tuong; niem tin,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 extension
-46,cred-root,credible,adjective,believable or trustworthy,dang tin; co the tin duoc,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 book word
-46,cred-root,credibly,adverb,in a believable or trustworthy way,mot cach dang tin,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 word family
-46,cred-root,credibility,noun,quality of being believable or trustworthy,do tin cay; uy tin,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 word family
+46,cred-root,discredit,verb,harm reputation or make something less believable,lam mat uy tin; lam mat niem tin,new_unit,P2,2026-10-02,WQ-2026-10-02,Q15 correct confidently for fake email harming scientist reputation
+46,cred-root,credential,noun,qualification or document proving identity or ability,giay chung nhan; chung chi,new_unit,P2,2026-10-02,WQ-2026-10-02,Q11 correct confidently for teaching qualification
+46,cred-root,credence,noun,belief or acceptance that something is true,su tin tuong; niem tin,recovery,P2,2026-10-02,WQ-2026-10-02,Q10 issued target but credibility also fit; accepted alternative and keep distinction on light watch
+46,cred-root,credible,adjective,believable or trustworthy,dang tin; co the tin duoc,new_unit,P2,2026-10-02,WQ-2026-10-02,Q12 correct confidently for evidence-backed explanation
+46,cred-root,credibly,adverb,in a believable or trustworthy way,mot cach dang tin,new_unit,P2,2026-10-06,DQ-2026-10-06,Q10 correct confidently modifying described
+46,cred-root,credibility,noun,quality of being believable or trustworthy,do tin cay; uy tin,recovery,P2,2026-10-02,WQ-2026-10-02,Q10 accepted but uncertain alternative and Q13 confident noun retrieval; retain light watch with credence
 46,cred-root,incredible,adjective,difficult to believe or extremely impressive,kho tin; dang kinh ngac,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 word family and extension
 46,cred-root,creditor,noun,person or organization that is owed money,chu no,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 book word
 46,cred-root,creed,noun,system or statement of religious or political beliefs,tin nguong; he thong niem tin,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 book word
-46,cred-root,credulous,adjective,too willing to believe things,ca tin,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 extension
+46,cred-root,credulous,adjective,too willing to believe things,ca tin,new_unit,P2,2026-10-02,WQ-2026-10-02,Q14 correct confidently for believing every advertisement
 46,cred-root,accredit,verb,officially recognize approve or authorize,cong nhan; chung nhan,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 extension
+47,dict-root,addict,noun,person unable to stop using or doing something,nguoi nghien,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 book word
+47,dict-root,addicted,adjective,unable to stop using or doing something,nghien; say me,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 word family
+47,dict-root,addictive,adjective,causing dependence or a strong desire to continue,gay nghien,new_unit,P2,2026-10-06,DQ-2026-10-06,Q9 correct confidently for game causing continued play
+47,dict-root,addiction,noun,strong dependence or inability to stop,su nghien; chung nghien,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 word family
+47,dict-root,contradict,verb,say the opposite of or conflict with a statement,mau thuan; phan bac,recovery,P2,2026-10-06,DQ-2026-10-06,Q7 correct but uncertain; reasoning correctly used did not and matching versions
+47,dict-root,indicate,verb,show point out or suggest,chi ra; cho thay,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 book word
+47,dict-root,indicator,noun,person or thing that shows a condition or change,nguoi hoac vat chi bao,recovery,P2,2026-10-06,DQ-2026-10-06,Q8 issued target; indication accepted because prompt allowed displayed-sign reading; recheck clearly
+47,dict-root,indicative,adjective,serving as a sign or indication,co tinh bieu thi; ngu y,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 word family
+47,dict-root,indication,noun,sign or piece of information that shows something,dau hieu; su bieu thi,recovery,P2,2026-10-06,DQ-2026-10-06,Q8 accepted but uncertain alternative for battery display; retain light contrast with indicator
+47,dict-root,dictate,verb,say words for someone to write; give an order,doc cho chep; ra lenh,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 book word
+47,dict-root,dictation,noun,act or exercise of writing spoken words,su doc cho chep; bai chinh ta,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 word family
+47,dict-root,dictator,noun,autocratic ruler,ke doc tai,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 word family and extension
+47,dict-root,dictatorial,adjective,relating to or behaving like a dictator,doc tai; chuyen quyen,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 word family
+47,dict-root,diction,noun,choice and pronunciation of words,cach dung tu; cach phat am,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 book word
+47,dict-root,dictionary,noun,reference book or resource listing words and meanings,tu dien,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 word family
+47,dict-root,malediction,noun,curse or expression of a wish for harm,loi nguyen rua,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 extension
+47,dict-root,verdict,noun,formal decision by a jury or judgment,phan quyet,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 extension
+47,dict-root,benediction,noun,blessing or expression of good wishes,loi chuc phuc,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 extension
+47,dict-root,edict,noun,official order or proclamation,sac lenh,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 extension
+47,dict-root,abdicate,verb,give up a position of power or responsibility,tu bo quyen luc hoac chuc vu,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 extension
+47,dict-root,valediction,noun,act or words of farewell,loi tu biet,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 extension

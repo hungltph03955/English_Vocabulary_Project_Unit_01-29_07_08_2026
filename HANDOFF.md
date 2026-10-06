@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Thursday 2026-10-01
+Date: Tuesday 2026-10-06
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-46
+Current scope: Unit 01-47
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -15,21 +15,23 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-01.md`)
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-06.md`)
 6. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 7. `VOCABULARY_STATE.csv`
-8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-09-21_to_2026-09-25.md`)
-9. `MONTHLY_REPORT_2026_07.md`
+8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-09-28_to_2026-10-02.md`)
+9. monthly reports if the task touches cumulative performance
 
 Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Thursday 2026-10-01 was completed as DQ-2026-10-01, Daily Quick, 9/12
-(75.0%). Exact source: `QUIZ_2026-10-01_DAILY.md`.
+Tuesday 2026-10-06 was completed as DQ-2026-10-06, Daily Quick, 12/12
+(100%). Exact source: `QUIZ_2026-10-06_DAILY.md`. Q8 accepted `indication`
+as a valid alternative. Q12 was corrected from a transcription mistake to
+C. `necklace`.
 
-The next expected quiz is Friday 2026-10-02, Weekly Quick, 30 questions. It is
-not the last Friday of October; the last Friday is 2026-10-30.
+The next expected quiz is Wednesday 2026-10-07, Daily Quick, 12 questions.
+The last Friday of October is 2026-10-30.
 
 Friday 2026-09-25 is the last Friday of September: Monthly Quick, 50 questions.
 
@@ -44,7 +46,7 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 46.
+The project has advanced through Unit 47.
 
 Recent unit coverage:
 
@@ -73,6 +75,17 @@ Recent unit coverage:
 - Unit 44: root `aqua`
 - Unit 45: root `aud`
 - Unit 46: root `cred`
+- Unit 47: root `dict`
+
+## Update 2026-10-06 - Unit 47 root `dict`
+
+The addendum added root `dict` = say/speak. The merge added 21 active entries
+at `new_unit/P2`. Existing Unit 31 `predict` was cross-referenced rather than
+duplicated. Root label `dict` remains an analysis node. No candidate word was
+promoted.
+
+Prioritize `contradict`, the `indicate` family, the `addict` family, and the
+`dictate` family in the current quiz cycle.
 
 ## Update 2026-10-01 - Unit 46 root `cred`
 
@@ -291,17 +304,17 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Date: Thursday 2026-10-01
-- Quiz ID: DQ-2026-10-01
+- Date: Tuesday 2026-10-06
+- Quiz ID: DQ-2026-10-06
 - Type: Daily Quick
-- Recorded result: 9/12 (75.0%)
-- Correct but uncertain: Q5, Q8
-- Wrong: Q6, Q7, Q10
+- Recorded result: 12/12 (100%)
+- Correct but uncertain: Q3, Q7, Q8
+- Wrong: none
 - Wrong and uncertain: none
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-10-01_DAILY.md`
-- Result and reviews: `QUIZ_HISTORY_WEEK_2026-09-28_to_2026-10-02.md`
+- Exact grading source: `QUIZ_2026-10-06_DAILY.md`
+- Result and reviews: `QUIZ_HISTORY_WEEK_2026-10-05_to_2026-10-09.md`
 
 Earlier valid records remain in their dated history files. Never apply their
 question sentences or option letters to DQ-2026-09-22.
@@ -342,21 +355,22 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-10-01.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-10-06.md` and the current CSV for the complete queue.
 
 P1:
 
-- `outweigh` / `overpay` / `overcharge`
-- `underrate` / `understate` / `underestimate`
-- `upkeep` / `upturn`
-- `uncertainty` / `uncertainly` / `unpredictable`
+- `aquifer` / `aqueduct`
+- `uncertainty` / `uncertainly`
+- `overcharge` / `overpay`
 
 P2:
 
-- `unfair` / `unfairly` / `unfairness`
-- `profound` / `profoundly` / `profundity`
-- `update` / `upgrade` / `uphold`
-- Unit 43 root `act` word families after an 8/8 first-practice result
+- `audible` / `audibility` / `audibly`
+- `aquatic` / `aquaculture`
+- `actual` / `actually`
+- `credence` / `credibility`
+- `understate` / `underrate`
+- Unit 46 word families and due older groups
 
 P3 cooldown:
 
@@ -392,12 +406,12 @@ Cooldown / light watch:
 - `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended October Opening Daily Quick
+## Recommended Daily Quick for 2026-10-05
 
 Use 12 questions:
 
-- 6 Recovery questions, prioritizing the four new P1 groups
-- 3 current Unit 43 root-family questions
+- 5-6 Recovery questions, prioritizing the three current P1 groups
+- 3 current Unit 46 questions including one word-family answer
 - 2 due or older-unit questions
 - 1 Unit Tour / Topic Tour / cooldown check
 
