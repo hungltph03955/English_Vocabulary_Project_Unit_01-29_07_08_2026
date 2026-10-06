@@ -1513,3 +1513,81 @@ Watch:
   that causes dependence; `addiction` is the noun.
 - `dictator` usually means an autocratic ruler; `dictation` is spoken text
   written down by another person.
+
+
+## Unit 48 - Roots `duc` / `duct`
+
+Core meaning: lead, bring, or guide. The root labels organize the family but
+are not added as standalone active lemmas unless separately approved.
+
+duc/duct:
+
+conduct : n/v : chỉ đạo, cư xử , dẫn dắt
+
+conductor : n : người chỉ huy , vật dẫn
+
+conduction : n : sự dẫn truyền
+
+conductive : adj : có tính dẫn
+
+introduce : giới thiệu
+
+introduction : n : sự giới thiệu
+
+produce : v/n : sản xuất; nông sản
+product : n : sản phẩm
+production : n : sự sản xuất
+productive : adj : năng suất
+
+reduce : v : giảm , giảm xuống
+reduction : n : sự giảm xuống
+reductive : adj : có tính giảm , đơn giản hóa
+
+
+seduce : v : quyến rũ
+seduction : n : sự quyến rũ
+seductive : adj : có tính quyến rũ , hấp dẫn
+
+
+- Từ trong sách: conduct, introduce, produce, reduce, seduce
+- Từ mở rộng:
+• educate (v) /ˈedʒ.u.keɪt/: giáo dục
+• abduct (v) /æbˈdʌkt/: bắt cóc
+• deduct (v) /dɪˈdʌkt/: khấu trừ
+• induce (v) /ɪnˈdjuːs/: khuyến khích , gây ra
+• viaduct (n) /ˈvaɪ.ə.dʌkt/: cầu cạn
+• aqueduct (n) /ˈæk.wə.dʌkt/: cầu dẫn nước
+
+### Normalized Unit 48 classification
+
+Book words:
+
+- `conduct` (noun/verb) = behavior; organize, direct, or carry
+- `introduce` (verb) = present someone or something for the first time
+- `produce` (verb/noun) = make or create; agricultural goods
+- `reduce` (verb) = make smaller or less
+- `seduce` (verb) = attract or persuade through temptation
+
+Word families:
+
+- `conduct` / `conductor` / `conduction` / `conductive`
+- `introduce` / `introduction`
+- `produce` / `product` / `production` / `productive`
+- `reduce` / `reduction` / `reductive`
+- `seduce` / `seduction` / `seductive`
+
+Extensions:
+
+- `educate`, `abduct`, `deduct`, `induce`, `viaduct`
+- Existing Unit 32 `produce` and Unit 44 `aqueduct` are cross-referenced rather
+  than duplicated.
+
+Watch:
+
+- `conduct` can be a noun or verb; `conductor` is a person or material that
+  conducts; `conduction` is the process; `conductive` is the adjective.
+- `produce` is mainly a verb in this project; `product` and `production` are
+  nouns, while `productive` is an adjective.
+- `reduction` is the noun; `reductive` describes an oversimplifying approach.
+- `deduct` means subtract; `induce` means cause or persuade; `abduct` means
+  kidnap; `viaduct` is a bridge carrying a road or railway across a gap.

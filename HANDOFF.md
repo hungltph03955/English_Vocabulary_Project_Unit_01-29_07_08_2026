@@ -2,7 +2,7 @@
 
 Date: Tuesday 2026-10-06
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-47
+Current scope: Unit 01-48
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -46,7 +46,7 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 47.
+The project has advanced through Unit 48.
 
 Recent unit coverage:
 
@@ -76,6 +76,17 @@ Recent unit coverage:
 - Unit 45: root `aud`
 - Unit 46: root `cred`
 - Unit 47: root `dict`
+- Unit 48: roots `duc` / `duct`
+
+## Update 2026-10-06 - Unit 48 roots `duc` / `duct`
+
+The addendum added roots `duc` / `duct` = lead/bring. The merge added 20
+active entries at `new_unit/P2`. Existing Unit 32 `produce` and Unit 44
+`aqueduct` were cross-referenced rather than duplicated. No candidate word was
+promoted.
+
+Prioritize the `conduct`, `produce`, and `reduce` word families in upcoming
+Quick cycles.
 
 ## Update 2026-10-06 - Unit 47 root `dict`
 

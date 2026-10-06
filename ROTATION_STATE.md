@@ -1,7 +1,7 @@
 # Rotation State - Snapshot
 
 Date: Tuesday 2026-10-06
-Scope: Unit 01-47
+Scope: Unit 01-48
 Last valid quiz: DQ-2026-10-06, Daily Quick on Tuesday 2026-10-06, 12/12 (100%)
 Next expected quiz: Daily Quick, 12 questions, Wednesday 2026-10-07
 
@@ -15,6 +15,15 @@ Next expected quiz: Daily Quick, 12 questions, Wednesday 2026-10-07
   confident retrieval of both sides.
 - Unit 47 `contradict` was correct but uncertain; `addictive` was correct.
 - Unit 46 `credibly` and due `understate` were correct confidently.
+
+## 2026-10-06 Unit 48 roots `duc` / `duct` import
+
+- Add 20 active entries at `new_unit/P2`; cross-reference existing Unit 32
+  `produce` and Unit 44 `aqueduct` instead of duplicating them.
+- Prioritize `conduct` word-family roles, `produce` / `product` / `production`
+  / `productive`, and `reduce` / `reduction` / `reductive`.
+- The next quiz cycle should include 3-4 Unit 48 questions, including at least
+  one word-family answer, after Recovery.
 
 ## Selection order
 

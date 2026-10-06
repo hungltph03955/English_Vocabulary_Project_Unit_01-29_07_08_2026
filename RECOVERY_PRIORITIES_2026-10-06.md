@@ -23,6 +23,13 @@ This snapshot supersedes `RECOVERY_PRIORITIES_2026-10-02.md`.
 - Unit 46 `credibly` correct confidently; continue `credence` / `credibility`
   and remaining root-family terms.
 
+## Current-Unit Coverage
+
+- Unit 48 begins roots `duc` / `duct` with 20 new active entries at P2.
+- Book words: `conduct`, `introduce`, existing `produce`, `reduce`, `seduce`.
+- Prioritize the `conduct`, `produce`, and `reduce` word families.
+- Cross-reference existing `produce` and `aqueduct`; do not duplicate them.
+
 ## P3 / Cooldown
 
 - `understate` corrected confidently after earlier uncertainty; sample later.

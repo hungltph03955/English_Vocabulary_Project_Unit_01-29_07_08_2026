@@ -286,3 +286,20 @@ DICT = nói
 
 Họ `addict`: `addict`, `addicted`, `addictive`, `addiction`. Các từ mở rộng:
 `malediction`, `verdict`, `benediction`, `edict`, `abdicate`, `valediction`.
+
+## Unit 48 — Roots `duc` / `duct`
+
+Ý nghĩa cốt lõi: **lead / bring — dẫn, đưa**.
+
+```text
+DUC / DUCT = dẫn / đưa
+├── conduct → conductor → conduction → conductive
+├── introduce → introduction
+├── produce → product → production → productive
+├── reduce → reduction → reductive
+├── seduce → seduction → seductive
+└── educate · abduct · deduct · induce · viaduct · aqueduct
+```
+
+Ví dụ: `conduct an interview`, `introduce a feature`, `produce goods`,
+`reduce costs`, `deduct tax`, `induce sleep`, `cross a viaduct`.

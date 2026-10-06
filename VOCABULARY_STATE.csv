@@ -521,3 +521,23 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 47,dict-root,edict,noun,official order or proclamation,sac lenh,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 extension
 47,dict-root,abdicate,verb,give up a position of power or responsibility,tu bo quyen luc hoac chuc vu,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 extension
 47,dict-root,valediction,noun,act or words of farewell,loi tu biet,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 extension
+48,duc-duct-root,conduct,noun/verb,behavior; organize direct or carry,cach cu xu; chi dao; dan dat,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 book word
+48,duc-duct-root,conductor,noun,person who directs; material that carries heat or electricity,nguoi chi huy; vat dan,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
+48,duc-duct-root,conduction,noun,process of carrying heat electricity or sound,su dan truyen,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
+48,duc-duct-root,conductive,adjective,able to conduct heat or electricity,co tinh dan,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
+48,duc-duct-root,introduce,verb,present someone or something for the first time,gioi thieu,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 book word
+48,duc-duct-root,introduction,noun,act of introducing; opening section,su gioi thieu; phan mo dau,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
+48,duc-duct-root,product,noun,thing made or offered for sale,san pham,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family; produce cross-referenced from Unit 32
+48,duc-duct-root,production,noun,process or amount of making goods,su san xuat,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
+48,duc-duct-root,productive,adjective,producing useful results or a large amount,nang suat; hieu qua,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
+48,duc-duct-root,reduce,verb,make smaller or less,giam; lam giam,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 book word
+48,duc-duct-root,reduction,noun,act or amount of reducing,su giam,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
+48,duc-duct-root,reductive,adjective,oversimplifying something complex,co tinh don gian hoa qua muc,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
+48,duc-duct-root,seduce,verb,attract or persuade through temptation,quyen ru; du do,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 book word
+48,duc-duct-root,seduction,noun,act or process of seducing,su quyen ru; su du do,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
+48,duc-duct-root,seductive,adjective,attractive or tempting in a powerful way,quyen ru; hap dan,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
+48,duc-duct-root,educate,verb,teach or provide education,giao duc,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 extension
+48,duc-duct-root,abduct,verb,take someone away illegally by force,bat coc,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 extension
+48,duc-duct-root,deduct,verb,subtract an amount from a total,khau tru; tru di,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 extension
+48,duc-duct-root,induce,verb,cause something or persuade someone to do something,gay ra; thuyet phuc,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 extension
+48,duc-duct-root,viaduct,noun,bridge carrying a road or railway across a gap,cau can,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 extension
