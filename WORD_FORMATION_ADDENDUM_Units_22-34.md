@@ -1591,3 +1591,73 @@ Watch:
 - `reduction` is the noun; `reductive` describes an oversimplifying approach.
 - `deduct` means subtract; `induce` means cause or persuade; `abduct` means
   kidnap; `viaduct` is a bridge carrying a road or railway across a gap.
+
+
+## Unit 49 - Roots `flect` / `flex`
+
+Core meaning: bend or curve. The root labels organize the family but are not
+added as standalone active lemmas unless separately approved.
+
+flect : uốn cong / bẻ cong
+
+deflect : V : làm lệch hướng
+deflection : N : sự lệch hướng , độ lệch , độ võng
+
+inflect : uốn vào , biến dạng
+inflected : adj : có tính biến đổi
+inflection : n : sự biến đổi , điểm uốn
+
+reflect : v : phản xạ, có 1 nghĩa nữa là ngẫm nghĩ
+reflection : n : sự phản chiếu , sự suy ngẫm
+reflective : adj : có tính phản chiếu
+reflectively : adv : một cách trầm ngâm
+reflector : n : vật phản xạ
+
+
+flex : n/v : uốn, gập , khoe khoang
+
+flexible : adj : linh hoạt , mềm dẻo
+flexibly : adv : một cách linh hoạt
+flexibility : n : sự linh hoạt
+
+flexor : n : cơ gấp
+
+- Từ trong sách: deflect, inflect, reflect, flex, flexible, flexor
+- Từ mở rộng:
+• genuflect (v) /ˈdʒen.ju.flekt/: quỳ gối
+• circumflex (n) /ˈsɜː.kəm.fleks/: dấu mũ
+• reflexive (adj) /rɪˈfleks.ɪv/: phản thân; tự động
+• inflexibility (n) /ɪnˌfleks.əˈbɪl.ə.ti/: sự cứng nhắc
+• flexure (n) /ˈflek.ʃər/: sự uốn cong
+
+### Normalized Unit 49 classification
+
+Book words:
+
+- `deflect` (verb) = cause something to change direction
+- `inflect` (verb) = change the form or tone of something
+- `reflect` (verb) = send back light/sound; think carefully
+- `flex` (noun/verb) = bend; tighten or display strength
+- `flexible` (adjective) = able to bend or adapt
+- `flexor` (noun) = muscle that bends a joint
+
+Word families:
+
+- `deflect` / `deflection`
+- `inflect` / `inflected` / `inflection`
+- `reflect` / `reflection` / `reflective` / `reflectively` / `reflector`
+- `flex` / `flexible` / `flexibly` / `flexibility` / `flexor`
+
+Extensions:
+
+- `genuflect`, `circumflex`, `reflexive`, `inflexibility`, `flexure`
+
+Watch:
+
+- `reflection` can mean an image or careful thought; context determines sense.
+- `reflective` is an adjective; `reflectively` is an adverb; `reflector` is a
+  reflecting object.
+- `flexible` describes ability to bend or adapt; `flexibility` is the noun;
+  `inflexibility` is rigidity or unwillingness to adapt.
+- `inflection` is a change in word form or voice; `deflection` is a change in
+  direction.

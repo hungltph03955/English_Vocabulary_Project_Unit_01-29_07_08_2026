@@ -63,3 +63,51 @@ Memory: `She wore a silver necklace and placed the card in an envelope.`
 - No candidate addition or promotion.
 
 Next scheduled quiz: Wednesday 2026-10-07, Daily Quick, 12 questions.
+
+## Wednesday 2026-10-07 - Daily Quick
+
+Quiz ID: DQ-2026-10-07
+Source: `QUIZ_2026-10-07_DAILY.md`
+Score: 10/12 = 83.3%.
+
+- Correct confidently: 9
+- Correct but uncertain: Q4 (D. indication)
+- Wrong: Q7, Q8
+- Wrong and uncertain: Q7 (D. productive)
+- Unanswered/unresolved: none
+- Incidental new-word candidates: none
+
+### Q7 - reduction
+
+Original: `The new compressor produced a twenty-percent ______ in energy use.`
+Learner: D. `productive?`. Correct: A. `reduction`.
+
+Why: `A twenty-percent ______` needs the noun `reduction`, meaning a decrease.
+`Productive` is an adjective meaning producing useful results.
+Memory: `The productive project produced a twenty-percent reduction.`
+
+### Q8 - productive
+
+Original: `The planning meeting was highly ______; the team resolved every major issue.`
+Learner: B. `production`. Correct: D. `productive`.
+
+Why: After `was highly`, the sentence needs adjective `productive`.
+`Production` is a noun for the process or amount of making goods.
+Memory: `The meeting was productive; factory production also increased.`
+
+### Confidence note - Q4
+
+`No indication of fraud` was correct. Here `indication` means any sign or
+evidence, while an `indicator` is an object, person, or measure that shows a
+condition.
+
+## State Changes
+
+- Lower `uncertainty` / `uncertainly` to P2 after confident retrieval of both roles.
+- Keep `indicator` / `indication` at P2 because Q4 was correct but uncertain.
+- Move `overcharge` / `overpay` to P3 cooldown after stable actor-direction checks.
+- Raise the `reduce` and `produce` word families to P1 after fresh role errors.
+- `conductor`, `dictation`, `creditor`, `shampoo`, and `postscript` were correct confidently.
+- No candidate addition or promotion.
+
+Next scheduled quiz: Thursday 2026-10-08, Daily Quick, 12 questions.

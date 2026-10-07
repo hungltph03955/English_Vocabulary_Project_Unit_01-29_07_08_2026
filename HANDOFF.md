@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Tuesday 2026-10-06
+Date: Wednesday 2026-10-07
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-48
+Current scope: Unit 01-49
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -15,7 +15,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-06.md`)
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-07.md`)
 6. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 7. `VOCABULARY_STATE.csv`
 8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-09-28_to_2026-10-02.md`)
@@ -25,12 +25,10 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Tuesday 2026-10-06 was completed as DQ-2026-10-06, Daily Quick, 12/12
-(100%). Exact source: `QUIZ_2026-10-06_DAILY.md`. Q8 accepted `indication`
-as a valid alternative. Q12 was corrected from a transcription mistake to
-C. `necklace`.
+Wednesday 2026-10-07 was completed as DQ-2026-10-07, Daily Quick, 10/12
+(83.3%). Exact source: `QUIZ_2026-10-07_DAILY.md`.
 
-The next expected quiz is Wednesday 2026-10-07, Daily Quick, 12 questions.
+The next expected quiz is Thursday 2026-10-08, Daily Quick, 12 questions.
 The last Friday of October is 2026-10-30.
 
 Friday 2026-09-25 is the last Friday of September: Monthly Quick, 50 questions.
@@ -46,7 +44,7 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 48.
+The project has advanced through Unit 49.
 
 Recent unit coverage:
 
@@ -77,6 +75,16 @@ Recent unit coverage:
 - Unit 46: root `cred`
 - Unit 47: root `dict`
 - Unit 48: roots `duc` / `duct`
+- Unit 49: roots `flect` / `flex`
+
+## Update 2026-10-07 - Unit 49 roots `flect` / `flex`
+
+The addendum added roots `flect` / `flex` = bend. The merge added 20 active
+entries at `new_unit/P2`. Root labels remain analysis nodes rather than active
+lemmas. No candidate word was promoted.
+
+Prioritize the deflect, inflect, reflect, and flexible word families in the
+next Quick cycle.
 
 ## Update 2026-10-06 - Unit 48 roots `duc` / `duct`
 
@@ -315,16 +323,16 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Date: Tuesday 2026-10-06
-- Quiz ID: DQ-2026-10-06
+- Date: Wednesday 2026-10-07
+- Quiz ID: DQ-2026-10-07
 - Type: Daily Quick
-- Recorded result: 12/12 (100%)
-- Correct but uncertain: Q3, Q7, Q8
-- Wrong: none
-- Wrong and uncertain: none
+- Recorded result: 10/12 (83.3%)
+- Correct but uncertain: Q4
+- Wrong: Q7, Q8
+- Wrong and uncertain: Q7
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-10-06_DAILY.md`
+- Exact grading source: `QUIZ_2026-10-07_DAILY.md`
 - Result and reviews: `QUIZ_HISTORY_WEEK_2026-10-05_to_2026-10-09.md`
 
 Earlier valid records remain in their dated history files. Never apply their
@@ -366,7 +374,7 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-10-06.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-10-07.md` and the current CSV for the complete queue.
 
 P1:
 

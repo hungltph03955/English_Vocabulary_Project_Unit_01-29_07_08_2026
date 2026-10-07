@@ -303,3 +303,19 @@ DUC / DUCT = dẫn / đưa
 
 Ví dụ: `conduct an interview`, `introduce a feature`, `produce goods`,
 `reduce costs`, `deduct tax`, `induce sleep`, `cross a viaduct`.
+
+## Unit 49 — Roots `flect` / `flex`
+
+Ý nghĩa cốt lõi: **bend — uốn, bẻ cong**.
+
+```text
+FLECT / FLEX = uốn / bẻ cong
+├── deflect → deflection
+├── inflect → inflected → inflection
+├── reflect → reflection → reflective → reflectively → reflector
+├── flex → flexible → flexibly → flexibility → flexor
+└── genuflect · circumflex · reflexive · inflexibility · flexure
+```
+
+Ví dụ: `deflect a question`, `voice inflection`, `reflect on feedback`,
+`a reflective surface`, `a flexible schedule`, `improve flexibility`.

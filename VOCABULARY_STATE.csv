@@ -107,7 +107,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 28,over,overhead,noun/adjective,above head; operating costs,tren dau; chi phi chung,cooldown,P3,2026-08-04,conversation update,
 28,over,overweight,adjective,too heavy,thua can,cooldown,P3,2026-08-04,conversation update,
 28,over,oversize,adjective,too large,qua co,cooldown,P3,2026-08-04,conversation update,
-28,over,overcharge,verb,charge too much,tinh gia qua cao,recovery,P2,2026-10-06,DQ-2026-10-06,Q5 confident seller-side correction paired with confident overpay; lower to P2
+28,over,overcharge,verb,charge too much,tinh gia qua cao,cooldown,P3,2026-10-06,DQ-2026-10-06,Seller side stable; pair moved to cooldown after Q5 buyer-side check on 2026-10-07
 28,over,overlook,verb,fail to notice; look over,bo sot; nhin ra,recovery,P2,2026-09-22,DQ-2026-09-22,Q3 correctly avoided overlook in payment context; retain paired contrast
 28,over,overwork,verb,work too much,lam viec qua suc,cooldown,P3,2026-08-04,conversation update,
 28,over,oversleep,verb,sleep too long; wake late,ngu quen,cooldown,P3,2026-08-10,quiz history,Correct on Daily Quick
@@ -120,7 +120,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 28,over,overpriced,adjective,too expensive,qua dat,cooldown,P3,2026-08-05,conversation update,
 28,over,overjoyed,adjective,extremely happy,rat vui mung,cooldown,P3,2026-08-04,conversation update,
 28,over,overeat,verb,eat too much,an qua nhieu,cooldown,P3,2026-08-04,conversation update,
-28,over,overpay,verb,pay too much,tra qua nhieu tien,recovery,P2,2026-10-06,DQ-2026-10-06,Q6 confident buyer-side correction paired with confident overcharge; retain P2
+28,over,overpay,verb,pay too much,tra qua nhieu tien,cooldown,P3,2026-10-07,DQ-2026-10-07,Q5 confident buyer-side retrieval after stable seller-side checks; move to cooldown
 29,per,perceive,verb,become aware of; understand,nhan thuc,cooldown,P3,2026-08-07,quiz history,Correct on first valid Weekly Quick
 29,per,perception,noun,way of seeing/understanding,nhan thuc; cam nhan,cooldown,P3,2026-09-18,WQ-2026-09-18,"Q24: Correct confidently; After reading dozens of negative reviews, customers formed a poor perception of the brand."
 29,per,perceptive,adjective,quick to notice/understand,tinh y; sau sac,cooldown,P3,2026-09-25,MQ-2026-09-25,Q5 correct confidently after consecutive stable person-quality checks
@@ -156,7 +156,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 0,outwork,sustained,adjective,maintained or continued over time,duy tri lien tuc,cooldown,P3,2026-09-25,MQ-2026-09-25,Q30 accepted confidently in valid phrase sustained repetitive practice; no Recovery escalation
 30,post,postgraduate,noun/adjective,student or course after a first university degree,sau dai hoc; hoc vien sau dai hoc,new_unit,P2,2026-08-11,quiz history,Correct on first Unit 30 Daily Quick
 30,post,postpone,verb,delay; arrange for a later time,tri hoan,new_unit,P2,2026-08-11,quiz history,Correct verb use on first Unit 30 Daily Quick
-30,post,postscript,noun,extra note added at the end of a letter or message,tai but,new_unit,P2,2026-08-12,quiz history,Correct on Daily Quick first-practice check
+30,post,postscript,noun,extra note added at the end of a letter or message,tai but,new_unit,P2,2026-10-07,DQ-2026-10-07,Q12 correct confidently for P.S. note at end of email
 30,post,post-traumatic,adjective,happening after trauma,hau chan thuong,new_unit,P2,2026-08-10,addendum update,Book word
 30,post,postwar,adjective,after a war,hau chien,cooldown,P3,2026-08-24,quiz history,Correctly avoided in plane-landed post-flight email context; move to cooldown
 30,post,postponement,noun,delay; act of postponing,su tri hoan,new_unit,P2,2026-08-20,quiz history,Correct one-week launch delay noun context
@@ -341,8 +341,8 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 38,trans,transcontinental,adjective,extending across a continent,xuyen luc dia,new_unit,P2,2026-09-10,2026-09-10 addendum,Unit 38 extension
 39,un,uncertain,adjective,not known or not definite,khong chac chan,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 word family
 39,un,certain,adjective,known or proved to be true; sure,chac chan,new_unit,P2,2026-09-14,2026-09-14 addendum,Unit 39 support word
-39,un,uncertainly,adverb,in an uncertain way,mot cach khong chac chan,recovery,P1,2026-10-06,DQ-2026-10-06,Q4 confident adverb retrieval; paired noun remains uncertain so retain P1
-39,un,uncertainty,noun,state of being uncertain,su khong chac chan,recovery,P1,2026-10-06,DQ-2026-10-06,Q3 correct but uncertain in growing uncertainty phrase; retain P1
+39,un,uncertainly,adverb,in an uncertain way,mot cach khong chac chan,recovery,P2,2026-10-07,DQ-2026-10-07,Q2 second consecutive confident adverb retrieval; lower family to P2
+39,un,uncertainty,noun,state of being uncertain,su khong chac chan,recovery,P2,2026-10-07,DQ-2026-10-07,Q1 confident noun retrieval after prior uncertainty; lower family to P2
 39,un,unfair,adjective,not just or equitable,bat cong,recovery,P1,2026-09-23,DQ-2026-09-23,Q1 selected as final answer even after correctly identifying an adverb slot; form mapping remains unstable
 39,un,unfairly,adverb,in an unfair way,mot cach bat cong,recovery,P1,2026-09-24,DQ-2026-09-24,Q1 correct but uncertain; learner linked adverb role to preceding noun instead of verb charging; retain P1
 39,un,unfairness,noun,quality of being unfair,su bat cong,recovery,P2,2026-09-29,DQ-2026-09-29,Q10 correct but uncertain; unknown sibling weakened context confidence; retain P2
@@ -475,7 +475,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 19,listening-shopping,magazine,noun,regularly published collection of articles and images,tap chi,new_unit,P2,2026-09-29,2026-09-29 listening Unit 19 shopping,Normalized from user plural magazines
 19,listening-shopping,necklace,noun,jewelry worn around the neck,vong co,new_unit,P2,2026-10-06,DQ-2026-10-06,Q12 clarified final answer C; correct confidently for jewelry worn around neck
 19,listening-shopping,envelope,noun,paper container for a letter or document,phong bi,new_unit,P2,2026-10-02,WQ-2026-10-02,Q28 first confident Listening check for mailing a signed letter; Q12 later corrected as transcription mistake
-19,listening-shopping,shampoo,noun/verb,liquid for washing hair; wash hair with shampoo,dau goi; goi dau,new_unit,P2,2026-09-29,2026-09-29 listening Unit 19 shopping,Listening vocabulary
+19,listening-shopping,shampoo,noun/verb,liquid for washing hair; wash hair with shampoo,dau goi; goi dau,new_unit,P2,2026-10-07,DQ-2026-10-07,Q11 first confident Listening check for washing hair
 19,listening-shopping,jewelry,uncountable noun,decorative objects worn on the body,trang suc,new_unit,P2,2026-09-29,2026-09-29 listening Unit 19 shopping,Generally uncountable
 19,listening-shopping,grocery store,noun phrase,shop selling food and everyday household goods,cua hang tap hoa,new_unit,P2,2026-10-01,DQ-2026-10-01,Q11 correct confidently for food shampoo and household supplies
 19,listening-shopping,stationery store,noun phrase,shop selling paper pens envelopes and office supplies,cua hang van phong pham,new_unit,P2,2026-09-30,DQ-2026-09-30,Q11 correct confidently for envelopes paper and pens
@@ -496,7 +496,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 46,cred-root,credibly,adverb,in a believable or trustworthy way,mot cach dang tin,new_unit,P2,2026-10-06,DQ-2026-10-06,Q10 correct confidently modifying described
 46,cred-root,credibility,noun,quality of being believable or trustworthy,do tin cay; uy tin,recovery,P2,2026-10-02,WQ-2026-10-02,Q10 accepted but uncertain alternative and Q13 confident noun retrieval; retain light watch with credence
 46,cred-root,incredible,adjective,difficult to believe or extremely impressive,kho tin; dang kinh ngac,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 word family and extension
-46,cred-root,creditor,noun,person or organization that is owed money,chu no,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 book word
+46,cred-root,creditor,noun,person or organization that is owed money,chu no,new_unit,P2,2026-10-07,DQ-2026-10-07,Q10 correct confidently for bank owed money by company
 46,cred-root,creed,noun,system or statement of religious or political beliefs,tin nguong; he thong niem tin,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 book word
 46,cred-root,credulous,adjective,too willing to believe things,ca tin,new_unit,P2,2026-10-02,WQ-2026-10-02,Q14 correct confidently for believing every advertisement
 46,cred-root,accredit,verb,officially recognize approve or authorize,cong nhan; chung nhan,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 extension
@@ -506,11 +506,11 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 47,dict-root,addiction,noun,strong dependence or inability to stop,su nghien; chung nghien,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 word family
 47,dict-root,contradict,verb,say the opposite of or conflict with a statement,mau thuan; phan bac,recovery,P2,2026-10-06,DQ-2026-10-06,Q7 correct but uncertain; reasoning correctly used did not and matching versions
 47,dict-root,indicate,verb,show point out or suggest,chi ra; cho thay,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 book word
-47,dict-root,indicator,noun,person or thing that shows a condition or change,nguoi hoac vat chi bao,recovery,P2,2026-10-06,DQ-2026-10-06,Q8 issued target; indication accepted because prompt allowed displayed-sign reading; recheck clearly
+47,dict-root,indicator,noun,person or thing that shows a condition or change,nguoi hoac vat chi bao,recovery,P2,2026-10-07,DQ-2026-10-07,Q3 confident physical-component retrieval
 47,dict-root,indicative,adjective,serving as a sign or indication,co tinh bieu thi; ngu y,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 word family
-47,dict-root,indication,noun,sign or piece of information that shows something,dau hieu; su bieu thi,recovery,P2,2026-10-06,DQ-2026-10-06,Q8 accepted but uncertain alternative for battery display; retain light contrast with indicator
+47,dict-root,indication,noun,sign or piece of information that shows something,dau hieu; su bieu thi,recovery,P2,2026-10-07,DQ-2026-10-07,Q4 correct but uncertain for evidence or sign of fraud; retain light watch
 47,dict-root,dictate,verb,say words for someone to write; give an order,doc cho chep; ra lenh,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 book word
-47,dict-root,dictation,noun,act or exercise of writing spoken words,su doc cho chep; bai chinh ta,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 word family
+47,dict-root,dictation,noun,act or exercise of writing spoken words,su doc cho chep; bai chinh ta,new_unit,P2,2026-10-07,DQ-2026-10-07,Q9 correct confidently for listen-and-write exercise
 47,dict-root,dictator,noun,autocratic ruler,ke doc tai,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 word family and extension
 47,dict-root,dictatorial,adjective,relating to or behaving like a dictator,doc tai; chuyen quyen,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 word family
 47,dict-root,diction,noun,choice and pronunciation of words,cach dung tu; cach phat am,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 book word
@@ -522,17 +522,17 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 47,dict-root,abdicate,verb,give up a position of power or responsibility,tu bo quyen luc hoac chuc vu,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 extension
 47,dict-root,valediction,noun,act or words of farewell,loi tu biet,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 extension
 48,duc-duct-root,conduct,noun/verb,behavior; organize direct or carry,cach cu xu; chi dao; dan dat,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 book word
-48,duc-duct-root,conductor,noun,person who directs; material that carries heat or electricity,nguoi chi huy; vat dan,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
+48,duc-duct-root,conductor,noun,person who directs; material that carries heat or electricity,nguoi chi huy; vat dan,new_unit,P2,2026-10-07,DQ-2026-10-07,Q6 correct confidently for electrical material
 48,duc-duct-root,conduction,noun,process of carrying heat electricity or sound,su dan truyen,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
 48,duc-duct-root,conductive,adjective,able to conduct heat or electricity,co tinh dan,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
 48,duc-duct-root,introduce,verb,present someone or something for the first time,gioi thieu,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 book word
 48,duc-duct-root,introduction,noun,act of introducing; opening section,su gioi thieu; phan mo dau,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
-48,duc-duct-root,product,noun,thing made or offered for sale,san pham,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family; produce cross-referenced from Unit 32
-48,duc-duct-root,production,noun,process or amount of making goods,su san xuat,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
-48,duc-duct-root,productive,adjective,producing useful results or a large amount,nang suat; hieu qua,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
-48,duc-duct-root,reduce,verb,make smaller or less,giam; lam giam,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 book word
-48,duc-duct-root,reduction,noun,act or amount of reducing,su giam,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
-48,duc-duct-root,reductive,adjective,oversimplifying something complex,co tinh don gian hoa qua muc,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
+48,duc-duct-root,product,noun,thing made or offered for sale,san pham,recovery,P1,2026-10-07,DQ-2026-10-07,Produce family raised after Q8 noun-for-adjective error
+48,duc-duct-root,production,noun,process or amount of making goods,su san xuat,recovery,P1,2026-10-07,DQ-2026-10-07,Q8 selected in adjective slot after highly; contrast with productive
+48,duc-duct-root,productive,adjective,producing useful results or a large amount,nang suat; hieu qua,recovery,P1,2026-10-07,DQ-2026-10-07,Q8 target missed; selected production noun where adjective was required
+48,duc-duct-root,reduce,verb,make smaller or less,giam; lam giam,recovery,P1,2026-10-07,DQ-2026-10-07,Reduce family raised after Q7 noun-role error
+48,duc-duct-root,reduction,noun,act or amount of reducing,su giam,recovery,P1,2026-10-07,DQ-2026-10-07,Q7 target missed with uncertainty; selected productive adjective for percentage decrease
+48,duc-duct-root,reductive,adjective,oversimplifying something complex,co tinh don gian hoa qua muc,recovery,P1,2026-10-07,DQ-2026-10-07,Reduce family raised after Q7 noun-role error
 48,duc-duct-root,seduce,verb,attract or persuade through temptation,quyen ru; du do,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 book word
 48,duc-duct-root,seduction,noun,act or process of seducing,su quyen ru; su du do,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
 48,duc-duct-root,seductive,adjective,attractive or tempting in a powerful way,quyen ru; hap dan,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
@@ -541,3 +541,23 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 48,duc-duct-root,deduct,verb,subtract an amount from a total,khau tru; tru di,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 extension
 48,duc-duct-root,induce,verb,cause something or persuade someone to do something,gay ra; thuyet phuc,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 extension
 48,duc-duct-root,viaduct,noun,bridge carrying a road or railway across a gap,cau can,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 extension
+49,flect-flex-root,deflect,verb,cause something to change direction,lam lech huong,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 book word
+49,flect-flex-root,deflection,noun,change in direction or bending,su lech huong; do vong,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
+49,flect-flex-root,inflect,verb,change form or tone,uon vao; bien doi,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 book word
+49,flect-flex-root,inflected,adjective,changed in form or tone,da bien doi; co bien to,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
+49,flect-flex-root,inflection,noun,change in word form or voice tone,su bien doi; diem uon,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
+49,flect-flex-root,reflect,verb,send back light or sound; think carefully,phan xa; suy ngam,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 book word
+49,flect-flex-root,reflection,noun,reflected image or careful thought,su phan chieu; su suy ngam,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
+49,flect-flex-root,reflective,adjective,reflecting light or involving careful thought,co tinh phan chieu; tram ngam,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
+49,flect-flex-root,reflectively,adverb,in a thoughtful or reflecting way,mot cach tram ngam,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
+49,flect-flex-root,reflector,noun,object that reflects light sound or heat,vat phan xa,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
+49,flect-flex-root,flex,noun/verb,bend tighten or display strength,uon; gap; khoe,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 book word
+49,flect-flex-root,flexible,adjective,able to bend or adapt,linh hoat; mem deo,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 book word
+49,flect-flex-root,flexibly,adverb,in an adaptable or bendable way,mot cach linh hoat,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
+49,flect-flex-root,flexibility,noun,ability to bend or adapt,su linh hoat,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
+49,flect-flex-root,flexor,noun,muscle that bends a joint,co gap,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 book word
+49,flect-flex-root,genuflect,verb,bend one knee as a sign of respect,quy goi,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 extension
+49,flect-flex-root,circumflex,noun,accent mark shaped like a small roof,dau mu,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 extension
+49,flect-flex-root,reflexive,adjective,referring back to the subject; automatic,phan than; tu dong,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 extension
+49,flect-flex-root,inflexibility,noun,inability or unwillingness to bend or adapt,su cung nhac,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 extension
+49,flect-flex-root,flexure,noun,bend or state of being bent,su uon cong,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 extension

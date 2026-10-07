@@ -1,9 +1,26 @@
 # Rotation State - Snapshot
 
-Date: Tuesday 2026-10-06
-Scope: Unit 01-48
-Last valid quiz: DQ-2026-10-06, Daily Quick on Tuesday 2026-10-06, 12/12 (100%)
-Next expected quiz: Daily Quick, 12 questions, Wednesday 2026-10-07
+Date: Wednesday 2026-10-07
+Scope: Unit 01-49
+Last valid quiz: DQ-2026-10-07, Daily Quick on Wednesday 2026-10-07, 10/12 (83.3%)
+Next expected quiz: Daily Quick, 12 questions, Thursday 2026-10-08
+
+## 2026-10-07 Daily Quick update
+
+- Raise the `reduce` and `produce` word families to P1 after fresh noun versus
+  adjective errors.
+- Keep `indicator` / `indication` at P2; lower the uncertainty family to P2.
+- Move overcharge/overpay to cooldown after stable actor-direction retrieval.
+- Unit 48 `conductor`, Unit 47 `dictation`, Unit 46 `creditor`, Listening
+  `shampoo`, and older `postscript` were correct confidently.
+
+## 2026-10-07 Unit 49 roots `flect` / `flex` import
+
+- Add 20 active entries at `new_unit/P2`.
+- Prioritize `deflect` / `deflection`, `inflect` / `inflection`, the `reflect`
+  family, and `flexible` / `flexibility` / `inflexibility`.
+- The next quiz should include 3-4 Unit 49 questions, including at least one
+  word-family correct answer, after Recovery.
 
 ## 2026-10-06 Daily Quick update
 

@@ -1,7 +1,7 @@
 # Project Skills - English Vocabulary Project
 
 Date created: 2026-08-07
-Scope: Unit 01-48
+Scope: Unit 01-49
 
 This file defines project-specific learning and quiz-design skills. It is not a
 replacement for `VOCABULARY_STATE.csv`, `ROTATION_STATE.md`, or Recovery files.
