@@ -243,7 +243,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 34,semi,semifinal,noun,round before the final match or stage,tran ban ket,new_unit,P2,2026-08-24,quiz history,Correct round before Sunday's final context
 34,semi,semisweet,adjective,partly sweet; not fully sweet,hoi ngot; nua ngot,new_unit,P2,2026-09-09,quiz history,Correct confidently for mildly sweet chocolate
 34,semi,semiconscious,adjective,partly conscious; not fully awake,nua tinh nua me,recovery,P2,2026-09-10,quiz history,Second confident physical-state correction; lower gradually from P1
-34,semi,semiannual,adjective,happening twice a year or every six months,nua nam mot lan,cooldown,P3,2026-09-08,quiz history,Correct confidently for June-and-December performance reviews
+34,semi,semiannual,adjective,happening twice a year or every six months,nua nam mot lan,cooldown,P3,2026-10-08,DQ-2026-10-08,Q12 correct confidently for April-and-October reviews; retain stable cooldown
 34,semi,semiformal,adjective,partly formal; between casual and formal,ban trang trong,recovery,P2,2026-09-11,quiz history,Selected where semiofficial was required; contrast style with approval status
 34,semi,semi-solid,adjective,partly solid and partly liquid,nua ran nua long,new_unit,P2,2026-08-18,addendum update,Extended word
 34,semi,semi-professional,adjective/noun,partly professional; paid or trained but not fully professional,ban chuyen nghiep,new_unit,P2,2026-08-18,addendum update,Extended word
@@ -472,7 +472,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 44,aqua-root,phobia,noun,strong or irrational fear of something,noi so hai; chung so,new_unit,P2,2026-09-29,2026-09-29 root aqua addendum,Unit 44 support word for aquaphobia
 44,aqua-root,aqueduct,noun,structure or channel that carries water,mang dan nuoc,recovery,P2,2026-10-06,DQ-2026-10-06,Q1 confident water-carrier correction; lower pair to P2
 44,aqua-root,aquifer,noun,underground layer that stores and carries groundwater,tang chua nuoc,recovery,P2,2026-10-06,DQ-2026-10-06,Q2 confident groundwater-layer correction after prior uncertainty; lower pair to P2
-19,listening-shopping,magazine,noun,regularly published collection of articles and images,tap chi,new_unit,P2,2026-09-29,2026-09-29 listening Unit 19 shopping,Normalized from user plural magazines
+19,listening-shopping,magazine,noun,regularly published collection of articles and images,tap chi,new_unit,P2,2026-10-08,DQ-2026-10-08,Q11 correct confidently for a monthly travel publication; first direct practice
 19,listening-shopping,necklace,noun,jewelry worn around the neck,vong co,new_unit,P2,2026-10-06,DQ-2026-10-06,Q12 clarified final answer C; correct confidently for jewelry worn around neck
 19,listening-shopping,envelope,noun,paper container for a letter or document,phong bi,new_unit,P2,2026-10-02,WQ-2026-10-02,Q28 first confident Listening check for mailing a signed letter; Q12 later corrected as transcription mistake
 19,listening-shopping,shampoo,noun/verb,liquid for washing hair; wash hair with shampoo,dau goi; goi dau,new_unit,P2,2026-10-07,DQ-2026-10-07,Q11 first confident Listening check for washing hair
@@ -488,7 +488,7 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 45,aud-root,auditorium,noun,large room or hall where an audience sits,khan phong,new_unit,P2,2026-10-01,DQ-2026-10-01,Q9 correct confidently for school ceremony venue
 45,aud-root,applaud,verb,show approval by clapping,vo tay; tan thuong,new_unit,P2,2026-09-30,2026-09-30 root aud addendum,Normalized from user form applauded; performance-context support word
 45,aud-root,auditor,noun,person who audits records; listener or attendee in some contexts,kiem toan vien; nguoi du thinh,new_unit,P2,2026-09-30,2026-09-30 root aud addendum,Unit 45 extension; context-sensitive meaning
-45,aud-root,audibly,adverb,in a way that can be heard,mot cach co the nghe thay,recovery,P1,2026-10-01,DQ-2026-10-01,Q8 correct but uncertain modifying sighed; keep audible family at P1
+45,aud-root,audibly,adverb,in a way that can be heard,mot cach co the nghe thay,recovery,P2,2026-10-08,DQ-2026-10-08,Q5 confident adverb retrieval modifying laughed after earlier uncertainty; lower to P2 with audible family
 46,cred-root,discredit,verb,harm reputation or make something less believable,lam mat uy tin; lam mat niem tin,new_unit,P2,2026-10-02,WQ-2026-10-02,Q15 correct confidently for fake email harming scientist reputation
 46,cred-root,credential,noun,qualification or document proving identity or ability,giay chung nhan; chung chi,new_unit,P2,2026-10-02,WQ-2026-10-02,Q11 correct confidently for teaching qualification
 46,cred-root,credence,noun,belief or acceptance that something is true,su tin tuong; niem tin,recovery,P2,2026-10-02,WQ-2026-10-02,Q10 issued target but credibility also fit; accepted alternative and keep distinction on light watch
@@ -500,8 +500,8 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 46,cred-root,creed,noun,system or statement of religious or political beliefs,tin nguong; he thong niem tin,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 book word
 46,cred-root,credulous,adjective,too willing to believe things,ca tin,new_unit,P2,2026-10-02,WQ-2026-10-02,Q14 correct confidently for believing every advertisement
 46,cred-root,accredit,verb,officially recognize approve or authorize,cong nhan; chung nhan,new_unit,P2,2026-10-01,2026-10-01 root cred addendum,Unit 46 extension
-47,dict-root,addict,noun,person unable to stop using or doing something,nguoi nghien,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 book word
-47,dict-root,addicted,adjective,unable to stop using or doing something,nghien; say me,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 word family
+47,dict-root,addict,noun,person unable to stop using or doing something,nguoi nghien,recovery,P2,2026-10-08,DQ-2026-10-08,Q10 selected addict in became ___ to; use an addict for a person and addicted to for a state
+47,dict-root,addicted,adjective,unable to stop using or doing something,nghien; say me,recovery,P2,2026-10-08,DQ-2026-10-08,Q10 missed; selected addict noun instead of addicted to; first recorded error
 47,dict-root,addictive,adjective,causing dependence or a strong desire to continue,gay nghien,new_unit,P2,2026-10-06,DQ-2026-10-06,Q9 correct confidently for game causing continued play
 47,dict-root,addiction,noun,strong dependence or inability to stop,su nghien; chung nghien,new_unit,P2,2026-10-06,2026-10-06 root dict addendum,Unit 47 word family
 47,dict-root,contradict,verb,say the opposite of or conflict with a statement,mau thuan; phan bac,recovery,P2,2026-10-06,DQ-2026-10-06,Q7 correct but uncertain; reasoning correctly used did not and matching versions
@@ -525,13 +525,13 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 48,duc-duct-root,conductor,noun,person who directs; material that carries heat or electricity,nguoi chi huy; vat dan,new_unit,P2,2026-10-07,DQ-2026-10-07,Q6 correct confidently for electrical material
 48,duc-duct-root,conduction,noun,process of carrying heat electricity or sound,su dan truyen,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
 48,duc-duct-root,conductive,adjective,able to conduct heat or electricity,co tinh dan,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
-48,duc-duct-root,introduce,verb,present someone or something for the first time,gioi thieu,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 book word
+48,duc-duct-root,introduce,verb,present someone or something for the first time,gioi thieu,new_unit,P2,2026-10-08,DQ-2026-10-08,Q9 correct confidently for introduce yourself to a client; first direct practice
 48,duc-duct-root,introduction,noun,act of introducing; opening section,su gioi thieu; phan mo dau,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
 48,duc-duct-root,product,noun,thing made or offered for sale,san pham,recovery,P1,2026-10-07,DQ-2026-10-07,Produce family raised after Q8 noun-for-adjective error
-48,duc-duct-root,production,noun,process or amount of making goods,su san xuat,recovery,P1,2026-10-07,DQ-2026-10-07,Q8 selected in adjective slot after highly; contrast with productive
-48,duc-duct-root,productive,adjective,producing useful results or a large amount,nang suat; hieu qua,recovery,P1,2026-10-07,DQ-2026-10-07,Q8 target missed; selected production noun where adjective was required
-48,duc-duct-root,reduce,verb,make smaller or less,giam; lam giam,recovery,P1,2026-10-07,DQ-2026-10-07,Reduce family raised after Q7 noun-role error
-48,duc-duct-root,reduction,noun,act or amount of reducing,su giam,recovery,P1,2026-10-07,DQ-2026-10-07,Q7 target missed with uncertainty; selected productive adjective for percentage decrease
+48,duc-duct-root,production,noun,process or amount of making goods,su san xuat,recovery,P1,2026-10-08,DQ-2026-10-08,Q3 correct but uncertain; factory modifies head noun production; keep P1 after prior noun-adjective confusion
+48,duc-duct-root,productive,adjective,producing useful results or a large amount,nang suat; hieu qua,recovery,P1,2026-10-08,DQ-2026-10-08,Q2 first confident adjective correction after Q8 miss on 2026-10-07; retain P1 until stable
+48,duc-duct-root,reduce,verb,make smaller or less,giam; lam giam,recovery,P1,2026-10-08,DQ-2026-10-08,Q4 correct confidently after modal must; retain P1 for one more family-role check
+48,duc-duct-root,reduction,noun,act or amount of reducing,su giam,recovery,P1,2026-10-08,DQ-2026-10-08,Q1 first confident percentage-decrease noun correction after prior miss; retain P1 until stable
 48,duc-duct-root,reductive,adjective,oversimplifying something complex,co tinh don gian hoa qua muc,recovery,P1,2026-10-07,DQ-2026-10-07,Reduce family raised after Q7 noun-role error
 48,duc-duct-root,seduce,verb,attract or persuade through temptation,quyen ru; du do,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 book word
 48,duc-duct-root,seduction,noun,act or process of seducing,su quyen ru; su du do,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 word family
@@ -541,20 +541,20 @@ unit,prefix_group,word,part_of_speech,meaning_en,meaning_vi_ascii,status,priorit
 48,duc-duct-root,deduct,verb,subtract an amount from a total,khau tru; tru di,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 extension
 48,duc-duct-root,induce,verb,cause something or persuade someone to do something,gay ra; thuyet phuc,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 extension
 48,duc-duct-root,viaduct,noun,bridge carrying a road or railway across a gap,cau can,new_unit,P2,2026-10-06,2026-10-06 roots duc duct addendum,Unit 48 extension
-49,flect-flex-root,deflect,verb,cause something to change direction,lam lech huong,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 book word
+49,flect-flex-root,deflect,verb,cause something to change direction,lam lech huong,new_unit,P2,2026-10-08,DQ-2026-10-08,Q8 correct confidently for changing a ball direction; first direct practice
 49,flect-flex-root,deflection,noun,change in direction or bending,su lech huong; do vong,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
 49,flect-flex-root,inflect,verb,change form or tone,uon vao; bien doi,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 book word
 49,flect-flex-root,inflected,adjective,changed in form or tone,da bien doi; co bien to,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
 49,flect-flex-root,inflection,noun,change in word form or voice tone,su bien doi; diem uon,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
-49,flect-flex-root,reflect,verb,send back light or sound; think carefully,phan xa; suy ngam,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 book word
+49,flect-flex-root,reflect,verb,send back light or sound; think carefully,phan xa; suy ngam,new_unit,P2,2026-10-08,DQ-2026-10-08,Q6 correct confidently for reflect on feedback; first direct practice
 49,flect-flex-root,reflection,noun,reflected image or careful thought,su phan chieu; su suy ngam,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
 49,flect-flex-root,reflective,adjective,reflecting light or involving careful thought,co tinh phan chieu; tram ngam,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
 49,flect-flex-root,reflectively,adverb,in a thoughtful or reflecting way,mot cach tram ngam,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
 49,flect-flex-root,reflector,noun,object that reflects light sound or heat,vat phan xa,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
 49,flect-flex-root,flex,noun/verb,bend tighten or display strength,uon; gap; khoe,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 book word
-49,flect-flex-root,flexible,adjective,able to bend or adapt,linh hoat; mem deo,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 book word
+49,flect-flex-root,flexible,adjective,able to bend or adapt,linh hoat; mem deo,recovery,P2,2026-10-08,DQ-2026-10-08,Q7 selected adjective instead of noun in gives employees more flexibility; first recorded error
 49,flect-flex-root,flexibly,adverb,in an adaptable or bendable way,mot cach linh hoat,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
-49,flect-flex-root,flexibility,noun,ability to bend or adapt,su linh hoat,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 word family
+49,flect-flex-root,flexibility,noun,ability to bend or adapt,su linh hoat,recovery,P2,2026-10-08,DQ-2026-10-08,Q7 missed; give someone more flexibility needs noun not adjective flexible; retest in a new context
 49,flect-flex-root,flexor,noun,muscle that bends a joint,co gap,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 book word
 49,flect-flex-root,genuflect,verb,bend one knee as a sign of respect,quy goi,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 extension
 49,flect-flex-root,circumflex,noun,accent mark shaped like a small roof,dau mu,new_unit,P2,2026-10-07,2026-10-07 roots flect flex addendum,Unit 49 extension

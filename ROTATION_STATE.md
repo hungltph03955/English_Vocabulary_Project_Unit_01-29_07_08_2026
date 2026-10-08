@@ -1,9 +1,26 @@
 # Rotation State - Snapshot
 
-Date: Wednesday 2026-10-07
+Date: Thursday 2026-10-08
 Scope: Unit 01-49
-Last valid quiz: DQ-2026-10-07, Daily Quick on Wednesday 2026-10-07, 10/12 (83.3%)
-Next expected quiz: Daily Quick, 12 questions, Thursday 2026-10-08
+Last valid quiz: DQ-2026-10-08, Daily Quick on Thursday 2026-10-08, 10/12 (83.3%)
+Next expected quiz: Weekly Quick, 30 questions, Friday 2026-10-09
+
+## 2026-10-08 Daily Quick update
+
+- Score 10/12: Q7 and Q10 wrong; Q3 correct but uncertain.
+- Add P2 Recovery `flexible` / `flexibility` and `addict` / `addicted`.
+- Keep the `reduce` and `produce` families at P1 after first corrections;
+  `production` still needs a confident noun-head check.
+- Lower `audibly` to P2 after confident retrieval. `Semiannual` remains P3.
+- Unit 49 `reflect` and `deflect` were correct; family target `flexibility`
+  was missed, so current-unit family coverage remains in progress.
+- Unit 48 `introduce` and Listening `magazine` were correct first checks.
+- No candidate addition or promotion. Use
+  `RECOVERY_PRIORITIES_2026-10-08.md` and the CSV for current priorities;
+  older dated sections below retain historical context rather than replacing
+  this snapshot.
+- Friday 2026-10-09 is Weekly Quick, 30 questions, with broad rotation.
+  Last Friday of October: 2026-10-30 (Monthly Quick, 50 questions).
 
 ## 2026-10-07 Daily Quick update
 

@@ -111,3 +111,82 @@ condition.
 - No candidate addition or promotion.
 
 Next scheduled quiz: Thursday 2026-10-08, Daily Quick, 12 questions.
+
+## Thursday 2026-10-08 - Daily Quick
+
+Quiz ID: DQ-2026-10-08
+Source: `QUIZ_2026-10-08_DAILY.md`
+Score: 10/12 = 83.3%.
+
+- Correct confidently: Q1, Q2, Q4, Q5, Q6, Q8, Q9, Q11, Q12 (9)
+- Correct but uncertain: Q3 (D. production)
+- Wrong: Q7 (A. flexible), Q10 (D. addict)
+- Wrong and uncertain: none
+- Unanswered/unresolved: none
+- Incidental new-word candidates: none
+
+Answer key: 1C 2B 3D 4A 5C 6B 7D 8A 9C 10B 11D 12A.
+
+### Q7 - flexibility versus flexible
+
+Original: `The new scheduling policy gives employees more ______ when arranging personal appointments.`
+
+Learner: A. `flexible`. Correct: D. `flexibility`.
+
+Why: `Gives employees more ...` describes the thing given, requiring noun
+`flexibility` (sự linh hoạt). `Flexible` is an adjective; it can describe a
+policy or schedule but cannot fill this noun position by itself. `More` does
+not always require a noun, but the `give someone something` structure does
+require a noun phrase here.
+
+Memory: `A flexible policy gives employees more flexibility.`
+
+### Q10 - addicted versus addict
+
+Original: `He became ______ to the mobile game and kept checking it during meals.`
+
+Learner: D. `addict`. Correct: B. `addicted`.
+
+Why: `Became addicted to` describes the person's state of dependence. `Addict`
+is a countable noun naming a person; that construction needs an article, as
+in `He became an addict`, not `became addict to`. `Addictive` describes the
+thing causing dependence; `addiction` names the condition.
+
+Memory: `The game is addictive; he became addicted to it.`
+Noun contrast: `He is a gaming addict.`
+
+### Q3 - correct but uncertain; reasoning clarification
+
+Original: `Factory ______ stopped for two hours while technicians repaired the main machine.`
+
+Learner: D. `production?`. Correct: D. `production`.
+Reasoning supplied: "Factory đã là danh từ nhà máy, cơ sở sản xuất rồi."
+
+`Factory` does mean nhà máy, but two nouns can stand next to each other.
+Here `factory` modifies the head noun `production`, and `factory production`
+is the subject of `stopped`. It means the factory's manufacturing activity
+stopped, not that a single product stopped. The answer is correct; the
+grammatical explanation needs strengthening. Do not infer the next part of
+speech solely from the preceding word.
+
+Memory: `Factory production stopped, but the factory building stayed open.`
+
+### State Changes - 2026-10-08
+
+- Add P2 Recovery `flexible` / `flexibility` and `addict` / `addicted` after
+  their first recorded errors; test the noun/adjective and person/state
+  contrasts again with new sentences.
+- Keep the `produce` family at P1: `productive` was a first confident
+  correction, while `production` was correct but uncertain.
+- Keep the `reduce` family at P1 after the first confident corrections for
+  noun `reduction` and verb `reduce`; do not declare mastery after one quiz.
+- Lower `audibly` from P1 to P2 after confident direct adverb retrieval;
+  retain the `audible` word family in Recovery.
+- Unit 49 `reflect` and `deflect`, Unit 48 `introduce`, and Listening
+  `magazine` were correct confidently on first direct practice.
+- `Semiannual` remains P3 cooldown after a confident twice-yearly check.
+  No term entered cooldown solely from its first correction today.
+- No candidate addition or promotion. Active bank remains 562 entries.
+
+Next scheduled quiz: Friday 2026-10-09, Weekly Quick, 30 questions.
+The last Friday of October is 2026-10-30, not 2026-10-09.
