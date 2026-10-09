@@ -1,6 +1,6 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Thursday 2026-10-08
+Date: Friday 2026-10-09
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
 Current scope: Unit 01-49
 
@@ -15,7 +15,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-08.md`)
+5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-09.md`)
 6. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 7. `VOCABULARY_STATE.csv`
 8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-10-05_to_2026-10-09.md`)
@@ -25,10 +25,10 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Thursday 2026-10-08 was completed as DQ-2026-10-08, Daily Quick, 10/12
-(83.3%). Exact source: `QUIZ_2026-10-08_DAILY.md`.
+Friday 2026-10-09 was completed as WQ-2026-10-09, Weekly Quick, 23/30
+(76.7%). Exact source: `QUIZ_2026-10-09_WEEKLY.md`.
 
-The next expected quiz is Friday 2026-10-09, Weekly Quick, 30 questions.
+The next expected quiz is Monday 2026-10-12, Daily Quick, 12 questions.
 The last Friday of October is 2026-10-30.
 
 Friday 2026-09-25 is the last Friday of September: Monthly Quick, 50 questions.
@@ -76,6 +76,19 @@ Recent unit coverage:
 - Unit 47: root `dict`
 - Unit 48: roots `duc` / `duct`
 - Unit 49: roots `flect` / `flex`
+
+## Update 2026-10-09 - Weekly Quick
+
+Score 23/30. Q12 `underrate` was correct but uncertain. Q2 `production`,
+Q11 `actual`, Q14 `semi-permanent`, Q22 `diction`, Q23 `conductive`,
+Q25 `accredit`, and Q26 `jewelry` were missed; Q14 and Q25 were uncertain.
+
+Keep the production family at P1. Add or reactivate P2 contrasts for
+`actual` / `actuality`, `semiofficial` / `semi-permanent`, `diction` /
+`dictionary`, `conductor` / `conductive`, `accredit` / `credential`, and
+`jewelry` / `stationery store`. Unit 49 Q15-Q21 scored 7/7 confidently;
+continue the remaining/lightly tested forms. No incidental candidate was
+added or promoted. Active bank remains 562 entries.
 
 ## Update 2026-10-08 - Daily Quick
 
@@ -335,16 +348,16 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Date: Thursday 2026-10-08
-- Quiz ID: DQ-2026-10-08
-- Type: Daily Quick
-- Recorded result: 10/12 (83.3%)
-- Correct but uncertain: Q3
-- Wrong: Q7, Q10
-- Wrong and uncertain: none
+- Date: Friday 2026-10-09
+- Quiz ID: WQ-2026-10-09
+- Type: Weekly Quick
+- Recorded result: 23/30 (76.7%)
+- Correct but uncertain: Q12
+- Wrong: Q2, Q11, Q14, Q22, Q23, Q25, Q26
+- Wrong and uncertain: Q14, Q25
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-10-08_DAILY.md`
+- Exact grading source: `QUIZ_2026-10-09_WEEKLY.md`
 - Result and reviews: `QUIZ_HISTORY_WEEK_2026-10-05_to_2026-10-09.md`
 
 Earlier valid records remain in their dated history files. Never apply their
@@ -386,23 +399,28 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-10-08.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-10-09.md` and the current CSV for the complete queue.
 
 P1:
 
-- `reduce` / `reduction` / `reductive`
 - `produce` / `product` / `production` / `productive` (grouped review;
   existing Unit 32 `produce` remains cross-referenced in normal rotation)
-- Older untested CSV P1: `unfair`, `unfairly`, `upgrade`, `upturn`
+- `reduce` / `reductive` remain conservative; `reduction` lowered to P2
+- `unfair` remains a direct adjective-side check
 
 P2:
 
 - `audible` / `audibility` / `audibly`
 - `flexible` / `flexibility`
 - `addict` / `addicted`
+- `actual` / `actuality`
+- `semiofficial` / `semi-permanent`
+- `diction` / `dictionary`
+- `conductor` / `conductive`
+- `accredit` / `credential`
+- `jewelry` / `stationery store`
 - `indicator` / `indication`
 - `uncertainty` / `uncertainly`
-- `aquifer` / `aqueduct`
 - `aquatic` / `aquaculture`
 - `actual` / `actually`
 - `credence` / `credibility`
@@ -413,6 +431,8 @@ P3 cooldown:
 
 - `precaution` remains stable after a new safety-context check.
 - `overcharge` / `overpay`, `understate`, and `semiannual` remain stable.
+- `aquifer` / `aqueduct`, `returnable`, `uphold`, `upkeep`, `synonymous`,
+  `transparently`, and `superficiality` are newly stable cooldown items.
 
 The historical cooldown list below excludes terms reactivated above.
 
@@ -444,18 +464,16 @@ Cooldown / light watch:
 - `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Weekly Quick for 2026-10-09
+## Recommended Daily Quick for 2026-10-12
 
-Use 30 questions:
+Use 12 questions:
 
-- 8 Recovery questions, including P1 families and the new P2 role contrasts
-- 6 due or cooldown checks across older units
-- 7 current/new Unit 49 questions, including word-family correct answers
-- 5 recent-unit reviews across Units 43-48 and Listening Unit 19
-- 4 Unit Tour / Topic Tour / word-family checks
+- 6 Recovery questions, prioritizing the production family and new role errors
+- 3 remaining/lightly tested Unit 49 questions, including a family answer
+- 2 due recent-unit checks
+- 1 Unit Tour / Topic Tour / cooldown check
 
-Count each question once. The last Friday of October is 2026-10-30;
-2026-10-09 is a regular Weekly Quick, not Monthly Quick.
+Use new contexts and do not repeat the Weekly sentences verbatim.
 
 Use new sentence contexts. Rotate P2 instead of placing every P2 item in one
 quiz. Save the exact questions, A-D order, and key before delivery.

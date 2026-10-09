@@ -1,9 +1,31 @@
 # Rotation State - Snapshot
 
-Date: Thursday 2026-10-08
+Date: Friday 2026-10-09
 Scope: Unit 01-49
-Last valid quiz: DQ-2026-10-08, Daily Quick on Thursday 2026-10-08, 10/12 (83.3%)
-Next expected quiz: Weekly Quick, 30 questions, Friday 2026-10-09
+Last valid quiz: WQ-2026-10-09, Weekly Quick on Friday 2026-10-09, 23/30 (76.7%)
+Next expected quiz: Daily Quick, 12 questions, Monday 2026-10-12
+
+## 2026-10-09 Weekly Quick update
+
+- Score 23/30. Correct but uncertain: Q12. Wrong: Q2, Q11, Q14,
+  Q22, Q23, Q25, and Q26; Q14 and Q25 were wrong with uncertainty.
+- Keep the `produce` family at P1 after repeated noun/adjective confusion.
+  Lower `reduction` to P2 after another confident correction while keeping
+  other reduce-family states conservative.
+- Add/reactivate P2 `actual` / `actuality`, `semiofficial` /
+  `semi-permanent`, `diction` / `dictionary`, `conductor` / `conductive`,
+  `accredit` / `credential`, and Listening `jewelry` / `stationery store`.
+- Keep `underrate` at P2 because its answer was correct but uncertain.
+- `Flexibility` and `addicted` were first confident corrections; retain P2.
+  Lower `unfairly`, `upgrade`, and `upturn` to P2.
+- Unit 49 Q15-Q21 scored 7/7 confidently. Continue the remaining/lightly
+  tested Unit 49 forms rather than declaring the whole unit complete.
+- Move `aquifer` / `aqueduct`, `returnable`, `uphold`, `upkeep`,
+  `synonymous`, `transparently`, and `superficiality` to cooldown where the
+  current CSV supports the individual form or pair.
+- No candidate addition or promotion. Use
+  `RECOVERY_PRIORITIES_2026-10-09.md` and the CSV for current priorities.
+- Next quiz: Monday 2026-10-12, Daily Quick, 12 questions.
 
 ## 2026-10-08 Daily Quick update
 

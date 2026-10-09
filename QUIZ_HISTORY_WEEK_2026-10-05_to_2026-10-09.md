@@ -190,3 +190,139 @@ Memory: `Factory production stopped, but the factory building stayed open.`
 
 Next scheduled quiz: Friday 2026-10-09, Weekly Quick, 30 questions.
 The last Friday of October is 2026-10-30, not 2026-10-09.
+
+## Friday 2026-10-09 - Weekly Quick
+
+Quiz ID: WQ-2026-10-09
+Source: `QUIZ_2026-10-09_WEEKLY.md`
+Score: 23/30 = 76.7%.
+
+- Correct confidently: 22
+- Correct but uncertain: Q12 (B. underrate)
+- Wrong: Q2, Q11, Q14, Q22, Q23, Q25, Q26
+- Wrong and uncertain: Q14 (A. semiofficial), Q25 (C. credential)
+- Unanswered/unresolved: none
+- Incidental new-word candidates: none
+
+Answer key: 1C 2A 3D 4B 5A 6D 7C 8B 9D 10A 11C 12B 13A 14C
+15B 16D 17A 18C 19B 20D 21A 22C 23B 24D 25A 26C 27B 28D 29A 30C.
+
+### Q2 - production versus productive
+
+Original: `Food ______ resumed after engineers repaired the damaged conveyor belt.`
+
+Learner: B. `productive`. Correct: A. `production`.
+
+Why: `Food production` is a noun phrase meaning the process of producing food;
+the whole phrase is the subject of `resumed`. `Productive` is an adjective and
+needs a noun or a linking-verb structure, such as `a productive factory` or
+`the meeting was productive`. This repeats the noun/adjective family issue
+seen with `factory production`.
+
+Memory: `Food production resumed, and the factory became productive again.`
+
+### Q11 - actual versus actuality
+
+Original: `The ______ repair cost was twice the amount shown in the original estimate.`
+
+Learner: B. `actuality`. Correct: C. `actual`.
+
+Why: The blank directly describes the noun phrase `repair cost`, so it needs
+adjective `actual` = real. `Actuality` is a noun meaning reality and cannot
+directly modify `repair cost` here.
+
+Memory: `The actual cost was higher; in actuality, it was twice the estimate.`
+
+### Q14 - semi-permanent versus semiofficial
+
+Original: `The marker remains visible on the label for several weeks but eventually fades, so it is ______.`
+
+Learner: A. `semiofficial?`. Correct: C. `semi-permanent`.
+
+Why: `Semi-permanent` describes duration: long-lasting but not permanent.
+`Semiofficial` describes status or authorization: partly official. The clue
+`eventually fades` is about time, not official approval.
+
+Memory: `Semi-permanent ink fades; a semiofficial announcement lacks full official status.`
+
+### Q22 - diction versus dictionary
+
+Original: `The actor's clear ______ made every word understandable, even from the back row.`
+
+Learner: B. `dictionary`. Correct: C. `diction`.
+
+Why: `Diction` is a person's choice and pronunciation of words, so it can be
+clear. A `dictionary` is a reference resource containing words and meanings.
+
+Memory: `The actor improved his diction by checking difficult words in a dictionary.`
+
+### Q23 - conductive versus conductor
+
+Original: `The metal casing was replaced with plastic because plastic is not electrically ______.`
+
+Learner: C. `conductor`. Correct: B. `conductive`.
+
+Why: After `is not electrically`, the sentence needs adjective `conductive`.
+`Conductor` is a noun naming a person or material that conducts electricity.
+
+Memory: `Copper is a conductor because it is electrically conductive.`
+
+### Q25 - accredit versus credential
+
+Original: `The national education board will officially ______ the course once it meets all quality standards.`
+
+Learner: C. `credential?`. Correct: A. `accredit`.
+
+Why: After `will officially`, the blank needs a base-form verb. `Accredit a
+course` means officially recognize or approve it. In this project's target
+contrast, a `credential` is a noun: a document or qualification proving
+identity or ability.
+
+Memory: `The board accredits the course; graduates receive a credential.`
+
+### Q26 - jewelry versus stationery store
+
+Original: `The display case contained several necklaces and other pieces of ______.`
+
+Learner: A. `stationery store`. Correct: C. `jewelry`.
+
+Why: Necklaces are items of `jewelry`, and `pieces of jewelry` is the natural
+uncountable-noun construction. A `stationery store` is a place selling paper,
+pens, and office supplies; it cannot follow `pieces of` in this meaning.
+
+Memory: `A jewelry display contains necklaces; a stationery store contains envelopes.`
+
+### Q12 - correct but uncertain
+
+Original: `Reviewers should not ______ the small film simply because it had a low budget; its artistic value is high.`
+
+Learner: B. `underrate?`. Correct: B. `underrate`.
+
+The reasoning was useful: `underrate` focuses on judging value, quality, or
+ability too low, while `underestimate` commonly concerns an amount, size,
+cost, difficulty, or required effort. The boundary is not absolute—English
+can also say `underestimate someone's ability`—but the explicit clue
+`artistic value is high` makes `underrate` the intended answer here.
+
+Memory: `Do not underrate her talent or underestimate the time she needs.`
+
+### State Changes - 2026-10-09
+
+- Keep the `produce` family at P1 after Q2 repeated the production/productive
+  role confusion. Lower only `reduction` to P2 after another confident noun
+  correction; other reduce-family states remain conservative.
+- Add or reactivate P2 Recovery for `actual` / `actuality`, `semiofficial` /
+  `semi-permanent`, `diction` / `dictionary`, `conductor` / `conductive`,
+  `accredit` / `credential`, and `jewelry` / `stationery store`.
+- Keep `underrate` at P2 light watch because Q12 was correct but uncertain.
+- Keep `flexible` / `flexibility` and `addict` / `addicted` at P2 after their
+  first confident corrections. Lower `unfairly`, `upgrade`, and `upturn` to P2.
+- Unit 49 current coverage was strong: Q15-Q21 were 7/7 confidently, and Q3
+  corrected `flexibility`. Continue untested or lightly tested Unit 49 forms.
+- Move `aquifer` / `aqueduct`, `returnable`, `uphold`, `upkeep`,
+  `synonymous`, `transparently`, and `superficiality` to P3 cooldown after
+  stable confident retrieval. Existing paired forms may retain higher CSV
+  priority where their opposite side is not yet stable.
+- No candidate addition or promotion. Active bank remains 562 entries.
+
+Next scheduled quiz: Monday 2026-10-12, Daily Quick, 12 questions.

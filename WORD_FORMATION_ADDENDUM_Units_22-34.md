@@ -1661,3 +1661,4 @@ Watch:
   `inflexibility` is rigidity or unwillingness to adapt.
 - `inflection` is a change in word form or voice; `deflection` is a change in
   direction.
+
