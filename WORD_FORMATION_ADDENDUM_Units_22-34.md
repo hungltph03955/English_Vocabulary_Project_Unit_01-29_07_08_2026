@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-50 and Tactics Index 1-24
+# Word Formation Addendum - Units 22-51 and Tactics Index 1-24
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -2687,3 +2687,85 @@ combined. Queued rows are not quiz eligible until scheduled by
 | twist one's ankle | verb phrase | bị trẹo cổ chân |
 | walked into something | phrasal verb | đã va hoặc bước đâm vào vật gì |
 
+
+
+## Unit 51 - Root `funct`
+
+Imported on Tuesday 2026-10-13. The previously unnumbered `funct` block is
+classified as Unit 51, following Unit 50 `form` in the project sequence.
+Core learning meaning: perform or carry out a function. The root label is an
+analysis node, not an additional standalone vocabulary entry.
+
+Original learner notes (normalized definitions follow below):
+
+defunct : adj : chết , không hoạt động, không dùng được
+
+function : n , v : chức năng , thực hiện chức năng , hoạt động
+functional : adj : thiết thực , hữu ích
+functionality : n : tính năng , tính thực tiễn
+dysfunction : n : sự hoạt động bất thường , suy giảm , rối loạn chức năng
+dysfunctional : adj : hoạt động bất thường, suy giảm chức năng
+malfunction : v, n : sự lỗi chức năng , trục trặc , sự cố
+multifunctional : adj : đa năng
+perfunctory : adj : qua loa , đại khái , cẩu thả
+perfunctorily : adv : một cách hời hợt
+
+- Từ trong sách: defunct, function, dysfunction, malfunction, multifunctional, perfunctory
+- Từ mở rộng:
+• functionary (n) /ˈfʌŋk.ʃən.ər.i/: viên chức
+• functional (adj) /ˈfʌŋk.ʃən.əl/: có chức năng
+• functionality (n) /ˌfʌŋk.ʃəˈnæl.ə.ti/: tính năng
+• dysfunctional (adj) /dɪsˈfʌŋk.ʃən.əl/: hoạt động không hiệu quả
+
+### Normalized Unit 51 classification
+
+Book words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| defunct | adjective | no longer existing or operating | không còn tồn tại; không còn hoạt động |
+| function | noun / verb | purpose or role; work or operate | chức năng; vai trò; hoạt động |
+| dysfunction | noun | abnormal or impaired functioning | rối loạn chức năng; sự hoạt động bất thường |
+| malfunction | noun / verb | failure to work properly; fail to work properly | sự trục trặc; trục trặc; hoạt động lỗi |
+| multifunctional | adjective | having several functions or uses | đa chức năng; đa năng |
+| perfunctory | adjective | done routinely with little care or interest | qua loa; làm cho xong; thiếu quan tâm |
+
+Word families and support words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| functional | adjective | working properly; related to a purpose or practical use | hoạt động được; thuộc chức năng; thiết thực |
+| functionality | noun | functions or features of a system; ability to work as intended | chức năng; tập tính năng; khả năng hoạt động |
+| dysfunctional | adjective | not functioning normally or effectively | hoạt động bất thường; không hiệu quả; rối loạn chức năng |
+| perfunctorily | adverb | in a routine way with little care or interest | một cách qua loa; một cách hời hợt |
+
+Extension:
+
+- `functionary` (noun) = official who performs duties for a government or
+  organization; viên chức, người thi hành nhiệm vụ trong tổ chức.
+
+Watch:
+
+- `Function` is a noun in `the function of this button` and a verb in
+  `the device functions properly`. `Functional` is an adjective;
+  `functionality` is a noun, often used for product/software capabilities.
+- `Functional` does not mean only useful: `a functional printer` can mean
+  a printer that works. `Multifunctional` means having several functions.
+- `Dysfunction` names impaired functioning; `dysfunctional` describes a
+  system, organization, or relationship that works poorly.
+- `Malfunction` can be a noun or verb and often describes equipment failure:
+  `a software malfunction` / `the printer malfunctioned`. Do not make the
+  dysfunction/malfunction boundary absolute; choose contexts with clear cues.
+- `Defunct` emphasizes no longer operating or existing, not merely a
+  temporary fault. Contrast `a defunct company` with `a malfunctioning device`.
+- `Perfunctory` is an adjective: `a perfunctory review`. `Perfunctorily`
+  modifies an action: `He checked the report perfunctorily`.
+- `Functionary` names a person/official; `functionality` names capabilities.
+- The repeated extension-list mentions of functional/functionality/
+  dysfunctional do not create additional rows. No unlisted family word or
+  incidental candidate is promoted.
+
+Merge status: 11 distinct new entries appended to `VOCABULARY_STATE.csv` as
+`new_unit/P2` (6 book words, 4 family/support forms, 1 extension). All are
+untested; the import date is not evidence of successful quiz retrieval.
+Total bank after merge: 1,342 rows, 596 nonqueued and 746 queued.

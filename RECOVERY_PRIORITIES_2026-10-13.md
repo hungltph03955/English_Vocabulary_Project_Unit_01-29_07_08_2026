@@ -40,7 +40,20 @@ No answer was marked uncertain; reasoning was not supplied.
 - Keep the audible, aquatic/aquaculture, and uncertainty families, upgrade /
   upturn, and other untested P2 groups in rotation according to the CSV.
 
-## Current Unit 50 Coverage
+## Current Unit 51 Coverage - Import After Grading
+
+- The new root `funct` lesson adds 11 distinct entries as `new_unit/P2`:
+  defunct, function, dysfunction, malfunction, multifunctional, perfunctory,
+  functional, functionality, dysfunctional, perfunctorily, and functionary.
+- All are untested. Importing them creates no Recovery error or mastery claim;
+  existing P1/P2 Recovery states remain unchanged.
+- Unit 51 is now primary current coverage. Include 3 checks in the next Daily
+  Quick, with at least one family/support correct-answer target.
+- Prioritize the function, dysfunction, and perfunctory families, and clear
+  malfunction noun/verb contexts. Unit 50 remains recent review/Recovery.
+- Bank now has 1,342 rows, 596 nonqueued and 746 queued; no candidate promotion.
+
+## Recent Unit 50 Coverage
 
 - Q6 `inform` and Q7 `conform` were correct on first direct practice and remain
   `new_unit/P2`; Q8 `transformation` was missed and moves with the selected
@@ -81,8 +94,9 @@ No answer was marked uncertain; reasoning was not supplied.
 ## Next Quiz
 
 - Wednesday 2026-10-14: Daily Quick, 12 questions.
-- Transition allocation: 5 Recovery, 3 Unit 50, 2 scheduled Tactics,
+- Transition allocation: 5 Recovery, 3 Unit 51, 2 scheduled Tactics,
   1 due recent-unit check, and 1 Unit Tour/cooldown.
 - Include the new transformation/platform contrast in Recovery while rotating
   the remaining P1 checks; do not place every P2 group in one quiz.
-- Use new contexts and include a Unit 50 word-family/support answer.
+- Use new contexts and include a Unit 51 word-family/support answer; continue
+  Unit 50 family checks through Recovery and due/recent rotation.

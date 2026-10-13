@@ -1,7 +1,7 @@
 # Tactics Rotation State
 
 Date initialized: Monday 2026-10-12
-Last updated: Tuesday 2026-10-13 after grading DQ-2026-10-13
+Last updated: Tuesday 2026-10-13 after Unit 51 import; last grading DQ-2026-10-13
 Source: Tactics Vocabulary Index images, pages 110-112
 Source units: Tactics 01-24
 Detailed mapping: `TACTICS_IMPORT_MAP.csv`
@@ -58,7 +58,7 @@ Reasoning was not supplied. Unmarked correct choices use the established
 confident-success state convention; confidence is not independently verified.
 Two canonical targets have been tested; both succeeded on their first check.
 No Tactics Recovery addition and no new Tactics cooldown item.
-Current main bank: 1,331 rows, 585 nonqueued and 746 queued.
+Main bank at grading: 1,331 rows, 585 nonqueued and 746 queued.
 T01 Pass-A anchor progress: 2/5 tested; 2 reserved next; `gym` remains unseen.
 After the five T01 anchors are tested, continue round-robin to T02.
 
@@ -133,12 +133,18 @@ stores the canonical lemma or phrase.
 
 ## Quick Allocation
 
-Transition phase while Unit 50 still needs first practice:
+Current update: Unit 51 `funct` adds 11 nonqueued Word Formation rows on
+2026-10-13. The bank is now 1,342 rows, 596 nonqueued and 746 queued.
+This import does not change the Tactics mapping, tested ledger, scheduled
+department/forget batch, seven-day review dates, or unscheduled cursor U01-005.
 
-- Daily Quick: 5 Recovery, 3 Unit 50, 2 Tactics, 1 Unit 49/recent, 1 cooldown.
-- Weekly Quick: 8 Recovery, 6 Unit 50/current, 6 Tactics, 6 due/recent, 4 tour/family.
+Transition phase while the current Word Formation unit needs first practice
+(currently Unit 51; Unit 50 remains recent review/Recovery):
 
-Steady phase after Unit 50 first-practice coverage:
+- Daily Quick: 5 Recovery, 3 Unit 51, 2 Tactics, 1 Unit 50/recent, 1 cooldown.
+- Weekly Quick: 8 Recovery, 6 Unit 51/current, 6 Tactics, 6 due/recent, 4 tour/family.
+
+Steady phase after current Word Formation first-practice coverage:
 
 - Daily Quick: 5 Recovery, 4 Tactics, 2 due Word Formation, 1 cooldown.
 - Weekly Quick: 8 Recovery, 7 Tactics, 6 due/cooldown, 5 recent Word Formation,

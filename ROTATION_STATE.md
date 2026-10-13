@@ -1,9 +1,34 @@
 # Rotation State - Snapshot
 
 Date: Tuesday 2026-10-13
-Scope: Unit 01-50 plus Tactics Units 01-24
+Scope: Unit 01-51 plus Tactics Units 01-24
 Last valid quiz: DQ-2026-10-13, Daily Quick on Tuesday 2026-10-13, 11/12 (91.7%)
 Next expected quiz: Daily Quick, 12 questions, Wednesday 2026-10-14
+
+## 2026-10-13 Unit 51 root `funct` import
+
+- Normalize the user's new unnumbered `funct` lesson as Unit 51 after Unit 50.
+- Add 11 distinct entries at `new_unit/P2`: 6 book words, 4 family/support
+  forms, and 1 extension. Repeated mentions in the source do not add duplicates.
+- Book words: `defunct`, `function`, `dysfunction`, `malfunction`,
+  `multifunctional`, and `perfunctory`.
+- Family/support forms: `functional`, `functionality`, `dysfunctional`,
+  and `perfunctorily`; extension: `functionary`.
+- Keep root label `funct` as an analysis note. Correct the source typo
+  `chắc năng` to `chức năng` and clarify normalized meanings/POS.
+- Unit 51 is primary current coverage; Unit 50 remains recent review with
+  its existing transformation/platform P2 Recovery and unfinished families.
+- Prioritize function/functionality, functional/multifunctional,
+  dysfunction/dysfunctional, malfunction noun/verb, and
+  perfunctory/perfunctorily in realistic work/product/daily-life contexts.
+- Next Daily Quick: 5 Recovery (include transformation/platform), 3 Unit 51
+  including at least one family/support answer, 2 already scheduled Tactics,
+  1 due Unit 50/recent check, and 1 cooldown/tour.
+- Keep Tactics quota at 2 Daily / 6 Weekly during new Word Formation first
+  practice. Do not advance the existing cursor or schedule extra targets.
+- Bank now has 1,342 rows: 596 nonqueued and 746 queued. All 1,331 existing
+  rows retain their prior data and mastery states. No candidate promotion.
+- This update creates no new quiz and does not alter DQ-2026-10-13 grading.
 
 ## 2026-10-13 Daily Quick update
 
