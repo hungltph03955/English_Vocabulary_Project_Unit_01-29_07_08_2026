@@ -1,7 +1,7 @@
 # English Vocabulary Project - Agent Operating Manual
 
 Date created: 2026-08-07
-Current scope: Unit 01-49
+Current scope: Unit 01-50 plus Tactics Units 01-24
 
 This file is the mandatory entry point for every Codex session in this project.
 
@@ -26,6 +26,7 @@ Before generating any quiz, the agent must complete this checklist:
 - Read `NEW_WORD_CANDIDATES.md`.
 - Read `HANDOFF.md`.
 - Read `ROTATION_STATE.md`.
+- Read `TACTICS_ROTATION_STATE.md`.
 - Read the latest `RECOVERY_PRIORITIES_*.md`.
 - Read the latest `WORD_FORMATION_ADDENDUM_*.md`.
 - Read `VOCABULARY_STATE.csv`.
@@ -46,11 +47,15 @@ Use this order at the start of every quiz session:
 3. `NEW_WORD_CANDIDATES.md`
 4. `HANDOFF.md`
 5. `ROTATION_STATE.md`
-6. latest `RECOVERY_PRIORITIES_*.md`
-7. latest `WORD_FORMATION_ADDENDUM_*.md`
-8. `VOCABULARY_STATE.csv`
-9. latest `QUIZ_HISTORY_*.md`
-10. monthly reports if the task touches cumulative performance
+6. `TACTICS_ROTATION_STATE.md`
+7. latest `RECOVERY_PRIORITIES_*.md`
+8. latest `WORD_FORMATION_ADDENDUM_*.md`
+9. `VOCABULARY_STATE.csv`
+10. latest `QUIZ_HISTORY_*.md`
+11. monthly reports if the task touches cumulative performance
+
+When a quiz selects Tactics targets, read the exact target rows from
+`TACTICS_IMPORT_MAP.csv` after loading the Tactics rotation state.
 
 Only after this sequence may the agent generate a quiz.
 
@@ -88,9 +93,10 @@ Never choose questions randomly. Select questions in this order:
 1. Recovery
 2. Due words
 3. Current unit coverage
-4. Unit Tour
-5. Topic Tour
-6. Cooldown and long-unseen terms
+4. Scheduled Tactics targets
+5. Unit Tour
+6. Topic Tour
+7. Cooldown and long-unseen terms
 
 Avoid repeating the exact same sentence from recent quizzes unless it is an
 intentional Recovery check.
@@ -117,6 +123,10 @@ Default Daily Quick structure:
 - 1-2 Unit Tour / Topic Tour / cooldown checks
 
 Adjust within 12 questions based on `ROTATION_STATE.md`.
+
+When the Tactics queue is active, also follow the transition or steady-state
+allocation in `TACTICS_ROTATION_STATE.md`. A `status=queued` item is not quiz
+eligible unless the Tactics rotation has explicitly scheduled its target ID.
 
 ## 6. Weekly Quick Structure
 
@@ -222,9 +232,11 @@ When the user says `update` or uploads a new vocabulary file:
 6. Update `VOCABULARY_STATE.csv`.
 7. Update `WORD_FORMATION_ADDENDUM_*.md`.
 8. Update `ROTATION_STATE.md`.
-9. Update the latest recovery file if needed.
-10. Review `NEW_WORD_CANDIDATES.md` and promote only user-approved candidates.
-11. Do not overwrite the whole vocabulary bank with a patch.
+9. Update `TACTICS_IMPORT_MAP.csv` and `TACTICS_ROTATION_STATE.md` when the
+   update touches Tactics vocabulary.
+10. Update the latest recovery file if needed.
+11. Review `NEW_WORD_CANDIDATES.md` and promote only user-approved candidates.
+12. Do not overwrite the whole vocabulary bank with a patch.
 
 ## 12. End-of-Session Checklist
 
@@ -251,6 +263,8 @@ After every graded quiz:
 - Never overwrite the vocabulary database with a small patch.
 - Never promote incidental candidate words into the active vocabulary bank
   without user approval.
+- Never select an unscheduled `queued` Tactics item as an answer or distractor.
+- Never select a Tactics row with `ocr_status=needs_review`.
 - Never forget to detect today's date before choosing quiz type.
 - Never generate Daily Quick on Friday.
 - Never generate Weekly Quick on the last Friday of the month.

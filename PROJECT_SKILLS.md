@@ -1,7 +1,7 @@
 # Project Skills - English Vocabulary Project
 
 Date created: 2026-08-07
-Scope: Unit 01-49
+Scope: Unit 01-50 plus Tactics Units 01-24
 
 This file defines project-specific learning and quiz-design skills. It is not a
 replacement for `VOCABULARY_STATE.csv`, `ROTATION_STATE.md`, or Recovery files.
@@ -128,6 +128,12 @@ Generation rules:
 - Do not overuse one context lane in the same quiz.
 - Avoid obscure trivia, overly formal scenarios, and trick questions where more
   than one option could reasonably fit.
+- Treat `status=queued` Tactics rows as stored backlog only. They become quiz
+  eligible only when `TACTICS_ROTATION_STATE.md` schedules their target IDs.
+- Skip Tactics mapping rows marked `ocr_status=needs_review`.
+- Use single words for meaning/POS questions, Tier-B phrases for collocation or
+  phrasal-verb questions, and Tier-C entries for dialogue-response questions.
+- Preserve each Tactics target ID and source unit in the quiz selection map.
 
 ## 4. Feedback Skill
 
@@ -195,6 +201,8 @@ For vocabulary content, always use:
 - latest `WORD_FORMATION_ADDENDUM_*.md`
 - latest `RECOVERY_PRIORITIES_*.md`
 - `ROTATION_STATE.md`
+- `TACTICS_ROTATION_STATE.md`
+- `TACTICS_IMPORT_MAP.csv` for source forms, canonical mappings, and tiers
 - recent quiz history
 
 If a word appears only in `PROJECT_SKILLS.md` and not in the vocabulary state,

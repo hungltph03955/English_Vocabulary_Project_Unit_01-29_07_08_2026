@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Friday 2026-10-09
+Date: Tuesday 2026-10-13
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-49
+Current scope: Unit 01-50 plus Tactics Units 01-24
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -15,20 +15,26 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 2. `NEW_WORD_CANDIDATES.md`
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
-5. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-09.md`)
-6. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
-7. `VOCABULARY_STATE.csv`
-8. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-10-05_to_2026-10-09.md`)
-9. monthly reports if the task touches cumulative performance
+5. `TACTICS_ROTATION_STATE.md`
+6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-13.md`)
+7. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
+8. `VOCABULARY_STATE.csv`
+9. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-10-12_to_2026-10-16.md`)
+10. monthly reports if the task touches cumulative performance
+
+When Tactics targets are scheduled, read their exact rows from
+`TACTICS_IMPORT_MAP.csv` after the Tactics rotation state.
 
 Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Friday 2026-10-09 was completed as WQ-2026-10-09, Weekly Quick, 23/30
-(76.7%). Exact source: `QUIZ_2026-10-09_WEEKLY.md`.
+Tuesday 2026-10-13 was completed as DQ-2026-10-13, Daily Quick, 11/12
+(91.7%). Exact source: `QUIZ_2026-10-13_DAILY.md`. Only Q8 was wrong.
 
-The next expected quiz is Monday 2026-10-12, Daily Quick, 12 questions.
+The next expected quiz is Wednesday 2026-10-14, Daily Quick, 12 questions.
+No quiz is currently pending. The Tactics dry run is a separate validation
+artifact and must not be used for grading an issued quiz.
 The last Friday of October is 2026-10-30.
 
 Friday 2026-09-25 is the last Friday of September: Monthly Quick, 50 questions.
@@ -44,7 +50,12 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 49.
+The project has advanced through Unit 50 and now includes a queued Tactics
+Vocabulary Index track covering Tactics Units 01-24.
+
+Current bank: 1,331 rows, 585 nonqueued and 746 queued after the first two
+scheduled Tactics targets were graded. Unit 50 is still in first-practice
+coverage; its transformation/platform noun contrast now needs P2 Recovery.
 
 Recent unit coverage:
 
@@ -76,6 +87,81 @@ Recent unit coverage:
 - Unit 47: root `dict`
 - Unit 48: roots `duc` / `duct`
 - Unit 49: roots `flect` / `flex`
+- Unit 50: root `form`
+
+## Update 2026-10-13 - Daily Quick and Tactics progress
+
+Score 11/12. Q8 selected `platform` where `transformation` was required;
+add both nouns to P2 Recovery. No uncertain or unresolved answer; reasoning
+was not supplied and no incidental unknown non-bank word was reported.
+
+Lower only `production` and `reductive` to P2 after second consecutive
+confident direct corrections. Keep the remaining production/reduce forms at
+their individual CSV priorities. Retain the diction, conductive, and
+semiofficial contrasts at P1 after first corrections following repeated
+misses; retain flex/flexor at P2. No new cooldown item; mid-range stays P3.
+
+Unit 50 `inform` and `conform` passed their first direct checks; family target
+`transformation` was attempted but missed, so current-unit family coverage is
+not complete. Continue remaining/lightly tested forms with new contexts.
+
+Tactics `accounting` (TACTICS-U01-001, Q9) and `assignment`
+(TACTICS-U01-002, Q10) passed first scheduled checks and move from queued to
+new_unit/P2. Their next normal review is no earlier than 2026-10-20.
+Next verified batch: TACTICS-U01-003 (`department`) and TACTICS-U01-004
+(canonical `forget`, printed `forgotten`). They remain queued and untested;
+canonical definitions/POS are checked and printed source forms are retained.
+The next unscheduled cursor is TACTICS-U01-005.
+
+Use `RECOVERY_PRIORITIES_2026-10-13.md` and the current rotation files.
+Older dated update sections below retain historical counts and priorities.
+
+## Update 2026-10-12 - Tactics Vocabulary Index queue
+
+The three Vocabulary Index images supplied 824 printed rows across Tactics
+Units 01-24. Canonical normalization produced 770 groups: 748 new canonical
+rows were appended to `VOCABULARY_STATE.csv` as `queued/P2`, 22 source rows
+cross-reference existing bank entries, and 54 repeated source rows were
+combined.
+
+The main CSV now contains 1,331 rows: 583 previously eligible rows and 748
+queued Tactics rows. Queued rows are stored but cannot appear as answers or
+distractors until `TACTICS_ROTATION_STATE.md` schedules them. The mapping and
+source provenance are stored in `TACTICS_IMPORT_MAP.csv`.
+
+Start with Pass A at Tactics Unit 01. While Unit 50 remains current, use two
+Tactics targets per Daily Quick and six per Weekly Quick. Skip `sneak` and
+`driven` until their OCR rows are manually confirmed. No candidate word was
+promoted.
+
+## Update 2026-10-12 - Unit 50 root `form`
+
+The user added the Unit 50 root `form` lesson to the current addendum. The
+normalized merge added 21 active entries at `new_unit/P2`: five book words,
+ten word-family/support forms, and six extensions.
+
+Existing Unit 41 lemma `form` was cross-referenced rather than duplicated;
+the root label remains an analysis node. Prioritize `conform` /
+`conformance` / `conformity`, `inform` / `informative` / `information` /
+`misinformation`, `reform` / `reformation`, and `transform` / `transformer` /
+`transformation` in the next quiz cycle. No candidate word was promoted.
+Active bank is now 583 entries.
+
+## Update 2026-10-12 - Daily Quick
+
+Score 8/12. Q5 `diction`, Q6 `conductive`, Q9 `flex`, and Q12
+`semiofficial` were missed; there were no uncertain or unresolved answers.
+
+Raise the repeated role contrasts `diction` / `dictation` and `conductor` /
+`conduction` / `conductive` to P1. Raise `semiofficial` /
+`semi-permanent` to P1 after opposite-direction misses on consecutive quizzes.
+Add Unit 49 `flex` / `flexor` at P2 Recovery. Keep the production and reduce
+families at P1 after first confident corrections; lower `unfair` to P2.
+
+`Actual`, `accredit`, and `jewelry` were first confident corrections and stay
+at P2 with their contrasts. Unit 49 `deflection` and `reflectively` were
+correct confidently on first direct practice. No new cooldown entry or
+incidental candidate was added. Active bank remains 562 entries.
 
 ## Update 2026-10-09 - Weekly Quick
 
@@ -348,17 +434,17 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Date: Friday 2026-10-09
-- Quiz ID: WQ-2026-10-09
-- Type: Weekly Quick
-- Recorded result: 23/30 (76.7%)
-- Correct but uncertain: Q12
-- Wrong: Q2, Q11, Q14, Q22, Q23, Q25, Q26
-- Wrong and uncertain: Q14, Q25
+- Date: Tuesday 2026-10-13
+- Quiz ID: DQ-2026-10-13
+- Type: Daily Quick
+- Recorded result: 11/12 (91.7%)
+- Correct but uncertain: none
+- Wrong: Q8
+- Wrong and uncertain: none
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-10-09_WEEKLY.md`
-- Result and reviews: `QUIZ_HISTORY_WEEK_2026-10-05_to_2026-10-09.md`
+- Exact grading source: `QUIZ_2026-10-13_DAILY.md`
+- Result and reviews: `QUIZ_HISTORY_WEEK_2026-10-12_to_2026-10-16.md`
 
 Earlier valid records remain in their dated history files. Never apply their
 question sentences or option letters to DQ-2026-09-22.
@@ -399,24 +485,28 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-10-09.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-10-13.md` and the current CSV for the complete queue.
 
 P1:
 
-- `produce` / `product` / `production` / `productive` (grouped review;
-  existing Unit 32 `produce` remains cross-referenced in normal rotation)
-- `reduce` / `reductive` remain conservative; `reduction` lowered to P2
-- `unfair` remains a direct adjective-side check
+- `produce` / `product` / `productive` (only `production` has lowered to P2;
+  existing Unit 32 `produce` remains cross-referenced)
+- `reduce` remains conservative; `reductive` and `reduction` are P2
+- `diction` / `dictation` after repeated speech-word-family confusion
+- `conductor` / `conduction` / `conductive` after a second adjective miss
+- `semiofficial` / `semi-permanent` after opposite-direction misses
 
 P2:
 
+- `transformation` / `platform` for change process versus supporting system
+- `production` and `reductive` after second consecutive direct corrections
 - `audible` / `audibility` / `audibly`
 - `flexible` / `flexibility`
+- `flex` / `flexor`
 - `addict` / `addicted`
+- `unfair` / `unfairly` / `unfairness`
 - `actual` / `actuality`
-- `semiofficial` / `semi-permanent`
-- `diction` / `dictionary`
-- `conductor` / `conductive`
+- `dictionary` linked to the P1 `diction` / `dictation` contrast
 - `accredit` / `credential`
 - `jewelry` / `stationery store`
 - `indicator` / `indication`
@@ -427,9 +517,22 @@ P2:
 - `underrate` (`understate` is now cooldown)
 - Unit 46 word families and due older groups
 
+Current Unit 50 coverage:
+
+- Book words: `conform`, `inform`, `platform`, `reform`, `transform`
+- Word families/support: `conformable`, `conformance`, `conformity`,
+  `conformist`, `informative`, `information`, `misinformation`,
+  `reformation`, `transformer`, `transformation`
+- Extensions: `formal`, `formation`, `formula`, `formulate`, `formless`,
+  `deform`
+- Existing Unit 41 `form` is cross-referenced and is not duplicated.
+- Q6 `inform` and Q7 `conform` passed first direct practice; Q8 family target
+  `transformation` was missed. Continue Unit 50 family coverage and Recovery.
+
 P3 cooldown:
 
 - `precaution` remains stable after a new safety-context check.
+- `mid-range` remains stable after the 2026-10-13 price-context check.
 - `overcharge` / `overpay`, `understate`, and `semiannual` remain stable.
 - `aquifer` / `aqueduct`, `returnable`, `uphold`, `upkeep`, `synonymous`,
   `transparently`, and `superficiality` are newly stable cooldown items.
@@ -464,14 +567,17 @@ Cooldown / light watch:
 - `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Daily Quick for 2026-10-12
+## Recommended Daily Quick for 2026-10-14
 
 Use 12 questions:
 
-- 6 Recovery questions, prioritizing the production family and new role errors
-- 3 remaining/lightly tested Unit 49 questions, including a family answer
-- 2 due recent-unit checks
-- 1 Unit Tour / Topic Tour / cooldown check
+- 5 Recovery questions, including the new transformation/platform contrast
+  and rotating the remaining P1 role contrasts
+- 3 Unit 50 questions, including a word-family or support-word answer
+- 2 scheduled Tactics Unit 01 Tier-A targets: department and canonical forget
+  (printed forgotten); keep accounting/assignment out until their normal due date
+- 1 due Unit 49/recent-unit check, including `flex` / `flexor` when appropriate
+- 1 Unit Tour / cooldown check
 
 Use new contexts and do not repeat the Weekly sentences verbatim.
 
@@ -485,9 +591,10 @@ For every quiz, use:
 1. Recovery
 2. Due words
 3. Current unit coverage
-4. Unit Tour
-5. Topic Tour
-6. Cooldown and long-unseen terms
+4. Scheduled Tactics targets
+5. Unit Tour
+6. Topic Tour
+7. Cooldown and long-unseen terms
 
 Avoid pure random selection. Avoid repeating exact sentence text from recent
 quizzes unless intentionally checking Recovery.
@@ -501,8 +608,8 @@ learner explicitly says they do not know. Do not promote those candidates into
 
 ## Source limitation note
 
-The earlier complete source files for Unit 01-21 were not available in this
-workspace. This package includes all source files found locally from the
-2026-07-31 handoff plus all known updates recorded in the referenced
-conversation through Unit 29. Do not fabricate missing Unit 01-21 rows; if the
-original full vocabulary source is later available, merge this package into it.
+The earlier Word Formation source files for Unit 01-21 were not available in
+this workspace. The Tactics Vocabulary Index is a separate source track and
+now provides Tactics Units 01-24. Do not treat those Tactics units as missing
+Word Formation units or merge their numbering without the `tactics-uXX`
+namespace.
