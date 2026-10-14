@@ -141,3 +141,129 @@ Memory: `The company's digital transformation introduced a new online platform.`
 - Bank total unchanged: 1,331 rows, now 585 nonqueued and 746 queued.
 
 Next scheduled quiz: Wednesday 2026-10-14, Daily Quick, 12 questions.
+
+## Wednesday 2026-10-14 - Daily Quick
+
+Quiz ID: DQ-2026-10-14
+Source: `QUIZ_2026-10-14_DAILY.md`
+Score: 6/12 = 50.0%.
+
+- Correct without uncertainty markers: Q1, Q5, Q10, Q11, Q12 (5)
+- Correct but uncertain: Q9 (B. department; reasoning correct)
+- Wrong without uncertainty markers: Q2, Q3, Q4, Q6, Q7 (5)
+- Wrong and uncertain: Q8 (D. multifunctional)
+- Unanswered/unresolved: none
+- Incidental new-word candidates: none reported
+
+Learner final answers: 1B 2A 3B 4B 5B 6D 7C 8D? 9B? 10A 11C 12D.
+Answer key: 1B 2D 3A 4C 5B 6A 7D 8C 9B 10A 11C 12D.
+For Q8, A. function was considered but D. multifunctional was the final
+choice. For Q9, the learner understood `finance department` as bộ phận tài
+chính; the answer is correct despite the uncertainty marker.
+
+### Q2 - dictation versus dictate
+
+Original: `During ______, the teacher read a paragraph aloud while the students wrote down exactly what they heard.`
+
+Learner: A. `dictate`. Correct: D. `dictation`.
+
+Why: `During` needs a noun naming the listening-and-writing activity.
+`Dictation` is that exercise; `dictate` is the verb for speaking words to be
+written. Memory: `The teacher dictates a paragraph during dictation.`
+
+### Q3 - conductor versus conductive
+
+Original: `The electrician placed a copper ______ inside the cable to carry current between the contacts.`
+
+Learner: B. `conductive`. Correct: A. `conductor`.
+
+Why: `A copper ...` needs a noun for the material that carries current.
+`Conductor` is the noun; `conductive` is an adjective that describes the
+material. Memory: `Copper is a conductor because it is conductive.`
+
+### Q4 - product versus production
+
+Original: `After a year of design and testing, the company is ready to sell its finished ______.`
+
+Learner: B. `production`. Correct: C. `product`.
+
+Why: The company sells the finished thing, a `product`. `Production` names
+the process or amount of making things. Both are nouns, so the difference is
+meaning, not POS. Memory: `Production is complete; the finished product is on sale.`
+
+### Q6 - malfunction versus dysfunction
+
+Original: `The checkout tablet began to ______ during the evening rush, freezing whenever a customer tried to pay.`
+
+Learner: D. `dysfunction`. Correct: A. `malfunction`.
+
+Why: `Began to` requires a base-form verb, and a freezing device
+`malfunctions`. `Dysfunction` is a noun for impaired functioning.
+Memory: `The tablet malfunctioned; the team reported a malfunction.`
+
+### Q7 - perfunctory versus perfunctorily
+
+Original: `The manager gave the bug report a ______ review: he glanced at the title and replied “fine” without reading the details.`
+
+Learner: C. `perfunctorily`. Correct: D. `perfunctory`.
+
+Why: The blank describes the noun `review`, so it needs adjective
+`perfunctory`, meaning done with little care. `Perfunctorily` is an adverb
+modifying an action. Memory: `It was a perfunctory review; he checked the report perfunctorily.`
+
+### Q8 - functionality versus multifunctional
+
+Original: `The app works, but the next release will add ______, including offline reports and automatic reminders.`
+
+Learner: D. `multifunctional?` (also considered A. `function`).
+Correct: C. `functionality`.
+
+Why: The learner correctly inferred that the release adds capabilities.
+`Add functionality` uses the noun for a set of functions or features.
+`Multifunctional` is an adjective meaning having several functions; it would
+need a noun here, such as `multifunctional features`. Bare singular count noun
+`function` does not fit after `add`; the sentence would need `a function` or
+plural `functions`. `Multifunctional` also does not mean multitasking.
+Memory: `The update adds functionality; the device now has multifunctional features.`
+
+### Q9 - correct but uncertain
+
+Original: `The finance ______ prepares the company's budget each year.`
+
+Learner: B. `department?`. Correct: B. `department`.
+
+The reasoning `bộ phận tài chính chuẩn bị ...` identifies the department as
+an organizational division, so the answer is sound. Retain light Recovery
+watch because the learner marked the choice uncertain.
+Memory: `The finance department prepares the annual budget.`
+
+### State Changes - 2026-10-14
+
+- Keep `semi-permanent` / `semiofficial` at P1 after the first direct duration
+  correction following repeated two-way confusion. Keep `dictation` /
+  `diction` P1; add selected verb `dictate` to P2 Recovery for the new
+  verb-versus-exercise error.
+- Keep `conductor` / `conductive` at P1 after another reverse POS error.
+  Keep `product` P1 and reactivate `production` from P2 to P1 after Q4
+  selected the process noun for the finished item.
+- `Transformation` was correct after the 2026-10-13 miss but stays P2
+  Recovery; `platform` also stays P2. One confident correction does not
+  clear the contrast.
+- Add Unit 51 P2 Recovery pairs `malfunction` / `dysfunction`,
+  `perfunctory` / `perfunctorily`, and `functionality` /
+  `multifunctional`. The considered but unselected `function` stays
+  `new_unit/P2`; explicitly test its countable-noun use later.
+- `TACTICS-U01-003` `department` was correct but uncertain, so its canonical
+  row moves from `queued/P2` to `recovery/P2` under the Tactics transition
+  rule. `TACTICS-U01-004` `forget` was correct through printed `forgotten`
+  and moves from `queued/P2` to `new_unit/P2`. No normal repeat of `forget`
+  before 2026-10-21.
+- Schedule verified, still-queued `TACTICS-U01-005` (`gym`) and
+  `TACTICS-U02-001` (`actress`) for the next Daily Quick. Their contextual
+  definitions are checked; next unscheduled cursor is `TACTICS-U02-002`.
+- Unit 50 `misinformation` was correct on first direct practice and stays
+  `new_unit/P2`. `Upkeep` remains existing P3 cooldown after another
+  correct maintenance-context check. No new cooldown or candidate addition.
+- Bank remains 1,342 rows: 598 nonqueued and 744 queued.
+
+Next expected quiz: Thursday 2026-10-15, Daily Quick, 12 questions.

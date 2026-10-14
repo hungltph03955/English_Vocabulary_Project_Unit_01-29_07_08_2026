@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Tuesday 2026-10-13
+Date: Wednesday 2026-10-14
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-51 plus Tactics Units 01-24
+Current scope: Unit 01-52 plus Tactics Units 01-24
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -16,7 +16,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
 5. `TACTICS_ROTATION_STATE.md`
-6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-13.md`)
+6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-14.md`)
 7. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 8. `VOCABULARY_STATE.csv`
 9. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-10-12_to_2026-10-16.md`)
@@ -29,12 +29,14 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Tuesday 2026-10-13 was completed as DQ-2026-10-13, Daily Quick, 11/12
-(91.7%). Exact source: `QUIZ_2026-10-13_DAILY.md`. Only Q8 was wrong.
+Wednesday 2026-10-14 was completed as DQ-2026-10-14, Daily Quick, 6/12
+(50.0%). Exact source: `QUIZ_2026-10-14_DAILY.md`.
 
-The next expected quiz is Wednesday 2026-10-14, Daily Quick, 12 questions.
-No quiz is currently pending. The Tactics dry run is a separate validation
-artifact and must not be used for grading an issued quiz.
+The next expected quiz is Thursday 2026-10-15, Daily Quick, 12 questions.
+No quiz is pending. Grading details and review blocks are in
+`QUIZ_HISTORY_WEEK_2026-10-12_to_2026-10-16.md`.
+The Tactics dry run is a separate validation artifact and must not be used
+for grading the issued quiz.
 The last Friday of October is 2026-10-30.
 
 Friday 2026-09-25 is the last Friday of September: Monthly Quick, 50 questions.
@@ -50,12 +52,13 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 51 and now includes a queued Tactics
+The project has advanced through Unit 52 and now includes a queued Tactics
 Vocabulary Index track covering Tactics Units 01-24.
 
-Current bank: 1,342 rows, 596 nonqueued and 746 queued after Unit 51 import.
-Unit 51 `funct` is primary current coverage. Unit 50 remains recent review
-with unfinished families and transformation/platform P2 Recovery.
+Current bank: 1,357 rows, 614 nonqueued and 743 queued after Unit 52 import.
+Unit 52 `gen` is primary current coverage. Unit 51 `funct` remains recent
+review and P2 Recovery after the 2026-10-14 quiz; Unit 50 also has unfinished
+families and transformation/platform P2 Recovery.
 
 Recent unit coverage:
 
@@ -89,6 +92,58 @@ Recent unit coverage:
 - Unit 49: roots `flect` / `flex`
 - Unit 50: root `form`
 - Unit 51: root `funct`
+- Unit 52: root `gen`
+
+## Update 2026-10-14 - Unit 52 root `gen`
+
+The user added an unnumbered `gen` lesson after Unit 51 in the addendum.
+Normalize it as Unit 52: 16 distinct terms (5 book words, 6 family/support,
+5 extensions). Add 15 new canonical rows at `new_unit/P2` and reuse the
+existing `generous` lemma from Tactics Unit 22 as the WF52 book word. Its
+shared canonical row is now `new_unit/P2`, while Tactics target ID
+`TACTICS-U22-005` remains unscheduled and untested. Do not duplicate it or
+credit a Tactics result merely from this vocabulary import.
+
+Correct the source gloss for `gene` to a unit of heredity, not a cell unit.
+Clarify `general` adjective/noun, `generate` / `generative` / `generation`,
+and `genetic` versus `congenital`; the latter means present from birth, not
+necessarily inherited. The addendum has normalized English and Vietnamese
+meanings and parts of speech for all sixteen terms.
+
+Unit 52 now receives the 3 primary current-unit slots in the next Daily
+Quick, including a word-family/support correct answer. Keep 5 Recovery
+questions after the 6/12 result, 2 already scheduled Tactics targets, 1
+Unit 51/recent check, and 1 cooldown/tour. The gym/actress batch and Tactics
+cursor U02-002 remain unchanged. No new quiz or candidate promotion was
+created by this import. The last completed result remains DQ-2026-10-14.
+
+## Update 2026-10-14 - Daily Quick
+
+Score 6/12. Q1, Q5, Q9-Q12 were correct; Q9 (`department`) was correct but
+uncertain. Q2-Q4 and Q6-Q8 were wrong; Q8 (`functionality`) was wrong and
+uncertain. The learner understood that the app adds capabilities but selected
+adjective `multifunctional` after `add`, and also considered bare singular
+`function`. No item was unresolved and no incidental candidate was named.
+
+Keep `semi-permanent` / `semiofficial`, `diction` / `dictation`, and
+`conductor` / `conductive` at P1. Add `dictate` to P2; keep `product` P1 and
+raise selected `production` back to P1 after the finished-item confusion.
+`Transformation` was a first direct correction and stays P2 with `platform`.
+
+Add Unit 51 Recovery P2 pairs `malfunction` / `dysfunction`,
+`perfunctory` / `perfunctorily`, and `functionality` /
+`multifunctional`. `Function` was only considered, not selected or
+retrieved; it remains new_unit/P2. Unit 50 `misinformation` passed its
+first check and remains new_unit/P2; `upkeep` remains cooldown/P3.
+
+Tactics Q9 `TACTICS-U01-003` (`department`) moves to recovery/P2 because
+the correct answer was uncertain. Q10 `TACTICS-U01-004` (canonical `forget`,
+printed `forgotten`) moves to new_unit/P2 after a confident correct answer.
+The next verified batch is `TACTICS-U01-005` (`gym`, T01) and
+`TACTICS-U02-001` (`actress`, T02); both stay queued until grading. The next
+unscheduled cursor is `TACTICS-U02-002`. No new cooldown item or candidate.
+
+Use `RECOVERY_PRIORITIES_2026-10-14.md` and the current rotation files.
 
 ## Update 2026-10-13 - Unit 51 root `funct`
 
@@ -454,16 +509,16 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Date: Tuesday 2026-10-13
-- Quiz ID: DQ-2026-10-13
+- Date: Wednesday 2026-10-14
+- Quiz ID: DQ-2026-10-14
 - Type: Daily Quick
-- Recorded result: 11/12 (91.7%)
-- Correct but uncertain: none
-- Wrong: Q8
-- Wrong and uncertain: none
+- Recorded result: 6/12 (50.0%)
+- Correct but uncertain: Q9
+- Wrong: Q2, Q3, Q4, Q6, Q7, Q8
+- Wrong and uncertain: Q8
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-10-13_DAILY.md`
+- Exact grading source: `QUIZ_2026-10-14_DAILY.md`
 - Result and reviews: `QUIZ_HISTORY_WEEK_2026-10-12_to_2026-10-16.md`
 
 Earlier valid records remain in their dated history files. Never apply their
@@ -505,21 +560,26 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-10-13.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-10-14.md` and the current CSV for the complete queue.
 
 P1:
 
-- `produce` / `product` / `productive` (only `production` has lowered to P2;
-  existing Unit 32 `produce` remains cross-referenced)
+- `produce` / `product` / `production` / `productive` after the finished
+  item was confused with the production process; existing Unit 32 `produce`
+  remains cross-referenced
 - `reduce` remains conservative; `reductive` and `reduction` are P2
 - `diction` / `dictation` after repeated speech-word-family confusion
-- `conductor` / `conduction` / `conductive` after a second adjective miss
+- `conductor` / `conduction` / `conductive` after a reverse adjective/noun miss
 - `semiofficial` / `semi-permanent` after opposite-direction misses
 
 P2:
 
 - `transformation` / `platform` for change process versus supporting system
-- `production` and `reductive` after second consecutive direct corrections
+- `dictate` after selecting a verb where `dictation` noun was needed
+- `malfunction` / `dysfunction`, `perfunctory` / `perfunctorily`, and
+  `functionality` / `multifunctional` after Unit 51 first-practice errors
+- `department` after a correct but uncertain Tactics answer
+- `reductive` after consecutive direct corrections
 - `audible` / `audibility` / `audibly`
 - `flexible` / `flexibility`
 - `flex` / `flexor`
@@ -537,14 +597,26 @@ P2:
 - `underrate` (`understate` is now cooldown)
 - Unit 46 word families and due older groups
 
-Current Unit 51 coverage:
+Current Unit 52 coverage:
+
+- Book words: `gene`, `general`, `generate`, `generous`, `genius`
+- Family/support: `genetic`, `generally`, `regenerate`, `degenerate`,
+  `generative`, `generation`
+- Extensions: `gender`, `genuine`, `genesis`, `indigenous`, `congenital`
+- All sixteen are `new_unit/P2` for WF52 first practice. `Generous` reuses
+  the Tactics T22 canonical row; the T22 target remains untested.
+- Include a family/support answer in the next quiz cycle.
+
+Recent Unit 51 coverage:
 
 - Book words: `defunct`, `function`, `dysfunction`, `malfunction`,
   `multifunctional`, `perfunctory`
 - Family/support: `functional`, `functionality`, `dysfunctional`, `perfunctorily`
 - Extension: `functionary`
-- All are imported, untested `new_unit/P2`; include a family/support answer
-  in the next quiz cycle.
+- Q6 `malfunction`, Q7 `perfunctory`, and Q8 support noun `functionality`
+  were missed; each target and chosen contrast is now recovery/P2.
+- Remaining terms, including `function`, `functional`, and `dysfunctional`,
+  still need direct first practice. Include a family/support answer next cycle.
 
 Recent Unit 50 coverage:
 
@@ -556,7 +628,9 @@ Recent Unit 50 coverage:
   `deform`
 - Existing Unit 41 `form` is cross-referenced and is not duplicated.
 - Q6 `inform` and Q7 `conform` passed first direct practice; Q8 family target
-  `transformation` was missed. Continue Unit 50 family coverage and Recovery.
+  `transformation` was initially missed, then corrected on 2026-10-14 Q5.
+  `Misinformation` passed its first direct check on 2026-10-14 Q11. Continue
+  Unit 50 family coverage and Recovery.
 
 P3 cooldown:
 
@@ -596,17 +670,15 @@ Cooldown / light watch:
 - `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Daily Quick for 2026-10-14
+## Recommended Daily Quick for 2026-10-15
 
 Use 12 questions:
 
-- 5 Recovery questions, including the new transformation/platform contrast
-  and rotating the remaining P1 role contrasts
-- 3 Unit 51 questions, including a word-family or support-word answer
-- 2 scheduled Tactics Unit 01 Tier-A targets: department and canonical forget
-  (printed forgotten); keep accounting/assignment out until their normal due date
-- 1 due Unit 50/recent-unit check; rotate remaining families and Unit 49
-  `flex` / `flexor` when appropriate
+- 5 Recovery questions, rotating P1 and the new Unit 51 P2 contrasts
+- 3 Unit 52 first-practice questions, including a word-family or support answer
+- 2 scheduled Tactics Tier-A targets: gym from T01 and actress from T02
+- 1 due Unit 51/recent-unit check, rotating the new `funct` contrasts and
+  older Unit 50 families when appropriate
 - 1 Unit Tour / cooldown check
 
 Use new contexts and do not repeat the Weekly sentences verbatim.

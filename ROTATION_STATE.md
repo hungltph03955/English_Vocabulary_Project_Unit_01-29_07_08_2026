@@ -1,9 +1,73 @@
 # Rotation State - Snapshot
 
-Date: Tuesday 2026-10-13
-Scope: Unit 01-51 plus Tactics Units 01-24
-Last valid quiz: DQ-2026-10-13, Daily Quick on Tuesday 2026-10-13, 11/12 (91.7%)
-Next expected quiz: Daily Quick, 12 questions, Wednesday 2026-10-14
+Date: Wednesday 2026-10-14
+Scope: Unit 01-52 plus Tactics Units 01-24
+Last valid quiz: DQ-2026-10-14, Daily Quick on Wednesday 2026-10-14, 6/12 (50.0%)
+Next expected quiz: Daily Quick, 12 questions, Thursday 2026-10-15
+
+## 2026-10-14 Unit 52 root `gen` import
+
+- Normalize the user's new unnumbered `gen` lesson as Word Formation Unit 52
+  after Unit 51. Keep root label `gen` as analysis, not an active lemma.
+- Merge 16 distinct terms: 5 book words, 6 family/support forms, and 5
+  extensions. Append 15 new bank rows as `new_unit/P2`; cross-reference the
+  existing queued Tactics T22 `generous` row and activate that one shared
+  canonical lemma as WF52 `new_unit/P2`. The Tactics target
+  `TACTICS-U22-005` remains unscheduled and untested.
+- Book words: `gene`, `general`, `generate`, `generous`, `genius`.
+  Family/support: `genetic`, `generally`, `regenerate`, `degenerate`,
+  `generative`, `generation`. Extensions: `gender`, `genuine`, `genesis`,
+  `indigenous`, `congenital`.
+- Correct `gene` to a unit of heredity rather than a unit of a cell;
+  distinguish `genetic` from `congenital`, and broaden `generative` beyond
+  biological reproduction. The addendum has normalized POS and meanings.
+- Unit 52 is primary current coverage. Unit 51 becomes recent review while
+  retaining all six Q6-Q8 target/distractor P2 Recovery states from the
+  2026-10-14 quiz. P1 Recovery remains the highest selection priority.
+- Next Daily Quick: 5 Recovery, 3 Unit 52 first-practice including at least
+  one word-family/support correct answer, 2 already scheduled Tactics,
+  1 Unit 51/recent check, and 1 cooldown/tour. Use new contexts.
+- Tactics quota stays 2 Daily / 6 Weekly during Word Formation transition.
+  The scheduled gym/actress batch and unscheduled cursor U02-002 are unchanged.
+- Bank is now 1,357 rows: 614 nonqueued and 743 queued. Existing quiz scores
+  and mastery states are unchanged except for source-approved `generous`.
+  No candidate was promoted, and no quiz was issued by this import.
+
+## 2026-10-14 Daily Quick update
+
+- Completed `DQ-2026-10-14`: 6/12 (50.0%). Correct Q1, Q5, Q9, Q10,
+  Q11, Q12; Q9 correct but uncertain. Wrong Q2, Q3, Q4, Q6, Q7, Q8;
+  Q8 wrong and uncertain. No unanswered item or incidental candidate.
+- Exact source and option order: `QUIZ_2026-10-14_DAILY.md`. Results and
+  review blocks: `QUIZ_HISTORY_WEEK_2026-10-12_to_2026-10-16.md`.
+- Keep the `semi-permanent` / `semiofficial` P1 contrast after Q1 first
+  direct duration correction. Keep `diction` / `dictation` and
+  `conductor` / `conduction` / `conductive` at P1 after Q2/Q3 misses;
+  add selected verb `dictate` at P2. `Product` stays P1 and selected
+  `production` rises from P2 back to P1 after Q4 process-versus-item error.
+- Q5 `transformation` was a first confident direct correction after the
+  prior `platform` error; retain both at P2 Recovery.
+- Unit 51 Q6 `malfunction`, Q7 `perfunctory`, and Q8 family/support
+  `functionality` were missed on first checks. Add each target and its
+  selected contrast (`dysfunction`, `perfunctorily`, `multifunctional`) to
+  P2 Recovery. Q8 final choice D was uncertain; A. `function` was only
+  considered in the reasoning and remains untested `new_unit/P2`.
+- Q9 `department` was correct but uncertain with sound reasoning and moves
+  from queued to P2 Recovery. Q10 canonical `forget` was correct through
+  printed `forgotten` and moves from queued to `new_unit/P2`. Its next
+  normal review is no earlier than 2026-10-21.
+- Schedule verified `TACTICS-U01-005` (`gym`) and `TACTICS-U02-001`
+  (`actress`) for the next Daily Quick. They remain queued and untested;
+  next unscheduled cursor is `TACTICS-U02-002`.
+- Unit 50 `misinformation` passed its first word-family check and remains
+  `new_unit/P2`. Unit 42 `upkeep` remains existing P3 cooldown.
+- Bank total stays 1,342: 598 nonqueued and 744 queued. No new cooldown
+  item or candidate. Use `RECOVERY_PRIORITIES_2026-10-14.md`.
+- Thursday 2026-10-15: 5 Recovery, 3 current Unit 51 first-practice,
+  2 scheduled Tactics, 1 due/recent, 1 cooldown/tour.
+
+Older dated sections below are historical. Current selection uses this
+latest snapshot, the latest Recovery file, and the current CSV.
 
 ## 2026-10-13 Unit 51 root `funct` import
 

@@ -1,7 +1,7 @@
 # Tactics Rotation State
 
 Date initialized: Monday 2026-10-12
-Last updated: Tuesday 2026-10-13 after Unit 51 import; last grading DQ-2026-10-13
+Last updated: Wednesday 2026-10-14 after Unit 52 import; last grading DQ-2026-10-14
 Source: Tactics Vocabulary Index images, pages 110-112
 Source units: Tactics 01-24
 Detailed mapping: `TACTICS_IMPORT_MAP.csv`
@@ -26,24 +26,43 @@ it and its source text has `ocr_status=verified`.
 ## Current Cursor
 
 - Current pass: A - anchor words
-- Current source unit: Tactics Unit 01
-- Current cursor (next unscheduled target): `TACTICS-U01-005`
+- Current source unit: Tactics Unit 02 (T01 Pass-A anchors completed)
+- Current cursor (next unscheduled target): `TACTICS-U02-002`
 - Initial Daily Quick quota: 2 Tactics targets
 - Initial Weekly Quick quota: 6 Tactics targets
 - Scheduled targets for the next valid Daily Quick:
-  - `TACTICS-U01-003` - `department` (noun)
-  - `TACTICS-U01-004` - canonical `forget` (verb); printed `forgotten` (past participle / adjective)
-- Next expected quiz: Wednesday 2026-10-14, Daily Quick
-- Last Tactics quiz: `DQ-2026-10-13`, Q9-Q10, 2/2 without uncertainty markers
+  - `TACTICS-U01-005` - `gym` (noun), final T01 Pass-A anchor
+  - `TACTICS-U02-001` - `actress` (noun), first T02 Pass-A anchor
+- Next expected quiz: Thursday 2026-10-15, Daily Quick
+- Last Tactics quiz: `DQ-2026-10-14`, Q9-Q10, 2/2 correct; Q9 uncertain
 
-The prior batch `TACTICS-U01-001` / `TACTICS-U01-002` is graded and closed.
-The cursor advances to U01-005 because U01-003/U01-004 are now explicitly
-reserved as the next verified batch, not because they were already tested.
+The Q9/Q10 batch `TACTICS-U01-003` / `TACTICS-U01-004` is graded and closed.
+All five T01 Pass-A anchors have now been tested. U01-005 and U02-001 are
+reserved as the next verified batch; the next unscheduled cursor is U02-002.
 
 The next scheduled rows remain `queued/P2` in the main CSV until grading. Their
 scheduled eligibility exists only in this file and must be recorded in the
 quiz selection map. Canonical POS and contextual definitions have been checked;
 the source mapping preserves the printed `forgotten` form and its source POS.
+
+The previous issued quiz `DQ-2026-10-14` has been graded from
+`QUIZ_2026-10-14_DAILY.md`. `Department` is on P2 Recovery because its
+correct answer was uncertain; canonical `forget` is now new_unit/P2.
+
+## Grading Ledger - Wednesday 2026-10-14
+
+Exact source: `QUIZ_2026-10-14_DAILY.md`.
+
+| Target ID | Lemma | Q | Final / key | Result | Confidence | Error type | Current state | Earliest normal review |
+|---|---|---:|---|---|---|---|---|---|
+| TACTICS-U01-003 | department | 9 | B / B | correct | uncertain; reasoning correct | none | recovery/P2 light watch | Recovery due; no standard seven-day repeat requirement |
+| TACTICS-U01-004 | forget; printed forgotten | 10 | A / A | correct | no uncertainty marker | none | new_unit/P2 | 2026-10-21 |
+
+No Tactics target was answered incorrectly. Q9's uncertainty is tracked
+separately from its correct final answer. Both targets are now nonqueued;
+the next batch remains queued until it is tested. Main bank at grading: 1,342 rows,
+598 nonqueued and 744 queued. T01 Pass-A progress: 5/5 tested. T02 Pass-A
+progress: 0/5 tested, 1 reserved next.
 
 ## Grading Ledger - Tuesday 2026-10-13
 
@@ -69,8 +88,8 @@ Pass-A anchors for the current unit; exact scheduled eligibility is above.
 
 | Unit | Printed | Canonical in unit | New primary rows | Cross-reference | Combined repeats | Tier A | Tier B | Tier C | Next verified Tier-A batch |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| T01 | 22 | 22 | 21 | 1 | 0 | 12 | 6 | 4 | U01-003 to U01-005 |
-| T02 | 30 | 30 | 30 | 0 | 0 | 22 | 7 | 1 | U02-001 to U02-005 |
+| T01 | 22 | 22 | 21 | 1 | 0 | 12 | 6 | 4 | Pass-A anchors complete |
+| T02 | 30 | 30 | 30 | 0 | 0 | 22 | 7 | 1 | U02-001 reserved; U02-002 to U02-005 remain |
 | T03 | 34 | 34 | 31 | 1 | 2 | 31 | 3 | 0 | U03-001 to U03-005 |
 | T04 | 22 | 21 | 20 | 1 | 1 | 7 | 12 | 3 | U04-001, 002, 003, 005, 015 |
 | T05 | 36 | 36 | 36 | 0 | 0 | 22 | 8 | 6 | U05-001 to U05-005 |
@@ -133,16 +152,19 @@ stores the canonical lemma or phrase.
 
 ## Quick Allocation
 
-Current update: Unit 51 `funct` adds 11 nonqueued Word Formation rows on
-2026-10-13. The bank is now 1,342 rows, 596 nonqueued and 746 queued.
-This import does not change the Tactics mapping, tested ledger, scheduled
-department/forget batch, seven-day review dates, or unscheduled cursor U01-005.
+Unit 52 `gen` import on 2026-10-14 activated existing Tactics T22 lemma
+`generous` as a Word Formation book word without creating a duplicate.
+The T22 source row `TACTICS-U22-005` remains unscheduled and untested; use
+`generous` for WF52 coverage only until that Tactics target is selected by
+the Tactics rotation. The initial import counts above remain historical.
+Current bank: 1,357 rows, 614 nonqueued and 743 queued. The gym/actress
+scheduled batch and next unscheduled cursor U02-002 are unchanged.
 
 Transition phase while the current Word Formation unit needs first practice
-(currently Unit 51; Unit 50 remains recent review/Recovery):
+(currently Unit 52; Unit 51 remains recent review/Recovery):
 
-- Daily Quick: 5 Recovery, 3 Unit 51, 2 Tactics, 1 Unit 50/recent, 1 cooldown.
-- Weekly Quick: 8 Recovery, 6 Unit 51/current, 6 Tactics, 6 due/recent, 4 tour/family.
+- Daily Quick: 5 Recovery, 3 Unit 52, 2 Tactics, 1 Unit 51/recent, 1 cooldown.
+- Weekly Quick: 8 Recovery, 6 Unit 52/current, 6 Tactics, 6 due/recent, 4 tour/family.
 
 Steady phase after current Word Formation first-practice coverage:
 

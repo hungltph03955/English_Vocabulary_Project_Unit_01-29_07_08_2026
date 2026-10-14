@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-51 and Tactics Index 1-24
+# Word Formation Addendum - Units 22-52 and Tactics Index 1-24
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -2769,3 +2769,97 @@ Merge status: 11 distinct new entries appended to `VOCABULARY_STATE.csv` as
 `new_unit/P2` (6 book words, 4 family/support forms, 1 extension). All are
 untested; the import date is not evidence of successful quiz retrieval.
 Total bank after merge: 1,342 rows, 596 nonqueued and 746 queued.
+
+
+## Unit 52 - Root `gen`
+
+Imported Wednesday 2026-10-14. The learner's new unnumbered `gen` block follows
+Unit 51 `funct`, so it is classified as Unit 52. Use `gen` as a root-analysis
+label connected with birth, origin, kind, and producing; it is not a separate
+active lemma. The learner's word list is preserved below, with corrected
+glosses where needed and one canonical entry per word in the tables afterward.
+
+gen :
+
+gene : n : gen , đơn vị di truyền
+genetic :  adj : thuộc di truyền
+general : adj , n  : chung , tổng quát; vị tướng
+generally : adv : nói chung , thường
+generate : v : sinh ra , tạo ra , sản xuất
+regenerate : v : tái sinh
+degenerate : v: suy thoái
+generative : adj  : có khả năng tạo ra , sản sinh
+generation : n : thế hệ
+generous : adj : rộng lượng , hào phóng
+genius : n : thiên tài , thiên bẩm
+
+- Từ trong sách: gene, general, generate, generous, genius
+- Từ mở rộng:
+• gender (n) /ˈdʒen.də/: giới tính
+• genuine (adj) /ˈdʒen.ju.ɪn/: chân thật
+• genetic (adj) /dʒəˈnet.ɪk/: thuộc về di truyền
+• genesis (n) /ˈdʒen.ə.sɪs/: nguồn gốc, sự hình thành
+• indigenous (adj) /ɪnˈdɪdʒ.ɪ.nəs/: bản địa
+• generation (n) /ˌdʒen.əˈreɪ.ʃən/: thế hệ
+• congenital (adj) /kənˈdʒen.ɪ.təl/: bẩm sinh
+
+### Normalized Unit 52 classification
+
+Book words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| gene | noun | unit of heredity carried in DNA | gen; đơn vị di truyền |
+| general | adjective / noun | broad or not specific; a senior military officer | chung; tổng quát; vị tướng |
+| generate | verb | produce or create something | tạo ra; sinh ra; sản xuất |
+| generous | adjective | willing to give more than expected | rộng lượng; hào phóng |
+| genius | noun | a person with exceptional ability; exceptional intelligence or talent | thiên tài; trí tuệ hoặc tài năng xuất chúng |
+
+Word families and support words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| genetic | adjective | relating to genes or inherited traits | thuộc di truyền; thuộc về gen |
+| generally | adverb | in most cases; broadly speaking | nói chung; thường |
+| regenerate | verb | grow or produce again; renew | tái sinh; phục hồi; tạo lại |
+| degenerate | verb | become worse in quality or condition | suy thoái; thoái hóa |
+| generative | adjective | able to produce or create something | có khả năng tạo ra; sản sinh |
+| generation | noun | people born around the same time; the act of producing something | thế hệ; sự tạo ra |
+
+Extensions:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| gender | noun | a person's social or personal gender category | giới; giới tính |
+| genuine | adjective | real, authentic, or sincere | chân thật; chính hiệu; chân thành |
+| genesis | noun | origin or beginning of something | nguồn gốc; sự khởi đầu |
+| indigenous | adjective | native to a particular place | bản địa |
+| congenital | adjective | present from birth | bẩm sinh; có từ khi sinh |
+
+Watch:
+
+- `Gene` is a unit of heredity, not a unit of a cell. `Genetic` concerns
+  genes and inheritance. `Congenital` means present from birth; a congenital
+  condition is not necessarily inherited.
+- `General` is an adjective for broad or nonspecific; as a noun, it can name
+  a senior military officer. `Generally` is an adverb meaning in most cases.
+- `Generate` is a verb, while `generation` is a noun for a group of people or
+  an act of producing. `Generative` is an adjective for something that creates
+  or produces, including technology; it is not limited to reproduction.
+- `Regenerate` means produce or grow again; `degenerate` means worsen or
+  deteriorate. Do not confuse their opposite directions.
+- `Generous` is also printed in Tactics Unit 22 (`TACTICS-U22-005`). The
+  pre-existing canonical row is cross-referenced and activated for WF52
+  first-practice coverage, with no duplicate row. This does not count as a
+  Tactics Unit 22 target being tested or scheduled.
+- `Gender` and biological sex are not interchangeable in every context;
+  `genetic` and `congenital` are also distinct concepts.
+- Repeated mentions of `genetic` and `generation` in the extension list do
+  not create duplicates. No incidental candidate was promoted.
+
+Merge status: 16 distinct learner terms, comprising 5 book words, 6 family
+and support forms, and 5 extensions. Fifteen new rows were appended to
+`VOCABULARY_STATE.csv` as `new_unit/P2`; the existing queued `generous` row
+was cross-referenced to WF52 and activated as `new_unit/P2`. All sixteen are
+untested for this Word Formation lesson. Bank after merge: 1,357 rows,
+614 nonqueued and 743 queued.
