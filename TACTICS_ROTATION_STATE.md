@@ -1,7 +1,7 @@
 # Tactics Rotation State
 
 Date initialized: Monday 2026-10-12
-Last updated: Wednesday 2026-10-14 after Unit 52 import; last grading DQ-2026-10-14
+Last updated: Thursday 2026-10-15 after Unit 53 import; last grading DQ-2026-10-15
 Source: Tactics Vocabulary Index images, pages 110-112
 Source units: Tactics 01-24
 Detailed mapping: `TACTICS_IMPORT_MAP.csv`
@@ -26,24 +26,48 @@ it and its source text has `ocr_status=verified`.
 ## Current Cursor
 
 - Current pass: A - anchor words
-- Current source unit: Tactics Unit 02 (T01 Pass-A anchors completed)
-- Current cursor (next unscheduled target): `TACTICS-U02-002`
+- Current source unit: Tactics Unit 03 (T01 Pass-A anchors completed)
+- Current cursor (next unscheduled target): `TACTICS-U03-003`
 - Initial Daily Quick quota: 2 Tactics targets
 - Initial Weekly Quick quota: 6 Tactics targets
-- Scheduled targets for the next valid Daily Quick:
-  - `TACTICS-U01-005` - `gym` (noun), final T01 Pass-A anchor
-  - `TACTICS-U02-001` - `actress` (noun), first T02 Pass-A anchor
-- Next expected quiz: Thursday 2026-10-15, Daily Quick
-- Last Tactics quiz: `DQ-2026-10-14`, Q9-Q10, 2/2 correct; Q9 uncertain
+- Scheduled targets for the next valid Weekly Quick:
+  - `TACTICS-U02-002` - `age` (noun)
+  - `TACTICS-U02-003` - `almost` (adverb)
+  - `TACTICS-U02-004` - `blond` (adjective/noun)
+  - `TACTICS-U02-005` - `boyfriend` (noun)
+  - `TACTICS-U03-001` - `blouse` (noun)
+  - `TACTICS-U03-002` - canonical `bodybuilder` (noun); printed `body-builder`
+- Next expected quiz: Friday 2026-10-16, Weekly Quick, 30 questions
+- Last Tactics quiz: `DQ-2026-10-15`, Q9-Q10, 1/2 correct without uncertainty
 
-The Q9/Q10 batch `TACTICS-U01-003` / `TACTICS-U01-004` is graded and closed.
-All five T01 Pass-A anchors have now been tested. U01-005 and U02-001 are
-reserved as the next verified batch; the next unscheduled cursor is U02-002.
+The Q9/Q10 batch `TACTICS-U01-005` / `TACTICS-U02-001` is graded and closed.
+All five T01 Pass-A anchors have now been tested. T02 has one tested anchor
+(`actress`) and four reserved; T03 has two reserved. The next unscheduled
+cursor is U03-003.
 
-The next scheduled rows remain `queued/P2` in the main CSV until grading. Their
-scheduled eligibility exists only in this file and must be recorded in the
-quiz selection map. Canonical POS and contextual definitions have been checked;
-the source mapping preserves the printed `forgotten` form and its source POS.
+The six next scheduled rows remain `queued/P2` in the main CSV until grading.
+Their scheduled eligibility exists only in this file and must be recorded in
+the quiz selection map. Their canonical POS and contextual English definitions
+have been checked in the map and CSV. The mapping preserves printed
+`body-builder` alongside canonical lemma `bodybuilder`.
+
+The previous issued quiz `DQ-2026-10-15` has been graded from
+`QUIZ_2026-10-15_DAILY.md`. `Gym` is now new_unit/P2; `actress` is now
+Recovery P2 after the supervisor-for-performer error.
+
+## Grading Ledger - Thursday 2026-10-15
+
+Exact source: `QUIZ_2026-10-15_DAILY.md`.
+
+| Target ID | Lemma | Q | Final / key | Result | Confidence | Error type | Current state | Earliest normal review |
+|---|---|---:|---|---|---|---|---|---|
+| TACTICS-U01-005 | gym | 9 | A / A | correct | no uncertainty marker | none | new_unit/P2 | 2026-10-22 |
+| TACTICS-U02-001 | actress | 10 | D / C | wrong; selected supervisor | no uncertainty marker | performer versus manager | recovery/P2 | Recovery due |
+
+Main bank after grading: 1,357 rows, 616 nonqueued and 741 queued. The
+next six verified targets remain queued and untested. `Actress` is eligible
+for Recovery in a new context when due; do not count the next scheduled
+unseen batch as already mastered.
 
 The previous issued quiz `DQ-2026-10-14` has been graded from
 `QUIZ_2026-10-14_DAILY.md`. `Department` is on P2 Recovery because its
@@ -89,8 +113,8 @@ Pass-A anchors for the current unit; exact scheduled eligibility is above.
 | Unit | Printed | Canonical in unit | New primary rows | Cross-reference | Combined repeats | Tier A | Tier B | Tier C | Next verified Tier-A batch |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | T01 | 22 | 22 | 21 | 1 | 0 | 12 | 6 | 4 | Pass-A anchors complete |
-| T02 | 30 | 30 | 30 | 0 | 0 | 22 | 7 | 1 | U02-001 reserved; U02-002 to U02-005 remain |
-| T03 | 34 | 34 | 31 | 1 | 2 | 31 | 3 | 0 | U03-001 to U03-005 |
+| T02 | 30 | 30 | 30 | 0 | 0 | 22 | 7 | 1 | U02-001 tested; U02-002 to U02-005 reserved |
+| T03 | 34 | 34 | 31 | 1 | 2 | 31 | 3 | 0 | U03-001 to U03-002 reserved; U03-003 to U03-005 remain |
 | T04 | 22 | 21 | 20 | 1 | 1 | 7 | 12 | 3 | U04-001, 002, 003, 005, 015 |
 | T05 | 36 | 36 | 36 | 0 | 0 | 22 | 8 | 6 | U05-001 to U05-005 |
 | T06 | 43 | 43 | 39 | 3 | 1 | 27 | 14 | 2 | U06-001 to U06-005 |
@@ -157,14 +181,17 @@ Unit 52 `gen` import on 2026-10-14 activated existing Tactics T22 lemma
 The T22 source row `TACTICS-U22-005` remains unscheduled and untested; use
 `generous` for WF52 coverage only until that Tactics target is selected by
 the Tactics rotation. The initial import counts above remain historical.
-Current bank: 1,357 rows, 614 nonqueued and 743 queued. The gym/actress
-scheduled batch and next unscheduled cursor U02-002 are unchanged.
+Current bank after WF53 import: 1,373 rows, 632 nonqueued and 741 queued.
+The sixteen Word Formation `geo` entries do not alter Tactics target IDs,
+the six verified rows reserved for Friday's Weekly Quick, their queued
+status, or next unscheduled cursor U03-003. DQ-2026-10-15 ledger counts
+above remain historical.
 
 Transition phase while the current Word Formation unit needs first practice
-(currently Unit 52; Unit 51 remains recent review/Recovery):
+(currently Unit 53; Units 52/51 remain recent review/Recovery):
 
-- Daily Quick: 5 Recovery, 3 Unit 52, 2 Tactics, 1 Unit 51/recent, 1 cooldown.
-- Weekly Quick: 8 Recovery, 6 Unit 52/current, 6 Tactics, 6 due/recent, 4 tour/family.
+- Daily Quick: 5 Recovery, 3 Unit 53, 2 Tactics, 1 recent Word Formation, 1 cooldown.
+- Weekly Quick: 8 Recovery, 6 Unit 53/current, 6 Tactics, 6 due/recent, 4 tour/family.
 
 Steady phase after current Word Formation first-practice coverage:
 

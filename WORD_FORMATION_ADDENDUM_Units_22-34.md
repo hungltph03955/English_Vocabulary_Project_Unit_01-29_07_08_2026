@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-52 and Tactics Index 1-24
+# Word Formation Addendum - Units 22-53 and Tactics Index 1-24
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -2863,3 +2863,95 @@ and support forms, and 5 extensions. Fifteen new rows were appended to
 was cross-referenced to WF52 and activated as `new_unit/P2`. All sixteen are
 untested for this Word Formation lesson. Bank after merge: 1,357 rows,
 614 nonqueued and 743 queued.
+
+
+## Unit 53 - Root `geo`
+
+Imported Thursday 2026-10-15. The learner's new unnumbered `geo` block
+follows Unit 52 `gen`, so it is classified as Unit 53. `Geo` means Earth
+and organizes the word families; the root label is not an active lemma.
+Original learner forms appear below, followed by normalized parts of speech,
+meanings, and one bank entry per distinct word.
+
+geo :
+
+geochemistry : n : địa hóa học
+geochemical : adj : (thuộc) địa hóa học
+
+geography : n  : địa lý
+geographic : adj : thuộc địa lý
+geographer : n : nhà địa lý học
+
+geology : n : địa chất học
+geologic : adj  : thuộc địa chất
+geologist : n : nhà địa chất học
+
+geometry : n : hình học
+geometric : adj : thuộc hình học
+geothermal : adj : liên quan đến địa nhiệt
+
+• geophysics (n) /ˌdʒiː.əˈfɪz.ɪks/: địa vật lý
+• geocentric (adj) /ˌdʒiː.əʊˈsen.trɪk/: lấy Trái Đất làm trung tâm
+• geopolitics (n) /ˌdʒiː.əʊˈpɒl.ə.tɪks/: địa chính trị
+• geosphere (n) /ˈdʒiː.əʊ.sfɪə/: địa quyển
+• geotechnology (n) /ˌdʒiː.əʊ.tekˈnɒl.ə.dʒi/: công nghệ địa chất
+
+### Normalized Unit 53 classification
+
+Book words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| geochemistry | noun | study of Earth's chemical composition and chemical processes | địa hóa học |
+| geography | noun | study of Earth's places, environments, and people | địa lý học; địa lý |
+| geology | noun | study of Earth's materials, structure, processes, and history | địa chất học |
+| geometry | noun | branch of mathematics about shapes, sizes, and space | hình học |
+| geothermal | adjective | relating to heat from within Earth | thuộc địa nhiệt; liên quan đến nhiệt trong lòng đất |
+
+Word families and support words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| geochemical | adjective | relating to Earth's chemistry or geochemistry | thuộc địa hóa học |
+| geographic | adjective | relating to geography, places, or locations | thuộc địa lý; thuộc vị trí địa lý |
+| geographer | noun | person who studies geography | nhà địa lý học |
+| geologic | adjective | relating to geology or Earth's materials and history | thuộc địa chất |
+| geologist | noun | person who studies geology | nhà địa chất học |
+| geometric | adjective | relating to geometry or regular shapes | thuộc hình học; có dạng hình học |
+
+Extensions:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| geophysics | noun | study of Earth using physics and physical measurements | địa vật lý |
+| geocentric | adjective | placing or treating Earth as the center | lấy Trái Đất làm trung tâm |
+| geopolitics | noun | politics shaped by geography and relations between places | địa chính trị |
+| geosphere | noun | the solid parts of Earth, including rocks, soil, and interior layers | địa quyển; phần rắn của Trái Đất |
+| geotechnology | uncountable noun | application of scientific methods to Earth, rocks, soil, and related resources | công nghệ địa chất; kỹ thuật ứng dụng với đất đá |
+
+Watch:
+
+- `Geography` concerns places and environments; `geology` focuses on Earth's
+  materials, structure, and history; `geometry` is mathematics about shapes.
+  The similar beginnings do not make these nouns interchangeable.
+- `Geochemistry` is a field of study and `geochemical` describes related
+  substances or analyses. Likewise, `geology` is a field, `geologic` is its
+  adjective, and `geologist` names the person.
+- `Geography` / `geographic` / `geographer` and `geometry` / `geometric`
+  require distinct noun, adjective, and person roles in context.
+- `Geothermal` concerns Earth's heat, not simply a warm climate.
+- In the common Earth-system division, `geosphere` means Earth's solid
+  materials and layers. `Geotechnology` is applied work with Earth materials
+  and resources, not just a general-purpose map app.
+- `Geocentric` means Earth-centered; `geopolitics` concerns geography's role
+  in political relations. `Geophysics` uses physical methods to study Earth.
+- Definition checks: [USGS geochemistry](https://apps.usgs.gov/thesaurus/term-simple.php?code=437&thcode=2),
+  [USGS geophysics](https://www.usgs.gov/glossary/earthquake-hazards-program),
+  [NASA geosphere](https://mynasadata.larc.nasa.gov/basic-page/about-geosphere),
+  and [Cambridge geotechnology](https://dictionary.cambridge.org/us/dictionary/english/geotechnology).
+
+Merge status: 16 distinct new terms, comprising 5 book words, 6 family and
+support forms, and 5 extensions. All 16 were added to `VOCABULARY_STATE.csv`
+as `new_unit/P2` and remain untested. The root label `geo` and incidental
+candidate words were not promoted. Bank after merge: 1,373 rows,
+632 nonqueued and 741 queued.

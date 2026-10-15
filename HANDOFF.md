@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Wednesday 2026-10-14
+Date: Thursday 2026-10-15
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-52 plus Tactics Units 01-24
+Current scope: Unit 01-53 plus Tactics Units 01-24
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -16,7 +16,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
 5. `TACTICS_ROTATION_STATE.md`
-6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-14.md`)
+6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-15.md`)
 7. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 8. `VOCABULARY_STATE.csv`
 9. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-10-12_to_2026-10-16.md`)
@@ -29,14 +29,14 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
-Wednesday 2026-10-14 was completed as DQ-2026-10-14, Daily Quick, 6/12
-(50.0%). Exact source: `QUIZ_2026-10-14_DAILY.md`.
+Thursday 2026-10-15 was completed as DQ-2026-10-15, Daily Quick, 9/12
+(75.0%). Exact source: `QUIZ_2026-10-15_DAILY.md`.
 
-The next expected quiz is Thursday 2026-10-15, Daily Quick, 12 questions.
-No quiz is pending. Grading details and review blocks are in
+The next expected quiz is Friday 2026-10-16, Weekly Quick, 30 questions.
+No quiz is pending. DQ-2026-10-15 review blocks are in
 `QUIZ_HISTORY_WEEK_2026-10-12_to_2026-10-16.md`.
 The Tactics dry run is a separate validation artifact and must not be used
-for grading the issued quiz.
+for grading a real issued quiz.
 The last Friday of October is 2026-10-30.
 
 Friday 2026-09-25 is the last Friday of September: Monthly Quick, 50 questions.
@@ -52,13 +52,14 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 52 and now includes a queued Tactics
+The project has advanced through Unit 53 and now includes a queued Tactics
 Vocabulary Index track covering Tactics Units 01-24.
 
-Current bank: 1,357 rows, 614 nonqueued and 743 queued after Unit 52 import.
-Unit 52 `gen` is primary current coverage. Unit 51 `funct` remains recent
-review and P2 Recovery after the 2026-10-14 quiz; Unit 50 also has unfinished
-families and transformation/platform P2 Recovery.
+Current bank: 1,373 rows, 632 nonqueued and 741 queued after Unit 53 import.
+Unit 53 `geo` is primary current coverage. Unit 52 `gen` remains recent
+review with genetic/congenital P2 Recovery; Unit 51 `funct` retains its P2
+contrasts. Unit 50 also has unfinished families and transformation/platform
+P2 Recovery.
 
 Recent unit coverage:
 
@@ -93,6 +94,57 @@ Recent unit coverage:
 - Unit 50: root `form`
 - Unit 51: root `funct`
 - Unit 52: root `gen`
+- Unit 53: root `geo`
+
+## Update 2026-10-15 - Unit 53 root `geo`
+
+The user added a new unnumbered `geo` lesson at the end of the addendum.
+Classify it as Unit 53 after Unit 52. Sixteen distinct terms are now in
+`VOCABULARY_STATE.csv` at `new_unit/P2`: 5 book words, 6 word-family/support
+forms, and 5 extensions. No source lemma was previously in the bank, so
+all sixteen rows are new. The root label is analysis only.
+
+Book words: geochemistry, geography, geology, geometry, geothermal.
+Family/support: geochemical, geographic, geographer, geologic, geologist,
+geometric. Extensions: geophysics, geocentric, geopolitics, geosphere,
+geotechnology. The normalized addendum records POS and Vietnamese meanings,
+including the distinction among geography/geology/geometry and the precise
+solid-Earth and applied-technology senses of geosphere/geotechnology.
+
+Unit 53 now receives 6 current-unit slots in the 2026-10-16 Weekly Quick,
+including family/support correct answers. Keep 8 Recovery slots after the
+recent two-way product/production error, uncertain conductor/dictation
+answers, and genetic/congenital and actress/supervisor misses. Preserve the
+six Tactics targets already scheduled, six due/recent checks, and four
+tour/family checks. Friday is not the last Friday of October; use 30
+questions, not the 50-question Monthly Quick. No quiz was issued by this
+vocabulary update, and no candidate was promoted.
+
+## Update 2026-10-15 - Daily Quick
+
+Score 9/12. Q2-Q7, Q9, Q11, Q12 were correct; Q2 `conductor` and Q3
+`dictation` were correct but uncertain. Q1 `production`, Q8 `genetic`,
+and Q10 `actress` were missed. Q2 reasoning recognized the noun and
+conductor but described electricity, whereas `of heat` specifies thermal
+conduction. No item was unresolved; no incidental candidate was reported.
+
+Keep `product` / `production` P1 after another two-way item-versus-output
+miss. Keep `conductor` and `dictation` P1 after uncertain corrections.
+`Perfunctorily`, `functionality`, and `malfunction` were first confident
+corrections and remain P2 Recovery with their contrasts. Unit 52 `gene`
+and `generate` passed first practice at new_unit/P2; Q8 added
+`genetic` / `congenital` to P2 Recovery. `Semiannual` remains P3 cooldown.
+
+Tactics Q9 `TACTICS-U01-005` `gym` passed and moves queued to
+new_unit/P2. Q10 `TACTICS-U02-001` `actress` was confused with
+`supervisor` and moves queued to recovery/P2; supervisor stays P2.
+The next six verified targets for Friday's Weekly Quick are
+TACTICS-U02-002 to U02-005 (`age`, `almost`, `blond`, `boyfriend`) and
+TACTICS-U03-001 to U03-002 (`blouse`, canonical `bodybuilder`, printed
+`body-builder`). They remain queued; next unscheduled cursor U03-003.
+Bank: 1,357 rows, 616 nonqueued and 741 queued.
+
+Use `RECOVERY_PRIORITIES_2026-10-15.md` and the current rotation files.
 
 ## Update 2026-10-14 - Unit 52 root `gen`
 
@@ -509,16 +561,16 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Date: Wednesday 2026-10-14
-- Quiz ID: DQ-2026-10-14
+- Date: Thursday 2026-10-15
+- Quiz ID: DQ-2026-10-15
 - Type: Daily Quick
-- Recorded result: 6/12 (50.0%)
-- Correct but uncertain: Q9
-- Wrong: Q2, Q3, Q4, Q6, Q7, Q8
-- Wrong and uncertain: Q8
+- Recorded result: 9/12 (75.0%)
+- Correct but uncertain: Q2, Q3
+- Wrong: Q1, Q8, Q10
+- Wrong and uncertain: none
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-10-14_DAILY.md`
+- Exact grading source: `QUIZ_2026-10-15_DAILY.md`
 - Result and reviews: `QUIZ_HISTORY_WEEK_2026-10-12_to_2026-10-16.md`
 
 Earlier valid records remain in their dated history files. Never apply their
@@ -560,7 +612,7 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-10-14.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-10-15.md` and the current CSV for the complete queue.
 
 P1:
 
@@ -578,6 +630,9 @@ P2:
 - `dictate` after selecting a verb where `dictation` noun was needed
 - `malfunction` / `dysfunction`, `perfunctory` / `perfunctorily`, and
   `functionality` / `multifunctional` after Unit 51 first-practice errors
+- `genetic` / `congenital` after inherited DNA was confused with a
+  present-from-birth meaning
+- `actress` / `supervisor` for performer versus manager role
 - `department` after a correct but uncertain Tactics answer
 - `reductive` after consecutive direct corrections
 - `audible` / `audibility` / `audibly`
@@ -597,15 +652,27 @@ P2:
 - `underrate` (`understate` is now cooldown)
 - Unit 46 word families and due older groups
 
-Current Unit 52 coverage:
+Current Unit 53 coverage:
+
+- Book words: `geochemistry`, `geography`, `geology`, `geometry`, `geothermal`
+- Family/support: `geochemical`, `geographic`, `geographer`, `geologic`,
+  `geologist`, `geometric`
+- Extensions: `geophysics`, `geocentric`, `geopolitics`, `geosphere`,
+  `geotechnology`
+- All sixteen are untested `new_unit/P2`; include word-family/support
+  correct answers in the next quiz cycle.
+
+Recent Unit 52 coverage:
 
 - Book words: `gene`, `general`, `generate`, `generous`, `genius`
 - Family/support: `genetic`, `generally`, `regenerate`, `degenerate`,
   `generative`, `generation`
 - Extensions: `gender`, `genuine`, `genesis`, `indigenous`, `congenital`
-- All sixteen are `new_unit/P2` for WF52 first practice. `Generous` reuses
-  the Tactics T22 canonical row; the T22 target remains untested.
-- Include a family/support answer in the next quiz cycle.
+- `Gene` and `generate` passed first direct practice and remain new_unit/P2.
+  `Genetic` was missed with `congenital`; both now require P2 Recovery.
+- Other Unit 52 terms remain new_unit/P2. `Generous` reuses the Tactics
+  T22 canonical row; that target ID remains untested. Continue family/support
+  answer coverage in the next quiz cycle.
 
 Recent Unit 51 coverage:
 
@@ -614,7 +681,8 @@ Recent Unit 51 coverage:
 - Family/support: `functional`, `functionality`, `dysfunctional`, `perfunctorily`
 - Extension: `functionary`
 - Q6 `malfunction`, Q7 `perfunctory`, and Q8 support noun `functionality`
-  were missed; each target and chosen contrast is now recovery/P2.
+  were missed on 2026-10-14; `malfunction` and `functionality` received
+  first confident direct corrections on 2026-10-15 and stay Recovery P2.
 - Remaining terms, including `function`, `functional`, and `dysfunctional`,
   still need direct first practice. Include a family/support answer next cycle.
 
@@ -670,16 +738,15 @@ Cooldown / light watch:
 - `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Daily Quick for 2026-10-15
+## Recommended Weekly Quick for 2026-10-16
 
-Use 12 questions:
+Use 30 questions:
 
-- 5 Recovery questions, rotating P1 and the new Unit 51 P2 contrasts
-- 3 Unit 52 first-practice questions, including a word-family or support answer
-- 2 scheduled Tactics Tier-A targets: gym from T01 and actress from T02
-- 1 due Unit 51/recent-unit check, rotating the new `funct` contrasts and
-  older Unit 50 families when appropriate
-- 1 Unit Tour / cooldown check
+- 8 Recovery questions, rotating P1 and recent Unit 52/51 P2 contrasts
+- 6 Unit 53 current-unit questions, including word-family/support answers
+- 6 scheduled verified Tactics Tier-A targets across T02 and T03
+- 6 due/recent-unit checks, including Unit 52/51/50 family roles
+- 4 Unit Tour / Topic Tour / word-family checks
 
 Use new contexts and do not repeat the Weekly sentences verbatim.
 

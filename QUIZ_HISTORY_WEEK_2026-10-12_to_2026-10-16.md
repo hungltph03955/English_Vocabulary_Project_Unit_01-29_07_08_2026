@@ -267,3 +267,98 @@ Memory: `The finance department prepares the annual budget.`
 - Bank remains 1,342 rows: 598 nonqueued and 744 queued.
 
 Next expected quiz: Thursday 2026-10-15, Daily Quick, 12 questions.
+
+## Thursday 2026-10-15 - Daily Quick
+
+Quiz ID: DQ-2026-10-15
+Source: `QUIZ_2026-10-15_DAILY.md`
+Score: 9/12 = 75.0%.
+
+- Correct without uncertainty markers: Q4, Q5, Q6, Q7, Q9, Q11, Q12 (7)
+- Correct but uncertain: Q2 (A. conductor), Q3 (D. dictation)
+- Wrong without uncertainty markers: Q1, Q8, Q10
+- Wrong and uncertain: none
+- Unanswered/unresolved: none
+- Incidental new-word candidates: none reported
+
+Learner final answers: 1A 2A? 3D? 4B 5A 6C 7D 8A 9A 10D 11B 12D.
+Answer key: 1C 2A 3D 4B 5A 6C 7D 8B 9A 10C 11B 12D.
+
+### Q1 - production versus product
+
+Original: `After the power outage, the factory's daily ______ dropped from 500 phones to 100.`
+
+Learner: A. `product`. Correct: C. `production`.
+
+Why: The count of phones made per day measures `production`, the output or
+process of making goods. A `product` is one finished item or type of item;
+`daily product dropped from 500 phones to 100` is not natural here.
+Memory: `The product is the phone; production fell to 100 phones a day.`
+
+### Q8 - genetic versus congenital
+
+Original: `Because the trait was linked to DNA inherited from the parents, the researchers described it as ______.`
+
+Learner: A. `congenital`. Correct: B. `genetic`.
+
+Why: The explicit clue is inherited DNA, which supports `genetic`.
+`Congenital` means present from birth; it does not itself establish that a
+trait was inherited. A condition can be both genetic and congenital, but
+this sentence supplies inheritance rather than timing at birth.
+Memory: `A genetic trait may be inherited; congenital means present at birth.`
+
+### Q10 - actress versus supervisor
+
+Original: `The director praised the ______ for her performance in the lead role.`
+
+Learner: D. `supervisor`. Correct: C. `actress`.
+
+Why: `Director`, `performance`, and `lead role` point to the performer in a
+film or play, an `actress`. A `supervisor` manages or oversees people and is
+not the named performer in this context.
+Memory: `The actress played the lead role; the supervisor managed the team.`
+
+### Q2 and Q3 - correct but uncertain
+
+Q2 original: `Steel is a good ______ of heat, so a metal pan gets hot quickly.`
+Learner: A. `conductor?`. Correct: A. `conductor`.
+The noun reasoning was sound. The learner mentioned electricity, while
+`of heat` specifies thermal conduction; keep the word on P1 watch because
+the answer was uncertain and the context detail was missed.
+Memory: `Steel conducts heat; copper also conducts electricity.`
+
+Q3 original: `The assistant took ______ as the director spoke each line of the letter aloud.`
+Learner: D. `dictation?`. Correct: D. `dictation`.
+The explanation correctly identified writing down spoken words. Retain P1
+light watch because of the uncertainty marker and earlier repeated errors.
+Memory: `The director dictated the letter; the assistant took dictation.`
+
+### State Changes - 2026-10-15
+
+- Keep `product` / `production` at P1 after the reverse item-versus-output
+  error on Q1. Keep `conductor` and the linked conductive family at P1 after
+  Q2 correct but uncertain; clarify heat versus electricity. Keep
+  `dictation` / `diction` at P1 after Q3 correct but uncertain, while
+  `dictate` remains P2.
+- Q4 `perfunctorily`, Q5 `functionality`, and Q11 `malfunction` were first
+  confident corrections after the previous day's errors. Retain their P2
+  Recovery groups until correct retrieval in another varied context.
+- Q6 `gene` and Q7 `generate` were correct on first Unit 52 practice and
+  remain `new_unit/P2`. Q8 `genetic` was missed with `congenital`; add both
+  to P2 Recovery. Unit 52 word-family coverage remains in progress.
+- `TACTICS-U01-005` `gym` (Q9 A) was a first confident success and moves
+  queued -> new_unit/P2; next normal review no earlier than 2026-10-22.
+  `TACTICS-U02-001` `actress` (Q10 C) was missed for `supervisor` and moves
+  queued -> recovery/P2. `Supervisor` remains its existing Recovery P2
+  priority with the new performer-versus-manager contrast.
+- Schedule six verified Tier-A targets for the 2026-10-16 Weekly Quick:
+  TACTICS-U02-002 to U02-005 (`age`, `almost`, `blond`, `boyfriend`) and
+  TACTICS-U03-001 to U03-002 (`blouse`, canonical `bodybuilder`, printed
+  `body-builder`). They remain queued and untested; next unscheduled cursor
+  is `TACTICS-U03-003`.
+- Q12 `semiannual` remains P3 cooldown after another correct twice-yearly
+  check. No new cooldown item or candidate addition/promotion.
+- Bank remains 1,357 rows: 616 nonqueued and 741 queued.
+
+Next expected quiz: Friday 2026-10-16, Weekly Quick, 30 questions. This
+Friday is not the last Friday of October (2026-10-30).

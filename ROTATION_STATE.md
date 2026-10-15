@@ -1,9 +1,72 @@
 # Rotation State - Snapshot
 
-Date: Wednesday 2026-10-14
-Scope: Unit 01-52 plus Tactics Units 01-24
-Last valid quiz: DQ-2026-10-14, Daily Quick on Wednesday 2026-10-14, 6/12 (50.0%)
-Next expected quiz: Daily Quick, 12 questions, Thursday 2026-10-15
+Date: Thursday 2026-10-15
+Scope: Unit 01-53 plus Tactics Units 01-24
+Last valid quiz: DQ-2026-10-15, Daily Quick on Thursday 2026-10-15, 9/12 (75.0%)
+Next expected quiz: Weekly Quick, 30 questions, Friday 2026-10-16
+
+## 2026-10-15 Unit 53 root `geo` import
+
+- Normalize the learner's new unnumbered `geo` lesson as Word Formation
+  Unit 53 after Unit 52. The root label is an analysis node, not an extra
+  standalone active word.
+- Append 16 distinct terms at `new_unit/P2`: 5 book words
+  (`geochemistry`, `geography`, `geology`, `geometry`, `geothermal`),
+  6 family/support forms (`geochemical`, `geographic`, `geographer`,
+  `geologic`, `geologist`, `geometric`), and 5 extensions
+  (`geophysics`, `geocentric`, `geopolitics`, `geosphere`, `geotechnology`).
+- No existing bank lemma was duplicated or overwritten. The normalized
+  addendum clarifies geography versus geology versus geometry, noun/
+  adjective/person roles, geosphere's solid-Earth sense, and applied
+  geotechnology. All sixteen terms are imported but untested.
+- Unit 53 becomes primary current coverage. Unit 52 remains recent review
+  with `genetic` / `congenital` at P2 Recovery; Unit 51 still has
+  `funct` contrasts at P2. The existing P1 Recovery queue stays first.
+- Friday 2026-10-16 remains Weekly Quick, 30 questions, not the last
+  Friday Monthly Quick. Transition allocation: 8 Recovery, 6 current
+  Unit 53 including word-family/support answers, 6 already scheduled
+  Tactics, 6 due/recent Unit 52/51/older checks, and 4 Unit/Topic Tour
+  or family checks. Keep broad weekly coverage.
+- Tactics schedule stays TACTICS-U02-002 to U02-005 and U03-001 to
+  U03-002; next unscheduled cursor stays U03-003. No Tactics mapping or
+  candidate promotion is needed for this Word Formation-only import.
+- Bank now has 1,373 rows: 632 nonqueued and 741 queued. DQ-2026-10-15
+  grading, Recovery, and cooldown states remain unchanged. No quiz has
+  been issued by this import.
+
+## 2026-10-15 Daily Quick update
+
+- Completed `DQ-2026-10-15`: 9/12 (75.0%). Correct Q2-Q7, Q9, Q11,
+  and Q12; Q2/Q3 correct but uncertain. Wrong Q1, Q8, Q10. No unresolved
+  item or incidental candidate. Exact source: `QUIZ_2026-10-15_DAILY.md`;
+  detailed reviews in `QUIZ_HISTORY_WEEK_2026-10-12_to_2026-10-16.md`.
+- Keep `product` / `production` P1 after another reversed item-versus-output
+  error. Keep `conductor` and `dictation` P1 after uncertain corrections;
+  Q2 reasoning identified the noun but missed that `of heat` means thermal
+  rather than electrical conduction.
+- Q4 `perfunctorily`, Q5 `functionality`, and Q11 `malfunction` were first
+  confident corrections after 2026-10-14 errors; retain P2 Recovery.
+- Unit 52 Q6 `gene` and Q7 `generate` passed first checks and remain
+  `new_unit/P2`. Q8 family/support `genetic` was confused with `congenital`;
+  add both to P2 Recovery. Continue untested Unit 52 first practice.
+- Tactics `TACTICS-U01-005` (`gym`, Q9) passed and moves queued ->
+  new_unit/P2; normal repeat no earlier than 2026-10-22. `TACTICS-U02-001`
+  (`actress`, Q10) was missed for `supervisor` and moves queued ->
+  recovery/P2; selected `supervisor` stays recovery/P2.
+- Schedule the six verified Tier-A targets TACTICS-U02-002 to U02-005
+  (`age`, `almost`, `blond`, `boyfriend`) and TACTICS-U03-001 to U03-002
+  (`blouse`, canonical `bodybuilder`, printed `body-builder`) for the next
+  valid Weekly Quick. All stay queued pending grading; the next unscheduled
+  cursor is TACTICS-U03-003.
+- `Semiannual` stays existing P3 cooldown after Q12. No new cooldown or
+  candidate addition. Bank stays 1,357 rows: 616 nonqueued, 741 queued.
+- Use `RECOVERY_PRIORITIES_2026-10-15.md` and current CSV.
+- Friday 2026-10-16 is Weekly Quick, 30 questions; the Monthly Quick is on
+  the last Friday, 2026-10-30. Use broad rotation: 8 Recovery, 6 Unit 52,
+  6 scheduled Tactics, 6 due/recent, 4 Unit/Topic Tour or family checks.
+
+Older dated sections below retain historical context; current selection
+uses this latest grading snapshot and the latest Recovery file.
 
 ## 2026-10-14 Unit 52 root `gen` import
 
