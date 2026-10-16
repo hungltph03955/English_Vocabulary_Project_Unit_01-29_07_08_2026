@@ -362,3 +362,118 @@ Memory: `The director dictated the letter; the assistant took dictation.`
 
 Next expected quiz: Friday 2026-10-16, Weekly Quick, 30 questions. This
 Friday is not the last Friday of October (2026-10-30).
+
+## Friday 2026-10-16 - Weekly Quick
+
+Quiz ID: WQ-2026-10-16
+Source: `QUIZ_2026-10-16_WEEKLY.md`
+Score: 24/30 = 80.0%. Q1-Q20: 15/20. Q21-Q30: 9/10.
+
+- Correct without uncertainty: Q3, Q5-Q9, Q11-Q13, Q15, Q17-Q27, Q29-Q30 (23)
+- Correct but uncertain: Q16 (C. almost; reasoning nearly empty correct)
+- Wrong without uncertainty: Q1, Q2, Q4, Q10, Q14
+- Wrong and uncertain: Q28 (B. provision; misread trip as falling)
+- Unanswered/unresolved: none
+- Incidental new-word candidates: none reported
+
+Learner answers: 1C 2A 3A 4B 5B 6A 7D 8C 9B 10B
+11A 12C 13B 14D 15D 16C? 17A 18B 19D 20C
+21A 22D 23B 24C 25A 26D 27B 28B? 29A 30D.
+Answer key: 1B 2D 3A 4C 5B 6A 7D 8C 9B 10D
+11A 12C 13B 14A 15D 16C 17A 18B 19D 20C
+21A 22D 23B 24C 25A 26D 27B 28C 29A 30D.
+
+### Q1 - production versus productive
+
+Original: `The studio hired more workers to increase toy ______ before the holidays.`
+
+Learner: C. `productive`. Correct: B. `production`.
+
+Why: After `increase toy`, the sentence needs the noun for the amount or
+process of making toys: `production`. `Productive` is an adjective.
+Memory: `Productive workers increase toy production.`
+
+### Q2 - conduction versus conductor
+
+Original: `In the experiment, heat moved through the metal rod by ______.`
+
+Learner: A. `conductor`. Correct: D. `conduction`.
+
+Why: The blank after `by` names the heat-transfer process. `Conduction` is
+the process; a `conductor` is the material that carries the heat.
+Memory: `The metal rod is a conductor; heat passes through it by conduction.`
+
+### Q4 - semiofficial versus semi-permanent
+
+Original: `The company shared a ______ schedule: managers had approved it, but headquarters had not issued the final version.`
+
+Learner: B. `semi-permanent`. Correct: C. `semiofficial`.
+
+Why: Managers approved the schedule but final authority did not, so its
+status is partly official. `Semi-permanent` describes duration, not approval.
+Memory: `A semiofficial schedule awaits final approval; semi-permanent ink
+eventually fades.`
+
+### Q10 - geology versus geochemistry
+
+Original: `The scientist examined layers of rock to understand how a mountain formed; her field is ______.`
+
+Learner: B. `geochemistry`. Correct: D. `geology`.
+
+Why: Rock layers and mountain formation concern Earth's materials and
+history, which is `geology`. `Geochemistry` focuses on chemical composition
+and processes; no chemical data is described.
+Memory: `Geology studies rock layers; geochemistry studies their chemistry.`
+
+### Q14 - geochemical versus geochemistry
+
+Original: `The lab's ______ test measured chemical elements in the soil, including iron and sulfur.`
+
+Learner: D. `geochemistry`. Correct: A. `geochemical`.
+
+Why: `Geochemical test` is the natural adjective+noun term for a test of
+Earth materials' chemistry. `Geochemistry` names the field of study; it
+is less natural as the modifier in this specific sentence.
+Memory: `Geochemistry is a field; a geochemical test measures soil elements.`
+
+### Q28 - precaution versus provision
+
+Original: `Before the trip, she took a ______ and saved a copy of her passport.`
+
+Learner: B. `provision?`. Correct: C. `precaution`.
+
+Why: `Trip` is a journey here, not a fall. Saving a passport copy before
+travelling is a precaution that reduces risk. `Provision` is a supply or
+arrangement, and `took a provision` is not the natural collocation.
+Memory: `Take precautions before a trip; pack the necessary provisions.`
+
+### Q16 - correct but uncertain
+
+Original: `The battery is ______ empty: it has only one percent left.`
+Learner: C. `almost?`. Correct: C. `almost`.
+The reasoning `pin hầu như là trống` correctly captures nearly empty.
+Keep on Recovery P2 light watch until a confident varied-context retrieval.
+
+### State Changes - 2026-10-16
+
+- Keep `production` / `productive`, `conduction` / `conductor`, and
+  `semiofficial` / `semi-permanent` at P1 after renewed errors.
+- Add Unit 53 `geology` / `geochemistry` and `geochemical` /
+  `geochemistry` to Recovery P2. Q9 geography, Q11 geometry, Q12
+  geothermal, and Q13 geologist passed first practice and remain new_unit/P2.
+  Unit 53 family/support coverage was attempted, but Q14 geochemical was
+  missed; continue with a new context.
+- Reactivate `precaution` / `provision` from cooldown P3 to Recovery P2
+  after the uncertain Q28 miss. No new cooldown item; aqueduct,
+  synonymous, and threshold remain cooldown P3 after confident checks.
+- Keep first confident corrections `dictate`, `congenital`,
+  `multifunctional`, `perfunctory`, `platform`, and `flexor` at their
+  existing Recovery P2. Untested paired forms retain individual states.
+- Tactics Q15 `age`, Q17 `blond`, Q18 `boyfriend`, Q19 `blouse`, and Q20
+  `bodybuilder` move queued -> new_unit/P2 after confident first checks;
+  normal review no earlier than 2026-10-23. Q16 `almost` moves queued ->
+  recovery/P2 because it was correct but uncertain. All six IDs were
+  verified and scheduled; next pair U03-003 `boot` and U03-004
+  `comfortable` remains queued pending the next Daily Quick. Cursor U03-005.
+- Bank stays 1,373 rows: 638 nonqueued, 735 queued. No candidate added or
+  promoted. Next expected quiz: Monday 2026-10-19, Daily Quick, 12 questions.

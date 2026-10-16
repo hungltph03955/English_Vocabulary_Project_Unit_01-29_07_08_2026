@@ -1,9 +1,52 @@
 # Rotation State - Snapshot
 
-Date: Thursday 2026-10-15
+Date: Friday 2026-10-16
 Scope: Unit 01-53 plus Tactics Units 01-24
-Last valid quiz: DQ-2026-10-15, Daily Quick on Thursday 2026-10-15, 9/12 (75.0%)
-Next expected quiz: Weekly Quick, 30 questions, Friday 2026-10-16
+Last valid quiz: WQ-2026-10-16, Weekly Quick on Friday 2026-10-16, 24/30 (80.0%)
+Next expected quiz: Monday 2026-10-19, Daily Quick, 12 questions
+
+## 2026-10-16 Weekly Quick grading
+
+- Completed `WQ-2026-10-16`: 24/30 (80.0%). Q1-Q20 15/20 and Q21-Q30
+  9/10. Correct but uncertain Q16 `almost`; wrong Q1, Q2, Q4, Q10,
+  Q14, Q28, with Q28 also uncertain. Exact source and partial history:
+  `QUIZ_2026-10-16_WEEKLY.md`; full result and review blocks in
+  `QUIZ_HISTORY_WEEK_2026-10-12_to_2026-10-16.md`.
+- Keep repeated `production` / `productive`, `conduction` / `conductor`,
+  and `semiofficial` / `semi-permanent` contrasts at Recovery P1.
+  Reactivate `precaution` / `provision` at P2; add Unit 53 `geology` /
+  `geochemistry` and `geochemical` / `geochemistry` at P2. Keep
+  `almost` on P2 light watch for uncertainty.
+- Unit 53 book `geography`, `geometry`, `geothermal` and family/support
+  `geologist` passed first checks at new_unit/P2. `Geology` and
+  family/support `geochemical` were missed, so current-unit coverage
+  remains active with both book and family/support targets. Unit 52
+  family `generation`, `generally`, `regenerate` passed first checks.
+- Five scheduled Tactics targets became new_unit/P2 after confident first
+  checks; uncertain `almost` became recovery/P2. The next verified pair
+  is TACTICS-U03-003 `boot` (printed `boots`) and U03-004 `comfortable`.
+  Both stay queued/P2 until graded; next unscheduled cursor U03-005.
+- Q27 `aqueduct`, Q29 `synonymous`, and Q30 `threshold` remain cooldown/P3
+  after confident checks. No new cooldown or candidate promotion.
+- Bank remains 1,373 rows, now 638 nonqueued and 735 queued. Use
+  `RECOVERY_PRIORITIES_2026-10-16.md` for the next quiz. Monday's
+  12-question Daily Quick should favor Recovery, include Unit 53 book and
+  family/support answers, two scheduled Tactics targets, one due/recent
+  check, and one cooldown/tour check.
+
+## Issuance snapshot - Friday 2026-10-16 (historical)
+
+- Issued `WQ-2026-10-16`; exact sentences, A-D option order, selection map,
+  and key are saved in `QUIZ_2026-10-16_WEEKLY.md`.
+- Allocation: 8 Recovery, 6 Unit 53 including family/support answers,
+  6 scheduled Tactics, 6 due/recent, 4 older tour/family checks.
+- Tactics Q15-Q20 use the six IDs TACTICS-U02-002 through U02-005 and
+  TACTICS-U03-001 through U03-002. These canonical rows remain queued/P2
+  until grading; next unscheduled cursor remains TACTICS-U03-003.
+- Friday 2026-10-16 is not the last Friday of October; October's last
+  Friday is 2026-10-30, so this is Weekly, not Monthly.
+- No score or mastery changes have been applied for this pending quiz.
+  DQ-2026-10-15 remains the last completed result.
 
 ## 2026-10-15 Unit 53 root `geo` import
 

@@ -1,6 +1,6 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Thursday 2026-10-15
+Date: Friday 2026-10-16
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
 Current scope: Unit 01-53 plus Tactics Units 01-24
 
@@ -16,7 +16,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
 5. `TACTICS_ROTATION_STATE.md`
-6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-15.md`)
+6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-16.md`)
 7. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 8. `VOCABULARY_STATE.csv`
 9. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-10-12_to_2026-10-16.md`)
@@ -32,8 +32,10 @@ Do not generate any quiz until this startup sequence is complete.
 Thursday 2026-10-15 was completed as DQ-2026-10-15, Daily Quick, 9/12
 (75.0%). Exact source: `QUIZ_2026-10-15_DAILY.md`.
 
-The next expected quiz is Friday 2026-10-16, Weekly Quick, 30 questions.
-No quiz is pending. DQ-2026-10-15 review blocks are in
+The Friday 2026-10-16 Weekly Quick, `WQ-2026-10-16`, is completed:
+24/30 (80.0%). Q1-Q20 scored 15/20; Q21-Q30 scored 9/10. Exact
+questions, key, and partial-answer record are in
+`QUIZ_2026-10-16_WEEKLY.md`; full reviews and state changes are in
 `QUIZ_HISTORY_WEEK_2026-10-12_to_2026-10-16.md`.
 The Tactics dry run is a separate validation artifact and must not be used
 for grading a real issued quiz.
@@ -55,7 +57,7 @@ not be counted as a valid completed quiz.
 The project has advanced through Unit 53 and now includes a queued Tactics
 Vocabulary Index track covering Tactics Units 01-24.
 
-Current bank: 1,373 rows, 632 nonqueued and 741 queued after Unit 53 import.
+Current bank: 1,373 rows, 638 nonqueued and 735 queued after Weekly grading.
 Unit 53 `geo` is primary current coverage. Unit 52 `gen` remains recent
 review with genetic/congenital P2 Recovery; Unit 51 `funct` retains its P2
 contrasts. Unit 50 also has unfinished families and transformation/platform
@@ -95,6 +97,42 @@ Recent unit coverage:
 - Unit 51: root `funct`
 - Unit 52: root `gen`
 - Unit 53: root `geo`
+
+## 2026-10-16 Weekly Quick grading
+
+Score: 24/30 (80.0%). Correct but uncertain Q16 `almost` with sound
+reasoning; wrong Q1 `production`, Q2 `conduction`, Q4 `semiofficial`,
+Q10 `geology`, Q14 `geochemical`, and Q28 `precaution` (uncertain,
+selected `provision` and misread `trip` as a fall). No unanswered item or
+incidental new-word candidate.
+
+Keep repeated production/conduction/semiofficial groups at Recovery P1.
+Add `geology` / `geochemistry` and `geochemical` / `geochemistry` at P2;
+reactivate `precaution` / `provision` from P3 cooldown to P2. `Almost`
+is P2 light watch. Unit 53 book `geography`, `geometry`, `geothermal`
+and family/support `geologist` passed first checks; `geology` and
+`geochemical` were missed, so current-unit coverage remains active.
+Stable tour checks stayed P3; no new cooldown item or candidate promotion.
+
+Tactics Q15 `age`, Q17 `blond`, Q18 `boyfriend`, Q19 `blouse`, and Q20
+`bodybuilder` moved queued -> new_unit/P2. Q16 `almost` moved queued ->
+recovery/P2 because it was uncertain. The next verified pair for Monday's
+Daily Quick is TACTICS-U03-003 `boot` (printed `boots`) and U03-004
+`comfortable`, still queued/P2. Next unscheduled cursor U03-005.
+
+Next expected quiz: Monday 2026-10-19 Daily Quick, 12 questions. Read
+`RECOVERY_PRIORITIES_2026-10-16.md` after rotation states. Bank remains
+1,373 rows, 638 nonqueued and 735 queued.
+
+## Issuance snapshot - 2026-10-16 (historical)
+
+`WQ-2026-10-16` is issued: 8 Recovery, 6 Unit 53 including two
+word-family/support correct answers, 6 scheduled Tactics, 6 due/recent,
+and 4 Unit/Topic Tour or cooldown checks. Six queued, OCR-verified Tactics
+targets are used in Q15-Q20, from TACTICS-U02-002 through U02-005 and
+TACTICS-U03-001 through U03-002. Their states remain queued/P2 until the
+learner's answers are graded. The next unscheduled cursor stays U03-003.
+No score or mastery change has been recorded for this pending quiz.
 
 ## Update 2026-10-15 - Unit 53 root `geo`
 
@@ -561,16 +599,16 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Date: Thursday 2026-10-15
-- Quiz ID: DQ-2026-10-15
-- Type: Daily Quick
-- Recorded result: 9/12 (75.0%)
-- Correct but uncertain: Q2, Q3
-- Wrong: Q1, Q8, Q10
-- Wrong and uncertain: none
+- Date: Friday 2026-10-16
+- Quiz ID: WQ-2026-10-16
+- Type: Weekly Quick
+- Recorded result: 24/30 (80.0%)
+- Correct but uncertain: Q16
+- Wrong: Q1, Q2, Q4, Q10, Q14
+- Wrong and uncertain: Q28
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-10-15_DAILY.md`
+- Exact grading source: `QUIZ_2026-10-16_WEEKLY.md`
 - Result and reviews: `QUIZ_HISTORY_WEEK_2026-10-12_to_2026-10-16.md`
 
 Earlier valid records remain in their dated history files. Never apply their
@@ -612,20 +650,24 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-10-15.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-10-16.md` and the current CSV for the complete queue.
 
 P1:
 
-- `produce` / `product` / `production` / `productive` after the finished
-  item was confused with the production process; existing Unit 32 `produce`
+- `produce` / `product` / `production` / `productive` after renewed Q1
+  adjective-versus-production-noun confusion; existing Unit 32 `produce`
   remains cross-referenced
 - `reduce` remains conservative; `reductive` and `reduction` are P2
 - `diction` / `dictation` after repeated speech-word-family confusion
-- `conductor` / `conduction` / `conductive` after a reverse adjective/noun miss
-- `semiofficial` / `semi-permanent` after opposite-direction misses
+- `conductor` / `conduction` / `conductive` after Q2 material-versus-process miss
+- `semiofficial` / `semi-permanent` after Q4 approval-status-versus-duration miss
 
 P2:
 
+- `geology` / `geochemistry` and `geochemical` / `geochemistry` after
+  Q10 field-of-study and Q14 adjective-role misses
+- `precaution` / `provision` reactivated from P3 after Q28 travel-risk miss
+- Tactics `almost` after Q16 correct but uncertain; reasoning sound
 - `transformation` / `platform` for change process versus supporting system
 - `dictate` after selecting a verb where `dictation` noun was needed
 - `malfunction` / `dysfunction`, `perfunctory` / `perfunctorily`, and
@@ -659,8 +701,10 @@ Current Unit 53 coverage:
   `geologist`, `geometric`
 - Extensions: `geophysics`, `geocentric`, `geopolitics`, `geosphere`,
   `geotechnology`
-- All sixteen are untested `new_unit/P2`; include word-family/support
-  correct answers in the next quiz cycle.
+- `Geography`, `geometry`, `geothermal`, and `geologist` passed first
+  practice at new_unit/P2. `Geology` and `geochemical` were missed and
+  entered Recovery P2 with `geochemistry`; the rest remain untested.
+  Include another family/support correct-answer target next cycle.
 
 Recent Unit 52 coverage:
 
@@ -670,7 +714,9 @@ Recent Unit 52 coverage:
 - Extensions: `gender`, `genuine`, `genesis`, `indigenous`, `congenital`
 - `Gene` and `generate` passed first direct practice and remain new_unit/P2.
   `Genetic` was missed with `congenital`; both now require P2 Recovery.
-- Other Unit 52 terms remain new_unit/P2. `Generous` reuses the Tactics
+- `Generation`, `generally`, and `regenerate` passed first checks and
+  remain new_unit/P2. Other untested Unit 52 terms retain their states.
+  `Generous` reuses the Tactics
   T22 canonical row; that target ID remains untested. Continue family/support
   answer coverage in the next quiz cycle.
 
@@ -683,8 +729,9 @@ Recent Unit 51 coverage:
 - Q6 `malfunction`, Q7 `perfunctory`, and Q8 support noun `functionality`
   were missed on 2026-10-14; `malfunction` and `functionality` received
   first confident direct corrections on 2026-10-15 and stay Recovery P2.
-- Remaining terms, including `function`, `functional`, and `dysfunctional`,
-  still need direct first practice. Include a family/support answer next cycle.
+- `Function` passed first practice on WQ Q24 and remains new_unit/P2;
+  `functional` and `dysfunctional` still need direct first practice.
+  Include a family/support answer next cycle.
 
 Recent Unit 50 coverage:
 
@@ -702,7 +749,8 @@ Recent Unit 50 coverage:
 
 P3 cooldown:
 
-- `precaution` remains stable after a new safety-context check.
+- `Precaution` and `provision` were reactivated to Recovery P2; exclude
+  them from the current cooldown list.
 - `mid-range` remains stable after the 2026-10-13 price-context check.
 - `overcharge` / `overpay`, `understate`, and `semiannual` remain stable.
 - `aquifer` / `aqueduct`, `returnable`, `uphold`, `upkeep`, `synonymous`,
@@ -717,7 +765,6 @@ Cooldown / light watch:
 - `threshold` vs `ratio` after a confident trigger-level recovery answer
 - `semiannual`, `objective`, and `midstream` after confident correct checks
 - `post-flight` vs `postwar`
-- `precaution` vs `preview`
 - `perceptive` vs `persuasive`
 - `outburst` vs `outbreak`
 - `monotonous`
@@ -738,7 +785,7 @@ Cooldown / light watch:
 - `objective`
 - stable Unit 27 and Unit 28 terms
 
-## Recommended Weekly Quick for 2026-10-16
+## Recommended Weekly Quick for 2026-10-16 (historical issuance plan)
 
 Use 30 questions:
 
