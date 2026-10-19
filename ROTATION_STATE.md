@@ -1,9 +1,74 @@
 # Rotation State - Snapshot
 
-Date: Friday 2026-10-16
-Scope: Unit 01-53 plus Tactics Units 01-24
-Last valid quiz: WQ-2026-10-16, Weekly Quick on Friday 2026-10-16, 24/30 (80.0%)
-Next expected quiz: Monday 2026-10-19, Daily Quick, 12 questions
+Date: Monday 2026-10-19
+Scope: Unit 01-54 plus Tactics Units 01-24
+Last valid quiz: DQ-2026-10-19, Daily Quick on Monday 2026-10-19, 8/12 (66.7%)
+Next expected quiz: Tuesday 2026-10-20, Daily Quick, 12 questions
+
+## 2026-10-19 Unit 54 grad/gress import
+
+- The learner's new grad/gress block follows Unit 53 and is classified as
+  Unit 54. Normalize 20 terms: 5 book, 8 family/support, 7 extensions.
+- Add 17 new_unit/P2 rows; reuse progress (Unit 32) and grade (Unit 42)
+  with their earlier status, priority, and last_seen preserved. Activate
+  shared canonical graduate (Tactics Unit 06) for explicit WF54 first
+  practice, without duplication. TACTICS-U06-009 stays unscheduled and
+  untested; printed graduated stays in the mapping.
+- Correct agressively -> aggressively in active vocabulary, distinguish
+  graduate noun/verb from graduation, and gradual/progressive/aggressive
+  adjective forms from their adverbs and related nouns. Original source
+  notes remain in the addendum. No incidental candidate is promoted.
+- Unit 54 becomes primary current coverage. Unit 53 retains P1/P2 Recovery
+  and unfinished family/support coverage, handled through Recovery and
+  recent review. No Recovery priority or completed quiz score changes.
+- Next Daily Quick: 5 Recovery, 3 Unit 54 including a family/support answer,
+  2 scheduled Tactics, 1 recent/due item, 1 cooldown/tour. Keep broad Weekly
+  allocation of 8 Recovery, 6 current Unit 54, 6 scheduled Tactics,
+  6 due/recent, and 4 tour/family checks.
+- Bank after merge: 1,390 rows, 658 nonqueued and 732 queued. The scheduled
+  dress/cereal pair and next unscheduled cursor U04-002 stay unchanged.
+  This import issues no quiz; DQ-2026-10-19 8/12 remains the last result.
+
+## 2026-10-19 Daily Quick grading
+
+- Completed `DQ-2026-10-19`: 8/12 (66.7%). Q1/Q9 wrong and uncertain,
+  Q7/Q8 wrong without uncertainty, Q2 correct but uncertain. No unresolved
+  answer or incidental candidate. Source: `QUIZ_2026-10-19_DAILY.md`;
+  reviews: `QUIZ_HISTORY_WEEK_2026-10-19_to_2026-10-23.md`.
+- Keep production/produce P1 after noun/verb error and conduction P1 after
+  uncertain success. Raise geochemical/geochemistry from P2 to P1 after
+  repeated noun/adjective confusion. Add geographer/geologist P2, boot P2,
+  and reactivate selected outfit from cooldown P3 to P2.
+- Lower only diction P1 -> P2 after confident direct checks on 2026-10-13
+  and 2026-10-19. Dictation remains P1. Semiofficial, precaution, and geology
+  retain their existing priorities after first corrections following misses.
+- Unit 53 book geology corrected; both family/support targets geochemical
+  and geographer missed. Keep current-unit family/support coverage active.
+  Unit 52 generative passed first practice at new_unit/P2. Renewal remains
+  existing cooldown/P3; no new cooldown item or candidate promotion.
+- Tactics boot U03-003 moves queued -> recovery/P2; comfortable U03-004
+  moves queued -> new_unit/P2, normal review no earlier than 2026-10-26.
+  Next verified scheduled pair: U03-005 dress and U04-001 cereal, still
+  queued/P2. Next unscheduled cursor U04-002.
+- Bank remains 1,373 rows: 640 nonqueued and 733 queued. Use
+  `RECOVERY_PRIORITIES_2026-10-19.md`. Next Daily Quick retains Recovery
+  priority, 3 current Unit 53 checks including family/support, 2 scheduled
+  Tactics targets, a recent/due check, and a cooldown/tour check.
+
+## Issuance snapshot - Monday 2026-10-19 (historical)
+
+- Issued `DQ-2026-10-19`; exact questions, A-D options, selection map,
+  and key are saved in `QUIZ_2026-10-19_DAILY.md`.
+- Allocation: 5 primary Recovery checks, 3 Unit 53 checks including
+  family/support adjective and person noun, 2 scheduled Tactics T03,
+  1 Unit 52 recent-family first practice, and 1 older cooldown check.
+- Q6-Q7 also revisit Unit 53 P2 errors, counted once under current-unit
+  coverage. All sentences use new contexts relative to the recent quiz.
+- Q9-Q10 use TACTICS-U03-003 `boot` (printed `boots`) and U03-004
+  `comfortable`, still queued/P2 until grading. Next unscheduled cursor
+  remains U03-005; bank stays 1,373 rows, 638 nonqueued and 735 queued.
+- No score/mastery update at issuance. WQ-2026-10-16 remains the last
+  completed quiz; Recovery source remains 2026-10-16.
 
 ## 2026-10-16 Weekly Quick grading
 

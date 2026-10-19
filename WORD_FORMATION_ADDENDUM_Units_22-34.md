@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-53 and Tactics Index 1-24
+# Word Formation Addendum - Units 22-54 and Tactics Index 1-24
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -2955,3 +2955,125 @@ support forms, and 5 extensions. All 16 were added to `VOCABULARY_STATE.csv`
 as `new_unit/P2` and remain untested. The root label `geo` and incidental
 candidate words were not promoted. Bank after merge: 1,373 rows,
 632 nonqueued and 741 queued.
+
+## Unit 54 - Roots `grad` / `gress`
+
+Imported Monday 2026-10-19 after the completed Daily Quick. The learner's
+`grad/gress` lesson follows Unit 53 `geo`. The root labels organize ideas
+of steps, degrees, and movement; they are not separate vocabulary entries.
+Original notes are preserved below, including the source spelling
+`agressively`; the normalized entry is `aggressively`.
+
+### Original learner notes
+
+grad/gress:
+
+degrade : v : giảm, suy thoái
+
+gradual : adj : dần dần
+gradually : adv : một cách từ từ
+
+graduate : n,v : tốt nghiệp
+graduation : n : sự tốt nghiệp
+
+progress : n,v  : tiền bộ
+progression : n : sự tiến bộ
+progressive : adj : tăng , tiến
+progressively : adv : một cách tăng tiến
+
+aggressive : adj : hung hăng
+aggression : n : sự gây hấn , hung hăng
+aggressiveness : n : tính hung hăng
+agressively : adv : một cách hung hăng
+
+
+- Từ trong sách: degrade, gradual, graduate, progress, aggressive
+- Từ mở rộng:
+• grade (n/v) /ɡreɪd/: cấp, mức, điểm; xếp loại
+• regress (v/n) /rɪˈɡres/: thoái lui, trở lại trạng thái kém phát triển hơn; sự thoái lui
+• congress (n) /ˈkɒŋɡres/: hội nghị, đại hội
+• transgress (v) /trænzˈɡres/: vi phạm, vượt quá giới hạn
+• ingress (n) /ˈɪnɡres/: sự đi vào, lối vào
+egress (n) /ˈiːɡres/: sự đi ra, lối ra
+• digress (v) /daɪˈɡres/: đi chệch chủ đề, nói lan man
+
+### Normalized Unit 54 classification
+
+Book words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| degrade | verb | reduce or lose quality or status; treat as inferior | làm suy giảm; xuống cấp; hạ thấp nhân phẩm |
+| gradual | adjective | happening in small stages over time | diễn ra dần dần; từng bước |
+| graduate | noun / verb | person who has completed school or university; complete a course of study successfully | người đã tốt nghiệp; tốt nghiệp |
+| progress | noun / verb | improvement or movement forward; advance or develop | sự tiến bộ; tiến triển; tiến bộ |
+| aggressive | adjective | hostile or ready to attack; forceful and determined | hung hăng; hiếu chiến; quyết liệt |
+
+Word families and support words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| gradually | adverb | little by little over time | dần dần; một cách từ từ |
+| graduation | noun | completion of a course of study; ceremony marking it | sự tốt nghiệp; lễ tốt nghiệp |
+| progression | noun | development or movement through a sequence of stages | sự tiến triển; sự phát triển qua các giai đoạn |
+| progressive | adjective | developing or changing gradually; favoring reform or new ideas | tiến triển dần dần; tăng tiến; cấp tiến |
+| progressively | adverb | in a way that develops or changes by degrees | ngày càng; dần dần; theo từng bước |
+| aggression | noun | hostile or attacking behavior | sự gây hấn; hành vi hung hăng |
+| aggressiveness | noun | tendency or quality of acting forcefully or with hostility | tính hung hăng; tính quyết liệt |
+| aggressively | adverb | in a hostile or forceful and determined way | một cách hung hăng; một cách quyết liệt |
+
+Extensions:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| grade | noun / verb | level or rank; mark awarded for work; evaluate or classify | cấp; mức; điểm; chấm điểm; xếp loại |
+| regress | verb / noun | return to a less advanced state; backward movement | thoái lui; trở lại trạng thái kém phát triển; sự thoái lui |
+| congress | noun | formal meeting of representatives; national law-making assembly | hội nghị; đại hội; quốc hội |
+| transgress | verb | go beyond an accepted limit; violate a rule | vượt quá giới hạn; vi phạm |
+| ingress | noun | entry or access to a place | sự đi vào; lối vào; quyền vào |
+| egress | noun | act or means of going out | sự đi ra; lối ra; quyền ra |
+| digress | verb | move away from the main subject while speaking or writing | đi chệch chủ đề; nói lan man |
+
+Watch and memory contrasts:
+
+- Correct source spelling `agressively` to `aggressively` in the active
+  bank. The original note remains visible for provenance.
+- `Gradual` is an adjective: `a gradual change`. `Gradually` modifies
+  an action: `The image quality gradually degraded.`
+- `Graduate` can name a person or an action: `a recent graduate` /
+  `graduate from university`. `Graduation` names completion or its ceremony.
+  The Tactics source printed `graduated`, a past/participle form; retain
+  that source form in the map while using noun/verb for this canonical lesson.
+- Correct source `tiền bộ` to `tiến bộ`. Noun `progress` is uncountable:
+  `make progress`. `Progression` emphasizes development through stages.
+- `Progressive` / `progressively` can describe increasing or gradual
+  change, not only improvement: `The delays became progressively longer.`
+- `Aggressive` describes a person or action; `aggressively` describes
+  how an action is performed. `Aggression` often emphasizes hostile behavior;
+  `aggressiveness` often emphasizes a quality or tendency. Their meanings
+  overlap, so do not construct a question where both nouns fit equally well.
+- `Degrade` often concerns quality, condition, or status; plain `reduce`
+  can concern amount. `Regress` is backward development; `digress` is
+  moving away from the topic of speech or writing.
+- `Ingress` concerns entering; `egress` concerns leaving. These are
+  formal terms. This lesson activates the noun sense of egress.
+- Noun `regress` exists, but first practice should favor its common verb
+  sense. `Congress` may name a representative meeting or a legislative body.
+
+Dictionary checks: [Cambridge graduate](https://dictionary.cambridge.org/us/dictionary/english/graduate),
+[Collins aggressively](https://www.collinsdictionary.com/dictionary/english/aggressively),
+[Merriam-Webster degrade](https://www.merriam-webster.com/dictionary/degrade),
+[Merriam-Webster regress](https://www.merriam-webster.com/dictionary/regress),
+[Merriam-Webster ingress](https://www.merriam-webster.com/dictionary/ingress),
+and [Merriam-Webster egress](https://www.merriam-webster.com/dictionary/egress).
+
+Merge status: 20 distinct terms (5 book, 8 family/support, 7 extensions).
+Seventeen new rows were appended as `new_unit/P2`. Existing `progress`
+(Unit 32) and `grade` (Unit 42) are cross-referenced with their prior
+status, priority, and last-seen dates preserved. Existing Tactics canonical
+`graduate` (Unit 06) is activated as `new_unit/P2` by the explicit WF54
+source, without a duplicate row; target ID `TACTICS-U06-009` remains
+unscheduled and untested. New imports are untested; importing is not mastery.
+Bank after merge: 1,390 rows, 658 nonqueued and 732 queued. No incidental
+candidate was promoted. Recovery and the completed 2026-10-19 quiz remain
+unchanged. Unit 54 is primary current coverage for the next Quick cycle.
