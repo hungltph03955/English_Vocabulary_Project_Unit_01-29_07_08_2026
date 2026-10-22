@@ -1,9 +1,70 @@
 # Rotation State - Snapshot
 
-Date: Monday 2026-10-19
-Scope: Unit 01-54 plus Tactics Units 01-24
-Last valid quiz: DQ-2026-10-19, Daily Quick on Monday 2026-10-19, 8/12 (66.7%)
-Next expected quiz: Tuesday 2026-10-20, Daily Quick, 12 questions
+Date: Thursday 2026-10-22
+Scope: Unit 01-55 plus Tactics Units 01-24
+Last valid quiz: DQ-2026-10-22, Daily Quick on Thursday 2026-10-22, 11/12 (91.7%)
+Next expected quiz: Friday 2026-10-23, Weekly Quick, 30 questions
+
+## 2026-10-22 Unit 55 graph import
+
+- The new graph lesson follows Unit 54 and becomes Unit 55, primary
+  current coverage. Normalize 11 terms: 5 book words and 6 source-listed
+  extensions also used as root-family support. Append 10 new_unit/P2
+  rows; cross-reference existing geography without resetting its status,
+  priority, source, or last_seen. No duplicate or unlisted derivative.
+- Correct source biograpy -> biography; normalize graphic adjective/noun
+  and the meanings/roles in biography/bibliography, calligraphy/typography,
+  autograph, photograph, and telegraph. Preserve source notes in addendum.
+- Next Weekly: 8 Recovery, 6 current Unit 55 including a support/extension
+  correct answer, 6 scheduled Tactics, 6 due/recent including unfinished
+  Unit 54/53 families, and 4 tour/family checks. Next Daily uses 5 Recovery,
+  3 Unit 55, 2 scheduled Tactics, 1 recent/due, 1 cooldown/tour.
+- Keep graduate/gradual P2 and all other Recovery, Cooldown, and grading
+  states. Bank now 1,400 rows: 670 nonqueued and 730 queued. No candidate
+  or Tactics target promotion; six reserved IDs and U05-003 cursor unchanged.
+- The import issues no quiz; last completed result is DQ-2026-10-22 11/12.
+  Friday 2026-10-23 is Weekly Quick, 30 questions; Monthly is due 2026-10-30.
+
+## 2026-10-22 Daily Quick grading
+
+- Completed DQ-2026-10-22: 11/12 (91.7%). Only Q8 wrong; no uncertainty,
+  unresolved item, reasoning, or incidental unknown word reported. Source:
+  `QUIZ_2026-10-22_DAILY.md`; review in weekly history 2026-10-19 to 23.
+- Add graduate/gradual Recovery P2 for person noun versus adjective.
+  Q8 is WF54-only coverage; U06-009 remains unscheduled and untested.
+- Q1 production, Q2 conduction, Q3 geochemical, Q4 dictation, Q5 boot,
+  Q11 geographer are first confident corrections after latest misses or
+  uncertainty; retain existing priorities. No whole-family mastery inference.
+- Unit 54 degrade and gradually pass first practice at new_unit/P2.
+  Family/support gradually was correct; continue untouched families and the
+  graduate contrast. Upkeep remains existing P3 cooldown; no new cooldown.
+- Scheduled dress U03-005 and cereal U04-001 move queued -> new_unit/P2;
+  normal review no earlier than 2026-10-29. Boot remains Recovery P2.
+  Schedule verified Weekly targets U04-002 chat, U04-003 newspaper,
+  U04-005 text, U04-015 new year, U05-001 airport, U05-002 appointment,
+  all still queued/P2. Next unscheduled cursor U05-003.
+- Bank stays 1,390 rows, now 660 nonqueued and 730 queued. No candidate
+  addition/promotion. Use Recovery snapshot 2026-10-22 for broad Weekly
+  rotation: 8 Recovery, 6 current Unit 54 including family/support, 6
+  scheduled Tactics, 6 due/recent, 4 tour/family checks. Friday 2026-10-23
+  is not the last Friday; Monthly Quick is due 2026-10-30.
+
+## Issuance snapshot - Thursday 2026-10-22 (historical)
+
+- Issued DQ-2026-10-22 from the last completed 2026-10-19 grading and
+  Unit 54 import. Exact questions, options, map, and key are in
+  `QUIZ_2026-10-22_DAILY.md`.
+- Allocation: 5 Recovery (including boot before unseen Tactics), 3 current
+  Unit 54 first-practice including gradually family/support, 2 scheduled
+  Tactics, 1 recent Unit 53 geographer Recovery, 1 upkeep cooldown check.
+- Q8 graduate is WF54 book-word coverage only; U06-009 remains unscheduled
+  and untested. Q9-Q10 use U03-005 dress and U04-001 cereal, still queued/P2.
+  Next unscheduled cursor stays U04-002.
+- Thursday 2026-10-22 is Daily Quick, 12 questions; last Friday is
+  2026-10-30. New sentences follow the latest error contrasts and due dates.
+- Issuance does not change mastery, Recovery, Cooldown, or scores. Bank
+  stays 1,390 rows, 658 nonqueued and 732 queued; last result remains
+  DQ-2026-10-19 8/12. Use Recovery snapshot 2026-10-19 when grading.
 
 ## 2026-10-19 Unit 54 grad/gress import
 

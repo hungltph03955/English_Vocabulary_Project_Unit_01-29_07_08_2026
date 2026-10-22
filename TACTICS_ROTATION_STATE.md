@@ -1,7 +1,7 @@
 # Tactics Rotation State
 
 Date initialized: Monday 2026-10-12
-Last updated: Monday 2026-10-19 after WF54 import; last grading DQ-2026-10-19
+Last updated: Thursday 2026-10-22 after WF55 import; last grading DQ-2026-10-22
 Source: Tactics Vocabulary Index images, pages 110-112
 Source units: Tactics 01-24
 Detailed mapping: `TACTICS_IMPORT_MAP.csv`
@@ -26,26 +26,39 @@ it and its source text has `ocr_status=verified`.
 ## Current Cursor
 
 - Current pass: A - anchor words
-- Current source unit: finishing Tactics Unit 03; first Unit 04 anchor reserved
-- Current cursor (next unscheduled target): `TACTICS-U04-002`
+- Current source unit: finishing Tactics Unit 04; first two Unit 05 anchors reserved
+- Current cursor (next unscheduled target): `TACTICS-U05-003`
 - Initial Daily Quick quota: 2 Tactics targets
 - Initial Weekly Quick quota: 6 Tactics targets
-- Scheduled targets for the next valid Daily Quick:
-  - `TACTICS-U03-005` - `dress` (noun)
-  - `TACTICS-U04-001` - `cereal` (noun)
-- Next expected quiz: Tuesday 2026-10-20 Daily Quick, 12 questions
-- Last Tactics quiz: `DQ-2026-10-19`, Q9-Q10, 1/2 correct confidently;
-  Q9 `boots` was wrong and uncertain
+- Scheduled targets for the next valid Weekly Quick:
+  - `TACTICS-U04-002` - `chat` (verb)
+  - `TACTICS-U04-003` - `newspaper` (noun)
+  - `TACTICS-U04-005` - `text` (verb)
+  - `TACTICS-U04-015` - canonical `new year`, printed `New Year` (proper noun)
+  - `TACTICS-U05-001` - `airport` (noun)
+  - `TACTICS-U05-002` - `appointment` (noun)
+- Next expected quiz: Friday 2026-10-23 Weekly Quick, 30 questions
+- Last Tactics quiz: `DQ-2026-10-22`, Q5/Q9/Q10, 3/3 correct without
+  uncertainty; includes existing boot Recovery and two first-practice targets
 
-The DQ-2026-10-19 Q9-Q10 batch is graded and closed. All five T01 and
-T02 Pass-A anchors are tested; T03 has four tested and its fifth reserved.
-T04 has its first anchor reserved. Next unscheduled cursor: U04-002.
+The DQ-2026-10-22 batch is graded and closed. All five T01, T02, and T03
+Pass-A anchors are now tested. T04 has one tested and its remaining four
+reserved; T05 has two reserved. Next unscheduled cursor: U05-003.
 
-The two next scheduled rows remain `queued/P2` in the main CSV until grading.
+The six next scheduled rows remain `queued/P2` in the main CSV until grading.
 Their scheduled eligibility exists only in this file and must be recorded in
-the next quiz selection map. Dress and cereal have checked contextual
-English definitions in the map and CSV. The printed plural boots remains
-mapped to canonical boot in the completed Q9 record.
+the next quiz selection map. All six have verified Tier-A source rows and
+checked contextual definitions in the map and CSV. Printed New Year is
+retained with lowercase canonical new year. Printed boots remains mapped
+to boot in its Recovery record.
+
+Completed quiz: `DQ-2026-10-22`, exact source
+`QUIZ_2026-10-22_DAILY.md`. Q5 boot is a confident first correction and
+stays recovery/P2. Q9 dress and Q10 cereal pass first checks and move
+queued -> new_unit/P2; normal review no earlier than 2026-10-29.
+Q8 graduate was missed for WF54 only; its shared canonical row becomes
+Recovery P2, but U06-009 remains unscheduled and untested. Bank: 1,390 rows,
+660 nonqueued and 730 queued. No quiz is pending; the Friday batch is scheduled.
 
 Completed quiz: `DQ-2026-10-19`, exact source
 `QUIZ_2026-10-19_DAILY.md`. Q9 TACTICS-U03-003 boot (printed boots)
@@ -63,6 +76,20 @@ cursor is U03-005. No unscheduled queued row was promoted.
 The previous issued quiz `DQ-2026-10-15` has been graded from
 `QUIZ_2026-10-15_DAILY.md`. `Gym` is now new_unit/P2; `actress` is now
 Recovery P2 after the supervisor-for-performer error.
+
+## Grading Ledger - Thursday 2026-10-22
+
+Exact source: `QUIZ_2026-10-22_DAILY.md`.
+
+| Target ID | Lemma | Q | Final / key | Result | Confidence | Error type | Current state | Earliest normal review |
+|---|---|---:|---|---|---|---|---|---|
+| TACTICS-U03-003 | boot; printed boots | 5 | D / D | correct; first correction | no uncertainty marker | none this check | recovery/P2 | Recovery due |
+| TACTICS-U03-005 | dress | 9 | C / C | correct; first check | no uncertainty marker | none | new_unit/P2 | 2026-10-29 |
+| TACTICS-U04-001 | cereal | 10 | A / A | correct; first check | no uncertainty marker | none | new_unit/P2 | 2026-10-29 |
+
+Graduate Q8 was WF54-only and is not credited as a Tactics check. Next six
+verified Weekly targets remain queued/P2; next unscheduled cursor U05-003.
+Bank: 1,390 rows, 660 nonqueued and 730 queued. No Tactics cooldown addition.
 
 ## Grading Ledger - Monday 2026-10-19
 
@@ -155,9 +182,9 @@ Pass-A anchors for the current unit; exact scheduled eligibility is above.
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | T01 | 22 | 22 | 21 | 1 | 0 | 12 | 6 | 4 | Pass-A anchors complete |
 | T02 | 30 | 30 | 30 | 0 | 0 | 22 | 7 | 1 | Pass-A anchors complete |
-| T03 | 34 | 34 | 31 | 1 | 2 | 31 | 3 | 0 | U03-001 to U03-004 tested; U03-005 reserved |
-| T04 | 22 | 21 | 20 | 1 | 1 | 7 | 12 | 3 | U04-001 reserved; U04-002, 003, 005, 015 remain |
-| T05 | 36 | 36 | 36 | 0 | 0 | 22 | 8 | 6 | U05-001 to U05-005 |
+| T03 | 34 | 34 | 31 | 1 | 2 | 31 | 3 | 0 | Pass-A anchors complete |
+| T04 | 22 | 21 | 20 | 1 | 1 | 7 | 12 | 3 | U04-001 tested; U04-002, 003, 005, 015 reserved |
+| T05 | 36 | 36 | 36 | 0 | 0 | 22 | 8 | 6 | U05-001/002 reserved; U05-003 to U05-005 remain |
 | T06 | 43 | 43 | 39 | 3 | 1 | 27 | 14 | 2 | U06-001 to U06-005 |
 | T07 | 37 | 37 | 34 | 2 | 1 | 23 | 10 | 4 | U07-002 to U07-006 |
 | T08 | 29 | 29 | 29 | 0 | 0 | 12 | 15 | 2 | U08-001 to U08-005 |
@@ -217,30 +244,37 @@ stores the canonical lemma or phrase.
 
 ## Quick Allocation
 
+Unit 55 graph import on 2026-10-22 adds 10 Word Formation rows and reuses
+existing geography. It does not change a Tactics canonical row, source ID,
+result, or eligibility. The six verified targets already scheduled for
+Friday remain queued; next unscheduled cursor stays U05-003. Unit 55
+becomes primary current Word Formation coverage.
+
 Unit 54 grad/gress import on 2026-10-19 activates shared canonical
 graduate (printed Tactics graduated) as a WF54 book word, using its existing
 row rather than adding a duplicate. Its canonical noun/verb senses are
 normalized for the learner's explicit WF54 source. TACTICS-U06-009 remains
 unscheduled and untested; this activation grants WF54 practice coverage,
 not a tested Tactics source result. Printed source forms/POS remain in the
-map. The dress/cereal pair and next unscheduled cursor U04-002 are unchanged.
+map. After the 2026-10-22 WF54 miss, graduate is Recovery P2; U06-009 is
+still untested. The dress/cereal pair is closed; next Weekly batch and
+U05-003 cursor are listed above.
 
 Unit 52 `gen` import on 2026-10-14 activated existing Tactics T22 lemma
 `generous` as a Word Formation book word without creating a duplicate.
 The T22 source row `TACTICS-U22-005` remains unscheduled and untested; use
 `generous` for WF52 coverage only until that Tactics target is selected by
 the Tactics rotation. The initial import counts above remain historical.
-Current bank after WF54 import: 1,390 rows, 658 nonqueued and 732 queued.
-Only graduate's shared canonical eligibility changed through the new
-Word Formation source. The next verified pair U03-005/U04-001 is still
-queued and scheduled; next unscheduled cursor U04-002. Older ledger and
-initial-import counts above remain historical.
+Current bank after WF55 import: 1,400 rows, 670 nonqueued and
+730 queued. Six verified rows are scheduled for Friday's Weekly Quick;
+all stay queued until graded. Next unscheduled cursor U05-003. Older
+ledger and initial-import counts above remain historical.
 
 Transition phase while the current Word Formation unit needs first practice
-(currently Unit 54; Units 53/52/51 remain recent review/Recovery):
+(currently Unit 55; Units 54/53/52/51 remain recent review/Recovery):
 
-- Daily Quick: 5 Recovery, 3 Unit 54, 2 Tactics, 1 recent Word Formation, 1 cooldown.
-- Weekly Quick: 8 Recovery, 6 Unit 54/current, 6 Tactics, 6 due/recent, 4 tour/family.
+- Daily Quick: 5 Recovery, 3 Unit 55, 2 Tactics, 1 recent Word Formation, 1 cooldown.
+- Weekly Quick: 8 Recovery, 6 Unit 55/current, 6 Tactics, 6 due/recent, 4 tour/family.
 
 Steady phase after current Word Formation first-practice coverage:
 

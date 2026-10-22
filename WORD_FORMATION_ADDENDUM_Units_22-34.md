@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-54 and Tactics Index 1-24
+# Word Formation Addendum - Units 22-55 and Tactics Index 1-24
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -3077,3 +3077,98 @@ unscheduled and untested. New imports are untested; importing is not mastery.
 Bank after merge: 1,390 rows, 658 nonqueued and 732 queued. No incidental
 candidate was promoted. Recovery and the completed 2026-10-19 quiz remain
 unchanged. Unit 54 is primary current coverage for the next Quick cycle.
+
+
+## Unit 55 - Root `graph`
+
+Imported Thursday 2026-10-22 after the completed Daily Quick. This new
+`graph` lesson follows Unit 54 grad/gress and groups writing, drawing,
+and recording words. The root label is an analysis node, not an extra
+active vocabulary entry. Original notes are retained below; source typo
+`biograpy` is normalized to `biography` in the active bank and tables.
+
+### Original learner notes
+
+graph
+autograph : n, v : chữ kí tay , kí tay
+biograpy : n : tiểu sử , lý lịch
+calligraphy  : N : thư pháp , nghệ thuật chữ
+paragraph : n : đoạn văn
+graphic : adj  , n  : (thuộc hình họa).
+
+- Từ trong sách: autograph, biography, calligraphy, paragraph, graphic
+- Từ mở rộng:
+• photograph (n/v) /ˈfəʊtəɡrɑːf/: bức ảnh; chụp ảnh
+• geography (n) /dʒiˈɒɡrəfi/: địa lý
+• telegraph (n/v) /ˈtelɪɡrɑːf/: điện báo; gửi điện báo
+• bibliography (n) /ˌbɪbliˈɒɡrəfi/: danh mục tài liệu tham khảo
+• demography (n) /dɪˈmɒɡrəfi/: nhân khẩu học
+• typography (n) /taɪˈpɒɡrəfi/: nghệ thuật trình bày chữ
+
+### Normalized Unit 55 classification
+
+Book words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| autograph | noun / verb | signature especially of a famous person; sign something especially for a fan | chữ ký; ký tặng |
+| biography | noun | account of a person's life written by someone else | tiểu sử; sách hoặc bài viết về cuộc đời một người |
+| calligraphy | noun | art of beautiful or decorative handwriting | thư pháp; nghệ thuật viết chữ đẹp |
+| paragraph | noun | section of writing made up of one or more related sentences | đoạn văn |
+| graphic | adjective / noun | relating to visual images; vivid or explicit; a picture or visual design | thuộc đồ họa; mô tả rõ nét hoặc chi tiết; hình ảnh minh họa |
+
+Word families and support words — source-listed extensions:
+
+The source labels these six words as extensions. They also provide the
+root-related support contrasts for quiz coverage. This is the same set
+of six terms, not six additional entries; no unlisted derivative is added.
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| photograph | noun / verb | picture made with a camera; take such a picture | bức ảnh; chụp ảnh |
+| geography | noun | study of Earth's places, environments, and people | địa lý học; địa lý |
+| telegraph | noun / verb | device or system for sending coded messages over a distance; send a message by that system | máy hoặc hệ thống điện báo; gửi điện báo |
+| bibliography | noun | list of books or other sources used in or relevant to a work | danh mục tài liệu tham khảo |
+| demography | noun | study of human populations and changes in their size or structure | nhân khẩu học |
+| typography | noun | design and arrangement of printed or digital letters and text | nghệ thuật trình bày chữ; sắp chữ |
+
+Watch and memory contrasts:
+
+- Correct source spelling `biograpy` to `biography`. Biography is an
+  account of a person's life; a bibliography is a list of sources. The
+  source gloss lý lịch should not make biography interchangeable with a CV.
+  Memory: `The biography tells her life story; the bibliography lists its sources.`
+- Autograph can name the signature or the act of signing: `ask for an
+  autograph` / `autograph a book`. Use a clear signing-for-a-fan context
+  when testing it; do not reduce the meaning to all handwriting.
+- Calligraphy focuses on decorative handwriting; typography focuses on the
+  design and arrangement of type. Use handwriting/brush cues for the first
+  and printed or digital letter-layout cues for the second.
+- Graphic can be an adjective, as in `graphic design`, or a countable
+  image noun, as in `a graphic`. Complete the missing noun gloss in the
+  source. Its adjective senses also include vivid or explicit description;
+  choose context carefully instead of equating it with every chart.
+- A paragraph is a section of text; a graphic is a visual illustration.
+  A photograph can be a camera-made picture or the verb for taking it.
+- Telegraph can name a communication device/system or the action of sending
+  a message that way. Start with the literal source-listed senses.
+- Geography reuses the Unit 53 canonical row. Demography emphasizes
+  populations and their size/structure; use clear age, birth/death, or
+  population-change cues instead of ambiguous general location questions.
+- The Unit 55 support requirement can use a correct answer from one of the
+  six source-listed extensions, testing a role or the above contrasts.
+  Their presence in this lesson is not evidence of successful retrieval.
+
+Dictionary checks: [Merriam-Webster graphic](https://www.merriam-webster.com/dictionary/graphic),
+[Merriam-Webster telegraph](https://www.merriam-webster.com/dictionary/telegraph),
+and [Merriam-Webster typography](https://www.merriam-webster.com/dictionary/typography).
+
+Merge status: 11 distinct terms: 5 book words and 6 source-listed
+extensions used as root-family support. Ten new rows were appended to
+`VOCABULARY_STATE.csv` at `new_unit/P2`. Existing geography (Unit 53)
+is cross-referenced without duplicating it or resetting its status,
+priority, source, or last_seen date. The ten new terms are untested;
+importing is not mastery. Bank after merge: 1,400 rows, 670 nonqueued
+and 730 queued. No incidental candidate or Tactics target was promoted.
+Unit 55 becomes primary current coverage; Unit 54 graduate/gradual and
+the other Recovery priorities retain their individual states.
