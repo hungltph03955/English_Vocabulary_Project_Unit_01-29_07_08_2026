@@ -1,9 +1,50 @@
 # Rotation State - Snapshot
 
-Date: Thursday 2026-10-22
+Date: Tuesday 2026-10-27
 Scope: Unit 01-55 plus Tactics Units 01-24
-Last valid quiz: DQ-2026-10-22, Daily Quick on Thursday 2026-10-22, 11/12 (91.7%)
-Next expected quiz: Friday 2026-10-23, Weekly Quick, 30 questions
+Last valid quiz: DQ-2026-10-26, Daily Quick, 10/12 (83.3%), graded Tuesday 2026-10-27
+Next eligible quiz: Tuesday 2026-10-27, Daily Quick, 12 questions, not yet issued
+
+## 2026-10-27 grading of DQ-2026-10-26
+
+- Completed quiz date 2026-10-26, score 10/12 (83.3%). Answers received
+  and graded 2026-10-27; last_seen uses this observed retrieval date.
+  Wrong Q1 conduction for conductive and Q5 graduation for graduate.
+  No uncertainty, unresolved answer, reasoning, or candidate reported.
+- Keep conductive/conduction P1. Raise graduate P2 -> P1 after repeated
+  person-noun misses; add graduation P2. Gradual keeps its individual P2.
+  Graduate remains WF54-only; TACTICS-U06-009 is untested/unscheduled.
+- Lower only reduce P1 -> P2 after a second confident direct correction
+  since 2026-10-08. Semi-permanent/geochemistry retain P1 after first
+  corrections following their latest misses. Other forms retain own states.
+- Current Unit 55 autograph/biography/support bibliography and recent
+  Unit 54 aggressively pass first practice at new_unit/P2. Continue the
+  current unit's untested terms. Overcharge remains P3; no new cooldown.
+- Chat/newspaper pass first eligible checks -> new_unit/P2; normal review
+  no earlier than 2026-11-03, seven days after observed retrieval. Next
+  Daily pair: text U04-005 and new year U04-015, still queued; airport/
+  appointment remain reserved. Next unscheduled cursor U05-003 unchanged.
+- Bank: 1,400 rows, 672 nonqueued and 728 queued. Source quiz and review:
+  `QUIZ_2026-10-26_DAILY.md`, `QUIZ_HISTORY_WEEK_2026-10-26_to_2026-10-30.md`.
+  Use Recovery snapshot 2026-10-27. Next eligible Daily is 2026-10-27;
+  Friday 2026-10-30 is Monthly Quick, 50 questions. No new quiz issued by grading.
+
+## Issuance snapshot - Monday 2026-10-26 (historical)
+
+- Issued DQ-2026-10-26; exact questions, A-D options, key, and selection
+  map are saved in `QUIZ_2026-10-26_DAILY.md`.
+- Allocation: 5 Recovery (due conductive/reduce/semi-permanent,
+  geochemistry field noun, graduate), 3 Unit 55 including support
+  bibliography, 2 Tactics, 1 recent Unit 54 adverb, 1 older cooldown.
+- Q9-Q10 use verified chat U04-002 and newspaper U04-003, carried forward
+  from the existing reservation. Both stay queued/P2 until graded; the
+  other four reserved IDs remain unseen and are not quiz options. Next
+  unscheduled cursor stays U05-003. Graduate is WF54-only Recovery.
+- Monday 2026-10-26 is Daily Quick, 12 questions. The last Friday of the
+  month is 2026-10-30, so the upcoming Friday is Monthly Quick, 50 questions.
+- No score, Recovery, Cooldown, or mastery update at issuance. Last completed
+  result remains DQ-2026-10-22 11/12; bank stays 1,400 rows, 670 nonqueued,
+  730 queued. No retrospective completion is inferred for other dates.
 
 ## 2026-10-22 Unit 55 graph import
 

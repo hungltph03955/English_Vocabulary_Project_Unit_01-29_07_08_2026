@@ -86,10 +86,10 @@ TACTICS-U03-032,7864ad6bb165313b68742.jpg,110,T03,Clothes,long (dress),long dres
 TACTICS-U03-033,7864ad6bb165313b68742.jpg,110,T03,Clothes,shoulder bag,shoulder bag,phrase,noun phrase,Tactics phrase: shoulder bag,túi đeo vai,B,verified,new,,
 TACTICS-U03-034,7864ad6bb165313b68742.jpg,110,T03,Clothes,try on clothes,try on clothes,phrasal_verb,phrasal verb,phrasal verb: try on clothes,thử quần áo,B,verified,new,,
 TACTICS-U04-001,7864ad6bb165313b68742.jpg,110,T04,Routines,cereal,cereal,word,noun,breakfast food made from grain and often eaten with milk,ngũ cốc ăn sáng,A,verified,new,,DQ-2026-10-22 Q10 A correct confident first check; canonical new_unit/P2; next normal review no earlier than 2026-10-29
-TACTICS-U04-002,7864ad6bb165313b68742.jpg,110,T04,Routines,chat,chat,word,verb,talk informally with someone,trò chuyện,A,verified,new,,Scheduled for WQ-2026-10-23 after DQ-2026-10-22; untested queued/P2
-TACTICS-U04-003,7864ad6bb165313b68742.jpg,110,T04,Routines,newspaper,newspaper,word,noun,publication containing news reports and articles,báo,A,verified,new,,Scheduled for WQ-2026-10-23 after DQ-2026-10-22; untested queued/P2
+TACTICS-U04-002,7864ad6bb165313b68742.jpg,110,T04,Routines,chat,chat,word,verb,talk informally with someone,trò chuyện,A,verified,new,,DQ-2026-10-26 Q9 A correct without uncertainty; graded 2026-10-27; canonical new_unit/P2; normal review no earlier than 2026-11-03
+TACTICS-U04-003,7864ad6bb165313b68742.jpg,110,T04,Routines,newspaper,newspaper,word,noun,publication containing news reports and articles,báo,A,verified,new,,DQ-2026-10-26 Q10 C correct without uncertainty; graded 2026-10-27; canonical new_unit/P2; normal review no earlier than 2026-11-03
 TACTICS-U04-004,7864ad6bb165313b68742.jpg,110,T04,Routines,subway,subway,word,noun,Tactics noun: subway,tàu điện ngầm,A,verified,cross_reference,subway,
-TACTICS-U04-005,7864ad6bb165313b68742.jpg,110,T04,Routines,text,text,word,verb,send someone a written message by phone,nhắn tin,A,verified,new,,Scheduled for WQ-2026-10-23 after DQ-2026-10-22; untested queued/P2
+TACTICS-U04-005,7864ad6bb165313b68742.jpg,110,T04,Routines,text,text,word,verb,send someone a written message by phone,nhắn tin,A,verified,new,,Scheduled for next Daily Quick after DQ-2026-10-26 grading on 2026-10-27; untested queued/P2
 TACTICS-U04-006,7864ad6bb165313b68742.jpg,110,T04,Routines,a morning person,morning person,phrase,noun phrase,Tactics phrase: morning person,người hoạt động tốt vào buổi sáng,B,verified,new,,Normalized from printed form: a morning person
 TACTICS-U04-007,7864ad6bb165313b68742.jpg,110,T04,Routines,a night person,night person,phrase,noun phrase,Tactics phrase: night person,người thích thức hoặc hoạt động về đêm,B,verified,new,,Normalized from printed form: a night person
 TACTICS-U04-008,7864ad6bb165313b68742.jpg,110,T04,Routines,a quarter to four,a quarter to four,phrase,time phrase,Tactics phrase: a quarter to four,bốn giờ kém mười lăm,B,verified,new,,
@@ -99,7 +99,7 @@ TACTICS-U04-011,7864ad6bb165313b68742.jpg,110,T04,Routines,five past ten,five pa
 TACTICS-U04-012,7864ad6bb165313b68742.jpg,110,T04,Routines,get up,get up,phrasal_verb,phrasal verb,phrasal verb: get up,thức dậy; ra khỏi giường,B,verified,new,,
 TACTICS-U04-013,7864ad6bb165313b68742.jpg,110,T04,Routines,hang out,hang out,phrasal_verb,phrasal verb,phrasal verb: hang out,đi chơi; dành thời gian cùng nhau,B,verified,new,,
 TACTICS-U04-014,7864ad6bb165313b68742.jpg,110,T04,Routines,it depends,it depends,expression,expression,functional expression: it depends,còn tùy; điều đó phụ thuộc,C,verified,new,,
-TACTICS-U04-015,7864ad6bb165313b68742.jpg,110,T04,Routines,New Year,new year,word,proper noun,beginning of a calendar year; holiday marking it,Năm Mới,A,verified,new,,Scheduled for WQ-2026-10-23 after DQ-2026-10-22; untested queued/P2
+TACTICS-U04-015,7864ad6bb165313b68742.jpg,110,T04,Routines,New Year,new year,word,proper noun,beginning of a calendar year; holiday marking it,Năm Mới,A,verified,new,,Scheduled for next Daily Quick after DQ-2026-10-26 grading on 2026-10-27; printed New Year; untested queued/P2
 TACTICS-U04-016,7864ad6bb165313b68742.jpg,110,T04,Routines,night person,night person,phrase,noun phrase,Tactics phrase: night person,người thích hoạt động về đêm,B,verified,combine,,Combined with TACTICS-U04-007
 TACTICS-U04-017,7864ad6bb165313b68742.jpg,110,T04,Routines,night shift,night shift,phrase,noun phrase,Tactics phrase: night shift,ca đêm,B,verified,new,,
 TACTICS-U04-018,7864ad6bb165313b68742.jpg,110,T04,Routines,stay up late,stay up late,collocation,verb phrase,collocation: stay up late,thức khuya,B,verified,new,,
@@ -151,7 +151,7 @@ TACTICS-U06-005,7864ad6bb165313b68742.jpg,110,T06,Jobs,businessperson,businesspe
 TACTICS-U06-006,7864ad6bb165313b68742.jpg,110,T06,Jobs,chef,chef,word,noun,Tactics noun: chef,đầu bếp,A,verified,new,,
 TACTICS-U06-007,7864ad6bb165313b68742.jpg,110,T06,Jobs,distance,distance,word,noun,Tactics noun: distance,khoảng cách,A,verified,new,,
 TACTICS-U06-008,7864ad6bb165313b68742.jpg,110,T06,Jobs,doctor,doctor,word,noun,Tactics noun: doctor,bác sĩ,A,verified,new,,
-TACTICS-U06-009,7864ad6bb165313b68742.jpg,110,T06,Jobs,graduated,graduate,word,verb / adjective,Tactics verb / adjective: graduate,đã tốt nghiệp,A,verified,new,,Printed graduated retained; shared canonical graduate now recovery/P2 after WF54-only DQ-2026-10-22 Q8 miss; this T06 target ID remains unscheduled and untested
+TACTICS-U06-009,7864ad6bb165313b68742.jpg,110,T06,Jobs,graduated,graduate,word,verb / adjective,Tactics verb / adjective: graduate,đã tốt nghiệp,A,verified,new,,Printed graduated retained; shared graduate raised to recovery/P1 after WF54-only DQ-2026-10-26 Q5 miss graded 2026-10-27; this T06 target ID remains unscheduled and untested
 TACTICS-U06-010,7864ad6bb165313b68742.jpg,110,T06,Jobs,kids,kid,word,plural noun,Tactics plural noun: kid,trẻ em,A,verified,combine,,Normalized from printed form: kids; Combined with TACTICS-U02-012
 TACTICS-U06-011,7864ad6bb165313b68742.jpg,110,T06,Jobs,lawyer,lawyer,word,noun,Tactics noun: lawyer,luật sư,A,verified,new,,
 TACTICS-U06-012,7864ad6bb165313b68742.jpg,110,T06,Jobs,nurse,nurse,word,noun,Tactics noun: nurse,y tá; điều dưỡng viên,A,verified,new,,

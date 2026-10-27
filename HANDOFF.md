@@ -1,6 +1,6 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Thursday 2026-10-22
+Date: Tuesday 2026-10-27
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
 Current scope: Unit 01-55 plus Tactics Units 01-24
 
@@ -16,10 +16,10 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
 5. `TACTICS_ROTATION_STATE.md`
-6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-22.md`)
+6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-10-27.md`)
 7. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 8. `VOCABULARY_STATE.csv`
-9. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-10-19_to_2026-10-23.md`)
+9. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-10-26_to_2026-10-30.md`)
 10. monthly reports if the task touches cumulative performance
 
 When Tactics targets are scheduled, read their exact rows from
@@ -29,13 +29,22 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
+The Monday 2026-10-26 Daily Quick, DQ-2026-10-26, is completed: 10/12
+(83.3%), with answers received/graded Tuesday 2026-10-27. Wrong Q1
+conductive (selected conduction) and Q5 graduate (selected graduation).
+No uncertainty, unresolved answer, reasoning, or unknown word was reported.
+Exact source: `QUIZ_2026-10-26_DAILY.md`; review/history:
+`QUIZ_HISTORY_WEEK_2026-10-26_to_2026-10-30.md`. Observed last_seen is
+2026-10-27; do not guess an earlier answer date. Use Recovery snapshot
+2026-10-27. Next eligible quiz is Tuesday 2026-10-27 Daily Quick, 12
+questions, not yet issued. Friday 2026-10-30 is Monthly Quick, 50 questions.
+
 The Thursday 2026-10-22 Daily Quick, `DQ-2026-10-22`, is completed:
 11/12 (91.7%). Only Q8 was wrong: A. gradual instead of C. graduate.
 No uncertain or unanswered answer; no reasoning or unknown non-bank word
 was reported. Exact source: `QUIZ_2026-10-22_DAILY.md`; review and state
-changes: `QUIZ_HISTORY_WEEK_2026-10-19_to_2026-10-23.md`. Next expected
-quiz is Friday 2026-10-23 Weekly Quick, 30 questions. The Monthly Quick
-is due on the last Friday, 2026-10-30. Use Recovery snapshot 2026-10-22.
+changes: `QUIZ_HISTORY_WEEK_2026-10-19_to_2026-10-23.md`. This earlier
+result remains preserved; current priorities use the 2026-10-27 snapshot.
 
 The Monday 2026-10-19 Daily Quick, `DQ-2026-10-19`, is completed: 8/12
 (66.7%). Exact questions, answers, and grading summary are saved in
@@ -47,7 +56,7 @@ but uncertain. This earlier result and its reviews remain preserved.
 After grading, the learner's new graph lesson was imported as Unit 55:
 11 terms, with 10 new rows and existing geography cross-referenced.
 Unit 55 is primary current coverage; Unit 54 and Unit 53 continue as
-recent review and Recovery. The next Weekly Quick has 6 Unit 55 slots,
+recent review and Recovery. The standard Weekly recipe has 6 Unit 55 slots,
 including a source-listed extension/root-family support answer, while
 retaining 8 Recovery, 6 scheduled Tactics, 6 due/recent, and 4 tour/family
 checks. No quiz is issued by this import, and the completed result is preserved.
@@ -80,9 +89,9 @@ not be counted as a valid completed quiz.
 The project has advanced through Unit 55 and now includes a queued Tactics
 Vocabulary Index track covering Tactics Units 01-24.
 
-Current bank: 1,400 rows, 670 nonqueued and 730 queued after Unit 55 import.
-Unit 55 graph is primary current coverage. Unit 54 grad/gress retains
-graduate/gradual Recovery P2 and untested families. Unit 53 geo retains
+Current bank: 1,400 rows, 672 nonqueued and 728 queued after 2026-10-27 grading.
+Unit 55 graph is primary current coverage. Unit 54 grad/gress now has
+graduate P1 and graduation/gradual P2 Recovery, plus untested families. Unit 53 geo retains
 geochemical/geochemistry P1 and geographer/geologist P2 Recovery. Unit 52
 gen, Unit 51 funct, and Unit 50 retain their unfinished families and
 individual priorities. The Tactics schedule and cursor are unchanged.
@@ -123,6 +132,25 @@ Recent unit coverage:
 - Unit 53: root `geo`
 - Unit 54: roots `grad` / `gress`
 - Unit 55: root `graph`
+
+## Update 2026-10-27 - Grading DQ-2026-10-26
+
+Score 10/12; wrong conductive/conduction and graduate/graduation. Keep
+conductive/conduction P1. Raise graduate P2 -> P1 after repeated person-noun
+misses; add selected graduation at P2. Gradual remains its separate P2.
+Graduate is WF54-only; TACTICS-U06-009 remains unscheduled and untested.
+Reduce lowers P1 -> P2 after a second confident direct check since 2026-10-08.
+Semi-permanent and geochemistry retain P1 after first corrections following
+their latest misses. Other paired forms retain their own histories.
+
+Unit 55 autograph, biography, and support bibliography pass first practice;
+Unit 54 aggressively passes first adverb practice. All remain new_unit/P2.
+Overcharge remains cooldown/P3; no new cooldown item or incidental candidate.
+Chat/newspaper move queued -> new_unit/P2; answers observed 2026-10-27,
+so normal review is no earlier than 2026-11-03. Next verified Daily pair:
+U04-005 text and U04-015 new year, still queued. U05-001 airport and
+U05-002 appointment remain reserved; next unscheduled cursor U05-003.
+Bank: 1,400 rows, 672 nonqueued and 728 queued. No new quiz is issued by grading.
 
 ## Update 2026-10-22 - Unit 55 root graph import
 
@@ -717,17 +745,18 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Date: Thursday 2026-10-22
-- Quiz ID: DQ-2026-10-22
+- Quiz date: Monday 2026-10-26
+- Answer/grade date: Tuesday 2026-10-27
+- Quiz ID: DQ-2026-10-26
 - Type: Daily Quick
-- Recorded result: 11/12 (91.7%)
+- Recorded result: 10/12 (83.3%)
 - Correct but uncertain: none
-- Wrong without uncertainty: Q8
+- Wrong without uncertainty: Q1, Q5
 - Wrong and uncertain: none
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-10-22_DAILY.md`
-- Result and reviews: `QUIZ_HISTORY_WEEK_2026-10-19_to_2026-10-23.md`
+- Exact grading source: `QUIZ_2026-10-26_DAILY.md`
+- Result and reviews: `QUIZ_HISTORY_WEEK_2026-10-26_to_2026-10-30.md`
 
 Earlier valid records remain in their dated history files. Never apply their
 question sentences or option letters to DQ-2026-09-22.
@@ -768,14 +797,14 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-10-22.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-10-27.md` and the current CSV for the complete queue.
 
 P1:
 
 - `produce` / `product` / `production` / `productive` after renewed Q1
   adjective-versus-production-noun confusion; existing Unit 32 `produce`
   remains cross-referenced
-- `reduce` remains conservative; `reductive` and `reduction` are P2
+- `graduate` after repeated person-noun misses for gradual then graduation
 - `dictation` remains P1; `diction` is now P2 after two confident direct corrections
 - `geochemical` / `geochemistry` after repeated field-noun versus adjective confusion
 - `conductor` / `conduction` / `conductive` after Q2 material-versus-process miss
@@ -783,7 +812,9 @@ P1:
 
 P2:
 
-- `graduate` / `gradual` after Q8 selected an adjective for a hired person
+- `graduation` after event noun selected for a job applicant; `graduate` is P1
+- `gradual` retains P2 after the earlier adjective/person contrast
+- `reduce` lowered to P2 after two confident direct verb checks; related forms retain own states
 - `geology` after its first confident correction; `geochemistry` is now P1
 - `geographer` / `geologist` after Q8 people/services versus rock-specialist miss
 - `boot` / `outfit` after wrong uncertain knee-high rubber footwear Q9
@@ -821,9 +852,9 @@ Current Unit 55 coverage:
 - Book: autograph, biography, calligraphy, paragraph, graphic.
 - Source-listed extensions/root-family support: photograph, geography,
   telegraph, bibliography, demography, typography.
-- Ten new terms need first practice. Reused geography retains its previous
-  history. Include a book word and a correct answer from the listed support
-  set in the new cycle; no unlisted derivatives have been added.
+- Autograph, biography, and support bibliography passed first practice in
+  DQ-2026-10-26, graded 2026-10-27. Untouched terms still need first checks;
+  reused geography retains its prior history. Continue book/support rotation.
 
 Recent Unit 54 coverage:
 
@@ -831,9 +862,9 @@ Recent Unit 54 coverage:
 - Family/support: gradually, graduation, progression, progressive,
   progressively, aggression, aggressiveness, aggressively.
 - Extensions: grade, regress, congress, transgress, ingress, egress, digress.
-- Degrade and family/support gradually passed first practice. Graduate
-  was missed for gradual; both now Recovery P2. Other untested lesson terms
-  need first practice; reused progress and grade retain their earlier history.
+- Degrade, gradually, and aggressively passed first practice. Graduate
+  is now P1 after repeated person-noun misses; graduation and gradual are P2.
+  Other untested lesson terms need first practice; reused progress and grade retain their earlier history.
   Continue book/family coverage without treating one adverb success as unit mastery.
 
 Recent Unit 53 coverage:
