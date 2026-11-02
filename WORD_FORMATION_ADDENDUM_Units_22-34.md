@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-55 and Tactics Index 1-24
+# Word Formation Addendum - Units 22-56 and Tactics Index 1-24
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -3172,3 +3172,86 @@ importing is not mastery. Bank after merge: 1,400 rows, 670 nonqueued
 and 730 queued. No incidental candidate or Tactics target was promoted.
 Unit 55 becomes primary current coverage; Unit 54 graduate/gradual and
 the other Recovery priorities retain their individual states.
+
+
+## Unit 56 - Roots `hydro` / `hydr`
+
+Imported Tuesday 2026-10-27 after grading DQ-2026-10-26. The new
+hydro/hydr lesson follows Unit 55 graph. Both root labels organize water
+vocabulary; the labels themselves are not added as standalone entries.
+Original notes are preserved below. Source spelling `hydorsphere` and
+Vietnamese gloss `thủy quyền` are normalized to `hydrosphere` and
+`thủy quyển` in the active table/bank.
+
+### Original learner notes
+
+hydro/hydr
+
+hydrant : n  : trụ nước cứu hỏa , trụ nước cấp nước
+
+hydroelectric : adj : (thuộc thủy điện) thủy điện
+hydroelectricity : n : thủy điện
+
+hydrate : v : cấp nước
+hydration : n : sự cấp nước , cấp ẩm
+
+hydorsphere : n : thủy quyền
+
+### Normalized Unit 56 classification
+
+The learner supplied six terms without a separate textbook/extension list.
+For quiz sequencing, four are core/source words and two are explicit
+word-family/support forms. These labels do not assert a missing book list,
+and no unlisted extension is inferred.
+
+Core/source words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| hydrant | noun | water outlet connected to a supply pipe, especially for firefighting | trụ nước; trụ nước cứu hỏa |
+| hydroelectric | adjective | relating to electricity produced using moving water | thuộc thủy điện |
+| hydrate | verb | supply or absorb water or moisture | bổ sung nước; cấp nước; cấp ẩm; hấp thụ nước |
+| hydrosphere | noun | Earth's water in all its forms | thủy quyển; toàn bộ nước trên Trái Đất |
+
+Word families and support words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| hydroelectricity | noun | electricity generated using moving water | thủy điện; điện năng tạo ra từ năng lượng nước |
+| hydration | noun | process or state of supplying or absorbing water | sự bổ sung nước; sự cấp nước; sự cấp ẩm |
+
+Watch and memory contrasts:
+
+- Correct `hydorsphere` to `hydrosphere` and the Vietnamese noun to
+  `thủy quyển`. This is the Earth's water system, not an object supplying
+  water such as a hydrant.
+- `Hydroelectric` describes a plant, dam, or power source; `hydroelectricity`
+  names the electricity produced, not the plant itself.
+  Memory: `The hydroelectric plant generates hydroelectricity.`
+- `Hydrate` is the action verb in this supplied lesson; `hydration` is
+  the related process/state noun. Do not activate additional chemical noun
+  senses of hydrate just because they also exist in dictionaries.
+  Memory: `The cream helps hydrate the skin; it provides hydration.`
+- A hydrant connects to a water supply; use a clear street/firefighting
+  context to distinguish this fixture from a process or Earth system.
+- For hydrosphere, this project uses the broad all-water definition in
+  NASA's Precipitation Education glossary. Some Earth-system teaching
+  schemes discuss ice or atmospheric water separately. Use clear ocean,
+  river, lake, and groundwater cues instead of a quiz trap based solely on
+  where ice or water vapor is classified.
+- Include at least one correct answer from the family/support section in
+  the current quiz cycle. Use adjective/noun and verb/noun contrasts in
+  ordinary product, work, or reading contexts; no unlisted derivatives
+  or incidental candidates are activated by this import.
+
+Definition checks: [NASA Precipitation Education glossary](https://gpm.nasa.gov/education/glossary),
+[Merriam-Webster hydroelectric and hydroelectricity](https://www.merriam-webster.com/dictionary/hydroelectric),
+and [Merriam-Webster hydrate and hydration](https://www.merriam-webster.com/dictionary/hydrate).
+
+Merge status: six distinct terms, all absent from the pre-import bank.
+Six rows were appended at `new_unit/P2` (4 core/source, 2 family/support).
+All six are imported but untested; the import date is not retrieval
+evidence. Bank after merge: 1,406 rows, 678 nonqueued and 728 queued.
+No prior vocabulary row, Recovery/Cooldown priority, score, Tactics target,
+reservation/cursor, or candidate status changed. Unit 56 becomes primary
+current coverage; Unit 55 remains recent review with unfinished terms.

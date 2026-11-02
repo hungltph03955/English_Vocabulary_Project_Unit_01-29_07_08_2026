@@ -1,9 +1,110 @@
 # Rotation State - Snapshot
 
-Date: Tuesday 2026-10-27
-Scope: Unit 01-55 plus Tactics Units 01-24
-Last valid quiz: DQ-2026-10-26, Daily Quick, 10/12 (83.3%), graded Tuesday 2026-10-27
-Next eligible quiz: Tuesday 2026-10-27, Daily Quick, 12 questions, not yet issued
+Date: Monday 2026-11-02
+Scope: Unit 01-56 plus Tactics Units 01-24
+Last valid quiz: DQ-2026-11-02, Daily Quick on Monday 2026-11-02, 11/12 (91.7%)
+Next expected quiz: Tuesday 2026-11-03, Daily Quick, 12 questions, steady allocation
+
+## 2026-11-02 Daily Quick grading
+
+- Completed DQ-2026-11-02: 11/12 (91.7%). Only Q2 wrong: conduction
+  for conductive. No uncertain/unresolved answer or incidental candidate;
+  reasoning not supplied. Source quiz and new weekly history are saved.
+- Keep conductive/conduction P1. Production is a first correction after
+  the latest miss and stays P1. Lower only graduate P1 -> P2 after two
+  confident direct person-noun checks; U06-009 remains untested/unscheduled.
+- Unit 56 four role-contrast forms get first confident corrections/direct
+  successes and stay Recovery P2. Hydrosphere and typography pass first
+  practice at new_unit/P2. Overpay stays P3; no new cooldown/candidate.
+- All six Unit 56 terms now have initial correct direct checks, with both
+  support nouns retrieved. Initial practice is covered, not stable mastery.
+  Apply Tactics steady phase: Daily 5 Recovery, 4 Tactics, 2 due Word
+  Formation, 1 cooldown. Weekly 8 Recovery, 7 Tactics, 6 due/cooldown,
+  5 recent Word Formation, 4 tour/family. Track support/role coverage in
+  Recovery and review cycles; new current-unit imports may restore transition.
+- Airport/appointment -> new_unit/P2; earliest normal review 2026-11-09.
+  Next four verified queued Daily targets: arrive U05-003, barbecue
+  U05-004, book (verb) U05-005, acting U06-001. Cursor U06-002.
+- Bank 1,406 rows, 682 nonqueued and 724 queued. Use Recovery snapshot
+  2026-11-02; last Friday 2026-11-27 is Monthly Quick, 50 questions.
+  No quiz is issued by grading; next expected Daily is 2026-11-03.
+
+## Issuance snapshot - Monday 2026-11-02 (historical)
+
+- Issued DQ-2026-11-02; exact questions, options, map, and key are saved
+  in `QUIZ_2026-11-02_DAILY.md`.
+- Allocation: 5 Recovery (latest production and Unit 56 misses plus
+  conductive/graduate), 3 Unit 56 checks including opposite-side support
+  noun/verb and untouched hydrosphere, 2 Tactics, 1 recent typography,
+  1 older overpay cooldown. Each question is counted once.
+- Airport U05-001 and appointment U05-002 are the scheduled verified
+  targets and remain queued. Cursor U05-003 unchanged. Graduate is
+  WF54-only; U06-009 remains unscheduled/untested.
+- Monday 2026-11-02 is Daily Quick, 12 questions. November's last Friday
+  is 2026-11-27. No retrospective score or prior-month reset is inferred
+  without a recorded graded quiz. Recovery snapshot remains 2026-10-28.
+- Issuance changes no score, mastery, last_seen, or Recovery/Cooldown
+  priority. Bank stays 1,406 rows, 680 nonqueued and 726 queued; last
+  completed result remains DQ-2026-10-28 9/12.
+
+## 2026-10-28 Daily Quick grading
+
+- Completed DQ-2026-10-28: 9/12 (75.0%). Wrong Q3/Q7/Q8. Q10 C New
+  Year correct but uncertain; no unresolved answer or incidental candidate.
+  Reasoning not supplied. Exact source: `QUIZ_2026-10-28_DAILY.md`;
+  reviews in weekly history 2026-10-26 to 2026-10-30.
+- Keep production/product P1 after process/item miss. Add hydroelectric/
+  hydroelectricity and hydrate/hydration P2 after first Unit 56 role errors.
+  Hydrant passes first practice; support hydration was missed, so current
+  Unit 56 support coverage remains active. Hydrosphere is still untested.
+- Conductive/graduate pass first corrections after latest misses and stay
+  P1. Lower only semiofficial P1 -> P2 after confident direct checks on
+  2026-10-19 and today; lower only dictation P1 -> P2 after 2026-10-22 and
+  today. Other family forms retain their individual priorities.
+- Text -> new_unit/P2 after confident first check; next normal review
+  no earlier than 2026-11-04. New year -> recovery/P2 light watch after
+  correct-but-uncertain answer. Next verified Daily targets airport U05-001
+  and appointment U05-002 remain queued; cursor U05-003 unchanged.
+- Calligraphy passes first practice; returnable remains existing cooldown/P3.
+  No new cooldown or candidate promotion. Bank: 1,406 rows, 680 nonqueued,
+  726 queued. Use Recovery snapshot 2026-10-28. Next quiz 2026-10-29 Daily,
+  12; Friday 2026-10-30 is Monthly Quick, 50. No new quiz issued by grading.
+
+## Issuance snapshot - Wednesday 2026-10-28 (historical)
+
+- Issued DQ-2026-10-28; exact sentences, A-D options, map, and key are
+  saved in `QUIZ_2026-10-28_DAILY.md`.
+- Allocation: 5 P1 Recovery including latest conductive/graduate misses,
+  3 Unit 56 first checks including support hydration, 2 scheduled Tactics,
+  1 untouched recent Unit 55 term, 1 long-unseen cooldown check.
+- Text U04-005 and New Year U04-015 are the two verified scheduled IDs;
+  both remain queued/P2. Airport/appointment stay reserved; cursor U05-003
+  stays unchanged. Graduate Q2 is WF54 Recovery, not a U06-009 test.
+- Wednesday 2026-10-28 is Daily Quick, 12 questions. The last Friday is
+  2026-10-30, so the upcoming Friday is Monthly Quick, 50 questions.
+- Issuance changes no mastery, Recovery/Cooldown priority, last_seen, or
+  score. Last result remains DQ-2026-10-26 10/12, graded 2026-10-27.
+  Bank stays 1,406 rows, 678 nonqueued and 728 queued; use Recovery 2026-10-27.
+
+## 2026-10-27 Unit 56 hydro/hydr import
+
+- Normalize the learner's six hydro/hydr terms as Unit 56 after Unit 55.
+  Append six new_unit/P2 rows, all untested. Operational grouping: four
+  core/source words and two family/support nouns, not a claimed book list.
+- Core: hydrant, hydroelectric, hydrate, hydrosphere. Family/support:
+  hydroelectricity and hydration. Correct hydorsphere -> hydrosphere and
+  thủy quyền -> thủy quyển; retain raw source notes in the addendum.
+- Unit 56 becomes current coverage. Next Daily: 5 Recovery, 3 Unit 56
+  including a family/support answer, 2 scheduled Tactics, 1 recent/due,
+  1 cooldown/tour. Unit 55/54/53 continue through recent review and Recovery.
+  The standard Weekly current-unit slots now refer to Unit 56; Friday
+  2026-10-30 still replaces Weekly with Monthly Quick, 50 questions.
+- Preserve every prior bank row, score, Recovery/Cooldown priority,
+  candidate state, and Tactics schedule/cursor. Text/new year remain
+  queued and scheduled; airport/appointment reserved; cursor U05-003.
+- Bank after merge: 1,406 rows, 678 nonqueued and 728 queued. Importing
+  does not count as retrieval or create Recovery by itself. No quiz issued;
+  last completed result remains DQ-2026-10-26, 10/12, graded 2026-10-27.
 
 ## 2026-10-27 grading of DQ-2026-10-26
 

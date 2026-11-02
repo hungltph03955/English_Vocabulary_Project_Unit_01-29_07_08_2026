@@ -31,7 +31,21 @@ Use the CSV for complete priorities; untested forms retain individual states.
   malfunction/dysfunction, perfunctory family, functionality family,
   platform/transformation, flex/flexor, and other P2 groups retain CSV states.
 
-## Current Unit 55 and Recent Units
+## Current Unit 56 - Imported After Grading
+
+- New hydro/hydr lesson: hydrant, hydroelectric, hydroelectricity, hydrate,
+  hydration, hydrosphere. All six are new_unit/P2 and untested; none was
+  already in the bank. Correct source hydorsphere and thủy quyền to
+  hydrosphere and thủy quyển in normalized active content.
+- For sequencing, use four core/source words and family/support nouns
+  hydroelectricity/hydration. The learner did not label a separate book
+  list. Include a family/support correct answer in the current quiz cycle.
+- Unit 56 becomes primary current coverage. Import alone creates no new
+  Recovery, lowers no existing priority, and establishes no mastery.
+  Unit 55 stays recent review with unfinished terms; retain all P1/P2
+  contrasts above, especially conductive/conduction and graduate/graduation.
+
+## Recent Unit 55 and Other Recent Units
 
 - Book autograph and biography plus source-listed support bibliography
   pass first practice at new_unit/P2. The cycle has a correct support
@@ -52,12 +66,13 @@ Use the CSV for complete priorities; untested forms retain individual states.
   Next unscheduled cursor U05-003; no extra target was promoted.
 - Overcharge remains existing cooldown/P3. No new cooldown entry.
 - No incidental candidate was reported or promoted.
-- Bank remains 1,400 rows: 672 nonqueued and 728 queued.
+- After Unit 56 import, the bank has 1,406 rows: 678 nonqueued and
+  728 queued. All prior grading and queue states are preserved.
 
 ## Next Quiz
 
 The next eligible quiz is Tuesday 2026-10-27 Daily Quick, 12 questions.
-Use 5 Recovery, 3 current Unit 55 including support, 2 scheduled Tactics,
+Use 5 Recovery, 3 current Unit 56 including support, 2 scheduled Tactics,
 1 recent/due, 1 cooldown/tour. Friday 2026-10-30 is the last Friday of
 October: Monthly Quick, 50 questions. Use fresh sentences and preserve
 current source boundaries and individual Recovery priorities.

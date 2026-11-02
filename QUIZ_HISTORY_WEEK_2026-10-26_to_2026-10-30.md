@@ -74,3 +74,92 @@ Memory: `After graduation, the graduate applied for her first job.`
 
 Next eligible quiz: Tuesday 2026-10-27 Daily Quick, 12 questions, not yet
 issued. Friday 2026-10-30 is the last Friday: Monthly Quick, 50 questions.
+
+## Wednesday 2026-10-28 - Daily Quick
+
+Quiz ID: DQ-2026-10-28
+Source: `QUIZ_2026-10-28_DAILY.md`
+Answer/grade date: 2026-10-28, Asia/Saigon.
+Score: 9/12 = 75.0%.
+
+- Correct without uncertainty markers: Q1, Q2, Q4, Q5, Q6, Q9, Q11, Q12 (8).
+- Correct but uncertain: Q10 (C. New Year).
+- Wrong without uncertainty markers: Q3, Q7, Q8.
+- Wrong and uncertain: none. Unanswered/unresolved: none.
+- Reasoning: not supplied; not assessed separately.
+- Confidence: unmarked choices use the established confident-success
+  convention; confidence is not independently verified.
+- Incidental unknown non-bank words: none reported.
+
+Learner final answers: 1C 2A 3C 4B 5A 6B 7A 8A 9A 10C? 11D 12B.
+Answer key: 1C 2A 3D 4B 5A 6B 7D 8C 9A 10C 11D 12B.
+
+### Q3 - production versus product
+
+Original: `The team spent six months designing the device before starting full-scale ______.`
+
+Learner: C. `product`. Correct: D. `production`.
+
+Why: The team finishes design and starts the manufacturing process,
+production. A product is the item made or sold, not the process beginning
+after design. Both are nouns; focus on meaning and full-scale production.
+Memory: `Design the product, then start full-scale production.`
+
+### Q7 - hydroelectric versus hydroelectricity
+
+Original: `Because it generates power from flowing water, the station is ______.`
+
+Learner: A. `hydroelectricity`. Correct: D. `hydroelectric`.
+
+Why: The sentence describes the station as hydroelectric (adjective).
+Hydroelectricity is the electricity generated (noun); it is not the type
+or description of the station.
+Memory: `The station is hydroelectric; it produces hydroelectricity.`
+
+### Q8 - hydration versus hydrate
+
+Original: `The cream is designed to improve skin ______ by helping it retain moisture.`
+
+Learner: A. `hydrate`. Correct: C. `hydration`.
+
+Why: Improve takes the noun phrase skin hydration, naming the process/state
+of supplying or retaining water. Hydrate is the supplied action-verb sense;
+use it in a phrase such as helps hydrate the skin, not in this noun slot.
+Memory: `The cream improves skin hydration; it helps hydrate the skin.`
+
+### Q10 - correct but uncertain
+
+Original: `The calendar changed to January 1, and the family wished everyone a happy ______.`
+
+Learner: C. `New Year?`. Correct: C. `New Year`.
+Happy New Year is the appropriate greeting in this context. The final
+answer earns the point; confidence remains uncertain with no reasoning
+supplied, so the canonical target receives Recovery P2 light watch.
+
+### State Changes - 2026-10-28
+
+- Keep production/product P1 after the renewed manufacturing-process versus
+  item miss. Untested produce/productive retain their individual P1 states.
+- Add Unit 56 hydroelectric/hydroelectricity and hydrate/hydration to
+  Recovery P2 after first adjective/noun and verb/noun misses. Q6 hydrant
+  passes first practice at new_unit/P2. Family/support hydration was
+  attempted but missed; continue Unit 56 support and role contrasts soon.
+- Q1 conductive and Q2 graduate are first confident corrections after their
+  latest misses; keep P1. Graduate is WF54-only and does not test U06-009.
+- Lower only semiofficial P1 -> P2 after confident direct checks on
+  2026-10-19 and 2026-10-28; semi-permanent retains its own P1 state.
+  Lower only dictation P1 -> P2 after confident direct checks on
+  2026-10-22 and 2026-10-28. Other linked words keep individual states.
+- Text U04-005 Q9 passes first eligible practice and becomes new_unit/P2;
+  normal review no earlier than 2026-11-04. New year U04-015 Q10 is correct
+  but uncertain and becomes recovery/P2 light watch. T04 Pass-A anchors
+  are all tested; this does not establish whole-unit mastery.
+- Next verified Daily pair: U05-001 airport and U05-002 appointment, both
+  still queued/P2. Next unscheduled cursor remains U05-003.
+- Unit 55 calligraphy passes first practice at new_unit/P2. Returnable
+  remains existing cooldown/P3 after Q12; no new cooldown entry.
+- No incidental candidate addition/promotion. Bank remains 1,406 rows:
+  680 nonqueued and 726 queued.
+
+Next expected quiz: Thursday 2026-10-29 Daily Quick, 12 questions.
+Friday 2026-10-30 is the last Friday: Monthly Quick, 50 questions.
