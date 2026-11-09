@@ -1,9 +1,188 @@
 # Rotation State - Snapshot
 
-Date: Monday 2026-11-02
-Scope: Unit 01-56 plus Tactics Units 01-24
-Last valid quiz: DQ-2026-11-02, Daily Quick on Monday 2026-11-02, 11/12 (91.7%)
-Next expected quiz: Tuesday 2026-11-03, Daily Quick, 12 questions, steady allocation
+Date: Thursday 2026-11-05
+Scope: Unit 01-58 plus Tactics Units 01-24
+Last valid quiz: DQ-2026-11-05, Daily Quick on Thursday 2026-11-05, 11/12 (91.7%); Q7 correct but uncertain
+Next expected quiz: WQ-2026-11-06, Friday Weekly Quick, 30 questions; not issued
+
+## 2026-11-05 Daily Quick grading
+
+- Completed DQ-2026-11-05: 11/12 (91.7%). Wrong Q2 A conduction for
+  D conductor. Q7 final A management correct but uncertain; reasoning also
+  accepts manager but misses its required singular-count determiner.
+  Other ten answers correct without uncertainty. No unresolved answer or candidate.
+- Conductive alone lowers P1 -> P2 after two confident adjective corrections.
+  Conductor/conduction stay P1 after renewed material/process confusion.
+  Product stays P1 after its first item-noun correction. Illogical/graphic
+  stay P2 after first corrections; untested paired forms get no direct credit.
+- Management and the explicitly confused manager enter Recovery P2 watch
+  for poor management versus a poor manager. Q7 remains a correct final
+  answer; manager is a reasoning contrast, not a directly retrieved target.
+- Unit 58: manual/manufacturer first confident checks; management first
+  correct uncertain check. Three of eleven attempted, two confident and
+  one uncertain success. Support requirement met by manufacturer; keep transition.
+- Prologue passes first practice; Unit 57 has 7/8 historical direct successes
+  including illogical's correction. Logical remains untested; logically and
+  illogical remain Recovery P2. Nonstop stays P3; no new cooldown entry.
+- Architect/bookstore -> new_unit/P2; earliest normal review 2026-11-12.
+  Next Friday's six verified Tier-A queued targets: U06-004 boss, U06-005
+  businessperson, U07-002 athlete, U07-003 band, U07-004 celebrity (printed
+  celebrities), U07-005 drama. Definitions normalized in bank/map; canonical
+  celebrity POS noun, printed plural POS preserved. Cursor U07-006.
+- Bank: 1,425 rows, 707 nonqueued and 718 queued. Current Recovery snapshot
+  2026-11-05. No candidate promotion or quiz issuance by grading. Next quiz
+  Friday 2026-11-06 Weekly 30: 8 Recovery + 6 Unit 58 + 6 Tactics +
+  6 due/recent + 4 tour/family. Last Friday 2026-11-27 is Monthly 50.
+
+## Issuance snapshot - Thursday 2026-11-05 (historical)
+
+- Issued DQ-2026-11-05; exact questions, options, key and source map are
+  saved in `QUIZ_2026-11-05_DAILY.md`.
+- Transition allocation: 5 Recovery (conductive/conductor role pair,
+  product, illogical, graphic), 3 current Unit 58 (manual instruction-book
+  noun plus management/manufacturer support), 2 scheduled Tactics
+  architect/bookstore, 1 recent prologue, 1 older nonstop cooldown check.
+- Architect U06-002/bookstore U06-003 remain queued/P2 until graded.
+  Cursor U06-004 unchanged. Unit 58 remains 0/11 direct checks; Unit 57
+  prior scores/coverage stay unchanged until grading. Logical still needs
+  a later direct first check. No score or mastery inferred from issuance.
+- Thursday 2026-11-05 is Daily Quick, 12 questions. Tomorrow 2026-11-06
+  is Weekly Quick 30; last Friday 2026-11-27 is Monthly Quick 50.
+- Bank unchanged: 1,425 rows, 705 nonqueued and 720 queued. Last completed
+  quiz DQ-2026-11-04 10/12; current Recovery snapshot 2026-11-04.
+
+## 2026-11-04 Unit 58 manu/mani/man import
+
+- Import eleven supplied terms after Unit 57. All normalized lemmas are
+  new; append eleven new_unit/P2 rows without replacing any previous row.
+- Operational core/source: manage, manipulate, manual, manufacture,
+  manuscript. Family/support: manager, management, manipulation,
+  manipulative, manually, manufacturer. No textbook split was supplied.
+- Correct manufactuer -> manufacturer; complete manual's instruction-book
+  noun meaning and manuscript's noun label. Preserve original learner notes.
+- Unit 58 becomes primary current coverage; all eleven need first direct
+  practice. Daily transition: 5 Recovery + 3 Unit 58 including support +
+  2 Tactics + 1 recent/due + 1 cooldown. Weekly: 8 Recovery + 6 Unit 58 +
+  6 Tactics + 6 due/recent + 4 tour/family.
+- Keep Unit 57 prologue/logical in recent unfinished review, with
+  illogical/logically and graphic/bibliography Recovery P2. All earlier
+  Recovery/Cooldown states and the completed 10/12 result are preserved.
+- No canonical Tactics overlap. Architect U06-002 and bookstore U06-003
+  remain the verified queued next pair; next unscheduled cursor U06-004.
+  Existing managed to is a separate Tactics phrase, not a manage lemma check.
+- Bank: 1,425 rows, 705 nonqueued and 720 queued. No candidate promotion,
+  quiz issuance, or new score. Next quiz remains Thursday 2026-11-05 Daily
+  12; Friday 2026-11-06 Weekly 30; last Friday 2026-11-27 Monthly 50.
+
+## 2026-11-04 Daily Quick grading
+
+- Completed DQ-2026-11-04: 10/12 (83.3%). Wrong Q8 C logically for
+  B illogical and Q11 D bibliography for A graphic. Other ten correct
+  without uncertainty markers; no reasoning or unknown word supplied.
+  Exact original-sentence reviews are in the source quiz and weekly history.
+- Add illogical/logically and graphic/bibliography as Recovery P2 contrasts
+  (four existing lemmas). Keep conduction/productive P1 after their first
+  direct corrections; untested paired forms retain individual states.
+- Geochemistry and semi-permanent lower P1 -> P2 after second direct
+  corrections following observed 2026-10-27 checks. Hydration enters
+  cooldown/P3 after its second confident noun correction since 2026-11-02;
+  hydrate/hydroelectric remain Recovery P2. Nonverbal stays existing P3.
+- Unit 57 epilogue/monologue pass first checks. Five of eight terms have
+  historical direct successes; six attempted. Illogical failed its first
+  check; logically needs Recovery after an earlier success. Prologue/logical
+  still need direct practice. Keep transition Daily 5 Recovery + 3 Unit 57
+  including support + 2 Tactics + 1 recent/due + 1 cooldown; Weekly unchanged.
+- Book/acting pass first eligible checks -> new_unit/P2; normal review
+  no earlier than 2026-11-11. Next verified queued pair: architect U06-002
+  and bookstore U06-003. Contextual definitions checked in CSV/map; both
+  remain untested queued/P2. Cursor advances U06-002 -> U06-004.
+- Bank: 1,414 rows, 694 nonqueued and 720 queued. No incidental candidate
+  addition/promotion. Use Recovery snapshot 2026-11-04. No quiz pending;
+  next expected quiz Thursday 2026-11-05 Daily 12. Friday 2026-11-06 is
+  Weekly 30; last Friday 2026-11-27 is Monthly 50.
+
+## Issuance snapshot - Wednesday 2026-11-04 (historical)
+
+- Issued DQ-2026-11-04; exact questions, options, key and selection map
+  are saved in `QUIZ_2026-11-04_DAILY.md`.
+- Transition allocation: 5 Recovery (conduction, productive, geochemistry,
+  semi-permanent, hydration), 3 current Unit 57 (epilogue, monologue,
+  support illogical), 2 scheduled Tactics (book/acting), 1 recent graphic,
+  1 older cooldown nonverbal. All sentences are new relative to recent quizzes.
+- Book U05-005 and acting U06-001 remain queued/P2 until graded; cursor
+  U06-002 unchanged. Unit 57 remains 3/8 successful direct first checks
+  until answers are graded. Prologue/logical remain future direct targets.
+- Wednesday 2026-11-04 is Daily Quick, 12 questions. Last Friday of
+  November is 2026-11-27, Monthly Quick 50. Current Recovery snapshot:
+  2026-11-03. Last completed result stays DQ-2026-11-03, 12/12.
+- Bank unchanged at 1,414 rows, 692 nonqueued and 722 queued. Issuance
+  changes no score, last_seen, mastery, Recovery/Cooldown, or candidate state.
+
+## 2026-11-03 Daily Quick grading
+
+- Completed DQ-2026-11-03: 12/12 (100.0%). All answers correct without
+  uncertainty markers. No reasoning supplied, unresolved answer, new Recovery
+  addition, or incidental candidate. Exact source and weekly history saved.
+- Conductive is the first confident correction after the 2026-11-02 miss;
+  retain P1, with conductor/conduction individually unchanged. Production
+  and geochemical each have two direct corrections and lower P1 -> P2;
+  product/produce/productive and geochemistry retain P1.
+- Graduation has its first direct event-noun correction and stays P2.
+  New Year has its first unmarked correct retrieval after earlier uncertainty;
+  retain Recovery P2 until another varied confident check.
+- Hydroelectricity has two confident direct noun checks (2026-11-02/03)
+  and enters cooldown/P3. Hydroelectric/hydrate/hydration stay Recovery P2.
+  Uphold stays existing cooldown/P3.
+- Unit 57 logic/dialogue/logically pass first direct practice, including
+  support (3/8). The other five remain untested. Keep transition Daily
+  5 Recovery + 3 Unit 57 + 2 Tactics + 1 recent/due + 1 cooldown; Weekly
+  8 Recovery + 6 Unit 57 + 6 Tactics + 6 due/recent + 4 tour/family.
+- Arrive U05-003 and barbecue U05-004 become new_unit/P2; normal review
+  no earlier than 2026-11-10. Barbecue's noun sense was tested, not its verb.
+  Next scheduled verified queued pair: book U05-005 (verb) and acting
+  U06-001 (noun/gerund). Cursor U06-002 unchanged; no extra promotion.
+- Bank: 1,414 rows, 692 nonqueued and 722 queued. Current Recovery snapshot
+  is 2026-11-03. No quiz pending; next expected Daily is 2026-11-04.
+  November's last Friday remains 2026-11-27, Monthly Quick 50.
+
+## Issuance snapshot - Tuesday 2026-11-03 (historical)
+
+- Issued DQ-2026-11-03; exact questions, A-D options, map, and key are
+  saved in `QUIZ_2026-11-03_DAILY.md`.
+- Transition allocation: 5 Recovery including New Year confidence watch,
+  3 Unit 57 first-practice checks including logically support, 2 scheduled
+  Tactics, 1 recent Unit 56 support, 1 older uphold cooldown check.
+- Arrive U05-003 and barbecue U05-004 remain queued/P2 until graded.
+  Book U05-005 and acting U06-001 stay held for later, not options here.
+  Cursor U06-002 unchanged. No score/mastery inferred from issuance.
+- Tuesday 2026-11-03 is Daily Quick, 12 questions. November's last Friday
+  is 2026-11-27. Last completed result remains DQ-2026-11-02 11/12;
+  Recovery snapshot 2026-11-02 includes the Unit 57 import update.
+- Bank stays 1,414 rows, 690 nonqueued and 724 queued; no last_seen or
+  Recovery/Cooldown priority change from creating this quiz.
+
+## 2026-11-03 Unit 57 log/logue import
+
+- Add the supplied eight log/logue terms as Unit 57 after Unit 56.
+  All eight are new normalized lemmas and new_unit/P2, untested.
+  Operational classification: five core/source words, three support forms;
+  no separate textbook/extension labels were supplied.
+- Core: dialogue, epilogue, monologue, prologue, logic. Support: logical,
+  logically, illogical. Correct logic's adjective-like source gloss to a
+  noun meaning reasoning/principles; label illogical as an adjective.
+- Unit 57 becomes primary current coverage. Restore transition Daily:
+  5 Recovery, 3 Unit 57 including a support correct answer, 2 Tactics,
+  1 recent/due, 1 cooldown. Weekly: 8 Recovery, 6 Unit 57, 6 Tactics,
+  6 due/recent, 4 tour/family. Unit 56 is covered initially, not mastered,
+  and its four Recovery forms retain P2 through consolidation.
+- Keep all four prior Tactics reservations, but assign arrive U05-003
+  and barbecue U05-004 to the next Daily. Book U05-005 and acting U06-001
+  remain reserved for later, not options in that next Daily. Next
+  unscheduled cursor stays U06-002; no queued target is promoted.
+- Bank: 1,414 rows, 690 nonqueued and 724 queued. Every old row, score,
+  Recovery/Cooldown priority, candidate state, and Tactics result is
+  preserved. No quiz is issued. Last result stays DQ-2026-11-02 11/12;
+  November's last Friday remains 2026-11-27, Monthly Quick 50.
 
 ## 2026-11-02 Daily Quick grading
 

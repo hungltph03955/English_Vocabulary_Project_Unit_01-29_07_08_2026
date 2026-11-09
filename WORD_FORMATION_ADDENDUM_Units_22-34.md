@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-56 and Tactics Index 1-24
+# Word Formation Addendum - Units 22-58 and Tactics Index 1-24
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -3255,3 +3255,207 @@ evidence. Bank after merge: 1,406 rows, 678 nonqueued and 728 queued.
 No prior vocabulary row, Recovery/Cooldown priority, score, Tactics target,
 reservation/cursor, or candidate status changed. Unit 56 becomes primary
 current coverage; Unit 55 remains recent review with unfinished terms.
+
+
+
+## Unit 57 - Roots `log` / `logue`
+
+Imported Tuesday 2026-11-03. The learner's new log/logue lesson follows
+Unit 56 hydro/hydr and groups speech, narrative sections, and reasoning
+words. The root labels are analysis nodes, not extra standalone entries.
+Original notes are retained below; normalized meanings and parts of speech
+follow. The source did not provide a separate book/extension classification.
+
+### Original learner notes
+
+log/logue :
+
+dialogue : n : đối thoại , cuộc hội thoại
+epilogue : n  : lời kết
+monologue : n : độc thoại
+prologue : n  : lời mở đầu , phần mở đầu , dẫn nhập
+logic : n : có lý lẽ, hợp lý
+logical : adj : hợp lý
+logically : adv : một cách hợp lý
+illogical : vô lý
+
+### Normalized Unit 57 classification
+
+For quiz sequencing, the supplied eight terms are grouped into five
+core/source words and three family/support forms. These operational
+labels do not claim a missing textbook list; no extra word is inferred.
+
+Core/source words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| dialogue | noun | conversation or exchange of views between two or more people | cuộc đối thoại; cuộc hội thoại |
+| epilogue | noun | concluding section or speech after the main story | lời kết; phần kết sau câu chuyện chính |
+| monologue | noun | extended speech by one person | bài độc thoại; lời độc thoại |
+| prologue | noun | introductory section or speech before the main story | lời mở đầu; phần mở đầu; dẫn nhập |
+| logic | noun | principles of sound reasoning; reasoning behind a conclusion or plan | lô-gic; lý lẽ; cơ sở lập luận |
+
+Word families and support words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| logical | adjective | based on clear and consistent reasoning; sensible | hợp lý; có lô-gic |
+| logically | adverb | in a way that follows reason or clear connections between ideas | một cách hợp lý; theo lô-gic |
+| illogical | adjective | not following sound or consistent reasoning | phi lô-gic; không hợp lý; vô lý |
+
+Watch and memory contrasts:
+
+- The source labels logic as a noun but gives an adjective-like gloss.
+  Normalize the noun to lô-gic/lý lẽ/cơ sở lập luận. Logical is the
+  adjective describing something reasoned or sensible; logically describes
+  how an action or reasoning is performed. Illogical is the negative adjective.
+  Memory: `Explain the logic; make a logical decision; reason logically.`
+- Add the missing adjective label for illogical. Contrast `a logical plan`
+  with `an illogical plan`; do not treat the negative prefix as a separate word.
+- A dialogue involves an exchange among speakers; a monologue is an
+  extended speech by one person. Use clear turn-taking versus one-speaker
+  cues in realistic meeting, reading, or performance contexts.
+- A prologue opens or introduces the main narrative; an epilogue follows
+  and closes it. Both are nouns, so this is a position/meaning contrast.
+  Memory: `Read the prologue before the story and the epilogue afterward.`
+- Only the supplied noun sense of dialogue is activated by this lesson.
+  No alternative spelling or unlisted derivative is added.
+- Include at least one correct answer from logical/logically/illogical in
+  the current quiz cycle. Prefer noun/adjective/adverb roles and the
+  source-listed meaning contrasts instead of relying on isolated translations.
+
+Merge status: eight distinct terms, all absent from the pre-import bank
+after normalized lemma checks. Eight new rows were appended at
+`new_unit/P2` (5 core/source, 3 family/support), with no duplicate or
+replacement of a prior row. All eight are imported and untested; the
+import date is not a successful retrieval. Bank after merge: 1,414 rows,
+690 nonqueued and 724 queued. No prior score, Recovery/Cooldown priority,
+candidate state, or Tactics canonical row changed.
+
+Unit 57 becomes primary current coverage. Restore transition allocation
+while these terms need first practice: Daily 5 Recovery + 3 Unit 57
+(including support) + 2 scheduled Tactics + 1 recent/due + 1 cooldown.
+The first two existing reservations, arrive/barbecue, are the next Daily
+pair; book/acting remain reserved for later. The next unscheduled cursor
+stays U06-002. No source target is treated as tested by this import.
+
+
+## Unit 58 - Roots `manu` / `mani` / `man`
+
+Imported Wednesday 2026-11-04 after grading DQ-2026-11-04. The supplied
+block follows Unit 57 and groups managing, manipulation, manual work,
+manufacturing, and manuscripts. Root labels organize the supplied lesson;
+they are not standalone vocabulary entries. Original learner notes are
+preserved below. No separate textbook/extension list was supplied.
+
+### Original learner notes
+
+manu/mani/man
+
+manage : v : quẩn lý
+manager : n : người quản lý
+management : n : sự quản lý
+
+
+manipulate : v  : thao túng
+manipulation : n : sự thao túng
+manipulative : adj : mang thao túng
+
+manual : adj,n : thủ công
+manually : adv : một cách thủ công
+
+manufacture : n, v : chế tạo
+manufactuer  : n  : nhà sản xuất
+
+manuscript : bản thảo viết tay
+
+### Normalized Unit 58 classification
+
+For quiz sequencing, the eleven supplied terms form five core/source words
+and six explicit word-family/support forms. These operational labels do
+not claim a textbook/extension split. No unlisted derivative is added.
+
+Core/source words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| manage | verb | organize or direct work or an activity | quản lý; điều hành |
+| manipulate | verb | control or influence someone or something especially unfairly | thao túng; điều khiển hoặc tác động một cách không công bằng |
+| manual | adjective / noun | done by hand rather than automatically; book giving instructions | thủ công; bằng tay; sách hoặc tài liệu hướng dẫn |
+| manufacture | noun / verb | process of making goods; make goods especially in a factory | sự sản xuất hoặc chế tạo; sản xuất; chế tạo |
+| manuscript | noun | author's written or typed text before publication; handwritten document | bản thảo trước khi xuất bản; tài liệu viết tay |
+
+Word families and support words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| manager | noun | person responsible for directing a team or organization | người quản lý |
+| management | noun | process of organizing and directing work or an organization | sự quản lý; công tác quản lý hoặc điều hành |
+| manipulation | noun | act or process of controlling or influencing someone or something especially unfairly | sự thao túng; hành vi tác động hoặc điều khiển không công bằng |
+| manipulative | adjective | trying to control or influence others unfairly | có tính thao túng; nhằm thao túng người khác |
+| manually | adverb | by hand rather than automatically | một cách thủ công; bằng tay |
+| manufacturer | noun | person or company that makes goods | nhà sản xuất; người hoặc công ty sản xuất hàng hóa |
+
+Watch and memory contrasts:
+
+- Normalize source `manufactuer` to `manufacturer`. Keep the original typo
+  only in the learner notes; do not create an additional misspelled lemma.
+- Manage is the action; manager is the person; management is the process.
+  Memory: `The manager manages the team; good management keeps work organized.`
+  The Tactics source `managed to` (canonical `manage to`) is a separate entry;
+  do not treat it as retrieval or activation of the manage lemma.
+- Manipulate is a verb, manipulation is a process noun, and manipulative
+  is an adjective. Start with the source's unfair-control sense; distinguish
+  ordinary management from dishonest pressure or influence using clear context.
+  Memory: `The message was manipulative; it tried to manipulate her decision.`
+- Manual has both an adjective and a noun sense. The source's gloss thủ công
+  covers the adjective; add sách/tài liệu hướng dẫn for the noun.
+  Memory: `Use the manual to perform a manual check; enter the result manually.`
+- Manufacture can be the production process or the act of making goods;
+  manufacturer names the maker. Use role cues such as `the manufacture of
+  equipment`, `manufacture equipment`, and `the equipment manufacturer`.
+  Do not equate the process, maker, and finished product.
+- Add the missing noun label for manuscript. A manuscript may be handwritten
+  or typed before publication; avoid requiring handwriting as its only meaning.
+  Contrast `read the instruction manual` with `edit the author's manuscript`.
+- Include a correct answer from the support section in the Unit 58 quiz cycle,
+  testing role, collocation, or meaning in work/product/daily-life contexts.
+
+Merge status: eleven normalized lemmas were absent from the prior bank and
+from Tactics canonical mappings. Append eleven new_unit/P2 rows (5 core/source,
+6 family/support). All are imported and untested; import dates in last_seen
+are bookkeeping, not successful retrieval. No old row is replaced.
+Bank after merge: 1,425 rows, 705 nonqueued and 720 queued.
+
+Unit 58 becomes primary current coverage. Keep transition Daily 5 Recovery
++ 3 Unit 58 including support + 2 scheduled Tactics + 1 recent/due + 1 cooldown.
+Weekly: 8 Recovery + 6 Unit 58 + 6 Tactics + 6 due/recent + 4 tour/family.
+Unit 57 remains recent unfinished review: prologue/logical need first direct
+checks and illogical/logically remain Recovery P2. Graphic/bibliography and
+all prior priorities, scores, and candidate states are preserved.
+Architect U06-002 and bookstore U06-003 remain the next verified queued
+Tactics pair; cursor U06-004 is unchanged. No quiz is issued by this import.
+
+
+
+mit/miss 
+
+
+admit : v :  thừa nhận 
+admission : n : sự thừa nhận , sự nhận vào 
+admitssible : adj : có thể chấp nhận 
+
+
+dismiss : v : sa thải , giải tán , bác bỏ , gạt bỏ  
+dismissal : n : sự sa thải , sự bác bỏ 
+dismissive : adj : thờ ơ , hờ hững 
+
+emit : n : thải ra, phát ra 
+emission : n : sụ thải ra , chất thải ra 
+
+permit : v , n : cho phép , giấy phép 
+permission  : n : sự cho phép 
+
+submit : v : phục tùng, khuất phục ; nộp / trình lên 
+submission : n : sự nộp , trình ; sự phục tùng 
+submissive : adj : cam chịu , khuất phục 

@@ -33,7 +33,20 @@ Use the CSV for complete priorities; untested forms retain individual states.
   functionality family, platform/transformation, flex/flexor, and other
   P2 groups retain individual CSV states.
 
-## Unit 56 Initial Coverage and Other Recent Units
+## Current Unit 57 - Imported 2026-11-03
+
+- New log/logue source supplies dialogue, epilogue, monologue, prologue,
+  logic, logical, logically, illogical. All eight are new_unit/P2, untested.
+  No prior bank entry or incidental candidate was replaced/promoted.
+- Core/source grouping uses the first five words; support grouping uses
+  logical/logically/illogical. The source did not mark a textbook list.
+  Include a support correct answer in the current cycle; importing is not
+  retrieval or a reason to change any existing Recovery priority.
+- Unit 57 needs first practice, restoring transition allocation: 5 Recovery,
+  3 current-unit, 2 scheduled Tactics, 1 recent/due, 1 cooldown/tour. Keep
+  conductive/conduction P1 and all other individual states above.
+
+## Recent Unit 56 Initial Coverage and Other Recent Units
 
 - Hydrant passed first practice 2026-10-28. Hydroelectric, hydration,
   hydroelectricity, hydrate, and hydrosphere now have correct direct checks.
@@ -41,26 +54,29 @@ Use the CSV for complete priorities; untested forms retain individual states.
   retrieved. This is not a mastery claim; four forms remain Recovery P2.
 - Hydrosphere and Unit 55 typography pass first practice at new_unit/P2.
   Other earlier unit successes and untouched terms retain their own states.
-- Since current-unit first practice is covered, follow Tactics steady
-  allocation: 5 Recovery, 4 scheduled Tactics, 2 due Word Formation, and
-  1 cooldown/tour per Daily. Consolidate Unit 56 and other unfinished
-  Word Formation families through Recovery and review. A new unit import
-  may restore the transition allocation.
+- This initial coverage activated steady allocation on 2026-11-02, but
+  the new Unit 57 import restores transition while its words need first
+  practice. Unit 56 consolidation and its four P2 role contrasts remain
+  in Recovery/review; their coverage and priorities are not reset.
 
 ## Tactics, Cooldown, and Candidates
 
 - Airport and appointment move queued -> new_unit/P2 after confident first
   checks; normal review no earlier than 2026-11-09.
-- Next four verified Tier-A targets: U05-003 arrive, U05-004 barbecue,
-  U05-005 book (verb), U06-001 acting. All remain queued/P2. Next
-  unscheduled cursor U06-002. Do not count reservations as test results.
+- Next active Daily pair: U05-003 arrive and U05-004 barbecue. U05-005
+  book (verb) and U06-001 acting retain their reservations for later and
+  are not options in the next Daily. All four stay queued/P2; next
+  unscheduled cursor U06-002. Reservations are not test results.
 - Overpay remains existing cooldown/P3. No new cooldown entry or incidental
   candidate addition/promotion.
-- Bank remains 1,406 rows: 682 nonqueued and 724 queued.
+- After Unit 57 import, the bank has 1,414 rows: 690 nonqueued and
+  724 queued. No Tactics canonical eligibility or score changed.
 
 ## Next Quiz
 
-Tuesday 2026-11-03: Daily Quick, 12 questions under steady allocation.
+Tuesday 2026-11-03: Daily Quick, 12 questions under transition allocation
+for new Unit 57 (5 Recovery, 3 current-unit including support, 2 Tactics,
+1 recent/due, 1 cooldown/tour).
 Recovery still comes first, including the repeated conductive/conduction
 contrast. Keep source boundaries and actual observation dates. November's
 last Friday is 2026-11-27: Monthly Quick, 50 questions.

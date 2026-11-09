@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Monday 2026-11-02
+Date: Thursday 2026-11-05
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-56 plus Tactics Units 01-24
+Current scope: Unit 01-58 plus Tactics Units 01-24
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -16,7 +16,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
 5. `TACTICS_ROTATION_STATE.md`
-6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-11-02.md`)
+6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-11-05.md`)
 7. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 8. `VOCABULARY_STATE.csv`
 9. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-11-02_to_2026-11-06.md`)
@@ -29,14 +29,71 @@ Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
 
+The Thursday 2026-11-05 Daily Quick, DQ-2026-11-05, is completed:
+11/12 (91.7%). Wrong Q2 conduction for conductor; Q7 management correct
+but uncertain, with manager also considered. Countability/determiner
+reasoning needs review: poor management versus a poor manager. No unresolved
+answer or incidental unknown word. Exact source/reviews in
+`QUIZ_2026-11-05_DAILY.md` and the current weekly history.
+Use Recovery snapshot 2026-11-05. Conductive alone lowers to P2;
+conductor/conduction stay P1. Management/manager enter Recovery P2 watch;
+illogical/graphic stay P2 after first corrections. No new cooldown.
+Unit 58 has three attempted terms: manual/manufacturer confident and
+management uncertain. Unit 57 prologue passes; logical remains untested.
+Architect/bookstore pass first checks; next six queued Weekly targets are
+boss U06-004, businessperson U06-005, athlete U07-002, band U07-003,
+celebrity U07-004, drama U07-005. Cursor U07-006. Bank 1,425 rows,
+707 nonqueued, 718 queued. No quiz pending. Next expected quiz is Friday
+2026-11-06 Weekly 30; last Friday 2026-11-27 is Monthly 50.
+
+The 2026-11-04 vocabulary update imports eleven manu/mani/man terms as
+Unit 58, all new_unit/P2 and untested. Unit 58 is primary current coverage:
+Daily transition 5 Recovery + 3 Unit 58 including support + 2 scheduled
+Tactics + 1 recent/due + 1 cooldown. Weekly uses 8 Recovery + 6 Unit 58 +
+6 Tactics + 6 due/recent + 4 tour/family. Unit 57 remains recent unfinished
+review, including prologue/logical first checks and illogical/logically Recovery.
+Graphic/bibliography and all earlier priorities remain preserved. The next
+Tactics pair stays architect U06-002/bookstore U06-003; cursor U06-004.
+No quiz is issued by the import. Bank: 1,425 rows, 705 nonqueued, 720 queued.
+Last completed result stays DQ-2026-11-04 10/12; Recovery snapshot 2026-11-04.
+
+The Wednesday 2026-11-04 Daily Quick, DQ-2026-11-04, is completed:
+10/12 (83.3%). Wrong Q8 C logically for B illogical; Q11 D bibliography
+for A graphic. No uncertainty markers, unresolved answer, reasoning, or
+unknown non-bank word. Exact source/reviews: `QUIZ_2026-11-04_DAILY.md`
+and `QUIZ_HISTORY_WEEK_2026-11-02_to_2026-11-06.md`.
+Use Recovery snapshot 2026-11-04. Add illogical/logically and graphic/
+bibliography as Recovery P2 contrasts. Geochemistry/semi-permanent lower
+to P2; hydration alone newly enters cooldown/P3. Conduction/productive
+retain P1 after first direct corrections. Unit 57 now has 5/8 historical
+direct successes; illogical failed and prologue/logical remain untested.
+Keep transition allocation. Book/acting pass first checks at new_unit/P2;
+next verified queued pair is architect U06-002/bookstore U06-003, cursor
+U06-004. Next expected quiz: Thursday 2026-11-05 Daily, now issued above,
+12; Friday 2026-11-06 Weekly 30; last Friday 2026-11-27 Monthly 50.
+
+The Tuesday 2026-11-03 Daily Quick, DQ-2026-11-03, is completed and
+graded: 12/12 (100.0%). All answers are correct without uncertainty
+markers; no reasoning, unresolved answer, or unknown word was supplied.
+Exact source: `QUIZ_2026-11-03_DAILY.md`; history:
+`QUIZ_HISTORY_WEEK_2026-11-02_to_2026-11-06.md`. Use Recovery snapshot
+2026-11-03. The next quiz is Wednesday
+2026-11-04 Daily Quick, 12 questions, now completed above. The pair and
+cursor at this earlier grading were book/acting and U06-002.
+Production/geochemical lower to P2; conductive remains P1 after its first
+correction since the latest miss. Hydroelectricity alone enters cooldown/P3.
+Unit 57 logic/dialogue/logically pass first practice (3/8); transition
+allocation remains active until the remaining five receive direct checks.
+
 The Monday 2026-11-02 Daily Quick, DQ-2026-11-02, is completed:
 11/12 (91.7%). Only Q2 was wrong: C. conduction instead of D. conductive.
 No uncertainty, unresolved answer, reasoning, or unknown word reported.
 Exact source: `QUIZ_2026-11-02_DAILY.md`; review/history:
 `QUIZ_HISTORY_WEEK_2026-11-02_to_2026-11-06.md`. Use Recovery snapshot
-2026-11-02. Next quiz: Tuesday 2026-11-03 Daily Quick, 12 questions.
-Unit 56 initial practice is complete but four forms remain Recovery P2;
-apply steady allocation: 5 Recovery, 4 Tactics, 2 due Word Formation,
+2026-11-03 for the next Daily Quick; this Monday result remains historical.
+Unit 56 initial practice is complete; three forms now remain Recovery P2.
+The new Unit 57 import on 2026-11-03 restores transition allocation:
+5 Recovery, 3 current Unit 57 including support, 2 Tactics, 1 recent/due,
 1 cooldown/tour. November's last Friday is 2026-11-27, Monthly Quick 50.
 
 The Wednesday 2026-10-28 Daily Quick, DQ-2026-10-28, is completed:
@@ -44,7 +101,7 @@ The Wednesday 2026-10-28 Daily Quick, DQ-2026-10-28, is completed:
 No unresolved answer, supplied reasoning, or unknown non-bank word.
 Exact source: `QUIZ_2026-10-28_DAILY.md`; review/history:
 `QUIZ_HISTORY_WEEK_2026-10-26_to_2026-10-30.md`. This earlier result is
-preserved; current priorities use 2026-11-02. The last Friday of the current
+preserved; current priorities use 2026-11-03. The last Friday of the current
 month is 2026-11-27: Monthly Quick, 50 questions.
 
 The Monday 2026-10-26 Daily Quick, DQ-2026-10-26, is completed: 10/12
@@ -71,13 +128,16 @@ The Monday 2026-10-19 Daily Quick, `DQ-2026-10-19`, is completed: 8/12
 and uncertain; Q7 and Q8 were wrong without uncertainty; Q2 was correct
 but uncertain. This earlier result and its reviews remain preserved.
 
-The latest vocabulary update imports hydro/hydr as Unit 56: six new
-terms, operationally 4 core/source and 2 family/support. The learner did
-not provide separate book/extension labels. Unit 56 now has initial
-coverage for all six words and both support nouns. Keep its four Recovery
-forms at P2; Unit 55/54/53 continue as review and Recovery. Steady Daily
-allocation is 5 Recovery, 4 Tactics, 2 due Word Formation, 1 cooldown/tour.
-Restore transition allocation if a new current-unit import requires it. The next last-Friday
+The latest vocabulary update imports manu/mani/man as Unit 58: eleven new
+terms, operationally 5 core/source and 6 family/support. No separate
+book/extension list was supplied. Unit 57 now has 7/8 historical direct successes;
+Unit 57/56/55/54/53 continue in review and Recovery with prior priorities.
+Transition Daily allocation is 5 Recovery, 3 Unit 58, 2 scheduled Tactics,
+1 recent/due, 1 cooldown/tour. Arrive/barbecue passed first practice;
+book/acting and architect/bookstore also passed first checks. The next
+Weekly reserves boss/businessperson/athlete/band/celebrity/drama, with
+next unscheduled cursor U07-006; all six remain queued until graded.
+The next last-Friday
 Monthly Quick date is 2026-11-27, 50 questions across the active bank. This
 import issues no quiz and preserves the completed result.
 
@@ -106,16 +166,23 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 56 and now includes a queued Tactics
+The project has advanced through Unit 58 and now includes a queued Tactics
 Vocabulary Index track covering Tactics Units 01-24.
 
-Current bank: 1,406 rows, 682 nonqueued and 724 queued after 2026-11-02 grading.
-Unit 56 hydro/hydr has initial coverage complete; four paired forms remain
-Recovery P2 for consolidation, while hydrant/hydrosphere are new_unit/P2.
-Unit 55 graph retains its first-practice successes and unfinished terms.
+Current bank: 1,425 rows, 707 nonqueued and 718 queued after DQ-2026-11-05 grading.
+Unit 58 manu/mani/man is primary current coverage. Manual/manufacturer
+have confident first checks; management is correct but uncertain. Both
+management/manager are Recovery P2 watch; eight terms still lack direct
+first target checks, including manager discussed only in reasoning.
+Unit 57 log/logue has seven historical direct successes; illogical/logically
+remain Recovery P2 and logical remains untested. Unit 56 has initial
+coverage complete; hydroelectric/hydrate remain Recovery P2, hydration/
+hydroelectricity are cooldown/P3, and hydrant/hydrosphere are new_unit/P2.
+Unit 55 graphic/bibliography now need Recovery; preserve other successes
+and continue unfinished terms.
 Unit 54 grad/gress has
 graduate/graduation/gradual P2 Recovery, plus untested families. Unit 53 geo retains
-geochemical/geochemistry P1 and geographer/geologist P2 Recovery. Unit 52
+geochemistry/geochemical/geographer/geologist P2 Recovery. Unit 52
 gen, Unit 51 funct, and Unit 50 retain their unfinished families and
 individual priorities. The Tactics schedule and cursor are unchanged.
 
@@ -156,6 +223,60 @@ Recent unit coverage:
 - Unit 54: roots `grad` / `gress`
 - Unit 55: root `graph`
 - Unit 56: roots `hydro` / `hydr`
+- Unit 57: roots `log` / `logue`
+- Unit 58: roots `manu` / `mani` / `man`
+
+## Update 2026-11-04 - Unit 58 manu/mani/man import
+
+Eleven normalized terms are absent from the previous bank and Tactics
+canonical mappings. Append eleven new_unit/P2 rows: core/source manage,
+manipulate, manual, manufacture, manuscript; support manager, management,
+manipulation, manipulative, manually, manufacturer. These are operational
+groups; the learner did not supply a separate textbook/extension list.
+
+Normalize manufactuer -> manufacturer; complete manual's instruction-book
+noun sense and manuscript's noun label, preserving the source notes.
+Track action/person/process roles and manual adjective/noun versus manually
+adverb. Import dates do not count as successful practice. The existing
+Tactics phrase managed to is separate from the new manage lemma.
+
+Keep transition allocation with Unit 58 as current: Daily 5 Recovery,
+3 Unit 58 including support, 2 Tactics, 1 recent/due, 1 cooldown; Weekly
+8 Recovery, 6 Unit 58, 6 Tactics, 6 due/recent, 4 tour/family. Unit 57
+prologue/logical stay in unfinished recent review and illogical/logically
+stay Recovery P2. Preserve graphic/bibliography and every earlier priority.
+
+Bank: 1,425 rows, 705 nonqueued and 720 queued. No canonical Tactics row
+or source result changes; next pair architect/bookstore and cursor U06-004
+remain. No candidate promoted, score changed, or quiz issued. Last result
+stays DQ-2026-11-04 10/12. Next expected quiz remains 2026-11-05 Daily 12.
+
+## Update 2026-11-03 - Unit 57 log/logue import
+
+The learner's new log/logue block follows Unit 56 and is classified as
+Unit 57. All eight normalized lemmas were absent from the prior bank:
+append eight new_unit/P2 rows. Operational grouping: core/source dialogue,
+epilogue, monologue, prologue, logic; family/support logical, logically,
+illogical. The source did not provide separate textbook/extension labels.
+
+Normalize logic's noun gloss to lô-gic/lý lẽ/cơ sở lập luận rather than
+an adjective meaning hợp lý. Add illogical's missing adjective label.
+Preserve original notes; record logic/logical/logically/illogical roles,
+dialogue/monologue speakers, and prologue/epilogue position contrasts.
+Root labels and unlisted derivatives are not activated. All eight need
+first practice; no old candidate is promoted.
+
+Restore transition allocation for Unit 57 first practice: Daily 5 Recovery,
+3 current Unit 57 including a family/support answer, 2 Tactics, 1 recent/
+due, 1 cooldown. Weekly 8 Recovery, 6 Unit 57, 6 Tactics, 6 due/recent,
+4 tour/family. Preserve all four existing Tactics reservations: arrive/
+barbecue are assigned to the next Daily; book/acting are held for later
+and are not options for that next Daily. Cursor U06-002 unchanged.
+
+Bank: 1,414 rows, 690 nonqueued and 724 queued. Unit 56 stays in
+consolidation; existing conductive/conduction P1 and other priorities,
+scores, candidate states, and Tactics results remain unchanged. No quiz
+is issued by this import. Last completed result remains DQ-2026-11-02 11/12.
 
 ## Update 2026-11-02 - Daily Quick grading and initial coverage
 
@@ -840,17 +961,17 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Quiz date: Monday 2026-11-02
-- Answer/grade date: Monday 2026-11-02
-- Quiz ID: DQ-2026-11-02
+- Quiz date: Thursday 2026-11-05
+- Answer/grade date: Thursday 2026-11-05
+- Quiz ID: DQ-2026-11-05
 - Type: Daily Quick
 - Recorded result: 11/12 (91.7%)
-- Correct but uncertain: none
-- Wrong without uncertainty: Q2
+- Correct but uncertain: Q7, final A management
+- Wrong without uncertainty: Q2, A conduction instead of D conductor
 - Wrong and uncertain: none
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-11-02_DAILY.md`
+- Exact grading source: `QUIZ_2026-11-05_DAILY.md`
 - Result and reviews: `QUIZ_HISTORY_WEEK_2026-11-02_to_2026-11-06.md`
 
 Earlier valid records remain in their dated history files. Never apply their
@@ -892,27 +1013,33 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-11-02.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-11-05.md` and the current CSV for the complete queue.
 
 P1:
 
-- `produce` / `product` / `production` / `productive` after renewed Q1
-  adjective-versus-production-noun confusion; existing Unit 32 `produce`
-  remains cross-referenced
-- `geochemical` / `geochemistry` after repeated field-noun versus adjective confusion
-- `conductor` / `conduction` / `conductive` after Q2 material-versus-process miss
-- `semi-permanent` retains P1; semiofficial has lowered to P2 after two corrections
+- `produce` / `product` / `productive` retain P1; only production lowers to P2
+  after confident direct corrections on 2026-11-02 and 2026-11-03.
+- `conductor` / `conduction` retain P1 after renewed Q2 material/process miss.
 
 P2:
 
-- Unit 56 `hydroelectric` / `hydroelectricity` and `hydrate` / `hydration` after first role errors
-- Tactics `new year` light watch after Q10 correct but uncertain
+- `conductive` alone lowers P1 -> P2 after confident adjective checks 2026-11-03/05.
+- `management` / `manager` enter light watch: Q7 A correct but uncertain;
+  singular count manager needs a determiner, as in a poor manager.
+- Unit 56 `hydroelectric` and `hydrate` retain Recovery P2.
+  Hydroelectricity and now hydration are cooldown/P3 after two direct noun checks.
+- `illogical` / `logically` and `graphic` / `bibliography` enter Recovery P2
+  after Q8/Q11 errors on 2026-11-04. Preserve previous successful checks.
+- `geochemistry` and `semi-permanent` lower P1 -> P2 on 2026-11-04.
+- `production` and `geochemical` lower P1 -> P2; related untested forms retain priority.
+- Tactics `new year` stays P2: first unmarked correct check on 2026-11-03
+  after earlier uncertainty; require another varied confident retrieval.
 - `semiofficial` and `dictation` lowered from P1 after second confident direct checks
 - `graduate` lowered P1 -> P2 after two confident person-noun corrections
 - `graduation` after event noun selected for a job applicant; `graduate` is now P2
 - `gradual` retains P2 after the earlier adjective/person contrast
 - `reduce` lowered to P2 after two confident direct verb checks; related forms retain own states
-- `geology` after its first confident correction; `geochemistry` is now P1
+- `geology` after its first confident correction; `geochemistry` is now P2
 - `geographer` / `geologist` after Q8 people/services versus rock-specialist miss
 - `boot` / `outfit` after wrong uncertain knee-high rubber footwear Q9
 - `diction` and `dictation` are individually P2 after their recorded corrections
@@ -944,15 +1071,44 @@ P2:
 - `underrate` (`understate` is now cooldown)
 - Unit 46 word families and due older groups
 
-Current Unit 56 coverage:
+Current Unit 58 coverage:
+
+- Core/source: manage, manipulate, manual, manufacture, manuscript.
+- Family/support: manager, management, manipulation, manipulative,
+  manually, manufacturer.
+- Manual noun/manufacturer support pass confident first checks; management
+  is a correct uncertain first check. Three of eleven attempted, with two
+  confident and one uncertain success. Management/manager are Recovery P2;
+  manager was discussed only, not a direct target. Eight terms still need
+  direct first checks. Manufacturer meets the cycle support requirement.
+  Continue action/person/process and adjective/adverb context contrasts.
+- No separate textbook/extension list was supplied; these groupings are
+  operational. Source typo manufactuer is normalized to manufacturer.
+
+Recent Unit 57 coverage:
+
+- Core/source: dialogue, epilogue, monologue, prologue, logic.
+- Family/support: logical, logically, illogical.
+- Logic/dialogue/logically passed on 2026-11-03; epilogue/monologue passed
+  2026-11-04; illogical corrects its first miss and prologue passes first
+  practice on 2026-11-05: 7/8 historical direct successes. Logical alone
+  still needs a first check. Illogical/logically remain Recovery P2; initial
+  coverage remains incomplete. Transition continues for current Unit 58.
+  These are operational source groupings, not inferred textbook labels.
+
+Recent Unit 56 coverage:
 
 - Core/source: hydrant, hydroelectric, hydrate, hydrosphere.
 - Family/support: hydroelectricity, hydration.
 - Initial coverage complete: hydrant passed 2026-10-28; the other five
   source terms passed direct checks on 2026-11-02, including both support
-  nouns. Keep the four role-contrast forms Recovery P2 for varied retrieval.
-  Hydrosphere is new_unit/P2 after first practice. Steady allocation now
-  applies; this is initial coverage, not a declaration of mastery.
+  nouns. Hydroelectricity enters cooldown/P3 on 2026-11-03 after its second
+  confident direct noun check. Hydration joins cooldown/P3 on 2026-11-04
+  after a second confident noun correction; keep hydroelectric/hydrate Recovery P2.
+  Hydrosphere is new_unit/P2 after first practice. This initial coverage
+  activated steady allocation on 2026-11-02, now paused for new Unit 57
+  first practice, now continuing for Unit 58; retain the coverage record
+  with the noun-only cooldown changes.
 
 Recent Unit 55 coverage:
 
