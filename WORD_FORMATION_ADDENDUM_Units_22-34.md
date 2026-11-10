@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-58 and Tactics Index 1-24
+# Word Formation Addendum - Units 22-61 and Tactics Index 1-24
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -3438,24 +3438,293 @@ Tactics pair; cursor U06-004 is unchanged. No quiz is issued by this import.
 
 
 
-mit/miss 
+## Unit 59 - Roots `mit` / `miss`
+
+Imported Monday 2026-11-09. This supplied lesson follows Unit 58. Original
+notes are preserved below, with spelling, parts of speech, and meanings
+normalized in the tables. Root labels organize the lesson; no extra root
+entry or unlisted derivative is activated. No separate textbook/extension
+list was supplied.
+
+### Original learner notes
+
+mit/miss
 
 
-admit : v :  thừa nhận 
-admission : n : sự thừa nhận , sự nhận vào 
-admitssible : adj : có thể chấp nhận 
+admit : v :  thừa nhận
+admission : n : sự thừa nhận , sự nhận vào
+admitssible : adj : có thể chấp nhận
 
 
-dismiss : v : sa thải , giải tán , bác bỏ , gạt bỏ  
-dismissal : n : sự sa thải , sự bác bỏ 
-dismissive : adj : thờ ơ , hờ hững 
+dismiss : v : sa thải , giải tán , bác bỏ , gạt bỏ
+dismissal : n : sự sa thải , sự bác bỏ
+dismissive : adj : thờ ơ , hờ hững
 
-emit : n : thải ra, phát ra 
-emission : n : sụ thải ra , chất thải ra 
+emit : n : thải ra, phát ra
+emission : n : sụ thải ra , chất thải ra
 
-permit : v , n : cho phép , giấy phép 
-permission  : n : sự cho phép 
+permit : v , n : cho phép , giấy phép
+permission  : n : sự cho phép
 
-submit : v : phục tùng, khuất phục ; nộp / trình lên 
-submission : n : sự nộp , trình ; sự phục tùng 
-submissive : adj : cam chịu , khuất phục 
+submit : v : phục tùng, khuất phục ; nộp / trình lên
+submission : n : sự nộp , trình ; sự phục tùng
+submissive : adj : cam chịu , khuất phục
+
+### Normalized Unit 59 classification
+
+The thirteen supplied terms form five core/source verbs and eight explicit
+family/support forms. These are operational quiz groupings, not inferred
+textbook labels. Permit and submit reuse existing canonical rows; the other
+eleven lemmas are new.
+
+Core/source words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| admit | verb | acknowledge that something is true; allow someone to enter | thừa nhận; cho vào; tiếp nhận |
+| dismiss | verb | remove someone from a job; send people away; reject an idea or request | sa thải; cho giải tán; bác bỏ; gạt bỏ |
+| emit | verb | give out gas or light or sound or other energy | thải ra; phát ra |
+| permit | verb / noun | allow; official document giving permission | cho phép; giấy phép |
+| submit | verb | present work or a document for consideration; accept someone's authority or control | nộp; trình lên; phục tùng; chịu khuất phục |
+
+Word families and support words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| admission | noun | acknowledgement that something is true; act of allowing entry | sự thừa nhận; sự cho vào; sự tiếp nhận |
+| admissible | adjective | acceptable or allowed under the relevant rules | có thể chấp nhận; được phép chấp nhận theo quy định |
+| dismissal | noun | act of removing someone from a job; rejection of an idea or request | sự sa thải; sự bác bỏ |
+| dismissive | adjective | treating someone or something as not worth serious attention | coi nhẹ; gạt đi; cho là không đáng xem xét |
+| emission | noun | release of gas or energy; amount of gas or other substance released | sự phát ra hoặc thải ra; lượng khí hoặc chất được phát ra |
+| permission | noun | approval allowing someone to do something | sự cho phép; sự chấp thuận |
+| submission | noun | act of presenting work or a document; acceptance of another's authority | sự nộp; sự trình lên; sự phục tùng |
+| submissive | adjective | willing to obey others without resistance | dễ phục tùng; cam chịu; chịu khuất phục |
+
+Watch and memory contrasts:
+
+- Correct source admitssible -> admissible. Keep the original misspelling
+  only in learner notes; do not add a duplicate misspelled bank row.
+- Emit is a verb, not the noun label in the source. Emission is the noun.
+  Use device/product contexts as well as gas: `The device emits light.`
+  `The test measures light emission.` Emission does not always mean waste.
+- Dismissive means treating something as not worth attention, rather than
+  simply being uninterested. Contrast `dismiss a suggestion`, `the dismissal
+  of a suggestion`, and `a dismissive response` with clear context.
+- Admit/admission can concern acknowledging a mistake or allowing entry;
+  admissible describes something acceptable under rules. Test the supplied
+  roles without assuming all three have interchangeable meanings.
+- Permit is the act of allowing or the permission document; permission is
+  the approval itself. Memory: `You need permission to work here and a permit
+  to enter this area.` Use `a permit` versus `permission` in the approval sense.
+- Submit/submission concern handing in work or accepting authority; submissive
+  describes an obedient attitude. Memory: `Submit the report before noon.`
+  `The deadline for submission is noon.` The authority sense in the new
+  source is not proven by an older report-submission success.
+- Include at least one correct answer from the support section in this Unit 59
+  cycle, using meaning, collocation, or verb/noun/adjective contrasts.
+
+Definition checks: [Cambridge emit](https://dictionary.cambridge.org/us/dictionary/english/emit),
+[Cambridge dismissive](https://dictionary.cambridge.org/us/dictionary/english/dismissive),
+and [Cambridge emission](https://dictionary.cambridge.org/us/dictionary/english/emission).
+
+Merge status: thirteen distinct supplied lemmas. Append eleven new_unit/P2
+rows. Reuse permit (Unit 29, cooldown/P3) and submit (Unit 35, new_unit/P2),
+preserving their unit, status, priority, last_seen, source, and earlier quiz
+evidence. Complete permit's document meaning and submit's supplied authority
+sense in those same rows, with Unit 59 cross-reference notes. No duplicate
+row is created. Import dates on new rows are bookkeeping, not retrieval.
+Bank after merge: 1,436 rows, 718 nonqueued and 718 queued.
+
+Unit 59 becomes primary current coverage. Daily transition: 5 Recovery +
+3 Unit 59 including support + 2 Tactics + 1 recent/due + 1 cooldown.
+Weekly: 8 Recovery + 6 Unit 59 + 6 Tactics + 6 due/recent + 4 tour/family.
+Unit 58 remains unfinished recent review; keep management/manager watch and
+the existing Recovery queue first. Unit 57 logical still needs direct practice.
+
+No quiz or result exists for 2026-11-06 in project files; do not backfill it.
+The next quiz is Monday 2026-11-09 Daily 12. Keep boss U06-004 and
+businessperson U06-005 as the next scheduled pair; hold athlete/band/
+celebrity/drama for later, not options in that Daily. Cursor U07-006 unchanged.
+No quiz, candidate promotion, or new score is created by this import.
+
+
+## Unit 60 - Root `part`
+
+Imported Monday 2026-11-09 after grading DQ-2026-11-09. The supplied
+part block follows Unit 59. Original notes are preserved below; normalized
+meanings and parts of speech follow. The root label organizes this lesson
+and is not added as a standalone word. No textbook/extension split was supplied.
+
+### Original learner notes
+
+part :
+
+apart : adv : về 1 bên , riêng biệt , tách ra
+apartment : n : căn hộ chung cư
+
+compartment : n : ngăn , khoang chứa
+
+depart : v : rời đi
+department : n : phòng , khoa , gian hàng
+departure : n : sự rời khỏi sự khởi hành
+
+participate : :   v : tham gia vào
+
+particular : adj : cụ thể , riêng biệt
+
+particularly : adv : một cách cụ thể
+
+### Normalized Unit 60 classification
+
+Nine supplied terms form seven core/source words and two explicit
+word-family/support forms. These are operational quiz groupings, not
+inferred textbook labels. Seven lemmas are new. Apartment and department
+reuse their existing canonical rows rather than creating duplicates.
+
+Core/source words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| apart | adverb | separated by distance or time; separately or into separate pieces | cách nhau; tách rời; riêng biệt; ra từng phần |
+| apartment | noun | set of rooms for living in within a larger building | căn hộ; căn hộ chung cư |
+| compartment | noun | separate space or section inside a larger object | ngăn; khoang; khoang chứa |
+| depart | verb | leave a place especially to begin a journey | rời đi; khởi hành |
+| department | noun | division of an organization; subject area in a university; section of a large shop | phòng ban; khoa; bộ phận hoặc gian hàng trong cửa hàng lớn |
+| participate | verb | take part in an activity or event | tham gia; tham gia vào |
+| particular | adjective | referring to one specific person or thing rather than others | cụ thể; riêng biệt; nhất định |
+
+Word families and support words:
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| departure | noun | act of leaving a place or starting a journey | sự rời đi; sự khởi hành |
+| particularly | adverb | especially; to a greater degree than usual | đặc biệt; nhất là; đặc biệt là; hơn mức thông thường |
+
+Watch and memory contrasts:
+
+- Normalize participate's duplicated colon and retain its verb POS. Use
+  `participate in a discussion` or `participate in an event`.
+- Apart describes separation, distance, or separate pieces. It is one word,
+  unlike `a part` meaning a portion. Example: `Keep the two boxes apart.`
+  Start with these clear contexts rather than translating it as every use
+  of về một bên. No unlisted phrase or derivative is activated.
+- Apartment is the home; compartment is a separate space inside something.
+  Memory: `The apartment has two bedrooms; the bag has two compartments.`
+- Depart is the leaving action; departure is the event/process noun.
+  Department is an organizational/shop section, not the action noun of depart.
+  Memory: `The train will depart soon; check its departure time.`
+  `Contact the sales department about the order.`
+- Particularly normally emphasizes especially or more than usual in this
+  lesson. Replace the source's narrow gloss một cách cụ thể with đặc biệt/
+  nhất là. Contrast `this particular feature` with `particularly useful`:
+  adjective identifying a specific feature versus adverb adding emphasis.
+- Include a correct support answer from departure/particularly in the current
+  cycle, using roles, collocations, or meaning in real work/daily-life contexts.
+
+Definition check: [Cambridge particularly](https://dictionary.cambridge.org/us/dictionary/english/particularly).
+
+Merge status: append seven new_unit/P2 rows: apart, compartment, depart,
+departure, participate, particular, particularly. Reuse department (canonical
+Unit 1 / Tactics T01, Recovery P2) and preserve its 2026-10-14 uncertain
+result, source, last_seen, and priority. Add the supplied shop-section
+meaning and Unit 60 cross-reference without claiming a new retrieval.
+
+Reuse apartment (canonical Unit 16 / Tactics T16) and activate its existing
+queued row as new_unit/P2 for the learner's explicit Word Formation Unit 60
+source, following the existing WF52/WF54 shared-row policy. Preserve its
+original backlog date; no direct practice is inferred. Normalize its meaning
+and add both source references. TACTICS-U16-001 itself remains unscheduled
+and untested; WF60 practice does not earn a Tactics source result.
+Only Word Formation eligibility changes. No duplicate apartment is added.
+
+Bank after merge: 1,443 rows, 728 nonqueued and 715 queued: seven new rows
+plus one existing queued row activated, with department's Recovery preserved.
+Import dates on new rows are bookkeeping, not successful retrieval.
+
+Unit 60 becomes primary current coverage. Daily transition: 5 Recovery +
+3 Unit 60 including support + 2 scheduled Tactics + 1 recent/due + 1 cooldown.
+Weekly: 8 Recovery + 6 Unit 60 + 6 Tactics + 6 due/recent + 4 tour/family.
+Unit 59 remains unfinished recent review with 3/13 fresh-cycle direct checks;
+earlier unfinished units and the full Recovery queue retain their priorities.
+
+Athlete U07-002/band U07-003 remain the next verified Daily pair, still
+queued/P2. Celebrity/drama stay held, not next-Daily options. Cursor
+U07-006 unchanged. No quiz, candidate promotion, or score change from this
+import. Last result stays DQ-2026-11-09 11/12; next quiz 2026-11-10 Daily 12.
+
+
+## Unit 61 - Root `ped`
+
+Imported Tuesday 2026-11-10 after grading DQ-2026-11-10. This supplied
+ped block follows Unit 60. The root label organizes the lesson and is not
+added as a standalone vocabulary entry. The learner supplied five nouns
+without a textbook/extension split or additional word-family forms.
+Original notes are preserved below; normalized meanings and POS follow.
+
+### Original learner notes
+
+ped
+
+pedal : n : bàn đạp
+
+pedicure : n : sự chăm sóc , sửa móng chân
+
+pedometer : N : máy đếm bước chân
+
+centipede : n : con rết
+
+expedition : n : chuyến thmas hiểm (khám phá )
+
+### Normalized Unit 61 classification
+
+All five supplied terms are core/source nouns. No additional family/support
+word was supplied; do not invent derivatives, activate unlisted words, or
+infer a textbook/extension split. Pedal is activated in its supplied noun
+sense only, not an additional verb sense.
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+|---|---|---|---|
+| pedal | noun | part pressed with the foot to operate a machine or vehicle | bàn đạp |
+| pedicure | noun | treatment for caring for the feet and toenails | sự chăm sóc bàn chân và móng chân; dịch vụ làm móng chân |
+| pedometer | noun | device that counts the steps a person takes | máy hoặc thiết bị đếm bước chân |
+| centipede | noun | long-bodied crawling animal with many pairs of legs | con rết |
+| expedition | noun | organized journey for exploration or research | chuyến thám hiểm; chuyến khám phá |
+
+Watch and memory contrasts:
+
+- Normalize source N to noun for pedometer. Correct the Vietnamese typo
+  thmas hiểm to thám hiểm in the active meaning, preserving the raw note.
+- Pedal is the foot-operated part, pedometer is the step-counting device,
+  and pedicure is a foot/toenail treatment. Use clear object, device, and
+  service contexts instead of relying only on similar spelling.
+  Memory: `Press the pedal gently.` / `The pedometer counts my steps.`
+  `She booked a pedicure.`
+- Centipede is the animal. Keep the context specific enough to distinguish
+  it from devices or services; do not treat the shared lesson label as a
+  reason to make all five words interchangeable.
+- Expedition is an organized exploration/research journey, not every
+  ordinary trip or routine journey to work. Example: `The team prepared
+  equipment for an expedition into the mountains.`
+- Preserve word-family practice from prior supplied units, especially the
+  active particular/particularly and permit/permission Recovery contrasts.
+  Use a recent/due or Recovery slot for those forms; no standalone support
+  answer is invented for Unit 61 when none was supplied.
+
+Merge status: all five normalized lemmas were absent from the prior bank
+and Tactics canonical map. Append five new_unit/P2 rows without replacing
+any previous row. All five are imported and untested; import dates are
+bookkeeping, not retrieval evidence. No candidate is promoted.
+Bank after merge: 1,448 rows, 735 nonqueued and 713 queued.
+
+Unit 61 becomes primary current coverage. Daily transition: 5 Recovery +
+3 Unit 61 nouns + 2 scheduled Tactics + 1 recent/due (prefer earlier supplied
+family/support) + 1 cooldown. Weekly: 8 Recovery + 6 current/new + 6 Tactics
++ 6 due/recent + 4 tour/family. The six current/new slots use at most the five
+distinct supplied Unit 61 nouns plus a recent unfinished unit support word;
+do not invent a sixth Unit 61 term. Prior units retain their unfinished
+coverage and Recovery priorities, including Unit 60 particularly's first miss.
+
+Celebrity U07-004/drama U07-005 stay the next verified queued Daily pair;
+cursor U07-006 unchanged. No Tactics source, result, or eligibility changes.
+No new quiz or score by this import. Last result remains DQ-2026-11-10
+9/12 (Q11 wrong and uncertain); next quiz 2026-11-11 Daily 12.

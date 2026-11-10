@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Thursday 2026-11-05
+Date: Tuesday 2026-11-10
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-58 plus Tactics Units 01-24
+Current scope: Unit 01-61 plus Tactics Units 01-24
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -16,10 +16,10 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
 5. `TACTICS_ROTATION_STATE.md`
-6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-11-05.md`)
+6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-11-10.md`)
 7. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 8. `VOCABULARY_STATE.csv`
-9. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-11-02_to_2026-11-06.md`)
+9. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-11-09_to_2026-11-13.md`)
 10. monthly reports if the task touches cumulative performance
 
 When Tactics targets are scheduled, read their exact rows from
@@ -28,6 +28,82 @@ When Tactics targets are scheduled, read their exact rows from
 Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
+
+The same-day ped update adds five new nouns as Unit 61: pedal, pedicure,
+pedometer, centipede, expedition. All new_unit/P2 and untested. Unit 61
+becomes current: Daily 5 Recovery + 3 Unit 61 nouns + 2 Tactics +
+1 recent/due (prefer earlier supplied support) + 1 cooldown. No standalone
+family/support form was supplied; do not invent extra words or verb senses.
+Weekly 8 Recovery + 6 current/new + 6 Tactics + 6 due/recent + 4 tour/family;
+the six current/new slots use at most five Unit 61 nouns plus one earlier
+support target. Unit 60 and older unfinished words retain review/Recovery.
+Bank 1,448 rows, 735 nonqueued, 713 queued. No quiz or score from import.
+Last result DQ-2026-11-10 9/12. Celebrity/drama remain next verified pair,
+cursor U07-006 unchanged. Next quiz 2026-11-11 Daily 12, not issued.
+
+The Tuesday 2026-11-10 Daily Quick, DQ-2026-11-10, is completed:
+9/12 (75.0%). Wrong Q2 product for produce, Q8 particular for particularly,
+Q11 permit for permission. Q11 is wrong and uncertain; written permit is
+a valid document phrase, but this sentence requires a written permit or
+uncountable written permission. Nine correct unmarked, no unresolved answer
+or unknown non-bank word. Exact source/reviews in `QUIZ_2026-11-10_DAILY.md`
+and `QUIZ_HISTORY_WEEK_2026-11-09_to_2026-11-13.md`.
+Use Recovery snapshot 2026-11-10. Particular/particularly and permission/
+permit enter or re-enter P2; produce/product stay P1. Conduction correction
+stays P1. Graphic/illogical enter cooldown/P3; paired forms keep P2.
+Unit 60 has 2/9 first correct checks (apartment/departure), 3 attempted;
+particularly needs Recovery. Apartment is WF60 only; T16 remains untested.
+Athlete/band pass first checks; normal review no earlier than 2026-11-17.
+Next verified queued pair celebrity U07-004/drama U07-005; cursor U07-006.
+Bank 1,443 rows, 730 nonqueued, 713 queued. No quiz pending. Next expected
+quiz 2026-11-11 Daily 12; Friday 2026-11-13 Weekly 30; last Friday
+2026-11-27 Monthly 50.
+
+The same-day vocabulary update imports part as Unit 60: nine source terms,
+seven new rows and two existing rows reused (apartment and department).
+Apartment activates new_unit/P2 for user-approved WF60 practice; original
+backlog date preserved. TACTICS-U16-001 remains unscheduled and untested.
+Department retains Recovery P2, its source/date, and prior uncertain evidence.
+Bank: 1,443 rows, 728 nonqueued, 715 queued. No new score or quiz.
+Unit 60 is current: Daily 5 Recovery + 3 Unit 60 including support +
+2 scheduled Tactics + 1 recent/due + 1 cooldown. Weekly 8 Recovery +
+6 Unit 60 + 6 Tactics + 6 due/recent + 4 tour/family. Unit 59 remains
+unfinished recent review (3/13 fresh-cycle checks); all Recovery preserved.
+Next Tactics pair athlete/band; celebrity/drama held; cursor U07-006.
+Next quiz 2026-11-10 Daily 12, now issued above. Last result DQ-2026-11-09 11/12.
+
+The Monday 2026-11-09 Daily Quick, DQ-2026-11-09, is completed:
+11/12 (91.7%). Only Q2 wrong: B conductor instead of A conduction.
+Other eleven correct without uncertainty markers; no reasoning or unknown
+word supplied. Exact source: `QUIZ_2026-11-09_DAILY.md`; reviews/history:
+`QUIZ_HISTORY_WEEK_2026-11-09_to_2026-11-13.md`. Recovery snapshot 2026-11-09.
+Keep conductor/conduction P1; productive alone lowers to P2. Management
+gets its first confident check after uncertainty, stays P2; bibliography
+gets its first correction and stays P2. No new Recovery/Cooldown entry.
+Unit 59 emit/admission/dismissive pass first checks (3/13); Unit 58 manually
+passes first practice (4/11 direct correct terms now, management still watch).
+Boss/businessperson -> new_unit/P2, earliest normal review 2026-11-16.
+Next verified queued pair athlete U07-002/band U07-003; celebrity/drama
+held, not next-Daily options. Cursor U07-006 unchanged. Bank 1,436 rows,
+720 nonqueued, 716 queued. No quiz pending. Next quiz Tuesday 2026-11-10
+Daily 12; Friday 2026-11-13 Weekly 30; last Friday 2026-11-27 Monthly 50.
+
+The Monday 2026-11-09 vocabulary update imports mit/miss as Unit 59:
+thirteen supplied lemmas, eleven new rows and two existing canonical rows
+reused (permit Unit 29, submit Unit 35). Keep their old states, dates,
+source, and quiz evidence; the added submit authority sense is untested.
+Unit 59 is primary current coverage: Daily transition 5 Recovery +
+3 Unit 59 including support + 2 Tactics + 1 recent/due + 1 cooldown;
+Weekly 8 Recovery + 6 Unit 59 + 6 Tactics + 6 due/recent + 4 tour/family.
+Unit 58 remains unfinished recent review with management/manager watch;
+all other Recovery/Cooldown priorities are preserved. Current snapshot:
+RECOVERY_PRIORITIES_2026-11-09.md. Bank 1,436 rows, 718 nonqueued, 718 queued.
+No new quiz or score. Last completed result stays DQ-2026-11-05 11/12,
+Q7 correct but uncertain. No Friday 2026-11-06 quiz/result exists in files.
+Next quiz Monday 2026-11-09 Daily 12, now issued above. Assign boss U06-004/
+businessperson U06-005 only; hold athlete/band/celebrity/drama for later,
+not options in that Daily. Cursor U07-006 unchanged. Friday 2026-11-13
+is Weekly 30; last Friday 2026-11-27 is Monthly 50.
 
 The Thursday 2026-11-05 Daily Quick, DQ-2026-11-05, is completed:
 11/12 (91.7%). Wrong Q2 conduction for conductor; Q7 management correct
@@ -43,8 +119,8 @@ management uncertain. Unit 57 prologue passes; logical remains untested.
 Architect/bookstore pass first checks; next six queued Weekly targets are
 boss U06-004, businessperson U06-005, athlete U07-002, band U07-003,
 celebrity U07-004, drama U07-005. Cursor U07-006. Bank 1,425 rows,
-707 nonqueued, 718 queued. No quiz pending. Next expected quiz is Friday
-2026-11-06 Weekly 30; last Friday 2026-11-27 is Monthly 50.
+707 nonqueued, 718 queued at that grading. Its planned Friday 2026-11-06
+Weekly was not issued; the current next quiz and reservations are above.
 
 The 2026-11-04 vocabulary update imports eleven manu/mani/man terms as
 Unit 58, all new_unit/P2 and untested. Unit 58 is primary current coverage:
@@ -128,15 +204,16 @@ The Monday 2026-10-19 Daily Quick, `DQ-2026-10-19`, is completed: 8/12
 and uncertain; Q7 and Q8 were wrong without uncertainty; Q2 was correct
 but uncertain. This earlier result and its reviews remain preserved.
 
-The latest vocabulary update imports manu/mani/man as Unit 58: eleven new
-terms, operationally 5 core/source and 6 family/support. No separate
-book/extension list was supplied. Unit 57 now has 7/8 historical direct successes;
-Unit 57/56/55/54/53 continue in review and Recovery with prior priorities.
-Transition Daily allocation is 5 Recovery, 3 Unit 58, 2 scheduled Tactics,
+The latest vocabulary update imports ped as Unit 61: five new source nouns,
+with no additional family/support forms supplied. Prior-unit family practice
+continues in Recovery/recent slots. Unit 60, Unit 59, and Unit 58 remain
+unfinished; Unit 57 has 7/8 historical successes.
+Earlier units continue in review and Recovery with individual priorities.
+Transition Daily allocation is 5 Recovery, 3 Unit 61 nouns, 2 scheduled Tactics,
 1 recent/due, 1 cooldown/tour. Arrive/barbecue passed first practice;
-book/acting and architect/bookstore also passed first checks. The next
-Weekly reserves boss/businessperson/athlete/band/celebrity/drama, with
-next unscheduled cursor U07-006; all six remain queued until graded.
+book/acting, architect/bookstore, boss/businessperson, and athlete/band
+passed first checks. The next Daily selects celebrity/drama; both remain
+queued until graded. Cursor U07-006 is unchanged; no held pair remains.
 The next last-Friday
 Monthly Quick date is 2026-11-27, 50 questions across the active bank. This
 import issues no quiz and preserves the completed result.
@@ -166,20 +243,31 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 58 and now includes a queued Tactics
+The project has advanced through Unit 61 and now includes a queued Tactics
 Vocabulary Index track covering Tactics Units 01-24.
 
-Current bank: 1,425 rows, 707 nonqueued and 718 queued after DQ-2026-11-05 grading.
-Unit 58 manu/mani/man is primary current coverage. Manual/manufacturer
-have confident first checks; management is correct but uncertain. Both
-management/manager are Recovery P2 watch; eight terms still lack direct
-first target checks, including manager discussed only in reasoning.
-Unit 57 log/logue has seven historical direct successes; illogical/logically
-remain Recovery P2 and logical remains untested. Unit 56 has initial
+Current bank: 1,448 rows, 735 nonqueued and 713 queued after the Unit 61 import.
+Unit 61 ped is primary current coverage: five imported nouns, untested.
+No additional family/support form supplied. Unit 60 is recent review:
+apartment/departure pass first
+WF60 checks; particularly fails. Two of nine source terms have fresh
+correct checks, three attempted. Particular/particularly are Recovery P2;
+apartment remains WF60 only and department retains prior Recovery P2.
+Unit 59 mit/miss is recent unfinished coverage: eleven imported new_unit/P2
+terms plus reused permit (Unit 29 cooldown/P3) and submit (Unit 35 new_unit/P2).
+Emit/admission/dismissive pass first direct checks (3/13 source cycle).
+Reused states are preserved. Unit 58 is recent unfinished coverage:
+manual/manufacturer/manually have confident first checks; management has
+its first confident check after uncertainty and manager passes first direct
+person target. Both stay Recovery P2. Five of eleven have direct correct
+targets; six still need first direct checks.
+Unit 57 log/logue has seven historical direct successes; illogical is now
+cooldown/P3, logically remains Recovery P2, and logical untested. Unit 56 has initial
 coverage complete; hydroelectric/hydrate remain Recovery P2, hydration/
 hydroelectricity are cooldown/P3, and hydrant/hydrosphere are new_unit/P2.
-Unit 55 graphic/bibliography now need Recovery; preserve other successes
-and continue unfinished terms.
+Unit 55 graphic is now cooldown/P3; bibliography remains Recovery P2.
+Continue unfinished terms with other successes preserved. Unit 59 permission
+is Recovery P2 and permit reactivates P3 -> P2 after Q11 countability error.
 Unit 54 grad/gress has
 graduate/graduation/gradual P2 Recovery, plus untested families. Unit 53 geo retains
 geochemistry/geochemical/geographer/geologist P2 Recovery. Unit 52
@@ -225,6 +313,83 @@ Recent unit coverage:
 - Unit 56: roots `hydro` / `hydr`
 - Unit 57: roots `log` / `logue`
 - Unit 58: roots `manu` / `mani` / `man`
+- Unit 59: roots `mit` / `miss`
+- Unit 60: root `part`
+- Unit 61: root `ped`
+
+## Update 2026-11-10 - Unit 61 ped import
+
+Five source lemmas absent from the bank/Tactics map: pedal, pedicure,
+pedometer, centipede, expedition. Append five new_unit/P2 noun rows, all
+untested, with English/Vietnamese meanings. Preserve original notes; normalize
+N to noun and the typo thmas hiểm to thám hiểm in active meanings.
+No duplicate, old-state reset, extra pedal verb sense, or candidate promotion.
+
+All five supplied terms are core/source nouns; no standalone family/support
+form or textbook/extension split supplied. Keep previous supplied support
+forms in Recovery/recent slots. Daily 5 Recovery + 3 Unit 61 + 2 Tactics +
+1 recent/due + 1 cooldown. Weekly 8 Recovery + 6 current/new + 6 Tactics +
+6 due/recent + 4 tour/family; use at most five Unit 61 nouns plus one prior
+unit support in the six current/new slots. No sixth Unit 61 word invented.
+
+Unit 60 and earlier unfinished terms remain review; all Recovery/Cooldown
+priorities and scores unchanged. Bank 1,448 rows, 735 nonqueued, 713 queued.
+No Tactics source overlap, map change, or cursor movement; celebrity/drama
+remain next and U07-006 unscheduled. No quiz or score. Last result remains
+DQ-2026-11-10 9/12; next 2026-11-11 Daily 12.
+
+## Update 2026-11-09 - Unit 60 part import
+
+Nine supplied words: apart, apartment, compartment, depart, department,
+departure, participate, particular, particularly. Append seven new_unit/P2
+rows. Reuse department with Recovery P2 and its original 2026-10-14
+uncertain result/date/source intact; complete the supplied shop-section meaning.
+Reuse apartment's Unit 16 canonical row and activate new_unit/P2 for the
+user's explicit WF60 source, retaining its original backlog date. No duplicate.
+TACTICS-U16-001 stays unscheduled/untested; Word Formation practice gives
+no Tactics source credit. This follows the existing WF52/WF54 shared-row policy.
+
+Normalize source punctuation for participate and emphasize particularly =
+especially/more than usual. Preserve original notes, with English/Vietnamese
+meanings and parts of speech in the normalized tables. Root part itself and
+unlisted derivatives are not activated. Operational 7 core/source + 2 support.
+
+Make Unit 60 primary current under transition Daily 5 Recovery + 3 Unit 60
+including support + 2 Tactics + 1 recent/due + 1 cooldown. Weekly 8 Recovery
++ 6 Unit 60 + 6 Tactics + 6 due/recent + 4 tour/family. Unit 59's unfinished
+10 source terms and all earlier unfinished units/Recovery retain review slots.
+
+Bank 1,443 rows, 728 nonqueued, 715 queued. Seven new rows plus one existing
+queued row activated. No score, candidate promotion, or quiz from import.
+Last result DQ-2026-11-09 11/12; next quiz 2026-11-10 Daily 12. Athlete/band
+remain next verified queued pair, celebrity/drama held, cursor U07-006 unchanged.
+
+## Update 2026-11-09 - Unit 59 mit/miss import
+
+Import thirteen supplied terms. Eleven new lemmas append new_unit/P2 rows:
+admit, admission, admissible, dismiss, dismissal, dismissive, emit, emission,
+permission, submission, submissive. Reuse permit Unit 29 and submit Unit 35;
+keep their prior unit/status/priority/last_seen/source and retrieval evidence.
+Complete permit's document noun definition and submit's new authority sense;
+the new sense is untested. No duplicate canonical or misspelled row is added.
+
+Normalize admitssible -> admissible and emit's label to verb. Clarify
+dismissive as disregarding something as unworthy of attention and emission
+as release or released amount, not necessarily waste. Original source notes
+remain; normalized POS and English/Vietnamese meanings are in the addendum.
+Operational classification: 5 core/source + 8 support, no inferred textbook split.
+
+Make Unit 59 current under transition Daily 5 Recovery + 3 Unit 59 including
+support + 2 Tactics + 1 recent/due + 1 cooldown; Weekly 8 Recovery + 6 Unit 59
++ 6 Tactics + 6 due/recent + 4 tour/family. Keep unfinished Unit 58 and
+Unit 57 logical in recent review; preserve management/manager and all Recovery.
+
+No Friday 2026-11-06 quiz was issued or graded in project files. Retain all
+six verified queued reservations, assigning boss/businessperson to the next
+Daily and holding athlete/band/celebrity/drama for later (not Daily options).
+Cursor U07-006 unchanged. Bank 1,436 rows, 718 nonqueued, 718 queued.
+No new score, candidate promotion, or quiz. Last completed result remains
+DQ-2026-11-05 11/12 with Q7 uncertain. Next quiz 2026-11-09 Daily 12.
 
 ## Update 2026-11-04 - Unit 58 manu/mani/man import
 
@@ -961,18 +1126,18 @@ candidate was added.
 
 ## Last valid completed quiz
 
-- Quiz date: Thursday 2026-11-05
-- Answer/grade date: Thursday 2026-11-05
-- Quiz ID: DQ-2026-11-05
+- Quiz date: Tuesday 2026-11-10
+- Answer/grade date: Tuesday 2026-11-10
+- Quiz ID: DQ-2026-11-10
 - Type: Daily Quick
-- Recorded result: 11/12 (91.7%)
-- Correct but uncertain: Q7, final A management
-- Wrong without uncertainty: Q2, A conduction instead of D conductor
-- Wrong and uncertain: none
+- Recorded result: 9/12 (75.0%)
+- Correct but uncertain: none
+- Wrong without uncertainty: Q2 C product; Q8 A particular
+- Wrong and uncertain: Q11 A permit
 - Unanswered/unresolved: none
 - Incidental candidates: none
-- Exact grading source: `QUIZ_2026-11-05_DAILY.md`
-- Result and reviews: `QUIZ_HISTORY_WEEK_2026-11-02_to_2026-11-06.md`
+- Exact grading source: `QUIZ_2026-11-10_DAILY.md`
+- Result and reviews: `QUIZ_HISTORY_WEEK_2026-11-09_to_2026-11-13.md`
 
 Earlier valid records remain in their dated history files. Never apply their
 question sentences or option letters to DQ-2026-09-22.
@@ -1013,23 +1178,27 @@ Available results from the first August quiz week:
 
 ## Current recovery priorities
 
-Use `RECOVERY_PRIORITIES_2026-11-05.md` and the current CSV for the complete queue.
+Use `RECOVERY_PRIORITIES_2026-11-10.md` and the current CSV for the complete queue.
 
 P1:
 
-- `produce` / `product` / `productive` retain P1; only production lowers to P2
-  after confident direct corrections on 2026-11-02 and 2026-11-03.
+- `produce` / `product` retain P1; productive lowers to P2 after confident
+  adjective corrections 2026-11-04/09. Production is separately P2.
 - `conductor` / `conduction` retain P1 after renewed Q2 material/process miss.
 
 P2:
 
+- `particular` / `particularly` and `permission` enter Recovery P2 after
+  Q8/Q11 errors; permit reactivates cooldown/P3 -> Recovery P2. Q11 uncertain.
 - `conductive` alone lowers P1 -> P2 after confident adjective checks 2026-11-03/05.
-- `management` / `manager` enter light watch: Q7 A correct but uncertain;
-  singular count manager needs a determiner, as in a poor manager.
+- `productive` now P2 after two confident adjective corrections.
+- `management` / `manager` remain light watch: management first confident
+  check 2026-11-09; manager first confident direct person check 2026-11-10.
+  Singular manager needs a determiner, as in a poor manager.
 - Unit 56 `hydroelectric` and `hydrate` retain Recovery P2.
   Hydroelectricity and now hydration are cooldown/P3 after two direct noun checks.
-- `illogical` / `logically` and `graphic` / `bibliography` enter Recovery P2
-  after Q8/Q11 errors on 2026-11-04. Preserve previous successful checks.
+- `logically` / `bibliography` stay Recovery P2. Only illogical/graphic
+  enter cooldown/P3 after two direct confident corrections on 2026-11-05/10.
 - `geochemistry` and `semi-permanent` lower P1 -> P2 on 2026-11-04.
 - `production` and `geochemical` lower P1 -> P2; related untested forms retain priority.
 - Tactics `new year` stays P2: first unmarked correct check on 2026-11-03
@@ -1071,16 +1240,51 @@ P2:
 - `underrate` (`understate` is now cooldown)
 - Unit 46 word families and due older groups
 
-Current Unit 58 coverage:
+Current Unit 61 coverage:
+
+- Five core/source nouns: pedal, pedicure, pedometer, centipede, expedition.
+- All new_unit/P2 and untested. No standalone family/support form supplied;
+  do not invent derivatives or pedal's unsupplied verb sense.
+- Test noun meanings/collocations and continue earlier supplied word-family
+  forms in Recovery/recent slots. Prior units keep their unfinished coverage.
+
+Recent Unit 60 coverage:
+
+- Core/source: apart, apartment, compartment, depart, department,
+  participate, particular. Support: departure, particularly.
+- Seven new lemmas plus existing apartment activated new_unit/P2 for WF60.
+  Department remains Recovery P2 with its earlier uncertainty/date intact.
+  TACTICS-U16-001 apartment is still unscheduled/untested; no Tactics credit.
+- Apartment/departure pass first fresh checks; particularly fails first
+  target. Fresh coverage 2/9 correct, 3 attempted, 6 without first targets.
+  Particular/particularly now need Recovery P2. Departure meets the support
+  requirement; initial coverage incomplete. Use role/meaning contrasts.
+- These groups are operational; no separate textbook/extension list supplied.
+
+Recent Unit 59 coverage:
+
+- Core/source: admit, dismiss, emit, permit, submit.
+- Support: admission, admissible, dismissal, dismissive, emission,
+  permission, submission, submissive. Include a support correct answer in
+  the current cycle and test verb/noun/adjective or meaning contrasts.
+- Emit/admission/dismissive pass first practice on 2026-11-09: 3/13 source
+  cycle coverage; support noun/adjective retrieved. Admission's acknowledgement
+  sense passed, not its entry sense. Ten source terms still need fresh direct
+  checks. Permission's first target fails on 2026-11-10: four attempted,
+  three successful, nine without fresh targets. Permission/permit are now
+  Recovery P2; old history is preserved. Submit's authority sense still
+  needs a direct check. Initial coverage incomplete.
+- No separate textbook/extension split was supplied; groupings are operational.
+
+Recent Unit 58 coverage:
 
 - Core/source: manage, manipulate, manual, manufacture, manuscript.
 - Family/support: manager, management, manipulation, manipulative,
   manually, manufacturer.
-- Manual noun/manufacturer support pass confident first checks; management
-  is a correct uncertain first check. Three of eleven attempted, with two
-  confident and one uncertain success. Management/manager are Recovery P2;
-  manager was discussed only, not a direct target. Eight terms still need
-  direct first checks. Manufacturer meets the cycle support requirement.
+- Manual noun/manufacturer support passed first confident checks; manually
+  passed 2026-11-09 and manager passes first direct target 2026-11-10.
+  Management/manager remain P2 watch. Five of eleven have direct correct
+  targets; six still need first checks. Support requirement met.
   Continue action/person/process and adjective/adverb context contrasts.
 - No separate textbook/extension list was supplied; these groupings are
   operational. Source typo manufactuer is normalized to manufacturer.

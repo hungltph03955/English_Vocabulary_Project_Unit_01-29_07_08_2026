@@ -1,9 +1,168 @@
 # Rotation State - Snapshot
 
-Date: Thursday 2026-11-05
-Scope: Unit 01-58 plus Tactics Units 01-24
-Last valid quiz: DQ-2026-11-05, Daily Quick on Thursday 2026-11-05, 11/12 (91.7%); Q7 correct but uncertain
-Next expected quiz: WQ-2026-11-06, Friday Weekly Quick, 30 questions; not issued
+Date: Tuesday 2026-11-10
+Scope: Unit 01-61 plus Tactics Units 01-24
+Last valid quiz: DQ-2026-11-10, Tuesday Daily Quick, 9/12 (75.0%); Q11 wrong and uncertain
+Next expected quiz: DQ-2026-11-11, Wednesday Daily Quick, 12 questions; not issued
+
+## 2026-11-10 Unit 61 ped import
+
+- Append five previously absent nouns at new_unit/P2: pedal, pedicure,
+  pedometer, centipede, expedition. All imported and untested; no old row
+  replaced. Normalize source noun labels and expedition's Vietnamese typo.
+- Unit 61 becomes current. No standalone family/support form was supplied;
+  do not invent derivatives or activate pedal's unsupplied verb sense.
+- Daily transition: 5 Recovery + 3 Unit 61 nouns + 2 Tactics + 1 recent/due
+  (prefer earlier supplied support) + 1 cooldown. Weekly: 8 Recovery +
+  6 current/new + 6 Tactics + 6 due/recent + 4 tour/family. Six current/new
+  slots use at most five Unit 61 nouns plus one prior-unit support target.
+- Preserve Unit 60 unfinished coverage and latest particular/particularly,
+  permit/permission, produce/product Recovery. All old states/scores preserved.
+- Bank 1,448 rows, 735 nonqueued, 713 queued. No Tactics canonical overlap;
+  celebrity/drama remain next, cursor U07-006 unchanged. No quiz or score.
+  Last result stays DQ-2026-11-10 9/12. Next 2026-11-11 Daily 12;
+  2026-11-13 Weekly 30; last Friday 2026-11-27 Monthly 50.
+
+## 2026-11-10 Daily Quick grading
+
+- Completed DQ-2026-11-10: 9/12 (75.0%). Q2 C product for B produce;
+  Q8 A particular for D particularly; Q11 A permit for B permission.
+  Q11 wrong and uncertain, with semantically plausible document reasoning
+  that overlooks the determiner needed for a singular count noun. No unresolved
+  answer or unknown word. Original-sentence reviews saved in quiz/history.
+- Keep produce/product P1 after noun-for-verb miss; conduction stays P1
+  after its first correction since latest miss. Manager first direct person-
+  noun success stays P2. Add particular/particularly and permission to P2;
+  permit reactivates P3 -> Recovery P2 (four existing lemmas total).
+- Graphic/illogical enter cooldown/P3 after confident corrections on
+  2026-11-05/10. Bibliography/logically keep P2; renew stays P3. Cooldown
+  additions two, removal/reactivation one (permit); no family-wide clearance.
+- Unit 60 apartment/departure pass first checks; particularly fails first
+  target. Fresh coverage 2/9 correct, 3 attempted, 6 without direct first
+  targets. Apartment is WF60 only; TACTICS-U16-001 remains unscheduled/untested.
+- Unit 59 permission first target fails: 4 attempted, 3 successful. Unit 58
+  manager success raises direct-correct coverage to 5/11, with six untested.
+  Keep current transition 5 Recovery + 3 Unit 60 including support +
+  2 Tactics + 1 recent/due + 1 cooldown. Unit 57 logical remains untested.
+- Athlete/band -> new_unit/P2, earliest normal review 2026-11-17. Next
+  verified queued pair celebrity U07-004/drama U07-005; no held pair remains.
+  Cursor U07-006 unchanged, no unscheduled row promoted.
+- Bank 1,443 rows, 730 nonqueued, 713 queued. Recovery snapshot 2026-11-10;
+  candidate file unchanged. No quiz pending. Next 2026-11-11 Daily 12;
+  Friday 2026-11-13 Weekly 30; last Friday 2026-11-27 Monthly 50.
+
+## Issuance snapshot - Tuesday 2026-11-10 (historical)
+
+- Issued DQ-2026-11-10; exact questions/options/key/map saved in
+  `QUIZ_2026-11-10_DAILY.md`.
+- Transition: 5 Recovery (conduction, produce, manager, graphic, illogical),
+  3 Unit 60 (apartment plus support departure/particularly), 2 scheduled
+  Tactics athlete/band, 1 recent Unit 59 permission, 1 older renew cooldown.
+  All sentences are new relative to yesterday's quiz.
+- Apartment is WF60-only practice on the shared nonqueued canonical row;
+  TACTICS-U16-001 stays unscheduled/untested. Athlete U07-002/band U07-003
+  stay queued/P2 until graded. Celebrity/drama held, not options. Cursor U07-006.
+- Tuesday 2026-11-10 is Daily 12. Friday 2026-11-13 Weekly 30; last Friday
+  2026-11-27 Monthly 50. Recovery snapshot 2026-11-09 includes Unit 60 import.
+- Bank unchanged: 1,443 rows, 728 nonqueued, 715 queued. Last completed
+  quiz DQ-2026-11-09 11/12. No score/last_seen/mastery or priority change at issuance.
+
+## 2026-11-09 Unit 60 part import
+
+- Nine source terms: append seven new_unit/P2 rows (apart, compartment,
+  depart, departure, participate, particular, particularly). Reuse two
+  existing canonical rows: department (Recovery P2) and apartment (queued).
+- Activate apartment as new_unit/P2 for the learner's explicit WF60 source;
+  retain its original Unit 16 key/backlog date and add both source references.
+  TACTICS-U16-001 remains unscheduled and untested. This follows WF52/WF54
+  shared-row activation policy and gives no Tactics source result.
+- Department remains Recovery P2 with its 2026-10-14 uncertain result,
+  source, date, and priority intact; add the supplied shop-section meaning.
+- Core/source: apart, apartment, compartment, depart, department,
+  participate, particular. Support: departure, particularly. Operational
+  grouping only, no supplied textbook split. Normalize participate's source
+  punctuation and particularly's gloss to especially/more than usual.
+- Unit 60 becomes primary current coverage. Daily: 5 Recovery + 3 Unit 60
+  including support + 2 Tactics + 1 recent/due + 1 cooldown. Weekly:
+  8 Recovery + 6 Unit 60 + 6 Tactics + 6 due/recent + 4 tour/family.
+  Keep Unit 59 unfinished review (3/13) and earlier Recovery priorities.
+- Bank: 1,443 rows, 728 nonqueued and 715 queued. Seven new rows plus
+  one existing queued row activated; no duplicate. No quiz or score change.
+  Last result stays DQ-2026-11-09 11/12. Recovery snapshot 2026-11-09
+  gains this import note; no Recovery/Cooldown priority is reset.
+- Athlete/band remain next verified Tactics pair; celebrity/drama held,
+  not next-Daily options. Cursor U07-006 unchanged. Next quiz 2026-11-10
+  Daily 12; 2026-11-13 Weekly 30; last Friday 2026-11-27 Monthly 50.
+
+## 2026-11-09 Daily Quick grading
+
+- Completed DQ-2026-11-09: 11/12 (91.7%). Only Q2 wrong, B conductor
+  for A conduction. Q1 material noun correct, but process role still confused.
+  No uncertainty markers, unresolved answer, supplied reasoning, or candidate.
+- Keep conductor/conduction P1. Lower only productive P1 -> P2 after
+  confident adjective corrections 2026-11-04/09; produce/product remain P1.
+  Management gets its first confident check after uncertainty; stay P2
+  for another varied confident check. Bibliography gets a first correction
+  after its latest miss; stay P2. Untested paired forms get no direct credit.
+- Unit 59 emit/admission/dismissive pass first direct checks, 3/13 cycle
+  coverage including two support answers. Ten source terms still need fresh
+  direct checks; reused permit/submit keep their individual states/history.
+- Unit 58 manually passes first practice. Four of eleven now have direct
+  correct targets; management remains watch and seven still need first
+  direct checks. Unit 57 logical remains untested. Keep transition allocation.
+- Boss/businessperson -> new_unit/P2; earliest normal review 2026-11-16.
+  T06 Pass-A anchors all tested. Next verified queued pair: athlete U07-002
+  and band U07-003. Celebrity/drama held, not next-Daily options. Cursor
+  U07-006 unchanged. No new Recovery or cooldown entry; non-fat stays P3.
+- Bank: 1,436 rows, 720 nonqueued and 716 queued. New weekly history
+  QUIZ_HISTORY_WEEK_2026-11-09_to_2026-11-13.md; Recovery snapshot updated
+  2026-11-09. Next quiz Tuesday 2026-11-10 Daily 12, not issued. Friday
+  2026-11-13 Weekly 30; last Friday 2026-11-27 Monthly 50.
+
+## Issuance snapshot - Monday 2026-11-09 (historical)
+
+- Issued DQ-2026-11-09; exact questions, A-D options, key, and source map
+  are saved in `QUIZ_2026-11-09_DAILY.md`.
+- Transition: 5 Recovery (conductor/conduction intentional material/process
+  pair, productive, management confidence watch, bibliography), 3 Unit 59
+  (emit plus support admission/dismissive), 2 Tactics boss/businessperson,
+  1 recent manually support, 1 older non-fat cooldown. All sentences are new
+  relative to the last quiz; existing Recovery contrasts intentionally recur.
+- Boss U06-004/businessperson U06-005 stay queued/P2 until graded. Four
+  T07 held reservations are not options. Cursor U07-006 unchanged.
+- Monday 2026-11-09 is Daily 12; Friday 2026-11-13 Weekly 30; last Friday
+  2026-11-27 Monthly 50. Recovery snapshot 2026-11-09. No missing-day result
+  inferred. Last completed quiz stays DQ-2026-11-05 11/12, Q7 uncertain.
+- Bank unchanged: 1,436 rows, 718 nonqueued and 718 queued. Issuance
+  changes no score, last_seen, mastery, Recovery/Cooldown, or candidate state.
+
+## 2026-11-09 Unit 59 mit/miss import
+
+- Thirteen supplied lemmas: eleven new_unit/P2 rows; reuse permit Unit 29
+  cooldown/P3 and submit Unit 35 new_unit/P2 without duplicate rows or
+  state/date resets. Complete permit's permission-document meaning and
+  submit's authority sense in the existing rows with Unit 59 cross-references.
+- Core/source: admit, dismiss, emit, permit, submit. Family/support:
+  admission, admissible, dismissal, dismissive, emission, permission,
+  submission, submissive. No textbook/extension split was supplied.
+- Correct admitssible -> admissible and emit noun label -> verb. Clarify
+  dismissive as treating something as not worth attention; emission need
+  not mean waste. Preserve the original notes and record dictionary checks.
+- Unit 59 becomes primary current coverage. Daily transition: 5 Recovery
+  + 3 Unit 59 including support + 2 Tactics + 1 recent/due + 1 cooldown.
+  Weekly: 8 Recovery + 6 Unit 59 + 6 Tactics + 6 due/recent + 4 tour/family.
+  Unit 58 stays unfinished recent review, including management/manager watch;
+  Unit 57 logical and all previous Recovery priorities remain preserved.
+- No quiz/result for Friday 2026-11-06 exists. Carry its six untested
+  reservations forward: boss U06-004/businessperson U06-005 assigned to
+  the next Monday Daily; athlete/band/celebrity/drama held for later and
+  not options in that Daily. Cursor U07-006 unchanged, all six queued/P2.
+- Bank: 1,436 rows, 718 nonqueued and 718 queued. No candidate promotion,
+  new score, or quiz issuance. Last result stays DQ-2026-11-05 11/12,
+  Q7 correct uncertain. Recovery snapshot 2026-11-09 carries states forward.
+- Next quiz Monday 2026-11-09 Daily 12; Friday 2026-11-13 Weekly 30;
+  last Friday 2026-11-27 Monthly 50. Do not generate a missed Friday test
+  retrospectively or infer any result for an unrecorded quiz.
 
 ## 2026-11-05 Daily Quick grading
 

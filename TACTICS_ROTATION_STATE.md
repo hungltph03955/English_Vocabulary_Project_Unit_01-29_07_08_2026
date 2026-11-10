@@ -1,7 +1,7 @@
 # Tactics Rotation State
 
 Date initialized: Monday 2026-10-12
-Last updated: Thursday 2026-11-05 after grading DQ-2026-11-05, 11/12 (91.7%); Q7 uncertain
+Last updated: Tuesday 2026-11-10 after Unit 61 import; last grading DQ-2026-11-10, 9/12; Q11 uncertain
 Source: Tactics Vocabulary Index images, pages 110-112
 Source units: Tactics 01-24
 Detailed mapping: `TACTICS_IMPORT_MAP.csv`
@@ -26,42 +26,66 @@ it and its source text has `ocr_status=verified`.
 ## Current Cursor
 
 - Current pass: A - anchor words
-- Current source unit: finishing Tactics Unit 06; four Unit 07 anchors reserved
+- Current source unit: Tactics Unit 07; Unit 06 Pass-A anchors tested
 - Current cursor (next unscheduled target): `TACTICS-U07-006`
-- Current Daily Quick quota: 2 Tactics targets (transition for new Unit 58)
-- Current Weekly Quick quota: 6 Tactics targets (transition for new Unit 58)
-- Scheduled targets for the next valid Weekly Quick, WQ-2026-11-06:
-  - `TACTICS-U06-004` - `boss` (noun; person in charge of workers or an organization)
-  - `TACTICS-U06-005` - `businessperson` (noun; person who works in business)
-  - `TACTICS-U07-002` - `athlete` (noun; person who trains or competes in sports)
-  - `TACTICS-U07-003` - `band` (noun; group of musicians who perform together)
+- Current Daily Quick quota: 2 Tactics targets (transition for new Unit 61)
+- Current Weekly Quick quota: 6 Tactics targets (transition for new Unit 61)
+- Scheduled targets for the next valid Daily Quick, DQ-2026-11-11:
   - `TACTICS-U07-004` - `celebrity` (canonical noun; printed celebrities is plural)
   - `TACTICS-U07-005` - `drama` (noun; play or film that tells a serious story)
-- Next expected quiz: WQ-2026-11-06, Friday Weekly Quick, 30 questions; not issued
-- Last Tactics quiz: `DQ-2026-11-05`, Q9-Q10, 2/2 correct without uncertainty markers
+- Held reservations: none; U07-006 is still the next unscheduled target
+- Next expected quiz: DQ-2026-11-11, Wednesday Daily Quick, 12 questions; not issued
+- Last Tactics quiz: `DQ-2026-11-10`, Q9-Q10, 2/2 correct without uncertainty markers
 
-The DQ-2026-11-05 batch is graded and closed. T01-T05 Pass-A anchors
+The DQ-2026-11-10 batch is graded and closed. T01-T06 Pass-A anchors
 are all tested, not all mastered. New Year stays Recovery P2 after its first
 unmarked correct check on 2026-11-03; require another varied confident check.
-T06 acting/architect/bookstore are tested; boss/businessperson are reserved
-for the next Weekly with four T07 anchors. Cursor U07-006. Unit 58 has
-three attempted terms: manual/manufacturer confident and management correct
-but uncertain. Management/manager need countability watch; eight terms still
-lack direct first checks. Unit 57 has 7/8 historical direct successes;
-logical remains untested and illogical/logically remain Recovery P2. Keep transition.
+T07 athlete/band are tested. Celebrity/drama are assigned to the next Daily;
+no held reservation remains. Cursor U07-006 unchanged.
+No quiz/result for 2026-11-06 exists in project files; the prior six-target
+reservation is carried forward without any tested-result inference.
+Cursor U07-006 unchanged. New Unit 61 ped is primary coverage: five supplied
+nouns, all new and untested, without additional family/support forms.
+Use prior supplied support forms in Recovery/recent slots. Unit 60 has seven
+new lemmas plus existing apartment activated for WF60 and department reused
+at Recovery P2. Apartment Q6 passes WF60 practice only on 2026-11-10;
+T16 source remains unscheduled/untested, with no result or cursor credit.
+Unit 60 fresh coverage is 2/9 correct, 3 attempted; particularly fails first
+target. Unit 59 permission/permit need Recovery P2 after Q11. Earlier
+emit/admission/dismissive pass first
+practice, 3/13 source-cycle coverage including two support targets. Unit 58
+now has five direct correct terms including manager's first person-noun
+target. Management/manager stay watch; six terms lack first targets.
+Unit 57 has 7/8 historical successes; logical is untested, illogical now
+cooldown/P3, logically Recovery P2. Keep transition.
 Unit 56 initial coverage is complete. Hydration/hydroelectricity are now
 cooldown/P3; hydroelectric/hydrate remain Recovery P2.
 
-All six next scheduled Weekly targets stay queued/P2 until their grading.
+Boss/businessperson are new_unit/P2; normal review no earlier than 2026-11-16.
+Athlete/band are new_unit/P2; normal review no earlier than 2026-11-17.
+Celebrity/drama are the next assigned pair and stay queued/P2 until graded.
 Architect/bookstore are new_unit/P2; normal review no earlier than 2026-11-12.
 Book/acting are new_unit/P2; normal review no earlier than 2026-11-11.
 Arrive/barbecue remain new_unit/P2; normal review no earlier than 2026-11-10.
 Chat, newspaper, and text have completed first practice; New Year is on watch.
 Their scheduled eligibility exists only in this file and must be recorded in
-the next quiz selection map. All six next targets have verified Tier-A source rows and
+the next quiz selection map. Both next targets have verified Tier-A source rows and
 checked contextual definitions in the map and CSV. Printed New Year is
 retained with lowercase canonical new year. Printed boots remains mapped
 to boot in its Recovery record.
+
+Completed quiz: DQ-2026-11-10, source `QUIZ_2026-11-10_DAILY.md`.
+Q9 athlete U07-002/Q10 band U07-003 pass first eligible checks and become
+new_unit/P2; normal review no earlier than 2026-11-17. Next verified queued
+pair celebrity U07-004/drama U07-005; cursor U07-006 unchanged. Q6 apartment
+passes WF60 only; U16-001 remains unscheduled/untested. No quiz pending.
+
+Completed quiz: DQ-2026-11-09, source `QUIZ_2026-11-09_DAILY.md`.
+Q9 boss U06-004 and Q10 businessperson U06-005 pass first eligible checks
+and become new_unit/P2; normal review no earlier than 2026-11-16.
+Next verified queued pair athlete U07-002/band U07-003; celebrity/drama
+held for later. Cursor U07-006 unchanged. That next Daily, Tuesday
+2026-11-10, is now pending above; this completed result remains preserved.
 
 Completed quiz: DQ-2026-11-05, source `QUIZ_2026-11-05_DAILY.md`.
 Q9 architect U06-002 and Q10 bookstore U06-003 pass first eligible checks
@@ -69,7 +93,8 @@ and become new_unit/P2; normal review no earlier than 2026-11-12.
 No independent T19 bookstore result. Six next verified Tier-A targets
 are reserved for WQ-2026-11-06, still queued/P2. Cursor U07-006.
 Q7 management/manager watch is WF58 only and gives no Tactics source credit.
-No quiz is pending; tomorrow is Weekly 30, not Daily.
+No quiz is pending. At that grading the next planned quiz was Weekly
+2026-11-06; it was never issued. Current next quiz/reservations are above.
 
 Completed quiz: DQ-2026-11-04, source `QUIZ_2026-11-04_DAILY.md`.
 Q9 book U05-005 and Q10 acting U06-001 pass first eligible checks and
@@ -134,6 +159,37 @@ cursor is U03-005. No unscheduled queued row was promoted.
 The previous issued quiz `DQ-2026-10-15` has been graded from
 `QUIZ_2026-10-15_DAILY.md`. `Gym` is now new_unit/P2; `actress` is now
 Recovery P2 after the supervisor-for-performer error.
+
+## Grading Ledger - Tuesday 2026-11-10
+
+Exact source: `QUIZ_2026-11-10_DAILY.md`.
+
+| Target ID | Lemma | Q | Final / key | Result | Confidence | Error type | Current state | Earliest normal review |
+|---|---|---:|---|---|---|---|---|---|
+| TACTICS-U07-002 | athlete | 9 | D / D | correct; first eligible check | no uncertainty marker | none | new_unit/P2 | 2026-11-17 |
+| TACTICS-U07-003 | band | 10 | A / A | correct; first eligible check | no uncertainty marker | none | new_unit/P2 | 2026-11-17 |
+
+T07 Pass-A has two tested anchors. Next verified Tier-A pair U07-004
+celebrity/U07-005 drama stays queued/P2; cursor U07-006 unchanged.
+No new Tactics Recovery or cooldown. Apartment Q6 is a WF60 check on the
+shared canonical row, not a TACTICS-U16-001 retrieval. No source result
+is inferred for that unscheduled T16 row. Bank 1,443 rows, 730 nonqueued,
+713 queued. Next quiz 2026-11-11 Daily 12, not issued.
+
+## Grading Ledger - Monday 2026-11-09
+
+Exact source: `QUIZ_2026-11-09_DAILY.md`.
+
+| Target ID | Lemma | Q | Final / key | Result | Confidence | Error type | Current state | Earliest normal review |
+|---|---|---:|---|---|---|---|---|---|
+| TACTICS-U06-004 | boss | 9 | A / A | correct; first eligible check | no uncertainty marker | none | new_unit/P2 | 2026-11-16 |
+| TACTICS-U06-005 | businessperson | 10 | B / B | correct; first eligible check | no uncertainty marker | none | new_unit/P2 | 2026-11-16 |
+
+T06 Pass-A anchors all tested, not mastered. No new Tactics Recovery or
+cooldown. Next verified Tier-A pair U07-002 athlete/U07-003 band remains
+queued/P2; U07-004 celebrity/U07-005 drama held, not next-Daily options.
+Cursor U07-006 unchanged. Bank 1,436 rows, 720 nonqueued and 716 queued.
+No November 06 quiz or result inferred. Next quiz 2026-11-10 Daily 12.
 
 ## Grading Ledger - Thursday 2026-11-05
 
@@ -338,8 +394,8 @@ Pass-A anchors for the current unit; exact scheduled eligibility is above.
 | T03 | 34 | 34 | 31 | 1 | 2 | 31 | 3 | 0 | Pass-A anchors complete |
 | T04 | 22 | 21 | 20 | 1 | 1 | 7 | 12 | 3 | Pass-A anchors tested; New Year on Recovery watch |
 | T05 | 36 | 36 | 36 | 0 | 0 | 22 | 8 | 6 | Pass-A anchors tested |
-| T06 | 43 | 43 | 39 | 3 | 1 | 27 | 14 | 2 | U06-001 to U06-003 tested; U06-004/005 reserved for Weekly |
-| T07 | 37 | 37 | 34 | 2 | 1 | 23 | 10 | 4 | U07-002 to U07-005 reserved for Weekly; U07-006 remains |
+| T06 | 43 | 43 | 39 | 3 | 1 | 27 | 14 | 2 | Pass-A anchors tested |
+| T07 | 37 | 37 | 34 | 2 | 1 | 23 | 10 | 4 | U07-002/003 tested; U07-004/005 next; U07-006 remains |
 | T08 | 29 | 29 | 29 | 0 | 0 | 12 | 15 | 2 | U08-001 to U08-005 |
 | T09 | 41 | 41 | 38 | 3 | 0 | 26 | 15 | 0 | U09-001 to U09-005 |
 | T10 | 28 | 28 | 26 | 0 | 2 | 19 | 8 | 1 | U10-001, 002, 003, 005, 006 |
@@ -397,19 +453,32 @@ stores the canonical lemma or phrase.
 
 ## Quick Allocation
 
-Current phase: transition, continued with the new Unit 58 import on
-2026-11-04. Daily uses 5 Recovery, 3 Unit 58 including support, 2 active
+Current phase: transition, continued with the new Unit 61 import on
+2026-11-10. Daily uses 5 Recovery, 3 Unit 61 nouns, 2 active
 Tactics, 1 recent Word Formation, 1 cooldown. Book/acting are graded;
-architect/bookstore are graded. The next six queued targets are reserved
-for Weekly 2026-11-06 with unscheduled cursor U07-006. Unit 58 has only
-two confident first checks and one uncertain correct check, so transition
-stays active. Unit 57 logical remains untested; illogical/logically need Recovery.
-The eleven new manu/mani/man rows touch no Tactics canonical row or mapping.
-The existing managed to phrase is a separate entry/context from manage.
+architect/bookstore, boss/businessperson, and athlete/band are graded.
+Celebrity/drama are next; cursor U07-006 unchanged. Recent Unit 60 coverage
+is 2/9 correct, 3 attempted, particularly failed. Unit 59 permission/permit
+need Recovery P2; Unit 58 remains unfinished and Unit 57 logical untested.
+Apartment/department are shared canonical rows; their source boundary below
+prevents Word Formation activation from creating an untested Tactics result.
 
-Unit 58 becomes primary current coverage; Unit 57 remains unfinished recent
-review with the Recovery contrasts preserved. No Tactics result, reservation,
-canonical row, last_seen, spacing boundary, or cursor changes from this import.
+Unit 61 becomes primary current coverage; Unit 60/59/58/57 remain unfinished
+recent review with Recovery preserved. Celebrity/drama remain the next pair,
+cursor U07-006 unchanged. The five ped terms have no Tactics canonical overlap;
+no Tactics result, state, reservation, or spacing changes by import.
+Department's old Recovery/uncertainty
+and all prior Tactics results/spacing stay unchanged. Apartment's queued
+canonical row activates solely for explicit Word Formation practice.
+
+Unit 60 shared-source boundary: canonical apartment (Unit 16) now new_unit/P2
+from user-approved WF60 source, following the existing WF52/WF54 policy.
+Use it for WF60 coverage only until TACTICS-U16-001 is scheduled by Tactics
+rotation. That source remains unscheduled and untested; old backlog date
+was preserved at import. Canonical last_seen now records the 2026-11-10
+WF60 Q6 success, not a T16 source retrieval. Department remains Recovery P2
+with its 2026-10-14 uncertain T01 result; new shop-section meaning adds no
+success or tested event. Printed forms/POS remain in the map.
 
 Previous steady phase began after DQ-2026-11-02. All six Unit 56
 words have correct direct initial checks: hydrant on 2026-10-28, then
@@ -417,7 +486,7 @@ hydroelectric, hydration, hydroelectricity, hydrate, and hydrosphere on
 2026-11-02. Both support nouns have been retrieved. This completes initial
 coverage, not mastery. Hydroelectricity entered cooldown/P3 on 2026-11-03;
 hydration joins it on 2026-11-04. Hydroelectric/hydrate remain Recovery P2.
-Its steady allocation is paused for Unit 58 first practice; retain
+Its steady allocation is paused for Unit 61 first practice; retain
 Unit 56 support/role consolidation in Recovery/review cycles.
 
 Unit 56 hydro/hydr import on 2026-10-27 adds six Word Formation rows,
@@ -448,20 +517,21 @@ Unit 52 `gen` import on 2026-10-14 activated existing Tactics T22 lemma
 The T22 source row `TACTICS-U22-005` remains unscheduled and untested; use
 `generous` for WF52 coverage only until that Tactics target is selected by
 the Tactics rotation. The initial import counts above remain historical.
-Current bank after DQ-2026-11-05 grading: 1,425 rows, 707 nonqueued and
-718 queued. Airport/appointment and arrive/barbecue are new_unit/P2;
+Current bank after Unit 61 import: 1,448 rows, 735 nonqueued and
+713 queued. Airport/appointment and arrive/barbecue are new_unit/P2;
 new year remains Recovery P2 after its first unmarked correct retrieval.
-Book/acting and architect/bookstore are new_unit/P2. Six next Weekly
-targets stay queued/P2; next unscheduled cursor U07-006. Older
+Book/acting, architect/bookstore, and boss/businessperson are new_unit/P2.
+Athlete/band are new_unit/P2; celebrity/drama stay queued/P2 as next pair;
+cursor U07-006. Older
 ledger and initial-import counts above remain historical.
 
 Transition for a new current Word Formation unit needing first practice
-(active 2026-11-04 for Unit 58; earlier unfinished units retain review coverage):
+(active 2026-11-10 for Unit 61; earlier unfinished units retain review coverage):
 
-- Daily Quick: 5 Recovery, 3 current-unit, 2 Tactics, 1 recent Word Formation, 1 cooldown.
-- Weekly Quick: 8 Recovery, 6 current-unit, 6 Tactics, 6 due/recent, 4 tour/family.
+- Daily Quick: 5 Recovery, 3 Unit 61 nouns, 2 Tactics, 1 recent Word Formation (prefer earlier support), 1 cooldown.
+- Weekly Quick: 8 Recovery, 6 current/new (up to five Unit 61 nouns plus one earlier support), 6 Tactics, 6 due/recent, 4 tour/family.
 
-Steady phase after current Word Formation first-practice coverage (paused for Unit 58):
+Steady phase after current Word Formation first-practice coverage (paused for Unit 61):
 
 - Daily Quick: 5 Recovery, 4 Tactics, 2 due Word Formation, 1 cooldown.
 - Weekly Quick: 8 Recovery, 7 Tactics, 6 due/cooldown, 5 recent Word Formation,
