@@ -166,3 +166,86 @@ Next expected quiz: Wednesday 2026-11-11 Daily Quick, 12 questions; not issued.
 Keep transition Daily 5 Recovery + 3 Unit 60 including support + 2 Tactics
 + 1 recent/due + 1 cooldown. Friday 2026-11-13 Weekly 30; last Friday
 2026-11-27 Monthly 50.
+
+## Wednesday 2026-11-11 - Daily Quick
+
+Quiz ID: DQ-2026-11-11
+Source: `QUIZ_2026-11-11_DAILY.md`
+Answer/grade date: 2026-11-11, Asia/Saigon; local clock checked 11:58:46 +07:00.
+Score: 10/12 = 83.3%.
+
+- Correct without uncertainty markers: Q1-Q4, Q6-Q7, Q9-Q12 (10).
+- Wrong without uncertainty markers: Q5 (A), Q8 (C).
+- Correct but uncertain: none. Wrong and uncertain: none.
+- Unanswered/unresolved: none.
+- Reasoning not supplied; not assessed separately.
+- Confidence: correct unmarked choices use the established confident-success
+  convention; no independent confidence verification.
+- Incidental unknown non-bank words: none reported.
+
+Learner final answers: 1B 2D 3A 4C 5A 6D 7C 8C 9C 10A 11D 12B.
+Answer key: 1B 2D 3A 4C 5B 6D 7C 8A 9C 10A 11D 12B.
+
+### Q5 - permit versus permission
+
+Original: `The receptionist gave the driver a parking ______ to display on the dashboard.`
+
+Learner: A. `permission`. Correct: B. `permit`.
+
+The blank names a physical authorization document to display. Permit is a
+count noun: a parking permit. Permission is uncountable approval in this
+sense, so a parking permission does not fit the unchanged sentence.
+Q4 correctly used permission for approval, but Q5 shows the document/approval
+distinction is not stable. This is the inverse of the 2026-11-10 error.
+Memory: `Get permission to park, then display a parking permit.`
+
+### Q8 - expedition versus compartment
+
+Original: `The scientists packed tents and research equipment for a month-long ______ into the mountains.`
+
+Learner: C. `compartment`. Correct: A. `expedition`.
+
+Tents, research equipment, a month-long duration, and into the mountains
+describe an exploration journey: an expedition. A compartment is a separate
+space inside an object, such as a bag or vehicle. Both choices are nouns;
+meaning and the journey context decide.
+Memory: `They packed equipment in a storage compartment for their expedition.`
+
+### State Changes - 2026-11-11
+
+- Produce Q1 is its first confident direct base-verb correction after the
+  latest miss and stays P1. Conduction Q2 has confident direct corrections
+  on 2026-11-10/11 and lowers P1 -> P2. Conductor/product remain individual P1.
+- Particularly Q3 is its first confident adverb correction after the 2026-11-10
+  miss and stays P2. Particular is untested as a target and keeps its own P2.
+- Permit/permission raise P2 -> P1 after repeated mutual document/approval
+  and countability confusion across 2026-11-10/11. Q4 permission is correct
+  unmarked, but Q5 selects permission in a countable permit slot; no pair
+  clearance is inferred from Q4 alone. Today's answers have no uncertainty markers.
+- Expedition Q8 fails first target check -> Recovery P2; selected compartment
+  also enters Recovery P2 as the meaning contrast. Two existing lemmas enter
+  Recovery; no vocabulary row is added.
+- Pedal Q6 and pedometer Q7 pass first noun checks at new_unit/P2. Unit 61
+  has 2/5 correct first targets, three attempted; expedition needs correction
+  and pedicure/centipede remain untested. No pedal verb sense is activated.
+  Keep transition allocation while initial coverage is incomplete.
+- Unit 59 emission Q11 passes first support-noun check. With permission Q4's
+  direct correction, the fresh cycle has 5/13 historical successes and six
+  attempted source terms; permit failed and seven source terms lack fresh
+  direct targets. Permission remains P1 because of the paired misuse in Q5.
+- Unit 60 particularly correction raises historical fresh-cycle successes
+  to 3/9; particular was only a distractor. Compartment's wrong selection
+  creates Recovery, not a direct successful target. Earlier units retain states.
+- Celebrity U07-004 Q9 and drama U07-005 Q10 pass first eligible checks ->
+  new_unit/P2; normal review no earlier than 2026-11-18. Canonical celebrity
+  singular and printed celebrities/plural POS remain distinct. T07 anchors
+  have four tested, with event U07-006 still untested.
+- Next verified queued pair: event U07-006 (organized occasion or happening),
+  bike U08-001 (verb: ride a bicycle). Contextual definitions normalized;
+  no bike noun sense activated. Cursor advances U07-006 -> U08-002.
+- Non-native stays existing cooldown/P3. No cooldown addition/removal or
+  incidental candidate. Bank: 1,448 rows, 737 nonqueued, 711 queued.
+
+Next expected quiz: Thursday 2026-11-12 Daily Quick, 12 questions; not issued.
+Keep 5 Recovery + 3 Unit 61 nouns + 2 Tactics + 1 recent/due support + 1 cooldown.
+Friday 2026-11-13 Weekly 30; last Friday 2026-11-27 Monthly 50.

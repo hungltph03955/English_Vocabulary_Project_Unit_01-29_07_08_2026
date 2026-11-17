@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-61 and Tactics Index 1-24
+# Word Formation Addendum - Units 22-62 and Tactics Index 1-24
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -3728,3 +3728,50 @@ Celebrity U07-004/drama U07-005 stay the next verified queued Daily pair;
 cursor U07-006 unchanged. No Tactics source, result, or eligibility changes.
 No new quiz or score by this import. Last result remains DQ-2026-11-10
 9/12 (Q11 wrong and uncertain); next quiz 2026-11-11 Daily 12.
+
+
+## Unit 62 - phon (imported 2026-11-17)
+
+### Original learner notes
+
+```text
+phon :
+earphones :n : tai nghe nhét tai
+headphones: n : tai nghe
+microphone : n : thiết bị thu âm nhỏ
+phonics : n : ngữ âm (phương pháp dạy học ngữ pháp )
+```
+
+### Normalized source words
+
+| Word | Part of speech | Nghĩa dùng trong Quick | Usage and contrast |
+| --- | --- | --- | --- |
+| earphones | plural noun | tai nghe nhỏ đeo trong hoặc trên tai | Thiết bị nghe; thường dùng cho loại nhỏ/nhét tai, nhưng nghĩa giao nhau với headphones. Không tạo câu mà cả hai cùng đúng. |
+| headphones | plural noun | bộ tai nghe đeo trên tai | Dùng a pair of headphones; nghe âm thanh. Không lấy kích thước hay kiểu đeo làm ranh giới tuyệt đối với earphones. |
+| microphone | count noun | micrô; thiết bị thu âm thanh để ghi âm hoặc khuếch đại | Thiết bị nhận âm thanh; không nhất thiết nhỏ, không mặc định tự lưu bản ghi. |
+| phonics | uncountable noun | phương pháp dạy đọc qua liên hệ giữa chữ cái và âm | Không phải phương pháp dạy ngữ pháp; có đuôi s nhưng không phải danh từ số nhiều. |
+
+Dictionary checks (2026-11-17): [earphones](https://dictionary.cambridge.org/us/dictionary/english/earphones), [headphones](https://dictionary.cambridge.org/dictionary/english/headphones), [microphone](https://dictionary.cambridge.org/dictionary/english/microphone), [phonics](https://dictionary.cambridge.org/dictionary/english/phonics). Definitions paraphrased from indexed dictionary entries; direct page access returned HTTP 403. Earphones/headphones are overlapping listening-device terms, so quiz contexts must avoid treating them as mutually exclusive synonyms.
+
+### Merge and rotation note - 2026-11-17
+
+All four lemmas are absent from the existing bank and Tactics canonical map.
+Append four new_unit/P2 rows; all are imported and untested. Import dates
+are bookkeeping only, not retrieval evidence. No candidate promoted and no
+unsupplied family/support form added; phon is a root label only.
+Bank after merge: 1,452 rows, 743 nonqueued and 709 queued.
+
+Unit 62 becomes current. Daily transition: 5 Recovery + 3 Unit 62 +
+2 scheduled Tactics + 1 recent/due (prefer an earlier supplied support form)
++ 1 cooldown = 12. Weekly: 8 Recovery + 6 current/new + 6 Tactics +
+6 due/recent + 4 tour/family = 30. The six current/new slots use at most
+four distinct Unit 62 words plus two earlier unfinished/support targets;
+do not invent extra derivatives to fill the quota. Check all four current
+words across the cycle before returning to steady allocation.
+
+Chess U08-002 and energetic U08-003 remain scheduled for the next Daily,
+2026-11-17. Favorite U08-004 and fries U08-005 are held for later rotation
+and are not eligible as options in that next Daily. All four stay queued/P2;
+cursor U08-006 unchanged. No Tactics result or source-status change.
+Preserve all Recovery, cooldown, grades and unfinished prior-unit coverage.
+No quiz issued by this import. Last result: DQ-2026-11-16, 12/12.

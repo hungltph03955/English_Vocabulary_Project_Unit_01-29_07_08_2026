@@ -1,9 +1,125 @@
 # Rotation State - Snapshot
 
-Date: Tuesday 2026-11-10
-Scope: Unit 01-61 plus Tactics Units 01-24
-Last valid quiz: DQ-2026-11-10, Tuesday Daily Quick, 9/12 (75.0%); Q11 wrong and uncertain
-Next expected quiz: DQ-2026-11-11, Wednesday Daily Quick, 12 questions; not issued
+Date: Tuesday 2026-11-17
+Scope: Unit 01-62 plus Tactics Units 01-24
+Last valid quiz: DQ-2026-11-17, Tuesday Daily Quick, 9/12 (75.0%); no uncertainty markers
+Next expected quiz: DQ-2026-11-18, Wednesday Daily Quick, 12 questions; Unit 62 transition continues
+
+## 2026-11-17 Daily Quick grading and current allocation
+
+- Completed DQ-2026-11-17: 9/12 (75.0%). Wrong unmarked Q3 product for
+  produce, Q9 bike for chess, and Q11 illogical for logical. Nine correct
+  unmarked; no uncertain/unresolved answer, reasoning, or incidental candidate.
+- Permit/permission pass a second varied paired check and lower P1 -> P2.
+  Conductor gets its second direct correction and lowers P1 -> P2. Produce/
+  product remain P1 after the repeated noun-for-verb error. Compartment gets
+  its first direct correction and stays P2.
+- Unit 62 microphone, phonics, and headphones pass first direct checks at
+  new_unit/P2. Earphones remains untested, so initial coverage is 3/4. Do not
+  use earphones/headphones as an ambiguous answer pair. No extra family/support
+  form was supplied and no derivative may be invented.
+- Continue transition Daily: 5 Recovery + 3 current/new slots (earphones plus
+  two earlier unfinished/support targets) + 2 Tactics + 1 recent/due +
+  1 cooldown = 12.
+- Weekly: 8 Recovery + 6 current/new + 6 Tactics + 6 due/recent +
+  4 tour/family = 30. Current/new uses at most four distinct Unit 62 terms
+  plus two earlier unfinished/support targets; no invented derivatives.
+- Chess U08-002 moves queued -> recovery/P2; energetic U08-003 moves queued ->
+  new_unit/P2. Selected bike moves new_unit -> recovery/P2. Next Daily Tactics:
+  favorite U08-004 and fries U08-005, both verified queued/P2. Cursor U08-006
+  remains unchanged.
+- Logical enters Recovery P2 and selected opposite illogical reactivates from
+  cooldown/P3 to Recovery P2. Mid-range remains cooldown/P3.
+- Bank: 1,452 rows, 745 nonqueued, 707 queued. Latest Recovery snapshot:
+  RECOVERY_PRIORITIES_2026-11-17.md. Next Wednesday 2026-11-18 Daily 12;
+  Friday 2026-11-20 Weekly 30; last Friday 2026-11-27 Monthly 50.
+
+## 2026-11-16 Daily Quick grading and steady allocation
+
+- Completed DQ-2026-11-16: 12/12 (100.0%). All correct unmarked; no wrong,
+  uncertain/unresolved answer, reasoning, or incidental candidate. New weekly
+  history and Recovery snapshot 2026-11-16 saved.
+- Permit/permission first fully correct paired check stays P1 after repeated
+  inverse errors. Product/conductor first corrections stay P1; expedition
+  first correction stays P2. Untested paired forms retain individual states.
+- Pedicure/centipede pass first checks; pedometer second confident varied
+  retrieval enters cooldown/P3. All five Unit 61 nouns now have direct correct
+  initial checks (5/5). Initial coverage complete, not whole-unit mastery.
+- Apply existing steady Daily: 5 Recovery + 4 Tactics + 2 due Word Formation
+  + 1 cooldown. Weekly: 8 Recovery + 7 Tactics + 6 due/cooldown +
+  5 recent Word Formation + 4 tour/family. Preserve unfinished earlier units
+  and supplied family/support forms in Recovery/due/recent slots.
+- Dismissal support noun passes first check. Unit 59 historical fresh-cycle
+  successes 7/13 with seven attempted; permit/permission still P1.
+- Event/bike -> new_unit/P2; normal review no earlier than 2026-11-23.
+  T07 anchors all tested; T08 bike tested. Next four verified queued targets:
+  chess U08-002, energetic U08-003, favorite U08-004, fries U08-005.
+  Definitions normalized; fries plural retained, no independent T13 result.
+  Next unscheduled cursor U08-006; no unscheduled row promoted.
+- Bank: 1,448 rows, 739 nonqueued, 709 queued. No new Recovery/candidate;
+  new cooldown pedometer only, non-smoking remains P3. No missed-date result.
+- No quiz pending. Next 2026-11-17 Daily 12 steady; Friday 2026-11-20
+  Weekly 30; last Friday 2026-11-27 Monthly 50.
+
+## Issuance snapshot - Monday 2026-11-16 (historical)
+
+- Issued DQ-2026-11-16; exact questions/options/key/source map saved in
+  `QUIZ_2026-11-16_DAILY.md`.
+- Transition: 5 Recovery (permit, permission, product, conductor, expedition),
+  3 Unit 61 nouns (first pedicure/centipede, consolidation pedometer),
+  2 carried-forward Tactics event/bike, 1 recent support dismissal,
+  1 older non-smoking cooldown. No standalone Unit 61 support form supplied;
+  prior supplied family practice stays in Recovery/recent slots.
+- Event U07-006/bike U08-001, originally reserved for unissued 2026-11-12,
+  are explicitly assigned to this next valid Daily. Both stay queued/P2;
+  bike verb only, cursor U08-002 unchanged. No quiz/result for November 12/13
+  exists; do not infer retrieval or issue a missed Friday test retrospectively.
+- Monday 2026-11-16 is Daily 12; Friday 2026-11-20 Weekly 30;
+  last Friday 2026-11-27 Monthly 50. Recovery snapshot remains 2026-11-11.
+- Bank unchanged: 1,448 rows, 737 nonqueued, 711 queued. Last completed
+  result DQ-2026-11-11 10/12. No score/last_seen/mastery or priority change at issuance.
+
+## 2026-11-11 Daily Quick grading
+
+- Completed DQ-2026-11-11: 10/12 (83.3%). Wrong Q5 A permission for
+  B permit; Q8 C compartment for A expedition. Ten correct unmarked;
+  no uncertain/unresolved answer, reasoning, or incidental unknown word.
+- Produce stays P1 after first correction since latest miss. Conduction
+  alone lowers P1 -> P2 after confident direct corrections 2026-11-10/11;
+  conductor/product retain P1. Particularly first correction stays P2.
+- Permit/permission raise P2 -> P1 after repeated inverse role/countability
+  confusion. Q4 permission correct, but Q5 misuses it for a countable document.
+  Expedition/compartment enter Recovery P2 as journey-versus-storage contrast.
+- Unit 61 pedal/pedometer first noun checks pass; expedition first target
+  fails. Fresh coverage 2/5 successful, three attempted; pedicure/centipede
+  still untested. Keep transition and prior-unit support in recent/Recovery slots.
+- Unit 59 emission first check passes; permission direct correction raises
+  historical cycle successes to 5/13 with six attempted, but remains P1
+  because of Q5's misuse. Unit 60 particularly correction raises successes
+  to 3/9; compartment's wrong selection gives no direct target credit.
+- Celebrity/drama -> new_unit/P2; earliest normal review 2026-11-18.
+  Next verified queued pair event U07-006 and bike U08-001 (verb only),
+  contextual definitions normalized. Cursor advances to U08-002; no row promoted.
+- Bank 1,448 rows, 737 nonqueued, 711 queued. No cooldown change; non-native
+  stays P3. No candidate addition. Recovery snapshot 2026-11-11. Next quiz
+  2026-11-12 Daily 12; Friday 2026-11-13 Weekly 30; last Friday 2026-11-27 Monthly 50.
+
+## Issuance snapshot - Wednesday 2026-11-11 (historical)
+
+- Issued DQ-2026-11-11; exact questions/options/key/map saved in
+  `QUIZ_2026-11-11_DAILY.md`.
+- Transition: 5 Recovery (produce, conduction, particularly, permission,
+  permit), 3 Unit 61 nouns (pedal, pedometer, expedition), 2 scheduled
+  Tactics celebrity/drama, 1 recent Unit 59 support emission, 1 older
+  non-native cooldown. Permission/permit is an intentional approval/document
+  contrast. Earlier supplied support forms cover family practice; Unit 61
+  has no extra supplied family forms. All sentences new relative to yesterday.
+- Celebrity U07-004/drama U07-005 remain queued/P2 until graded; cursor
+  U07-006 unchanged. Pedicure/centipede remain future direct first targets.
+- Wednesday 2026-11-11 is Daily 12; Friday 2026-11-13 Weekly 30;
+  last Friday 2026-11-27 Monthly 50. Recovery snapshot 2026-11-10.
+- Bank unchanged: 1,448 rows, 735 nonqueued, 713 queued. Last completed
+  result DQ-2026-11-10 9/12. No score/last_seen/mastery/priority change at issuance.
 
 ## 2026-11-10 Unit 61 ped import
 
