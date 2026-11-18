@@ -127,3 +127,70 @@ simple causes first is a logical troubleshooting plan.`
 Next expected quiz: Wednesday 2026-11-18 Daily Quick, 12 questions. Continue
 Unit 62 transition until earphones receives first practice. Friday 2026-11-20
 Weekly 30; last Friday 2026-11-27 Monthly 50.
+
+## Wednesday 2026-11-18 - Daily Quick completed; 12/12 (100.0%)
+
+Quiz ID: DQ-2026-11-18
+Source: QUIZ_2026-11-18_DAILY.md
+Status: completed and graded; 12/12 (100.0%). The issuance allocation below is historical.
+Schedule: Wednesday Daily Quick, 12 questions; not a Friday test.
+Allocation: 5 Recovery + 3 current Unit 63 + 2 scheduled Tactics +
+1 recent/due Unit 62 + 1 cooldown.
+
+- Recovery: produce, product, logical, chess, bike; all in new contexts.
+- Unit 63: photocopier, photographer, photography, with supplied family roles.
+- Scheduled Tactics: favorite U08-004 Q9 and fries U08-005 Q10; both verified
+  Tier A queued/P2. Chess/bike are already active Recovery P2 source entries.
+- Unit 62 earphones Q11 remains pending first retrieval; headphones excluded
+  from options to avoid overlapping meanings. Nonfiction Unit 25 Q12 is a
+  long-unseen cooldown check, last_seen 2026-07-31.
+- No bank-state, date, priority, Recovery/Cooldown, candidate or score change.
+  Bank 1,459 rows, 752 nonqueued, 707 queued. Unit 63 successful coverage
+  remains 0/8; Unit 62 3/4 until grading. Cursor U08-006 unchanged.
+- Exact questions/options/key/source map saved before presenting the quiz.
+
+DQ-2026-11-18 is now graded; the initial issuance snapshot above preserves pre-quiz state.
+Friday 2026-11-20 Weekly 30; last Friday 2026-11-27 Monthly 50.
+
+## Grading result - 2026-11-18
+
+Answer/grade date: 2026-11-18 11:00:43 +07:00, Asia/Saigon.
+Score: 12/12 = 100.0%.
+Learner final answers: 1D 2B 3A 4C 5A 6D 7B 8C 9B 10A 11D 12C.
+Saved answer key: 1D 2B 3A 4C 5A 6D 7B 8C 9B 10A 11D 12C.
+
+- Correct without uncertainty markers: Q1-Q12 (12).
+- Correct but uncertain: none. Wrong: none. Wrong and uncertain: none.
+- Unanswered/unresolved: none. No reasoning supplied; not assessed separately.
+- Confidence follows the established unmarked-answer convention; no independent
+  confidence verification. No incidental unknown non-bank word reported.
+- No wrong/unanswered/unresolved review block required.
+
+### Graded state changes
+
+- Produce/product Q1-Q2 pass the first paired correction after the latest
+  repeated role miss; retain both Recovery P1. Do not clear after one success.
+- Logical Q3, chess Q4, bike Q5 pass first corrections after November 17 misses;
+  retain individual Recovery P2. Illogical/logically are only distractors,
+  not direct successes, and retain their separate states. Bike verb only.
+- Photocopier Q6, photographer Q7, photography Q8 pass first Unit 63 targets;
+  remain new_unit/P2. Initial direct correct coverage 3/8; supplied person/
+  activity family-role checks fulfilled. Remaining five need first targets:
+  photocopy, photogenic, photograph (canonical WF55), photosynthesis, photosynthesize.
+- Favorite U08-004 Q9 and fries U08-005 Q10 -> new_unit/P2 from queued/P2;
+  first eligible successes, normal review no earlier than 2026-11-25.
+  Preserve plural fries and no independent combined T13 source credit.
+- Earphones Q11 passes first direct retrieval; stays new_unit/P2. Unit 62
+  initial direct correct coverage complete 4/4, not mastery. Continue Unit 63
+  transition because five Unit 63 words remain without first targets.
+- Nonfiction Q12 remains existing cooldown/P3. No new cooldown or Recovery entry.
+- All 12 target last_seen dates now 2026-11-18. Non-target rows retain own dates.
+  No incidental candidate addition or promotion.
+- Bank: 1,459 rows, 754 nonqueued, 705 queued.
+- Next verified Tier-A queued Daily pair for 2026-11-19: jog U08-006 (verb)
+  and pool U08-007 (swimming-pool noun only). Contextual definitions normalized
+  in bank/map; preserve printed POS/source. Cursor advances to U08-008; no
+  unscheduled queued row is promoted or given a result.
+- Next Daily Thursday 2026-11-19, 12 questions, transition 5 Recovery +
+  3 Unit 63 + 2 Tactics + 1 recent/due + 1 cooldown. Friday 2026-11-20
+  Weekly 30; last Friday 2026-11-27 Monthly 50.

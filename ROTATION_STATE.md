@@ -1,9 +1,68 @@
 # Rotation State - Snapshot
 
-Date: Tuesday 2026-11-17
-Scope: Unit 01-62 plus Tactics Units 01-24
-Last valid quiz: DQ-2026-11-17, Tuesday Daily Quick, 9/12 (75.0%); no uncertainty markers
-Next expected quiz: DQ-2026-11-18, Wednesday Daily Quick, 12 questions; Unit 62 transition continues
+Date: Wednesday 2026-11-18
+Scope: Unit 01-63 plus Tactics Units 01-24
+Last valid quiz: DQ-2026-11-18, Wednesday Daily Quick, 12/12 (100.0%); no uncertainty markers
+Current pending quiz: none
+Next expected quiz: DQ-2026-11-19, Thursday Daily Quick, 12 questions; not issued, Unit 63 transition
+
+## 2026-11-18 Daily Quick grading - current allocation
+
+- Completed DQ-2026-11-18 12/12 (100.0%). All correct unmarked; no wrong,
+  uncertain/unresolved answer, supplied reasoning or incidental unknown word.
+- Produce/product first paired correction after repeated error stays P1.
+  Logical/chess/bike first corrections stay P2. Distractor-only forms get
+  no direct retrieval credit; no new Recovery or cooldown addition.
+- Unit 63 photocopier/photographer/photography pass first checks, remain
+  new_unit/P2: coverage 3/8. Next first targets photocopy, photogenic,
+  photograph (canonical WF55), photosynthesis, photosynthesize.
+- Earphones passes first check; Unit 62 initial direct correct coverage
+  complete 4/4, not mastery. Unit 63 remains current and transition continues:
+  Daily 5 Recovery + 3 Unit 63 + 2 Tactics + 1 recent/due + 1 cooldown;
+  Weekly 8 Recovery + 6 current/new + 6 Tactics + 6 due/recent + 4 tour/family.
+- Favorite U08-004/fries U08-005 pass first eligible checks -> new_unit/P2,
+  normal review no earlier than 2026-11-25. Nonfiction retains cooldown/P3.
+- Next verified queued pair jog U08-006/pool U08-007 for November 19 Daily;
+  slow-running verb and swimming-place noun meanings normalized in bank/map.
+  Cursor advances to U08-008; no unscheduled row activated or credited.
+- Bank 1,459 rows, 754 nonqueued, 705 queued. Current Recovery snapshot
+  2026-11-18 updated after grading. No candidate addition/promotion.
+- Next Thursday 2026-11-19 Daily 12, Friday 2026-11-20 Weekly 30,
+  last Friday 2026-11-27 Monthly 50. Historical snapshots below preserved.
+
+## 2026-11-18 Daily Quick issuance - historical pre-grading snapshot
+
+- Exact source: QUIZ_2026-11-18_DAILY.md; issued 12 questions, no score yet.
+- Q1-Q5 Recovery: produce/product P1, logical/chess/bike P2. Q6-Q8 Unit 63:
+  photocopier, photographer, photography; supplied machine/person/activity
+  contrasts. Q9-Q10 scheduled favorite U08-004/fries U08-005. Q11 earphones
+  completes the planned Unit 62 target allocation; Q12 nonfiction cooldown.
+- Unit 63 successful initial coverage stays 0/8 with three pending targets;
+  Unit 62 stays 3/4 with earphones pending. Do not infer success from issuance.
+- Bank 1,459 rows, 752 nonqueued, 707 queued. Recovery, cooldown, priorities,
+  dates, source mapping and cursor U08-006 unchanged. No next batch reserved
+  until this issued pair is graded. Last completed DQ-2026-11-17 remains 9/12.
+
+## 2026-11-18 Unit 63 photo import - current allocation
+
+- Eight supplied targets: photocopy, photocopier, photogenic, photograph,
+  photography, photographer, photosynthesis, photosynthesize. Seven new
+  new_unit/P2 rows; photograph reuses Unit 55 with source/notes appended only.
+  Preserve its status, priority, unit and last_seen 2026-10-22. No duplicates.
+- Unit 63 first-practice coverage 0/8. Test supplied family roles, including
+  copy/machine, picture/person/activity, and process noun versus verb. No
+  unsupplied derivative, standalone photo, or photocopy verb activated.
+- Daily: 5 Recovery + 3 Unit 63 + 2 Tactics + 1 recent/due + 1 cooldown.
+  Prioritize untested Unit 62 earphones for the next recent/due slot; retain
+  Unit 62 coverage 3/4 and all graded individual states.
+- Weekly: 8 Recovery + 6 current/new + 6 Tactics + 6 due/recent + 4 tour/family.
+- Favorite U08-004/fries U08-005 remain the next verified queued/P2 pair;
+  cursor U08-006 unchanged. No Tactics mapping/result/status changes.
+- Bank: 1,459 rows, 752 nonqueued, 707 queued. Recovery/cooldown and grades
+  unchanged; latest Recovery snapshot 2026-11-18 carries graded priorities
+  forward from 2026-11-17. Last result DQ-2026-11-17 remains 9/12.
+- No quiz issued. Today Wednesday 2026-11-18 Daily 12; Friday 2026-11-20
+  Weekly 30; last Friday 2026-11-27 Monthly 50.
 
 ## 2026-11-17 Daily Quick grading and current allocation
 

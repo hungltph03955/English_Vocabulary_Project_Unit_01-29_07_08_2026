@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-62 and Tactics Index 1-24
+# Word Formation Addendum - Units 22-63 and Tactics Index 1-24
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -3775,3 +3775,78 @@ and are not eligible as options in that next Daily. All four stay queued/P2;
 cursor U08-006 unchanged. No Tactics result or source-status change.
 Preserve all Recovery, cooldown, grades and unfinished prior-unit coverage.
 No quiz issued by this import. Last result: DQ-2026-11-16, 12/12.
+
+## Unit 63 - photo (imported 2026-11-18)
+
+### Original learner notes
+
+```text
+photo :
+
+photocopy : n : bản sao chụp
+photocopier : n : máy photocopy
+
+photogenic : adj : ăn ảnh
+
+photograph : n, v : bức ảnh , chụp ảnh
+photography : n : nhiếp ảnh
+photographer : n : nhiếp ảnh gia
+
+
+photosynthesis : n : sự quang hợp
+photosynthesize : v  : quang hợp
+```
+
+### Normalized source words
+
+| Word | Part of speech | Meaning (English) | Nghĩa tiếng Việt |
+| --- | --- | --- | --- |
+| photocopy | count noun | copy of a document made by a copying machine | bản sao chụp |
+| photocopier | count noun | machine that makes copies of documents | máy photocopy; máy sao chụp |
+| photogenic | adjective | looking attractive in photographs | ăn ảnh; lên ảnh đẹp |
+| photograph | count noun / verb | picture made with a camera; take such a picture | bức ảnh; chụp ảnh |
+| photography | uncountable noun | art or activity of taking photographs | nhiếp ảnh; nghề hoặc hoạt động chụp ảnh |
+| photographer | count noun | person who takes photographs | nhiếp ảnh gia; người chụp ảnh |
+| photosynthesis | uncountable noun | process by which plants use light energy to make food | sự quang hợp; quá trình quang hợp |
+| photosynthesize | verb | use light energy to make food through photosynthesis | quang hợp |
+
+### Supplied family contrasts for Quick
+
+All eight are supplied source words; no textbook/extension split is inferred.
+Do not add unlisted derivatives or activate the verb photocopy from the noun-only note.
+Photo is the lesson's root label, not a separately requested vocabulary entry.
+
+- Photocopy is the resulting copy; photocopier is the machine.
+  Memory: `Make a photocopy of the form using the office photocopier.`
+- Photograph is a picture or the verb for taking it; photographer is the person;
+  photography is the field/activity. Photogenic describes how someone looks in photos.
+  Memory: `The photographer took a photograph for her photography course.`
+  `He is photogenic and looks good in photographs.`
+- Photosynthesis names the process; photosynthesize is the verb.
+  Memory: `Plants need light for photosynthesis.` / `Plants can photosynthesize.`
+- Include a supplied family-role contrast in this cycle, especially the person/object/activity
+  group or photosynthesis/photosynthesize. Use clear noun/verb cues and realistic contexts.
+
+Dictionary checks (2026-11-18): [photocopy](https://dictionary.cambridge.org/dictionary/english/photocopy), [photogenic](https://dictionary.cambridge.org/dictionary/english/photogenic), [photography](https://dictionary.cambridge.org/dictionary/english/photography), [photosynthesis](https://dictionary.cambridge.org/dictionary/english/photosynthesis), [photosynthesize](https://dictionary.cambridge.org/dictionary/english/photosynthesize). Definitions are paraphrased; photography/photosynthesis are uncountable, and photosynthesize is an accepted verb spelling.
+
+### Merge and rotation note - 2026-11-18
+
+Seven new lemmas appended as new_unit/P2. Photograph reuses the existing
+Unit 55 graph-root noun/verb row; preserve unit, meanings, status, priority
+and last_seen 2026-10-22. Append source cross-reference/notes only.
+No supplied term overlaps a Tactics canonical entry. No candidate promoted.
+Eight Unit 63 source targets, all without a direct source retrieval yet (0/8).
+New-row last_seen 2026-11-18 is import bookkeeping, not a tested result.
+
+Bank after merge: 1,459 rows, 752 nonqueued and 707 queued.
+Unit 63 becomes current: Daily 5 Recovery + 3 Unit 63 + 2 scheduled Tactics
++ 1 recent/due + 1 cooldown = 12. Prioritize untested Unit 62 earphones in
+the next recent/due slot; preserve its 3/4 initial coverage and all other states.
+Weekly: 8 Recovery + 6 current/new + 6 Tactics + 6 due/recent + 4 tour/family = 30.
+Retain Recovery P1 produce/product and all P2/cooldown priorities.
+
+Favorite U08-004 and fries U08-005 remain the next verified queued Daily pair
+for 2026-11-18; cursor U08-006 unchanged. Tactics map/status/eligibility and
+graded source results are unchanged. No quiz issued by this import.
+Last result remains DQ-2026-11-17, 9/12; next Wednesday 2026-11-18 Daily 12.
+Friday 2026-11-20 Weekly 30; last Friday 2026-11-27 Monthly 50.
