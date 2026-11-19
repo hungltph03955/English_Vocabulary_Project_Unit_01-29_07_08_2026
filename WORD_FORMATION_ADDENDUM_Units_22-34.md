@@ -1,4 +1,4 @@
-# Word Formation Addendum - Units 22-63 and Tactics Index 1-24
+# Word Formation Addendum - Units 22-64 and Tactics Index 1-24
 
 This file records the latest known vocabulary units from the project state.
 Merge it into the full word-formation source if that source is available.
@@ -3850,3 +3850,94 @@ for 2026-11-18; cursor U08-006 unchanged. Tactics map/status/eligibility and
 graded source results are unchanged. No quiz issued by this import.
 Last result remains DQ-2026-11-17, 9/12; next Wednesday 2026-11-18 Daily 12.
 Friday 2026-11-20 Weekly 30; last Friday 2026-11-27 Monthly 50.
+
+
+## Unit 64 - port (imported 2026-11-19)
+
+### Original learner notes
+
+```text
+port :
+
+export : v, n : xuất , xuất khẩu
+exportation : n : hoạt động xuất khẩu
+
+import : v,n : nhập , nhập khẩu
+importation : n : hoạt động nhập khẩu
+importer : n : nhà nhập khẩu
+important: adj : quan trọng
+
+support : v, n : hỗ trợ , nâng đỡ , ủng hộ
+supporter : n : vật chống đỡ , người ủng hộ
+supportive : adj : có tính giúp đỡ
+
+portable : adj : có thể mang theo , di động , xách tay
+portability : n : tính linh động
+
+porter : n : người khuân vác
+```
+
+### Normalized source words
+
+All 12 are supplied terms. Family groupings are operational practice groups,
+not an inferred textbook/extension split. Port is a root label only.
+
+| Word | Part of speech | Meaning (English) | Nghĩa dùng trong Quick |
+| --- | --- | --- | --- |
+| export | verb / noun | send goods abroad for sale; goods or act of exporting | xuất khẩu; hàng xuất khẩu; việc xuất khẩu |
+| exportation | uncountable noun | activity of sending goods abroad for sale | hoạt động xuất khẩu; sự xuất khẩu |
+| import | verb / noun | bring goods from another country; goods or act of importing | nhập khẩu; hàng nhập khẩu; việc nhập khẩu |
+| importation | countable / uncountable noun | act of bringing goods into a country from abroad | hoạt động nhập khẩu; sự nhập khẩu |
+| importer | count noun | person or company that brings foreign goods into a country | nhà nhập khẩu; người hoặc công ty nhập khẩu |
+| important | adjective | having great value or significance and needing attention | quan trọng |
+| support | verb / noun | help or encourage; hold up; help or a thing that holds something up | hỗ trợ; ủng hộ; nâng đỡ; sự hỗ trợ; vật chống đỡ |
+| supporter | count noun | person who backs an idea or person or group | người ủng hộ; người cổ vũ |
+| supportive | adjective | giving help or encouragement | hay giúp đỡ; mang tính hỗ trợ và động viên |
+| portable | adjective | easy to carry from place to place | có thể mang theo; di động; xách tay |
+| portability | uncountable noun | quality of being easy to carry from place to place | tính dễ mang theo; tính di động; tính xách tay |
+| porter | count noun | person employed to carry luggage or other loads | người khuân vác; nhân viên mang hành lý |
+
+### Supplied word families and support-word practice
+
+Include at least one supplied family form as a correct answer in this cycle:
+exportation, importation, importer, supporter, supportive, or portability.
+Distractor exposure does not count as direct retrieval.
+
+- Export/exportation and import/importation: verb versus process noun;
+  importer is the person/company. Export and import also have process-noun
+  uses, so avoid treating their noun forms as always distinct from exportation/
+  importation. Choose clear verb slots or person/goods contexts.
+  Memory: `The company imports coffee.` / `The importer arranged delivery.`
+- Support is help or physical holding up; supporter is a person in the initial
+  activated sense; supportive describes someone/something giving help.
+  Memory: `She is a supporter of the project.` / `Her manager is supportive.`
+  Raw supporter gloss vật chống đỡ is preserved above. Checked common learner
+  entries support the person sense; use noun support for generic structural
+  prompts. This limits initial quiz scope, without claiming no other uses exist.
+- Portable is the adjective; portability is the carryability noun, not generic
+  flexibility. `I chose a portable speaker for its portability.`
+  Porter names the carrying worker.
+- Important is the supplied adjective. No standalone port, exporter, importance,
+  supportively or other unsupplied derivative is automatically activated.
+
+Dictionary checks (2026-11-19): [supporter](https://dictionary.cambridge.org/dictionary/english/supporter), [supportive](https://www.oxfordlearnersdictionaries.com/us/definition/english/supportive), [portability](https://dictionary.cambridge.org/dictionary/english/portability), [exportation](https://dictionary.cambridge.org/dictionary/english/exportation), [importation](https://www.oxfordlearnersdictionaries.com/definition/english/importation). Paraphrased definitions; importation has countable and uncountable uses. Original learner notes preserved.
+
+### Merge and rotation note - 2026-11-19
+
+All 12 lemmas are absent from the existing bank and Tactics canonical map.
+Append twelve new_unit/P2 rows, all untested (0/12). Import date is bookkeeping,
+not a retrieval result. No duplicate, candidate promotion or old state reset.
+Bank: 1,471 rows, 768 nonqueued, 703 queued.
+
+Unit 64 becomes current. Daily: 5 Recovery + 3 Unit 64 + 2 Tactics +
+1 recent/due + 1 cooldown = 12. Next Friday 2026-11-20 Weekly 30:
+8 Recovery + 6 current/new Unit 64 + 6 Tactics + 6 due/recent + 4 tour/family.
+Include a supplied family-role answer. Reserve two due/recent slots for
+unfinished Unit 63 photograph (canonical WF55) and photosynthesis; preserve
+Unit 63 initial coverage 6/8 and all earlier unfinished/prioritized words.
+
+Six Weekly Tactics reservations unchanged: run/ski/skiing/swim/windsurfing
+U08-008 through U08-012 plus battery U09-001; cursor U09-002 unchanged.
+No map, status, eligibility, reservation or result changes in Tactics.
+Recovery/Cooldown and scores preserved. No quiz issued; last result remains
+DQ-2026-11-19 12/12. Last Friday 2026-11-27 Monthly Quick 50.

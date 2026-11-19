@@ -1,7 +1,7 @@
 # Tactics Rotation State
 
 Date initialized: Monday 2026-10-12
-Last updated: Wednesday 2026-11-18 after DQ-2026-11-18 grading, 12/12; Unit 63 transition active
+Last updated: Thursday 2026-11-19 after Unit 64 port import; last grade 12/12; Weekly November 20 reservations unchanged
 Source: Tactics Vocabulary Index images, pages 110-112
 Source units: Tactics 01-24
 Detailed mapping: `TACTICS_IMPORT_MAP.csv`
@@ -26,20 +26,24 @@ it and its source text has `ocr_status=verified`.
 ## Current Cursor
 
 - Current pass: A - anchor words
-- Current source unit: Tactics Unit 08; Unit 07 Pass-A anchors tested
-- Current cursor (next unscheduled target): `TACTICS-U08-008`
-- Current Daily Quick quota: 2 new Tactics targets (Unit 63 transition)
-- Current Weekly Quick quota: 6 new Tactics targets (Unit 63 transition)
-- Scheduled targets for next Daily Quick DQ-2026-11-19, not issued:
-  - `TACTICS-U08-006` - `jog` (verb; run slowly and steadily for exercise)
-  - `TACTICS-U08-007` - `pool` (noun; place or structure filled with water for swimming)
-- Both next rows verified Tier A queued/P2, untested; contextual definitions
-  normalized in bank/map. No held reservation. Cursor U08-008 after reserving pair.
-- Current pending quiz: none; DQ-2026-11-18 completed 12/12.
-- Next expected quiz: Thursday 2026-11-19 Daily 12, Unit 63 transition.
-- Last Tactics first-practice pair: DQ-2026-11-18 Q9-Q10, 2/2 correct unmarked.
-- Recovery Q4 chess U08-002/Q5 bike U08-001: 2/2 correct unmarked, first
-  corrections after latest misses; remain Recovery P2.
+- Current source unit: Tactics Unit 08, with the next Weekly batch reaching Unit 09
+- Current cursor (next unscheduled target): `TACTICS-U09-002`
+- Current Daily quota: 2 new targets when a Daily is next; no Daily batch reserved
+- Current Weekly quota: 6 new targets (Unit 64 transition)
+- Scheduled targets for WQ-2026-11-20, Friday Weekly 30, not issued:
+  - `TACTICS-U08-008` - run (verb; move on foot faster than walking)
+  - `TACTICS-U08-009` - ski (verb; move over snow using skis)
+  - `TACTICS-U08-010` - skiing (noun/gerund; activity of moving over snow on skis)
+  - `TACTICS-U08-011` - swim (verb; move through water using arms and legs)
+  - `TACTICS-U08-012` - windsurfing (noun; riding a board with a sail across water)
+  - `TACTICS-U09-001` - battery (noun; device supplying electrical power)
+- All six verified Tier A queued/P2, untested. Definitions normalized in bank/map;
+  preserve printed forms/POS. No independent shared swim T18 result.
+- Current pending quiz: none; DQ-2026-11-19 completed 12/12.
+- Last first-practice pair: jog U08-006/pool U08-007, Q9-Q10, 2/2 correct
+  unmarked -> new_unit/P2; normal review no earlier than 2026-11-26.
+- Next quiz: Friday 2026-11-20 Weekly 30, not a Daily or last-Friday Monthly.
+  Next unscheduled U09-002 after the six reservations; no extra Daily batch.
 
 DQ-2026-11-18 is graded and closed: favorite U08-004/fries U08-005 pass
 first eligible checks -> new_unit/P2; normal review no earlier than 2026-11-25.
@@ -470,8 +474,8 @@ Pass-A anchors for the current unit; exact scheduled eligibility is above.
 | T05 | 36 | 36 | 36 | 0 | 0 | 22 | 8 | 6 | Pass-A anchors tested |
 | T06 | 43 | 43 | 39 | 3 | 1 | 27 | 14 | 2 | Pass-A anchors tested |
 | T07 | 37 | 37 | 34 | 2 | 1 | 23 | 10 | 4 | Pass-A anchors tested |
-| T08 | 29 | 29 | 29 | 0 | 0 | 12 | 15 | 2 | U08-001 to U08-005 tested; U08-006/007 next; cursor U08-008 |
-| T09 | 41 | 41 | 38 | 3 | 0 | 26 | 15 | 0 | U09-001 to U09-005 |
+| T08 | 29 | 29 | 29 | 0 | 0 | 12 | 15 | 2 | U08-001 to U08-007 tested; U08-008 to U08-012 next Weekly |
+| T09 | 41 | 41 | 38 | 3 | 0 | 26 | 15 | 0 | U09-001 next Weekly; U09-002 next unscheduled |
 | T10 | 28 | 28 | 26 | 0 | 2 | 19 | 8 | 1 | U10-001, 002, 003, 005, 006 |
 | T11 | 25 | 25 | 22 | 0 | 3 | 11 | 7 | 7 | U11-001, 003, 004, 006, 007 |
 | T12 | 40 | 40 | 37 | 2 | 1 | 23 | 12 | 5 | U12-001 to U12-005 |
@@ -527,28 +531,31 @@ stores the canonical lemma or phrase.
 
 ## Quick Allocation
 
-Current phase: transition after DQ-2026-11-18 grading. Unit 63 current
-coverage 3/8: photocopier/photographer/photography pass first checks at
-new_unit/P2. Remaining first targets: photocopy, photogenic, photograph
-(shared canonical Unit 55), photosynthesis, photosynthesize.
-Daily: 5 Recovery + 3 Unit 63 + 2 Tactics + 1 recent/due + 1 cooldown.
-Weekly: 8 Recovery + 6 current/new + 6 Tactics + 6 due/recent + 4 tour/family.
-Supplied family-role practice has begun; no unlisted derivative activated.
+Current phase: transition after Unit 64 port import on 2026-11-19.
+Twelve supplied terms are new_unit/P2, all untested, current coverage 0/12.
+Daily: 5 Recovery + 3 Unit 64 + 2 Tactics + 1 recent/due + 1 cooldown.
+Next Friday November 20 Weekly: 8 Recovery + 6 current/new Unit 64 +
+6 Tactics + 6 due/recent + 4 tour/family. Include at least one supplied
+family form (exportation/importation/importer/supporter/supportive/portability)
+as a correct answer during this current-unit cycle.
 
-Unit 62 initial coverage complete 4/4 after earphones' first success today.
-All four stay new_unit/P2; consolidate individually, not an automatic mastery
-claim. Earphones no longer reserves the next recent slot. Unit 61 remains 5/5
-initial correct, not mastery; retain unfinished older families and support.
+Preserve Unit 63 initial coverage 6/8. Photograph (canonical WF55) and
+photosynthesis still need first direct targets; reserve two next Weekly
+due/recent slots for them. Unit 62 initial 4/4 and Unit 61 5/5 are retained,
+not mastery claims. Older unfinished families keep their own review slots.
 
-Latest grade DQ-2026-11-18: chess U08-002/bike U08-001 first corrections
-stay Recovery P2. Favorite U08-004/fries U08-005 first checks -> new_unit/P2,
-normal review no earlier than 2026-11-25. Energetic U08-003 stays new_unit/P2,
-normal review no earlier than 2026-11-24. Next verified queued/P2 Daily pair
-jog U08-006/pool U08-007; cursor U08-008. Preserve plural fries, bike verb,
-pool swimming-place noun, and no independent T13 source credit.
-Produce/product first paired correction stays P1. Logical first correction
-stays P2; illogical/logically remain independent P2. Permit/permission/conductor
-retain prior graded P2. Apartment/department keep the boundary below.
+All graded November 19 priorities unchanged: produce/product Recovery P2,
+illogical/logically first corrections P2, particularly cooldown/P3 and
+particular P2. Submission first fresh support check leaves Unit 59 8/13.
+Jog/pool first successes new_unit/P2, normal review from November 26.
+Favorite/fries earliest November 25; energetic November 24.
+
+Unit 64 has no Tactics overlap. The same six next verified queued/P2 Weekly
+targets are run/ski/skiing/swim/windsurfing U08-008 through U08-012 and
+battery U09-001; cursor U09-002 unchanged. No map, reservation, status,
+eligibility or tested-result changes. Preserve pool swimming noun, bike verb,
+plural fries, shared swim T18/fries T13 boundaries. No extra Daily reservation.
+Apartment/department keep the boundary below.
 
 Unit 60 shared-source boundary: canonical apartment (Unit 16) now new_unit/P2
 from user-approved WF60 source, following the existing WF52/WF54 policy.
@@ -565,7 +572,7 @@ hydroelectric, hydration, hydroelectricity, hydrate, and hydrosphere on
 2026-11-02. Both support nouns have been retrieved. This completes initial
 coverage, not mastery. Hydroelectricity entered cooldown/P3 on 2026-11-03;
 hydration joins it on 2026-11-04. Hydroelectric/hydrate remain Recovery P2.
-Its steady allocation is paused for Unit 63 first practice; retain
+Its steady allocation is paused for Unit 64 first practice; retain
 Unit 56 support/role consolidation in Recovery/review cycles.
 
 Unit 56 hydro/hydr import on 2026-10-27 adds six Word Formation rows,
@@ -596,22 +603,23 @@ Unit 52 `gen` import on 2026-10-14 activated existing Tactics T22 lemma
 The T22 source row `TACTICS-U22-005` remains unscheduled and untested; use
 `generous` for WF52 coverage only until that Tactics target is selected by
 the Tactics rotation. The initial import counts above remain historical.
-Current bank after DQ-2026-11-18 grading: 1,459 rows, 754 nonqueued and
-705 queued. Airport/appointment and arrive/barbecue are new_unit/P2;
+Current bank after the 2026-11-19 Unit 64 import: 1,471 rows, 768 nonqueued and
+703 queued. Airport/appointment and arrive/barbecue are new_unit/P2;
 new year remains Recovery P2 after its first unmarked correct retrieval.
 Book/acting, architect/bookstore, and boss/businessperson are new_unit/P2.
 Athlete/band, celebrity/drama and event are new_unit/P2; bike is Recovery P2.
-Chess remains Recovery P2; energetic/favorite/fries are new_unit/P2. Next pair
-jog/pool stay queued/P2, cursor U08-008 after reservation. Older
+Chess remains Recovery P2; energetic/favorite/fries/jog/pool are new_unit/P2.
+Next six Weekly targets U08-008 through U08-012 and U09-001 stay queued/P2;
+next unscheduled U09-002. Older
 ledger and initial-import counts above remain historical.
 
-Transition for the current Word Formation Unit 63 needing first practice
-(active after 2026-11-18 grading; Unit 63 coverage 3/8 and Unit 62 complete 4/4):
+Transition for the current Word Formation Unit 64 needing first practice
+(active after 2026-11-19 import; Unit 64 0/12 and Unit 63 recent coverage 6/8):
 
-- Daily Quick: 5 Recovery, 3 Unit 63, 2 Tactics, 1 recent Word Formation (prefer unfinished supplied support), 1 cooldown.
-- Weekly Quick: 8 Recovery, 6 current/new Unit 63, 6 Tactics, 6 due/recent, 4 tour/family.
+- Daily Quick: 5 Recovery, 3 Unit 64, 2 Tactics, 1 recent Word Formation, 1 cooldown.
+- Weekly Quick: 8 Recovery, 6 current/new Unit 64, 6 Tactics, 6 due/recent (include remaining Unit 63 photograph/photosynthesis), 4 tour/family.
 
-Steady phase after current Word Formation first-practice coverage (paused; five Unit 63 targets still need first practice):
+Steady phase after current Word Formation first-practice coverage (paused for Unit 64; two Unit 63 words retained in due/recent):
 
 - Daily Quick: 5 Recovery, 4 Tactics, 2 due Word Formation, 1 cooldown.
 - Weekly Quick: 8 Recovery, 7 Tactics, 6 due/cooldown, 5 recent Word Formation,

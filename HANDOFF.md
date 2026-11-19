@@ -1,8 +1,8 @@
 # English Vocabulary Project - HANDOFF
 
-Date: Wednesday 2026-11-18
+Date: Thursday 2026-11-19
 Package: `English_Vocabulary_Project_Unit_01-29_07_08_2026.zip`
-Current scope: Unit 01-63 plus Tactics Units 01-24
+Current scope: Unit 01-64 plus Tactics Units 01-24
 
 This handoff supersedes the 2026-07-31 package while preserving it under
 `source_material/package_2026-07-31/`.
@@ -16,7 +16,7 @@ Read `AGENTS.md` first. Then read the current state files in this order:
 3. `HANDOFF.md`
 4. `ROTATION_STATE.md`
 5. `TACTICS_ROTATION_STATE.md`
-6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-11-18.md`)
+6. latest `RECOVERY_PRIORITIES_*.md` (`RECOVERY_PRIORITIES_2026-11-19.md`)
 7. `WORD_FORMATION_ADDENDUM_Units_22-34.md`
 8. `VOCABULARY_STATE.csv`
 9. latest `QUIZ_HISTORY_*.md` (`QUIZ_HISTORY_WEEK_2026-11-16_to_2026-11-20.md`)
@@ -28,6 +28,43 @@ When Tactics targets are scheduled, read their exact rows from
 Do not generate any quiz until this startup sequence is complete.
 
 ## Current operating state
+
+Same-day 2026-11-19 import adds Unit 64 port: export, exportation, import,
+importation, importer, important, support, supporter, supportive, portable,
+portability, porter. Twelve new_unit/P2 rows, all untested (0/12), no duplicates.
+Bank 1,471 rows, 768 nonqueued, 703 queued. Unit 64 is current. Daily:
+5 Recovery + 3 Unit 64 + 2 Tactics + 1 recent/due + 1 cooldown. Next Friday
+November 20 Weekly: 8 Recovery + 6 current/new Unit 64 + 6 Tactics +
+6 due/recent + 4 tour/family. Include a supplied family-role answer.
+Reserve two due/recent slots for Unit 63 photograph (canonical WF55) and
+photosynthesis, preserving its 6/8 initial coverage. All graded priorities,
+Recovery/Cooldown, scores and candidates remain unchanged. Tactics six
+Weekly IDs and cursor U09-002 unchanged. No quiz issued by import.
+Supporter initially uses the common person noun; original object gloss kept
+in raw notes. Portability is physical carryability; importation C/U.
+Latest Recovery snapshot includes this import override and unchanged graded
+queue. The November 19 grading snapshot below retains its pre-import allocation.
+
+DQ-2026-11-19 completed 12/12 (100.0%). All answers correct unmarked;
+no uncertain/unresolved item, supplied reasoning or incidental unknown word.
+Exact questions/key/result: QUIZ_2026-11-19_DAILY.md; weekly history updated.
+Latest Recovery snapshot RECOVERY_PRIORITIES_2026-11-19.md. Produce/product
+lower P1 -> P2 after second varied paired corrections; illogical/logically
+first corrections remain P2. Particularly enters cooldown/P3 after its second
+correction; particular stays independent P2. Multiplayer remains P3.
+Unit 63 photocopy/photogenic/photosynthesize pass first checks: coverage 6/8;
+photograph (canonical WF55) and photosynthesis still need first direct targets.
+Unit 62 retains 4/4 initial coverage. Submission first support-noun success
+takes Unit 59 historical fresh coverage to 8/13 with eight attempted.
+Jog/pool pass first checks -> new_unit/P2; normal review from 2026-11-26.
+Bank 1,459 rows, 756 nonqueued, 703 queued. No quiz pending or new Recovery.
+Next Friday 2026-11-20 Weekly 30, transition 8 Recovery + 6 current/new +
+6 Tactics + 6 due/recent + 4 tour/family. Current/new uses two remaining
+Unit 63 targets plus four distinct earlier unfinished/support targets.
+Six verified queued Weekly reservations: run/ski/skiing/swim/windsurfing
+U08-008 through U08-012 and battery U09-001; next unscheduled cursor U09-002.
+No extra Daily batch reserved. Preserve shared swim T18 and fries T13 source
+boundaries. Last Friday 2026-11-27 Monthly 50. Prior snapshots below historical.
 
 The Wednesday 2026-11-18 Daily Quick DQ-2026-11-18 is completed:
 12/12 (100.0%). All correct unmarked; no uncertainty, unresolved answer,
@@ -296,18 +333,20 @@ The Monday 2026-10-19 Daily Quick, `DQ-2026-10-19`, is completed: 8/12
 and uncertain; Q7 and Q8 were wrong without uncertainty; Q2 was correct
 but uncertain. This earlier result and its reviews remain preserved.
 
-The latest vocabulary update imports photo as Unit 63: eight supplied targets,
-seven new rows plus reused Unit 55 photograph. Supplied family-role practice
+The latest vocabulary update imports port as Unit 64: twelve new supplied
+terms, all untested new_unit/P2. Supplied family-role practice
 continues in Recovery/recent slots. Unit 60, Unit 59, and Unit 58 remain
 unfinished; Unit 57 logical now has its first direct correction at Recovery P2.
 Earlier units continue in review and Recovery with individual priorities.
 Unit 61 initial coverage is complete; Unit 62 is now complete 4/4 after earphones' first check.
-Unit 63 first practice is current. Transition Daily: 5 Recovery, 3 Unit 63,
+Unit 64 first practice is current. Transition Daily: 5 Recovery, 3 Unit 64,
 2 Tactics, 1 recent/due Word Formation (prefer unfinished supplied support),
 1 cooldown. Arrive/barbecue passed first practice;
 book/acting, architect/bookstore, boss/businessperson, athlete/band, and
-celebrity/drama and event/bike passed first checks. The next Daily selects
-jog/pool U08-006/007, both verified queued/P2; cursor U08-008 after reservation.
+celebrity/drama and event/bike passed first checks. Jog/pool U08-006/007
+now pass first checks, normal review from 2026-11-26. The next quiz is Weekly
+2026-11-20: run/ski/skiing/swim/windsurfing U08-008 to U08-012 and battery
+U09-001, all verified queued/P2; next unscheduled cursor U09-002.
 Chess/bike retain Recovery P2 after first corrections; favorite/fries now
 new_unit/P2 after 2026-11-18 first successes, normal review from 2026-11-25.
 The next last-Friday
@@ -339,13 +378,20 @@ not be counted as a valid completed quiz.
 
 ## Current project state
 
-The project has advanced through Unit 63 and now includes a queued Tactics
+The project has advanced through Unit 64 and now includes a queued Tactics
 Vocabulary Index track covering Tactics Units 01-24.
 
-Current bank: 1,459 rows, 754 nonqueued and 705 queued after DQ-2026-11-18 grading.
-Unit 63 photo: eight supplied targets, seven new rows and reused photograph;
-First correct coverage 3/8: photocopier/photographer/photography. Current Daily transition: 5 Recovery + 3 Unit 63 +
-2 Tactics + 1 recent/due + 1 cooldown. Supplied family-role pairs included.
+Current bank: 1,471 rows, 768 nonqueued and 703 queued after the Unit 64 import.
+Unit 64 port: twelve supplied targets, all new_unit/P2, initial coverage 0/12.
+Daily 5 Recovery + 3 Unit 64 + 2 Tactics + 1 recent/due + 1 cooldown.
+Next Weekly 8 Recovery + 6 Unit 64 current/new + 6 Tactics + 6 due/recent +
+4 tour/family; include a supplied family form as a correct answer. Two
+due/recent slots retain Unit 63 photograph/photosynthesis first checks.
+Recent Unit 63 photo: eight supplied targets, seven new rows and reused photograph;
+Initial correct coverage 6/8: photocopier/photographer/photography and
+photocopy/photogenic/photosynthesize. Photograph/photosynthesis need first
+direct targets. Preserve these remaining checks in recent/due under Unit 64.
+Supplied family-role pairs remain in review.
 Unit 62 phon: microphone/phonics/headphones pass first checks on November 17,
 earphones on November 18; initial coverage complete 4/4. All new_unit/P2,
 not mastery; no immediate first-practice reservation needed for earphones.
@@ -353,17 +399,17 @@ Unit 61 initial direct coverage complete (5/5): pedal/pedometer first checks
 2026-11-11; pedicure/centipede first checks and expedition correction
 2026-11-16. Pedometer cooldown/P3; expedition remains Recovery P2;
 pedal/pedicure/centipede new_unit/P2. Preserve this recent-unit coverage;
-the former steady allocation is paused for Unit 63 first practice.
+the former steady allocation is paused for Unit 64 first practice.
 No additional family/support form supplied. Unit 60 is recent review:
 apartment/departure pass first
-WF60 checks; particularly corrects its first miss on 2026-11-11. Three of
-nine have historical fresh correct checks, three targeted. Particular/
-particularly remain P2; compartment enters P2 from wrong selection only;
+WF60 checks; particularly passes corrections on November 11/19 and moves
+to cooldown/P3. Compartment gets its first correction November 17 and stays P2.
+Four of nine have direct correct fresh checks; particular remains P2;
 apartment remains WF60 only and department retains prior Recovery P2.
 Unit 59 mit/miss is recent unfinished coverage: eleven imported new_unit/P2
 terms plus reused permit (Unit 29 Recovery P2) and submit (Unit 35 new_unit/P2).
-Emit/admission/dismissive/emission/permission/permit/dismissal have direct
-correct fresh checks (7/13 historical successes; seven attempted). Permit/
+Emit/admission/dismissive/emission/permission/permit/dismissal/submission have
+direct correct fresh checks (8/13 historical successes; eight attempted). Permit/
 permission lower to P2 after their second stable varied paired check on
 2026-11-17; retain individual review without inferring mastery.
 Reused states are preserved. Unit 58 is recent unfinished coverage:
@@ -371,8 +417,10 @@ manual/manufacturer/manually have confident first checks; management has
 its first confident check after uncertainty and manager passes first direct
 person target. Both stay Recovery P2. Five of eleven have direct correct
 targets; six still need first direct checks.
-Unit 57 log/logue has seven historical direct successes; illogical is now
-cooldown/P3, logically remains Recovery P2, and logical untested. Unit 56 has initial
+Unit 57 log/logue has eight historical direct successes after logical's first
+correction on November 18. Illogical/logically first latest-error corrections
+on November 19 retain Recovery P2; all eight initial successes are not mastery.
+Unit 56 has initial
 coverage complete; hydroelectric/hydrate remain Recovery P2, hydration/
 hydroelectricity are cooldown/P3, and hydrant/hydrosphere are new_unit/P2.
 Unit 55 graphic is now cooldown/P3; bibliography remains Recovery P2.
@@ -428,6 +476,7 @@ Recent unit coverage:
 - Unit 61: root `ped`
 - Unit 62: root `phon`
 - Unit 63: root `photo` (photograph shared with canonical Unit 55)
+- Unit 64: root `port`
 
 ## Update 2026-11-18 - Unit 63 photo import
 
@@ -1366,17 +1415,31 @@ P2:
 - `underrate` (`understate` is now cooldown)
 - Unit 46 word families and due older groups
 
-Current Unit 63 coverage:
+Current Unit 64 coverage:
+
+- Twelve supplied terms: export, exportation, import, importation, importer,
+  important, support, supporter, supportive, portable, portability, porter.
+- All new_unit/P2, imported and untested, coverage 0/12. No source overlap
+  or duplicate. Use at least one supplied family form as a correct answer.
+- Supporter initially person noun; portability physical carryability noun;
+  importation C/U. Preserve original raw notes and avoid export/exportation
+  or import/importation choices where both process nouns would fit.
+- Daily 5R + 3 current + 2 Tactics + 1 recent + 1 cooldown; Weekly
+  8R + 6 current + 6 Tactics + 6 due/recent + 4 tour/family. Two next
+  due/recent slots reserved for Unit 63 photograph/photosynthesis.
+
+Recent Unit 63 coverage:
 
 - Eight supplied targets: photocopy, photocopier, photogenic, photograph,
-  photography, photographer, photosynthesis, photosynthesize; coverage 3/8.
+  photography, photographer, photosynthesis, photosynthesize; coverage 6/8.
 - Photograph reuses canonical Unit 55; no duplicate row or reset. Seven new
-  rows are new_unit/P2. Photocopier/photographer/photography pass first checks;
-  photocopy/photogenic/photograph/photosynthesis/photosynthesize still need
-  first targets. Use supplied family-role contrasts, including
+  rows are new_unit/P2. Photocopier/photographer/photography pass November 18;
+  photocopy/photogenic/photosynthesize pass November 19. Photograph/photosynthesis
+  still need first targets. Use supplied family-role contrasts, including
   copy/machine, picture/person/activity, and process noun versus verb.
-- Daily 5 Recovery + 3 Unit 63 + 2 Tactics + 1 recent/due + 1 cooldown;
-  next recent/due prefers unfinished earlier support. Weekly 8+6+6+6+4.
+- Retain two next Weekly due/recent slots for photograph/photosynthesis
+  under the current Unit 64 transition. Unit 63 no longer supplies current/new
+  quota slots; preserve the remaining targets and individual review states.
 
 Recent Unit 62 coverage:
 
@@ -1399,7 +1462,7 @@ Recent Unit 61 coverage:
   first checks pass, expedition first correction stays Recovery P2. Pedal
   new_unit/P2; pedometer cooldown/P3 after its second varied success.
   Pedicure/centipede remain new_unit/P2. No extra family form or pedal verb activated.
-- Preserve Unit 61 in recent review under the current Unit 63 transition.
+- Preserve Unit 61 in recent review under the current Unit 64 transition.
   Keep earlier unfinished units and support forms in rotation;
   initial Unit 61 coverage is not stable mastery of all terms.
 - Test noun meanings/collocations and continue earlier supplied word-family
@@ -1412,11 +1475,11 @@ Recent Unit 60 coverage:
 - Seven new lemmas plus existing apartment activated new_unit/P2 for WF60.
   Department remains Recovery P2 with its earlier uncertainty/date intact.
   TACTICS-U16-001 apartment is still unscheduled/untested; no Tactics credit.
-- Apartment/departure passed first fresh checks; particularly now corrects
-  its miss. Fresh coverage 3/9 historical successes, 3 targeted, 6 without
-  first targets. Particular/particularly stay P2; compartment enters P2 from
-  selection only. Departure meets the support
-  requirement; initial coverage incomplete. Use role/meaning contrasts.
+  - Apartment/departure/particularly/compartment have fresh correct checks,
+  four of nine. Particularly enters cooldown/P3 after November 11/19
+  corrections; particular remains P2 and compartment stays P2 after its
+  November 17 first correction. Five still need fresh targets. Departure
+  meets the support requirement; initial coverage incomplete.
 - These groups are operational; no separate textbook/extension list supplied.
 
 Recent Unit 59 coverage:
@@ -1425,13 +1488,12 @@ Recent Unit 59 coverage:
 - Support: admission, admissible, dismissal, dismissive, emission,
   permission, submission, submissive. Include a support correct answer in
   the current cycle and test verb/noun/adjective or meaning contrasts.
-- Emit/admission/dismissive pass first practice on 2026-11-09: 3/13 source
-  cycle coverage; support noun/adjective retrieved. Admission's acknowledgement
-  sense passed, not its entry sense. Ten source terms still need fresh direct
-  checks. Permission's first target fails on 2026-11-10: four attempted,
-  three successful, nine without fresh targets. Permission/permit are now
-  Recovery P2; old history is preserved. Submit's authority sense still
-  needs a direct check. Initial coverage incomplete.
+- Emit/admission/dismissive/emission/permission/permit/dismissal/submission
+  now have direct correct fresh checks: 8/13, eight attempted. Submission
+  first support-noun check passes November 19. Five need fresh targets:
+  admit, dismiss, submit, admissible, submissive. Admission's acknowledgement
+  sense passed, not its entry sense. Permission/permit stay Recovery P2;
+  submit's authority sense still needs a direct check. Initial coverage incomplete.
 - No separate textbook/extension split was supplied; groupings are operational.
 
 Recent Unit 58 coverage:
@@ -1453,9 +1515,10 @@ Recent Unit 57 coverage:
 - Family/support: logical, logically, illogical.
 - Logic/dialogue/logically passed on 2026-11-03; epilogue/monologue passed
   2026-11-04; illogical corrects its first miss and prologue passes first
-  practice on 2026-11-05: 7/8 historical direct successes. Logical alone
-  still needs a first check. Illogical/logically remain Recovery P2; initial
-  coverage remains incomplete. Transition continues for current Unit 58.
+  practice on 2026-11-05. Logical's first correction November 18 completes
+  historical initial correct coverage 8/8, not mastery. Illogical/logically
+  pass first corrections after latest errors November 19 and retain P2;
+  logical remains P2. Transition now applies to current Unit 63.
   These are operational source groupings, not inferred textbook labels.
 
 Recent Unit 56 coverage:

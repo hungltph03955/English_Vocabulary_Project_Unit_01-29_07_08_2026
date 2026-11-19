@@ -1,10 +1,60 @@
 # Rotation State - Snapshot
 
-Date: Wednesday 2026-11-18
-Scope: Unit 01-63 plus Tactics Units 01-24
-Last valid quiz: DQ-2026-11-18, Wednesday Daily Quick, 12/12 (100.0%); no uncertainty markers
+Date: Thursday 2026-11-19
+Scope: Unit 01-64 plus Tactics Units 01-24
+Last valid quiz: DQ-2026-11-19, Thursday Daily Quick, 12/12 (100.0%); no uncertainty markers
 Current pending quiz: none
-Next expected quiz: DQ-2026-11-19, Thursday Daily Quick, 12 questions; not issued, Unit 63 transition
+Next expected quiz: WQ-2026-11-20, Friday Weekly Quick, 30 questions; not issued
+
+## 2026-11-19 Unit 64 port import - current allocation
+
+Current override after same-day import: Unit 64 port is current, 12 supplied
+new_unit/P2 rows untested (0/12). Bank 1,471 rows, 768 nonqueued, 703 queued.
+Daily 5 Recovery + 3 Unit 64 + 2 Tactics + 1 recent/due + 1 cooldown.
+Next November 20 Weekly 8 Recovery + 6 current/new Unit 64 + 6 Tactics +
+6 due/recent + 4 tour/family. Include a supplied family-role correct answer.
+Reserve two due/recent slots for remaining Unit 63 photograph/photosynthesis;
+preserve 6/8 initial coverage. Six Tactics IDs/cursor U09-002 unchanged.
+Graded states, Recovery/Cooldown, scores and candidate decisions unchanged.
+No quiz issued by import. The grading allocation below predates this import.
+
+## 2026-11-19 Daily Quick grading - historical pre-import allocation
+
+- Completed 12/12 (100.0%), all correct unmarked. No wrong/uncertain/unresolved
+  answer, supplied reasoning or incidental candidate. Exact quiz/history saved.
+- Produce/product second varied paired corrections lower P1 -> P2.
+  Illogical/logically first corrections stay P2; particularly second correction
+  enters cooldown/P3, while particular keeps independent P2.
+- Unit 63 photocopy/photogenic/photosynthesize first successes yield 6/8.
+  Remaining photograph (canonical WF55) and photosynthesis need first targets.
+  Unit 62 stays 4/4 initial complete. No mastery inference.
+- Unit 59 submission first fresh support check -> 8/13 historical correct,
+  eight attempted. Jog/pool first eligible successes -> new_unit/P2, earliest
+  normal review November 26. Multiplayer stays P3; new cooldown particularly only.
+- Bank 1,459 rows, 756 nonqueued, 703 queued. No new Recovery or candidate
+  addition/promotion. Latest Recovery snapshot RECOVERY_PRIORITIES_2026-11-19.md.
+- Next Friday November 20 Weekly 30, transition 8 Recovery + 6 current/new +
+  6 Tactics + 6 due/recent + 4 tour/family. Use two remaining Unit 63 terms
+  plus four distinct earlier unfinished/support targets for current/new.
+- Six verified Tier-A queued Weekly reservations: U08-008 run, U08-009 ski,
+  U08-010 skiing, U08-011 swim, U08-012 windsurfing, U09-001 battery.
+  Contextual meanings normalized; no tested result inferred and no independent
+  swim T18 credit. Next unscheduled cursor U09-002; no Daily batch reserved.
+- No quiz pending. November 20 is not the last Friday; November 27 Monthly 50.
+
+## 2026-11-19 Daily Quick issuance - historical pre-grading snapshot
+
+- Exact source: QUIZ_2026-11-19_DAILY.md, 12 questions; no score yet.
+- Recovery 5: produce/product P1 and illogical/logically/particularly P2.
+  Current Unit 63 first targets: photocopy, photogenic, photosynthesize.
+  Scheduled jog U08-006/pool U08-007; recent support submission Unit 59;
+  cooldown multiplayer Unit 24, last_seen 2026-07-31.
+- Successful coverage stays Unit 63 3/8, Unit 62 4/4. All new targets pending;
+  distractor exposure and issuance alone are not direct retrieval evidence.
+- Bank 1,459 rows, 754 nonqueued, 705 queued. No state/date/priority,
+  Recovery/Cooldown or candidate change. Cursor U08-008 unchanged; do not
+  reserve another pair until this quiz is graded. Last result November 18 12/12.
+- Tomorrow 2026-11-20 Weekly 30; last Friday 2026-11-27 Monthly 50.
 
 ## 2026-11-18 Daily Quick grading - current allocation
 
